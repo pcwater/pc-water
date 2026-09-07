@@ -706,6 +706,220 @@ const resourceLinkMap: Record<
     relatedResources: ['reline-or-replace-ageing-steel-tank-lifecycle-cost', 'how-rpvc-liners-extend-the-life-of-aging-water-tanks', 'potable-water-tank-commissioning-disinfection-and-testing-before-handover'],
     keywords: ['water tank shutdown planning', 'tank relining shutdown', 'water tank refurbishment return to service', 'planned water storage outage'],
   },
+  'bolted-vs-welded-steel-water-tanks-choosing-the-right-construction-method': {
+    relatedServices: [
+      { href: '/services/custom-tank-design', label: 'Custom Tank Design & Engineering' },
+      { href: '/services/tank-installation', label: 'Professional Tank Installation' },
+    ],
+    relatedResources: ['grp-glass-fused-to-steel-panel-tanks-explained', 'wind-girders-and-stiffening-rings-why-large-diameter-steel-tanks-need-them', 'tank-base-ring-and-anchor-bolt-design-getting-the-foundation-interface-right'],
+    keywords: ['bolted vs welded steel tanks', 'steel water tank construction methods', 'modular panel tank vs welded tank'],
+  },
+  'surface-preparation-for-tank-coatings-what-sa2-5-blast-cleaning-means': {
+    relatedServices: [
+      { href: '/services/tank-maintenance-upgrades', label: 'Tank Maintenance & Upgrades' },
+      { href: '/services/custom-tank-design', label: 'Custom Tank Design & Engineering' },
+    ],
+    relatedResources: ['how-to-read-a-tank-coating-failure', 'sacrificial-anode-vs-impressed-current-cathodic-protection-which-suits-your-tank', 'water-tank-coating-systems-compared-epoxy-polyurethane-and-zinc-rich-primers'],
+    keywords: ['SA2.5 blast cleaning', 'tank coating surface preparation', 'ISO 8501-1 blast grade'],
+  },
+  'fire-pump-systems-explained-jockey-pumps-diesel-and-electric-duty-pumps': {
+    relatedServices: [
+      { href: '/services/fire-water-tanks', label: 'Fire Water Tank Solutions' },
+    ],
+    relatedResources: ['sprinkler-water-supply-sizing-how-fire-storage-volume-is-calculated', 'fire-hydrant-flow-testing-what-the-numbers-mean-for-your-storage-tank', 'fire-water-tank-as1851-service-levels-explained'],
+    keywords: ['fire pump systems', 'jockey pump fire water', 'diesel vs electric fire pump'],
+  },
+  'crane-lift-and-heavy-haulage-planning-for-remote-tank-delivery': {
+    relatedServices: [
+      { href: '/services/remote-area-delivery', label: 'Remote Area Project Delivery' },
+    ],
+    relatedResources: ['solar-pumped-off-grid-water-systems-storage-sizing-without-mains-power', 'water-carting-vs-permanent-storage-a-cost-comparison-for-remote-sites', 'modular-tanks-in-remote-australia-transport-access-and-assembly'],
+    keywords: ['crane lift planning remote tank', 'heavy haulage water tank delivery', 'remote site logistics planning'],
+  },
+  'chlorine-residual-decay-in-storage-why-water-age-matters-more-than-volume': {
+    relatedServices: [
+      { href: '/services/water-treatment-solutions', label: 'Water Treatment Solutions' },
+    ],
+    relatedResources: ['biofilm-formation-in-water-tanks-the-mechanism-behind-recurring-water-quality-issues', 'water-chemistry-and-disinfection-residual-why-it-matters-in-storage', 'legionella-risk-in-water-storage-tanks-what-actually-drives-it-and-how-its-controlled'],
+    keywords: ['chlorine residual decay', 'water age storage tank', 'disinfectant residual water storage'],
+  },
+  'grp-glass-fused-to-steel-panel-tanks-explained': {
+    relatedServices: [
+      { href: '/services/custom-tank-design', label: 'Custom Tank Design & Engineering' },
+    ],
+    relatedResources: ['bolted-vs-welded-steel-water-tanks-choosing-the-right-construction-method', 'as4020-certification-what-it-actually-certifies-on-a-potable-water-tank', 'water-tank-coating-systems-compared-epoxy-polyurethane-and-zinc-rich-primers'],
+    keywords: ['GRP water tank', 'glass fused to steel tank', 'panel tank material comparison'],
+  },
+  'sacrificial-anode-vs-impressed-current-cathodic-protection-which-suits-your-tank': {
+    relatedServices: [
+      { href: '/services/tank-maintenance-upgrades', label: 'Tank Maintenance & Upgrades' },
+    ],
+    relatedResources: ['surface-preparation-for-tank-coatings-what-sa2-5-blast-cleaning-means', 'corrosion-is-killing-your-storage-tanks-and-heres-how-to-stop-it', 'how-to-read-a-tank-coating-failure'],
+    keywords: ['sacrificial anode cathodic protection', 'impressed current cathodic protection', 'tank corrosion protection systems'],
+  },
+  'sprinkler-water-supply-sizing-how-fire-storage-volume-is-calculated': {
+    relatedServices: [
+      { href: '/services/fire-water-tanks', label: 'Fire Water Tank Solutions' },
+    ],
+    relatedResources: ['fire-pump-systems-explained-jockey-pumps-diesel-and-electric-duty-pumps', 'fire-water-tank-as1851-service-levels-explained', 'fire-tank-volume-and-draw-down-getting-the-numbers-right'],
+    keywords: ['sprinkler storage volume calculation', 'fire hazard classification storage', 'sprinkler design density'],
+  },
+  'solar-pumped-off-grid-water-systems-storage-sizing-without-mains-power': {
+    relatedServices: [
+      { href: '/services/remote-area-delivery', label: 'Remote Area Project Delivery' },
+    ],
+    relatedResources: ['crane-lift-and-heavy-haulage-planning-for-remote-tank-delivery', 'water-carting-vs-permanent-storage-a-cost-comparison-for-remote-sites', 'water-storage-in-harsh-environments-what-you-need-to-know'],
+    keywords: ['solar pumped water storage', 'off grid water system sizing', 'remote water supply autonomy days'],
+  },
+  'biofilm-formation-in-water-tanks-the-mechanism-behind-recurring-water-quality-issues': {
+    relatedServices: [
+      { href: '/services/water-treatment-solutions', label: 'Water Treatment Solutions' },
+    ],
+    relatedResources: ['chlorine-residual-decay-in-storage-why-water-age-matters-more-than-volume', 'when-cleaning-is-not-just-cleaning', 'iron-bacteria-in-water-tanks-the-slime-thats-quietly-corroding-your-asset'],
+    keywords: ['biofilm water tank', 'recurring water quality issues', 'biofilm disinfection resistance'],
+  },
+  'hydrostatic-testing-how-a-new-water-tank-is-proven-before-handover': {
+    relatedServices: [
+      { href: '/services/tank-installation', label: 'Professional Tank Installation' },
+    ],
+    relatedResources: ['tank-base-ring-and-anchor-bolt-design-getting-the-foundation-interface-right', 'potable-water-tank-commissioning-disinfection-and-testing-before-handover', 'liner-seam-testing-how-welded-rpvc-joints-are-proven-watertight'],
+    keywords: ['hydrostatic testing water tank', 'new tank commissioning test', 'tank watertightness test'],
+  },
+  'wind-girders-and-stiffening-rings-why-large-diameter-steel-tanks-need-them': {
+    relatedServices: [
+      { href: '/services/custom-tank-design', label: 'Custom Tank Design & Engineering' },
+    ],
+    relatedResources: ['bolted-vs-welded-steel-water-tanks-choosing-the-right-construction-method', 'wind-uplift-on-empty-water-tanks-why-an-empty-tank-is-more-vulnerable-than-a-full-one', 'seismic-and-wind-loading-on-water-tanks-why-structural-design-doesnt-stop-at-the-walls'],
+    keywords: ['wind girder steel tank', 'tank stiffening ring', 'tank shell wind buckling'],
+  },
+  'fire-hydrant-flow-testing-what-the-numbers-mean-for-your-storage-tank': {
+    relatedServices: [
+      { href: '/services/fire-water-tanks', label: 'Fire Water Tank Solutions' },
+    ],
+    relatedResources: ['fire-pump-systems-explained-jockey-pumps-diesel-and-electric-duty-pumps', 'sprinkler-water-supply-sizing-how-fire-storage-volume-is-calculated', 'fire-water-tank-as1851-service-levels-explained'],
+    keywords: ['fire hydrant flow testing', 'hydrant flow rate residual pressure', 'AS1851 hydrant testing'],
+  },
+  'water-carting-vs-permanent-storage-a-cost-comparison-for-remote-sites': {
+    relatedServices: [
+      { href: '/services/remote-area-delivery', label: 'Remote Area Project Delivery' },
+    ],
+    relatedResources: ['crane-lift-and-heavy-haulage-planning-for-remote-tank-delivery', 'solar-pumped-off-grid-water-systems-storage-sizing-without-mains-power', 'remote-community-water-security-redundancy-planning-beyond-a-single-tank'],
+    keywords: ['water carting vs permanent storage', 'remote water supply cost comparison', 'remote site water tank economics'],
+  },
+  'tank-base-ring-and-anchor-bolt-design-getting-the-foundation-interface-right': {
+    relatedServices: [
+      { href: '/services/foundation-civil-integration', label: 'Foundation & Civil Integration' },
+    ],
+    relatedResources: ['foundation-and-civil-works-why-tank-failures-start-below-ground', 'hydrostatic-testing-how-a-new-water-tank-is-proven-before-handover', 'wind-girders-and-stiffening-rings-why-large-diameter-steel-tanks-need-them'],
+    keywords: ['tank anchor bolt design', 'tank base ring foundation', 'tank foundation interface'],
+  },
+  'liner-seam-testing-how-welded-rpvc-joints-are-proven-watertight': {
+    relatedServices: [
+      { href: '/services/rpvc-liner-systems', label: 'RPVC Liner Systems' },
+    ],
+    relatedResources: ['how-rpvc-liners-extend-the-life-of-aging-water-tanks', 'hydrostatic-testing-how-a-new-water-tank-is-proven-before-handover', 'planning-a-water-tank-shutdown-for-relining-refurbishment-and-return-to-service'],
+    keywords: ['RPVC liner seam testing', 'spark testing liner weld', 'vacuum box seam test'],
+  },
+  'cooling-tower-makeup-water-storage-why-its-not-the-same-spec-as-potable': {
+    relatedServices: [
+      { href: '/services/water-treatment-solutions', label: 'Water Treatment Solutions' },
+    ],
+    relatedResources: ['boiler-feed-water-storage-condition-requirements-that-differ-from-drinking-water', 'segregating-process-water-from-potable-water-on-a-mixed-use-industrial-site', 'industrial-process-water-storage-when-potable-grade-isnt-the-right-specification'],
+    keywords: ['cooling tower makeup water storage', 'cooling tower water quality', 'industrial makeup water tank'],
+  },
+  'as3735-and-concrete-reservoirs-structural-design-for-liquid-retaining-structures': {
+    relatedServices: [
+      { href: '/services/foundation-civil-integration', label: 'Foundation & Civil Integration' },
+    ],
+    relatedResources: ['concrete-reservoir-spalling-vs-steel-tank-corrosion-whats-different', 'foundation-and-civil-works-why-tank-failures-start-below-ground', 'tank-base-ring-and-anchor-bolt-design-getting-the-foundation-interface-right'],
+    keywords: ['AS3735 concrete reservoir design', 'liquid retaining structure design', 'concrete reservoir crack control'],
+  },
+  'pressure-and-vacuum-relief-valves-the-fitting-that-protects-your-tank-roof': {
+    relatedServices: [
+      { href: '/services/tank-maintenance-upgrades', label: 'Tank Maintenance & Upgrades' },
+    ],
+    relatedResources: ['water-tank-freeboard-and-overflow-sizing-getting-the-numbers-right-for-storm-events', 'wind-uplift-on-empty-water-tanks-why-an-empty-tank-is-more-vulnerable-than-a-full-one', 'water-tank-roof-types-compared-fixed-floating-and-geodesic-domes'],
+    keywords: ['pressure vacuum relief valve tank', 'tank roof vacuum collapse', 'tank venting sizing'],
+  },
+  'boiler-feed-water-storage-condition-requirements-that-differ-from-drinking-water': {
+    relatedServices: [
+      { href: '/services/water-treatment-solutions', label: 'Water Treatment Solutions' },
+    ],
+    relatedResources: ['cooling-tower-makeup-water-storage-why-its-not-the-same-spec-as-potable', 'segregating-process-water-from-potable-water-on-a-mixed-use-industrial-site', 'industrial-process-water-storage-when-potable-grade-isnt-the-right-specification'],
+    keywords: ['boiler feed water storage', 'boiler feed water treatment', 'industrial feed water quality'],
+  },
+  'confined-space-rescue-planning-for-water-tank-entry-beyond-the-permit': {
+    relatedServices: [
+      { href: '/services/tank-inspection-technology', label: 'Tank Inspection Technology' },
+    ],
+    relatedResources: ['confined-space-entry-requirements-for-water-tank-work-a-safety-primer', 'what-a-professional-tank-inspection-actually-covers', 'water-tank-access-ladders-platforms-and-fall-protection-whs-requirements-explained'],
+    keywords: ['confined space rescue plan water tank', 'non-entry retrieval confined space', 'tank entry rescue planning'],
+  },
+  'water-storage-and-tank-services-in-newcastle-industrial-port-and-hunter-region-water-security': {
+    relatedServices: [
+      { href: '/services/water-treatment-solutions', label: 'Water Treatment Solutions' },
+      { href: '/services/fire-water-tanks', label: 'Fire Water Tank Solutions' },
+    ],
+    relatedResources: ['segregating-process-water-from-potable-water-on-a-mixed-use-industrial-site', 'mining-and-resources-water-storage-compliance-beyond-standard-as-requirements', 'water-storage-and-tank-services-in-wagga-wagga-riverina-agricultural-water-security'],
+    keywords: ['water storage Newcastle NSW', 'Hunter region water infrastructure', 'industrial water tanks Newcastle'],
+  },
+  'overflow-and-vent-screening-stopping-insects-vermin-and-birds': {
+    relatedServices: [
+      { href: '/services/tank-maintenance-upgrades', label: 'Tank Maintenance & Upgrades' },
+    ],
+    relatedResources: ['the-open-overflow-wildlife-drain-point', 'birds-are-the-most-common-body-found-inside-australian-tanks', 'tank-roof-and-hatch-overlooked-contamination-entry-point'],
+    keywords: ['tank overflow screening', 'tank vent screening', 'water tank pest exclusion'],
+  },
+  'greywater-and-wastewater-reuse-storage-what-changes-in-the-tank-spec': {
+    relatedServices: [
+      { href: '/services/water-treatment-solutions', label: 'Water Treatment Solutions' },
+    ],
+    relatedResources: ['segregating-process-water-from-potable-water-on-a-mixed-use-industrial-site', 'backflow-prevention-and-cross-connection-control-for-water-storage-tanks', 'rainwater-harvesting-vs-reticulated-backup-storage-choosing-the-right-system'],
+    keywords: ['greywater storage tank', 'wastewater reuse storage', 'non-potable water tank specification'],
+  },
+  'condition-rating-scales-how-asset-managers-score-a-tank-from-1-to-5': {
+    relatedServices: [
+      { href: '/services/tank-maintenance-upgrades', label: 'Tank Maintenance & Upgrades' },
+    ],
+    relatedResources: ['whole-of-life-costing-for-water-storage-assets-capital-vs-renewal-planning', 'building-a-water-asset-register-what-councils-and-facility-managers-should-track', 'reading-a-tank-inspection-report-what-the-findings-actually-mean'],
+    keywords: ['tank condition rating scale', 'asset condition assessment water tank', 'tank inspection scoring'],
+  },
+  'water-storage-and-tank-services-in-alice-springs-remote-central-australia-storage-challenges': {
+    relatedServices: [
+      { href: '/services/remote-area-delivery', label: 'Remote Area Project Delivery' },
+    ],
+    relatedResources: ['water-carting-vs-permanent-storage-a-cost-comparison-for-remote-sites', 'remote-community-water-security-redundancy-planning-beyond-a-single-tank', 'water-storage-and-tank-services-in-darwin-tropical-remote-and-defence-sector-water-storage'],
+    keywords: ['water storage Alice Springs', 'Central Australia water infrastructure', 'remote NT water tanks'],
+  },
+  'segregating-process-water-from-potable-water-on-a-mixed-use-industrial-site': {
+    relatedServices: [
+      { href: '/services/water-treatment-solutions', label: 'Water Treatment Solutions' },
+    ],
+    relatedResources: ['cooling-tower-makeup-water-storage-why-its-not-the-same-spec-as-potable', 'backflow-prevention-and-cross-connection-control-for-water-storage-tanks', 'industrial-process-water-storage-when-potable-grade-isnt-the-right-specification'],
+    keywords: ['process water potable water segregation', 'cross connection control industrial', 'backflow prevention water tank'],
+  },
+  'whole-of-life-costing-for-water-storage-assets-capital-vs-renewal-planning': {
+    relatedServices: [
+      { href: '/services/tank-maintenance-upgrades', label: 'Tank Maintenance & Upgrades' },
+      { href: '/services/project-managed-water-infrastructure', label: 'Project-Managed Water Infrastructure' },
+    ],
+    relatedResources: ['condition-rating-scales-how-asset-managers-score-a-tank-from-1-to-5', 'building-a-water-asset-register-what-councils-and-facility-managers-should-track', 'reline-or-replace-ageing-steel-tank-lifecycle-cost'],
+    keywords: ['whole of life costing water tank', 'tank capital vs renewal planning', 'water asset lifecycle cost'],
+  },
+  'panel-pre-qualification-vs-one-off-tender-what-councils-should-know': {
+    relatedServices: [
+      { href: '/services/tender-procurement-support', label: 'Tender & Procurement Support' },
+    ],
+    relatedResources: ['tender-and-procurement-for-water-infrastructure-what-councils-get-wrong', 'government-and-council-water-asset-management-reporting-under-budget-pressure', 'builder-contractor-partnerships-getting-water-storage-right-on-a-new-build'],
+    keywords: ['panel pre-qualification water infrastructure', 'council procurement water tanks', 'open tender vs panel arrangement'],
+  },
+  'water-storage-and-tank-services-in-perth-wa-capital-water-storage-and-desalination-context': {
+    relatedServices: [
+      { href: '/services/water-treatment-solutions', label: 'Water Treatment Solutions' },
+    ],
+    relatedResources: ['mining-and-resources-water-storage-compliance-beyond-standard-as-requirements', 'water-storage-and-tank-services-in-kalgoorlie-remote-goldfields-water-security', 'remote-community-water-security-redundancy-planning-beyond-a-single-tank'],
+    keywords: ['water storage Perth WA', 'Western Australia water infrastructure', 'desalination water supply Perth'],
+  },
 }
 
 export async function generateStaticParams() {
