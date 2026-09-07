@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import CrossLinks from '@/components/editorial/CrossLinks'
 import RuleHeading from '@/components/editorial/RuleHeading'
+import SoftHeading from '@/components/tools/SoftHeading'
 import { getPublicPosts, getPublicProjects } from '@/lib/cms/queries'
 import { enrichArticles, sortByNewest } from '@/lib/cms/taxonomy'
 import { type DirectoryFamily, siblingsFor } from '@/lib/site-directory'
@@ -56,14 +57,27 @@ export default async function DetailFooterBand({
     }))
 
   const copy = FAMILY_COPY[family]
+  /* The tools section uses the softer, rounder styling; everywhere else keeps
+     the editorial rule. */
+  const soft = family === 'tools'
+  const Heading = ({ children, meta, light }: { children: React.ReactNode; meta?: string; light?: boolean }) =>
+    soft ? (
+      <SoftHeading meta={meta} light={light}>
+        {children}
+      </SoftHeading>
+    ) : (
+      <RuleHeading meta={meta} light={light}>
+        {children}
+      </RuleHeading>
+    )
 
   return (
     <>
       {siblings.length > 0 && (
         <section className="border-t border-gray-200 bg-[#f4f6f8] py-8 sm:py-10">
           <div className={SHELL}>
-            <RuleHeading meta={copy.label}>{copy.heading}</RuleHeading>
-            <CrossLinks links={siblings} columns={3} />
+            <Heading meta={copy.label}>{copy.heading}</Heading>
+            <CrossLinks links={siblings} columns={3} soft={soft} />
             <Link
               href={copy.index}
               className="mt-5 inline-flex items-center gap-1.5 border-t border-gray-300 pt-4 text-[13px] font-bold text-[#2a72ad] transition-colors hover:text-[#3e91ce]"
@@ -80,10 +94,8 @@ export default async function DetailFooterBand({
       {work.length > 0 && (
         <section className="bg-[#0d1b2a] py-8 sm:py-10">
           <div className={SHELL}>
-            <RuleHeading light meta={`${projects.length} in the portfolio`}>
-              Delivered Work
-            </RuleHeading>
-            <CrossLinks links={work} dark columns={3} />
+            <Heading light meta={`${projects.length} in the portfolio`}>Delivered Work</Heading>
+            <CrossLinks links={work} dark columns={3} soft={soft} />
             <Link
               href="/projects"
               className="mt-5 inline-flex items-center gap-1.5 border-t border-white/20 pt-4 text-[13px] font-bold text-[#7fc2f0] transition-colors hover:text-white"
@@ -100,8 +112,8 @@ export default async function DetailFooterBand({
       {articles.length > 0 && (
         <section className="bg-white py-8 sm:py-10">
           <div className={SHELL}>
-            <RuleHeading meta="From the library">Further Reading</RuleHeading>
-            <CrossLinks links={articles} columns={3} />
+            <Heading meta="From the library">Further Reading</Heading>
+            <CrossLinks links={articles} columns={3} soft={soft} />
             <Link
               href="/resources"
               className="mt-5 inline-flex items-center gap-1.5 border-t border-gray-300 pt-4 text-[13px] font-bold text-[#2a72ad] transition-colors hover:text-[#3e91ce]"

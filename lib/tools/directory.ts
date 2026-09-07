@@ -11,6 +11,7 @@ export const TOOLS: Tool[] = [
   {
     href: '/tools/tank-compliance-checker',
     title: 'Tank Compliance Checker',
+    icon: 'shield',
     blurb:
       'Answer a few questions about your tank and get a fast indication of likely compliance risk — plus the recommended next step for your asset.',
     asks: [
@@ -34,6 +35,7 @@ export const TOOLS: Tool[] = [
   {
     href: '/tools/repair-reline-replace',
     title: 'Repair vs Reline vs Replace',
+    icon: 'decision',
     blurb:
       'For aging or deteriorating tanks: find out whether the practical path is targeted repair, RPVC relining, full replacement, or an inspection first.',
     asks: [

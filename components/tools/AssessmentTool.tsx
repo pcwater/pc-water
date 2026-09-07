@@ -53,19 +53,20 @@ export default function AssessmentTool({ slug }: { slug: string }) {
   const current = config.questions[step]
 
   return (
-    <section className="bg-white py-12 sm:py-16" id="assessment">
+    <section className="bg-gradient-to-b from-[#f7fafc] to-white py-12 sm:py-16" id="assessment">
       {/* The question slides in from x:24, so clip it — otherwise the
           transition briefly widens the page on narrow phones. */}
-      <div className="max-w-3xl mx-auto px-4 overflow-x-hidden">
+      <div className="max-w-3xl mx-auto px-4">
+        <div className="overflow-x-hidden rounded-[1.75rem] border border-[#e6ecf2] bg-white p-6 shadow-[0_1px_2px_rgba(13,27,42,0.04),0_16px_40px_-24px_rgba(13,27,42,0.22)] sm:p-9">
         {/* Progress */}
         <div className="mb-8">
-          <div className="flex items-center justify-between text-xs font-semibold text-gray-500 mb-2">
+          <div className="mb-2.5 flex items-center justify-between text-[12.5px] font-medium text-[#7a8b99]">
             <span>{showResult ? 'Assessment complete' : `Question ${step + 1} of ${total}`}</span>
             <span>{progress}%</span>
           </div>
-          <div className="h-2 w-full rounded-full bg-gray-100 overflow-hidden">
+          <div className="h-1.5 w-full overflow-hidden rounded-full bg-[#eef3f7]">
             <motion.div
-              className="h-full bg-[#3e91ce] rounded-full"
+              className="h-full rounded-full bg-gradient-to-r from-[#2a72ad] to-[#3e91ce]"
               initial={false}
               animate={{ width: `${progress}%` }}
               transition={{ duration: 0.4, ease: 'easeOut' }}
@@ -82,8 +83,8 @@ export default function AssessmentTool({ slug }: { slug: string }) {
               exit={{ opacity: 0, x: -24 }}
               transition={{ duration: 0.25 }}
             >
-              <h2 className="text-2xl md:text-3xl font-black text-[#30505b] mb-2">{current.question}</h2>
-              {current.helpText && <p className="text-gray-500 text-sm mb-6">{current.helpText}</p>}
+              <h2 className="mb-2 text-[1.5rem] font-bold leading-tight tracking-tight text-[#0d1b2a] sm:text-[1.9rem]">{current.question}</h2>
+              {current.helpText && <p className="mb-6 text-[14px] leading-relaxed text-[#7a8b99]">{current.helpText}</p>}
               <div className="grid gap-3 mt-6">
                 {current.options.map((opt) => {
                   const selected = answers[current.id] === opt.value
@@ -91,12 +92,12 @@ export default function AssessmentTool({ slug }: { slug: string }) {
                     <button
                       key={opt.value}
                       onClick={() => choose(current.id, opt.value)}
-                      className={`text-left rounded-xl border p-4 transition-all hover:border-[#3e91ce] hover:bg-[#3e91ce]/[0.03] ${
-                        selected ? 'border-[#3e91ce] bg-[#3e91ce]/[0.05] ring-2 ring-[#3e91ce]/20' : 'border-gray-200'
+                      className={`rounded-2xl border p-4 text-left transition-all duration-200 hover:-translate-y-px hover:border-[#3e91ce] hover:bg-[#3e91ce]/[0.04] hover:shadow-[0_8px_20px_-14px_rgba(62,145,206,0.7)] ${
+                        selected ? 'border-[#3e91ce] bg-[#3e91ce]/[0.06] ring-2 ring-[#3e91ce]/25' : 'border-[#e6ecf2]'
                       }`}
                     >
-                      <span className="block font-semibold text-[#30505b]">{opt.label}</span>
-                      {opt.description && <span className="block text-sm text-gray-500 mt-1">{opt.description}</span>}
+                      <span className="block font-semibold text-[#2c3f4f]">{opt.label}</span>
+                      {opt.description && <span className="mt-1 block text-[13.5px] leading-relaxed text-[#7a8b99]">{opt.description}</span>}
                     </button>
                   )
                 })}
@@ -105,7 +106,7 @@ export default function AssessmentTool({ slug }: { slug: string }) {
               {step > 0 && (
                 <button
                   onClick={() => setStep(step - 1)}
-                  className="mt-6 inline-flex items-center gap-1.5 text-sm font-semibold text-gray-500 hover:text-[#3e91ce] transition-colors"
+                  className="mt-6 inline-flex items-center gap-1.5 rounded-full px-3 py-2 text-sm font-semibold text-[#7a8b99] transition-colors hover:bg-[#f4f7fa] hover:text-[#2a72ad]"
                 >
                   <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
@@ -118,6 +119,7 @@ export default function AssessmentTool({ slug }: { slug: string }) {
             <ResultView key="result" config={config} result={result} answers={answers} onRestart={restart} />
           ) : null}
         </AnimatePresence>
+        </div>
       </div>
     </section>
   )
@@ -273,7 +275,7 @@ function ResultView({
 
       <button
         onClick={onRestart}
-        className="mt-6 inline-flex items-center gap-1.5 text-sm font-semibold text-gray-500 hover:text-[#3e91ce] transition-colors"
+        className="mt-6 inline-flex items-center gap-1.5 rounded-full px-3 py-2 text-sm font-semibold text-[#7a8b99] transition-colors hover:bg-[#f4f7fa] hover:text-[#2a72ad]"
       >
         <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />

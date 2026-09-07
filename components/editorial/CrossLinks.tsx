@@ -19,10 +19,13 @@ export default function CrossLinks({
   links,
   columns = 3,
   dark = false,
+  soft = false,
 }: {
   links: CrossLink[]
   columns?: 2 | 3 | 4
   dark?: boolean
+  /** Drops the editorial monospace meta and rounds harder — used by /tools. */
+  soft?: boolean
 }) {
   if (links.length === 0) return null
 
@@ -39,7 +42,7 @@ export default function CrossLinks({
         <Link
           key={l.href}
           href={l.href}
-          className={`group flex flex-col overflow-hidden rounded-xl border transition-colors ${
+          className={`group flex flex-col overflow-hidden border transition-all duration-300 ${soft ? 'rounded-[1.5rem] hover:-translate-y-0.5' : 'rounded-xl'} ${
             dark
               ? 'border-white/15 bg-white/[0.04] hover:border-[#3e91ce]/60 hover:bg-white/[0.07]'
               : 'border-gray-200 bg-white shadow-sm hover:border-[#3e91ce]/60 hover:shadow-lg'
@@ -85,7 +88,7 @@ export default function CrossLinks({
             )}
             {l.meta && (
               <p
-                className={`mt-3 font-mono text-[11px] uppercase tracking-[0.08em] ${
+                className={`mt-3 text-[11px] ${soft ? 'font-medium text-[#93a3b1]' : 'font-mono uppercase tracking-[0.08em]'} ${
                   dark ? 'text-gray-500' : 'text-gray-400'
                 }`}
               >

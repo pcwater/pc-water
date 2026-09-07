@@ -3,9 +3,17 @@ import Link from 'next/link'
 import BreadcrumbJsonLd from '@/components/BreadcrumbJsonLd'
 import CTABanner from '@/components/CTABanner'
 import CrossLinks from '@/components/editorial/CrossLinks'
-import Masthead from '@/components/editorial/Masthead'
-import RuleHeading from '@/components/editorial/RuleHeading'
-import { Rail, RailArticles, RailContact, RailDownload, RailLinks, RailPanel } from '@/components/editorial/RailPanel'
+import SoftHeading from '@/components/tools/SoftHeading'
+import SoftHero from '@/components/tools/SoftHero'
+import {
+  SoftArticles,
+  SoftChips,
+  SoftContact,
+  SoftDownload,
+  SoftLinks,
+  SoftPanel,
+  SoftRail,
+} from '@/components/tools/SoftRail'
 import ToolCard, { PathwayCard } from '@/components/tools/ToolCard'
 import { getPublicPosts, getPublicProjects } from '@/lib/cms/queries'
 import { enrichArticles, sortByNewest } from '@/lib/cms/taxonomy'
@@ -42,17 +50,17 @@ export const metadata: Metadata = {
 
 const howItWorks = [
   {
-    step: '01',
+    step: 1,
     title: 'Answer the questions',
     body: 'Eight multiple-choice questions about the asset. No account, no email required to see your result.',
   },
   {
-    step: '02',
+    step: 2,
     title: 'Get a reasoned result',
     body: 'A rule-based verdict with the reasoning behind it — deliberately conservative, so uncertainty is flagged as risk.',
   },
   {
-    step: '03',
+    step: 3,
     title: 'Take the next step',
     body: 'Every result links to the relevant service and, if you want it, a specialist summary sent to your inbox.',
   },
@@ -117,50 +125,59 @@ export default async function ToolsPage() {
         ]}
       />
 
-      {/* No photography here on purpose — this section is an instrument panel,
-          not an editorial page, and the tools themselves lead. */}
-      <Masthead
+      {/* No photography here on purpose — the tools themselves lead. */}
+      <SoftHero
         kicker="Free Tools"
         title={
           <>
-            ASSESS YOUR TANK<br />
-            <span className="text-[#3e91ce]">IN TWO MINUTES.</span>
+            Assess your tank
+            <br />
+            <span className="text-[#7fc2f0]">in two minutes.</span>
           </>
         }
         lead="Two free, rule-based tools that take a few details about your asset and return a reasoned verdict — compliance risk, or whether to repair, reline or replace. Built on the same engineering experience behind our inspection, relining and compliance work."
         crumbs={[{ label: 'Home', href: '/' }, { label: 'Tools' }]}
         stats={[
           { label: 'Tools', value: TOOLS.length },
-          { label: 'Questions each', value: 8 },
+          { label: 'Questions', value: 8 },
           { label: 'Cost', value: 'Free' },
         ]}
       />
 
       {/* ── The tools ── */}
-      <section id="toolkit" className="scroll-mt-20 bg-[#f4f6f8] py-8 sm:py-10">
+      <section id="toolkit" className="scroll-mt-20 bg-gradient-to-b from-[#f7fafc] to-white py-12 sm:py-16">
         <div className={SHELL}>
-          <div className="grid grid-cols-1 gap-8 lg:grid-cols-[minmax(0,1fr)_300px] lg:gap-10">
+          <div className="grid grid-cols-1 gap-10 lg:grid-cols-[minmax(0,1fr)_300px] lg:gap-14">
             <div>
-              <RuleHeading meta="No signup · Result on screen">Start Here</RuleHeading>
-              <div className="grid grid-cols-1 gap-5 xl:grid-cols-2">
-                {TOOLS.map((t, i) => (
-                  <ToolCard key={t.href} tool={t} index={i + 1} />
+              <SoftHeading kicker="Start here" meta="No signup · Result on screen">
+                Pick the question you need answered
+              </SoftHeading>
+              <div className="grid grid-cols-1 gap-6 xl:grid-cols-2">
+                {TOOLS.map((t) => (
+                  <ToolCard key={t.href} tool={t} />
                 ))}
               </div>
 
               {/* How it works */}
-              <div className="mt-10">
-                <RuleHeading meta="Same for both tools">How They Work</RuleHeading>
-                <ol className="grid grid-cols-1 gap-5 sm:grid-cols-3">
+              <div className="mt-14">
+                <SoftHeading kicker="How they work" meta="Same for both tools">
+                  Three steps, no sign-up
+                </SoftHeading>
+                <ol className="grid grid-cols-1 gap-4 sm:grid-cols-3">
                   {howItWorks.map((s) => (
-                    <li key={s.step} className="border-l-2 border-[#0d1b2a] pl-3 sm:border-l-0 sm:border-t-2 sm:pl-0 sm:pt-3">
-                      <p className="mb-1 font-mono text-[13px] font-bold text-[#2a72ad]">{s.step}</p>
-                      <h3 className="mb-1.5 text-[15px] font-black text-[#0d1b2a]">{s.title}</h3>
-                      <p className="text-[13px] leading-relaxed text-gray-600">{s.body}</p>
+                    <li
+                      key={s.step}
+                      className="rounded-2xl border border-[#e6ecf2] bg-white p-5 shadow-[0_1px_2px_rgba(13,27,42,0.03),0_8px_24px_-18px_rgba(13,27,42,0.18)]"
+                    >
+                      <span className="mb-3 flex h-9 w-9 items-center justify-center rounded-full bg-[#3e91ce]/12 text-[14px] font-bold text-[#2a72ad]">
+                        {s.step}
+                      </span>
+                      <h3 className="mb-1.5 text-[15.5px] font-bold text-[#0d1b2a]">{s.title}</h3>
+                      <p className="text-[13.5px] leading-relaxed text-[#5b7183]">{s.body}</p>
                     </li>
                   ))}
                 </ol>
-                <p className="mt-4 border-l-2 border-[#3e91ce] bg-white py-2.5 pl-3 text-[12px] leading-relaxed text-gray-600">
+                <p className="mt-5 rounded-2xl bg-[#f2f6fa] px-5 py-4 text-[13px] leading-relaxed text-[#5b7183] ring-1 ring-[#dde6ee]">
                   These are guidance tools, not compliance certificates. Confirming true condition and compliance
                   still requires a formal inspection — which is exactly what the result will point you to when it
                   matters.
@@ -168,22 +185,13 @@ export default async function ToolsPage() {
               </div>
             </div>
 
-            <Rail>
-              <RailPanel title="What these tools reference">
-                <div className="flex flex-wrap gap-1.5">
-                  {standards.map((s) => (
-                    <span
-                      key={s}
-                      className="inline-flex items-center rounded-full border border-gray-300 bg-white px-2.5 py-1 text-[11px] font-medium text-[#30505b]"
-                    >
-                      {s}
-                    </span>
-                  ))}
-                </div>
-              </RailPanel>
+            <SoftRail>
+              <SoftPanel title="What these tools reference">
+                <SoftChips items={standards} />
+              </SoftPanel>
 
-              <RailPanel title="Services these lead to">
-                <RailLinks
+              <SoftPanel title="Services these lead to">
+                <SoftLinks
                   links={[
                     { label: 'Tank Inspection Technology', href: '/services/tank-inspection-technology' },
                     { label: 'RPVC Liner Systems', href: '/services/rpvc-liner-systems' },
@@ -191,35 +199,41 @@ export default async function ToolsPage() {
                     { label: 'Fire Water Tank Solutions', href: '/services/fire-water-tanks' },
                   ]}
                 />
-              </RailPanel>
+              </SoftPanel>
 
-              <RailDownload
+              <SoftDownload
                 kicker="Free guide"
                 heading="Tank Upgrade Decision Guide"
                 body="The engineering logic behind repair, reline and replace — in one PDF."
                 href="/downloads/tank-upgrade-decision-guide.pdf"
+                label="Download PDF"
               />
 
-              <RailArticles articles={relatedArticles} />
-              <RailContact
+              <SoftArticles articles={relatedArticles} />
+
+              <SoftContact
                 heading="Prefer to talk it through?"
                 body="Skip the tools and tell us about your tank — we'll point you to the right next step."
                 label="Discuss your asset"
+                href="/contact"
               />
-            </Rail>
+            </SoftRail>
           </div>
         </div>
       </section>
 
       {/* ── Project pathways ── */}
-      <section className="bg-[#0d1b2a] py-8 sm:py-10">
-        <div className={SHELL}>
-          <RuleHeading light meta="Reply within 1 business day">Past the Assessment Stage?</RuleHeading>
-          <p className="mb-6 max-w-[72ch] leading-relaxed text-gray-400">
+      <section className="relative overflow-hidden rounded-[2rem] bg-gradient-to-br from-[#0d1b2a] via-[#17334b] to-[#30505b] py-12 sm:rounded-[3rem] sm:py-16">
+        <div className="pointer-events-none absolute -top-32 right-[-8%] h-[24rem] w-[24rem] rounded-full bg-[#3e91ce]/20 blur-[110px]" />
+        <div className={`relative z-10 ${SHELL}`}>
+          <SoftHeading light kicker="Past the assessment stage?" meta="Reply within 1 business day">
+            Talk to the engineering team
+          </SoftHeading>
+          <p className="mb-8 max-w-2xl text-[15px] leading-relaxed text-gray-400">
             These guided pathways take a few details about your asset or project and put it in front of our
             engineering team — with a project-specific proposal or delivery strategy to follow.
           </p>
-          <div className="grid grid-cols-1 gap-5 lg:grid-cols-2">
+          <div className="grid grid-cols-1 gap-6 lg:grid-cols-2">
             {PATHWAYS.map((p) => (
               <PathwayCard key={p.href} pathway={p} />
             ))}
@@ -229,17 +243,19 @@ export default async function ToolsPage() {
 
       {/* ── Delivered work ── */}
       {work.length > 0 && (
-        <section className="bg-white py-8 sm:py-10">
+        <section className="bg-white py-12 sm:py-16">
           <div className={SHELL}>
-            <RuleHeading meta={`${projects.length} in the portfolio`}>The Same Decisions, Delivered</RuleHeading>
-            <CrossLinks links={work} columns={3} />
+            <SoftHeading kicker="Proof" meta={`${projects.length} in the portfolio`}>
+              The same decisions, delivered
+            </SoftHeading>
+            <CrossLinks links={work} columns={3} soft />
             <Link
               href="/projects"
-              className="mt-5 inline-flex items-center gap-1.5 border-t border-gray-300 pt-4 text-[13px] font-bold text-[#2a72ad] transition-colors hover:text-[#3e91ce]"
+              className="mt-6 inline-flex items-center gap-2 rounded-full bg-[#f2f6fa] px-5 py-2.5 text-[13.5px] font-semibold text-[#2a72ad] transition-colors hover:bg-[#3e91ce]/12"
             >
               See every project
-              <svg className="h-3 w-3" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M9 5l7 7-7 7" />
+              <svg className="h-3.5 w-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
               </svg>
             </Link>
           </div>
@@ -248,17 +264,19 @@ export default async function ToolsPage() {
 
       {/* ── Further reading ── */}
       {reading.length > 0 && (
-        <section className="border-t border-gray-200 bg-[#f4f6f8] py-8 sm:py-10">
+        <section className="bg-gradient-to-b from-white to-[#f7fafc] py-12 sm:py-16">
           <div className={SHELL}>
-            <RuleHeading meta="From the library">Further Reading</RuleHeading>
-            <CrossLinks links={reading} columns={3} />
+            <SoftHeading kicker="From the library" meta="Written by our engineers">
+              Further reading
+            </SoftHeading>
+            <CrossLinks links={reading} columns={3} soft />
             <Link
               href="/resources"
-              className="mt-5 inline-flex items-center gap-1.5 border-t border-gray-300 pt-4 text-[13px] font-bold text-[#2a72ad] transition-colors hover:text-[#3e91ce]"
+              className="mt-6 inline-flex items-center gap-2 rounded-full bg-[#f2f6fa] px-5 py-2.5 text-[13.5px] font-semibold text-[#2a72ad] transition-colors hover:bg-[#3e91ce]/12"
             >
               Browse the article library
-              <svg className="h-3 w-3" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M9 5l7 7-7 7" />
+              <svg className="h-3.5 w-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
               </svg>
             </Link>
           </div>
@@ -267,7 +285,7 @@ export default async function ToolsPage() {
 
       <CTABanner
         heading="PREFER TO TALK TO A SPECIALIST?"
-        subheading="Skip the tools and tell us about your tank. We’ll point you to the right next step."
+        subheading="Skip the tools and tell us about your tank. We'll point you to the right next step."
         primaryCTA={{ label: 'Discuss Your Project', href: '/contact' }}
         secondaryCTA={{ label: 'View Our Services', href: '/services' }}
       />

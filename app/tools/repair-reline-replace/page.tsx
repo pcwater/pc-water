@@ -4,7 +4,7 @@ import BreadcrumbJsonLd from '@/components/BreadcrumbJsonLd'
 import FAQBlock from '@/components/FAQBlock'
 import CTABanner from '@/components/CTABanner'
 import AssessmentTool from '@/components/tools/AssessmentTool'
-import Masthead from '@/components/editorial/Masthead'
+import SoftHero from '@/components/tools/SoftHero'
 import DetailFooterBand from '@/components/editorial/DetailFooterBand'
 import { SHELL } from '@/lib/shell'
 
@@ -90,7 +90,7 @@ export default function RepairRelineReplacePage() {
         ]}
       />
 
-      <Masthead
+      <SoftHero
         kicker="Free Tool"
         title="Repair, Reline or Replace?"
         lead="Aging or deteriorating tank? Answer a few questions about its use, age, and condition and get a practical guidance path — repair, reline with RPVC, replace, or inspect first — with the right next step for your asset."
@@ -107,14 +107,14 @@ export default function RepairRelineReplacePage() {
       <AssessmentTool slug="repair-reline-replace" />
 
       {/* The four paths */}
-      <section className="relative py-8 sm:py-10 overflow-hidden bg-[#30505b]">
-        <div className="dot-pattern absolute inset-0 opacity-10 pointer-events-none" />
+      <section className="relative overflow-hidden rounded-[2rem] bg-gradient-to-br from-[#0d1b2a] via-[#17334b] to-[#30505b] py-12 sm:rounded-[3rem] sm:py-16">
+        <div className="pointer-events-none absolute -top-28 right-[-8%] h-[22rem] w-[22rem] rounded-full bg-[#3e91ce]/20 blur-[110px]" />
         <div className="relative z-10 max-w-6xl mx-auto px-4">
-          <h2 className="text-3xl font-black text-white text-center mb-12">Four Possible Paths</h2>
+          <h2 className="mb-10 text-center text-[1.7rem] font-bold tracking-tight text-white sm:text-[2.1rem]">Four Possible Paths</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
             {paths.map((p, i) => (
-              <div key={p.label} className="bg-white/10 border border-white/20 rounded-xl p-6">
-                <p className="text-[#3e91ce] font-black text-2xl mb-3">{String(i + 1).padStart(2, '0')}</p>
+              <div key={p.label} className="rounded-2xl border border-white/12 bg-white/[0.06] p-6 backdrop-blur-sm">
+                <p className="mb-3 flex h-9 w-9 items-center justify-center rounded-full bg-[#3e91ce]/20 text-[14px] font-bold text-[#7fc2f0]">{String(i + 1).padStart(2, '0')}</p>
                 <h3 className="font-bold text-white mb-2">{p.label}</h3>
                 <p className="text-gray-300 text-sm leading-relaxed">{p.desc}</p>
               </div>
@@ -123,15 +123,15 @@ export default function RepairRelineReplacePage() {
         </div>
       </section>
 
-      <section className="bg-white py-8 sm:py-10">
+      <section className="bg-white py-12 sm:py-16">
         <div className="max-w-4xl mx-auto px-4 text-center">
-          <p className="text-[#3e91ce] text-xs font-bold tracking-widest uppercase mb-3">/ Who this is for</p>
-          <h2 className="text-2xl md:text-3xl font-black text-[#30505b] mb-8">
+          <p className="mb-3 text-[11px] font-semibold uppercase tracking-[0.14em] text-[#3e91ce]">Who this is for</p>
+          <h2 className="mb-8 text-[1.6rem] font-bold tracking-tight text-[#0d1b2a] sm:text-[2rem]">
             For the teams making the call on aging tank assets
           </h2>
           <div className="flex flex-wrap justify-center gap-3">
             {audience.map((a) => (
-              <span key={a} className="bg-[#F4F6F8] border border-gray-200 text-[#30505b] px-5 py-2.5 rounded-full text-sm font-semibold">
+              <span key={a} className="rounded-full bg-[#f4f7fa] px-5 py-2.5 text-sm font-medium text-[#41576a] ring-1 ring-[#e6ecf2]">
                 {a}
               </span>
             ))}
@@ -139,16 +139,16 @@ export default function RepairRelineReplacePage() {
         </div>
       </section>
 
-      <section className="bg-[#F4F6F8] py-8 sm:py-10">
+      <section className="bg-gradient-to-b from-[#f7fafc] to-white py-12 sm:py-16">
         <div className={`${SHELL} grid grid-cols-1 md:grid-cols-3 gap-6`}>
           {[
             { title: 'RPVC Liner Systems', description: 'Restore an aging tank with a watertight, compliant internal barrier — without full replacement.', href: '/services/rpvc-liner-systems' },
             { title: 'Tank Inspection Technology', description: 'Confirm internal condition with ROV and UAV methods before you commit to works.', href: '/services/tank-inspection-technology' },
             { title: 'Tank Compliance Checker', description: 'Not sure if your tank is compliant? Check your likely compliance risk in a minute.', href: '/tools/tank-compliance-checker' },
           ].map((item) => (
-            <Link key={item.href} href={item.href} className="rounded-2xl bg-white border border-gray-100 p-6 shadow-sm hover:border-[#3e91ce] transition-colors">
-              <p className="text-[#3e91ce] text-xs font-bold tracking-widest uppercase mb-3">/ Next Step</p>
-              <h2 className="text-xl font-black text-[#30505b] mb-3">{item.title}</h2>
+            <Link key={item.href} href={item.href} className="rounded-[1.5rem] border border-[#e6ecf2] bg-white p-6 shadow-[0_1px_2px_rgba(13,27,42,0.03),0_10px_28px_-18px_rgba(13,27,42,0.2)] transition-all duration-300 hover:-translate-y-0.5 hover:border-[#3e91ce]/35 hover:shadow-[0_2px_4px_rgba(13,27,42,0.04),0_18px_38px_-18px_rgba(62,145,206,0.4)]">
+              <p className="mb-3 text-[11px] font-semibold uppercase tracking-[0.14em] text-[#3e91ce]">Next step</p>
+              <h2 className="mb-3 text-[1.15rem] font-bold tracking-tight text-[#0d1b2a]">{item.title}</h2>
               <p className="text-gray-600 leading-relaxed">{item.description}</p>
             </Link>
           ))}

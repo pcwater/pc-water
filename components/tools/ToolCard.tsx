@@ -2,19 +2,41 @@ import Link from 'next/link'
 
 export type OutcomeTone = 'low' | 'moderate' | 'high' | 'urgent' | 'info'
 
-/** Matches the tones the assessment tool itself uses for a result. */
+/** Softened versions of the tones the assessment itself uses for a result. */
 const TONES: Record<OutcomeTone, string> = {
-  low: 'border-emerald-200 bg-emerald-50 text-emerald-700',
-  moderate: 'border-amber-200 bg-amber-50 text-amber-700',
-  high: 'border-orange-200 bg-orange-50 text-orange-700',
-  urgent: 'border-red-200 bg-red-50 text-red-700',
-  info: 'border-[#3e91ce]/30 bg-[#3e91ce]/10 text-[#2d7ab8]',
+  low: 'bg-emerald-50 text-emerald-700 ring-emerald-100',
+  moderate: 'bg-amber-50 text-amber-700 ring-amber-100',
+  high: 'bg-orange-50 text-orange-700 ring-orange-100',
+  urgent: 'bg-rose-50 text-rose-700 ring-rose-100',
+  info: 'bg-[#3e91ce]/10 text-[#2a72ad] ring-[#3e91ce]/15',
+}
+
+export type ToolIcon = 'shield' | 'decision'
+
+const ICONS: Record<ToolIcon, React.ReactNode> = {
+  shield: (
+    <path
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      strokeWidth={1.6}
+      d="M9 12.75 11.25 15 15 9.75M21 12c0 5.25-3.75 8.25-9 9.75C6.75 20.25 3 17.25 3 12V6.75c3-.375 6-1.5 9-3.375 3 1.875 6 3 9 3.375V12Z"
+    />
+  ),
+  decision: (
+    <path
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      strokeWidth={1.6}
+      d="M6 3v12m0 0a3 3 0 1 0 0 6 3 3 0 0 0 0-6Zm12 0V9a3 3 0 0 0-3-3h-4.5m0 0 3-3m-3 3 3 3M18 15a3 3 0 1 0 0 6 3 3 0 0 0 0-6Z"
+    />
+  ),
 }
 
 export interface Tool {
   href: string
   title: string
   blurb: string
+  icon: ToolIcon
   /** The dimensions the tool actually asks about. */
   asks: string[]
   /** The results it can return, in escalating order. */
@@ -27,68 +49,76 @@ export interface Tool {
 function Arrow() {
   return (
     <svg className="h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
-      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M9 5l7 7-7 7" />
+      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
     </svg>
+  )
+}
+
+function Label({ children }: { children: React.ReactNode }) {
+  return (
+    <p className="mb-2.5 text-[11px] font-semibold uppercase tracking-[0.14em] text-[#8a9aa8]">{children}</p>
   )
 }
 
 /**
  * A tool is not an article — it takes inputs and returns a verdict. The card
  * shows both up front (what it asks, what it can tell you) and leads with a
- * real button, so the page reads as something to use rather than to read.
+ * real button, in the soft rounded style the brand uses elsewhere.
  */
-export default function ToolCard({ tool, index }: { tool: Tool; index: number }) {
+export default function ToolCard({ tool }: { tool: Tool }) {
   return (
-    <div className="flex flex-col overflow-hidden rounded-2xl border border-gray-200 bg-white shadow-sm transition-all hover:border-[#3e91ce]/60 hover:shadow-lg">
-      <div className="flex items-center justify-between border-b border-gray-200 bg-[#f4f6f8] px-5 py-2.5">
-        <span className="font-mono text-[13px] font-bold text-[#2a72ad]">
-          {String(index).padStart(2, '0')}
+    <div className="group flex flex-col rounded-[1.75rem] border border-[#e6ecf2] bg-white p-6 shadow-[0_1px_2px_rgba(13,27,42,0.04),0_12px_32px_-16px_rgba(13,27,42,0.14)] transition-all duration-300 hover:-translate-y-0.5 hover:border-[#3e91ce]/35 hover:shadow-[0_2px_4px_rgba(13,27,42,0.04),0_20px_44px_-18px_rgba(62,145,206,0.4)] sm:p-7">
+      <div className="mb-5 flex items-center gap-4">
+        <span className="flex h-12 w-12 flex-shrink-0 items-center justify-center rounded-2xl bg-gradient-to-br from-[#3e91ce]/18 to-[#3e91ce]/5 text-[#2a72ad]">
+          <svg className="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+            {ICONS[tool.icon]}
+          </svg>
         </span>
-        <span className="font-mono text-[11px] uppercase tracking-[0.12em] text-gray-500">
-          Free tool · No signup
+        <span className="rounded-full bg-[#f2f6fa] px-3 py-1.5 text-[11px] font-semibold uppercase tracking-[0.12em] text-[#5b7183]">
+          Free · {tool.minutes}
         </span>
       </div>
 
-      <div className="flex flex-1 flex-col p-5 sm:p-6">
-        <h3 className="mb-2 text-xl font-black leading-tight text-[#0d1b2a] sm:text-2xl">{tool.title}</h3>
-        <p className="mb-5 text-[14px] leading-relaxed text-gray-600">{tool.blurb}</p>
+      <h3 className="mb-2.5 text-[1.4rem] font-bold leading-tight tracking-tight text-[#0d1b2a] sm:text-[1.6rem]">
+        {tool.title}
+      </h3>
+      <p className="mb-6 text-[14.5px] leading-relaxed text-[#5b7183]">{tool.blurb}</p>
 
-        <p className="mb-2 text-[10px] font-bold uppercase tracking-[0.12em] text-[#2a72ad]">What it asks</p>
-        <ul className="mb-5 grid grid-cols-1 gap-x-5 gap-y-1 sm:grid-cols-2">
-          {tool.asks.map((a) => (
-            <li key={a} className="flex items-start gap-2 text-[13px] leading-snug text-[#30505b]">
-              <span className="mt-[7px] h-1 w-1 flex-shrink-0 rounded-full bg-[#3e91ce]" />
-              {a}
-            </li>
-          ))}
-        </ul>
-
-        <p className="mb-2 text-[10px] font-bold uppercase tracking-[0.12em] text-[#2a72ad]">
-          What it can tell you
-        </p>
-        <div className="mb-6 flex flex-wrap gap-1.5">
-          {tool.outcomes.map((o) => (
-            <span
-              key={o.label}
-              className={`inline-flex items-center rounded-full border px-2.5 py-1 text-[11px] font-semibold ${TONES[o.tone]}`}
-            >
-              {o.label}
-            </span>
-          ))}
-        </div>
-
-        <div className="mt-auto border-t border-gray-200 pt-5">
-          <Link
-            href={tool.href}
-            className="inline-flex w-full items-center justify-center gap-2 rounded-lg bg-[#2a72ad] px-6 py-3.5 text-[15px] font-bold text-white shadow-sm transition-colors hover:bg-[#3e91ce]"
+      <Label>What it asks</Label>
+      <div className="mb-6 flex flex-wrap gap-2">
+        {tool.asks.map((a) => (
+          <span
+            key={a}
+            className="rounded-full bg-[#f4f7fa] px-3 py-1.5 text-[12.5px] font-medium text-[#41576a]"
           >
-            {tool.cta}
-            <Arrow />
-          </Link>
-          <p className="mt-2.5 text-center font-mono text-[11px] text-gray-500">
-            {tool.questions} questions · ~{tool.minutes} · Result on screen
-          </p>
-        </div>
+            {a}
+          </span>
+        ))}
+      </div>
+
+      <Label>What it can tell you</Label>
+      <div className="mb-7 flex flex-wrap gap-2">
+        {tool.outcomes.map((o) => (
+          <span
+            key={o.label}
+            className={`rounded-full px-3 py-1.5 text-[12.5px] font-semibold ring-1 ${TONES[o.tone]}`}
+          >
+            {o.label}
+          </span>
+        ))}
+      </div>
+
+      <div className="mt-auto">
+        <Link
+          href={tool.href}
+          className="inline-flex w-full items-center justify-center gap-2 rounded-full bg-[#2a72ad] px-6 py-4 text-[15px] font-semibold text-white shadow-[0_6px_18px_-6px_rgba(42,114,173,0.6)] transition-all duration-300 hover:bg-[#3e91ce] hover:shadow-[0_10px_26px_-8px_rgba(62,145,206,0.7)]"
+        >
+          {tool.cta}
+          <Arrow />
+        </Link>
+        <p className="mt-3 text-center text-[12.5px] text-[#93a3b1]">
+          {tool.questions} questions · No signup · Result on screen
+        </p>
       </div>
     </div>
   )
@@ -103,29 +133,29 @@ export interface Pathway {
 }
 
 /**
- * The higher-intent enquiry funnels. Deliberately styled apart from the tools
- * above them — navy, no scoring, a person answers at the other end.
+ * The higher-intent enquiry funnels. Styled apart from the tools above them —
+ * translucent on navy, no scoring, a person answers at the other end.
  */
 export function PathwayCard({ pathway }: { pathway: Pathway }) {
   return (
-    <div className="flex flex-col rounded-2xl border border-white/15 bg-white/[0.04] p-5 transition-colors hover:border-[#3e91ce]/60 hover:bg-white/[0.07] sm:p-6">
-      <span className="mb-3 inline-flex items-center gap-2 self-start rounded-full border border-white/25 px-2.5 py-1 text-[10px] font-bold uppercase tracking-[0.12em] text-white">
+    <div className="flex flex-col rounded-[1.75rem] border border-white/12 bg-white/[0.06] p-6 backdrop-blur-sm transition-all duration-300 hover:border-[#3e91ce]/45 hover:bg-white/[0.1] sm:p-7">
+      <span className="mb-4 inline-flex items-center gap-2 self-start rounded-full bg-white/10 px-3 py-1.5 text-[11px] font-semibold uppercase tracking-[0.12em] text-white/85">
         <span className="h-1.5 w-1.5 rounded-full bg-[#3e91ce]" />
         Project enquiry
       </span>
-      <h3 className="mb-2 text-xl font-black leading-tight text-white">{pathway.title}</h3>
-      <p className="mb-5 text-[14px] leading-relaxed text-gray-400">{pathway.blurb}</p>
-      <ul className="mb-6 space-y-1.5">
+      <h3 className="mb-2.5 text-[1.4rem] font-bold leading-tight tracking-tight text-white">{pathway.title}</h3>
+      <p className="mb-6 text-[14.5px] leading-relaxed text-gray-400">{pathway.blurb}</p>
+      <ul className="mb-7 space-y-2.5">
         {pathway.points.map((p) => (
-          <li key={p} className="flex items-start gap-2 text-[13px] leading-snug text-gray-300">
-            <span className="mt-[7px] h-1 w-1 flex-shrink-0 rounded-full bg-[#3e91ce]" />
+          <li key={p} className="flex items-start gap-2.5 text-[13.5px] leading-snug text-gray-300">
+            <span className="mt-1.5 h-1.5 w-1.5 flex-shrink-0 rounded-full bg-[#3e91ce]" />
             {p}
           </li>
         ))}
       </ul>
       <Link
         href={pathway.href}
-        className="mt-auto inline-flex w-full items-center justify-center gap-2 rounded-lg border border-[#3e91ce] px-6 py-3.5 text-[15px] font-bold text-white transition-colors hover:border-[#2a72ad] hover:bg-[#2a72ad]"
+        className="mt-auto inline-flex w-full items-center justify-center gap-2 rounded-full bg-white/10 px-6 py-4 text-[15px] font-semibold text-white ring-1 ring-white/20 transition-all duration-300 hover:bg-[#2a72ad] hover:ring-[#2a72ad]"
       >
         {pathway.cta}
         <Arrow />
