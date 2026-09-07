@@ -192,7 +192,7 @@ export default async function ServicesPage() {
       {/* ── The catalogue + rail ── */}
       <section id="catalogue" className="scroll-mt-20 bg-[#f4f6f8] py-8 sm:py-10">
         <div className={SHELL}>
-          <div className="grid grid-cols-1 gap-8 lg:grid-cols-[minmax(0,1fr)_300px] lg:gap-10">
+          <div className="grid grid-cols-1 gap-8 lg:grid-cols-[minmax(0,1fr)_300px] lg:items-start lg:gap-10">
             <div>
               {divisions.map((d, di) => (
                 <div key={d.name} className={di > 0 ? 'mt-10' : ''}>

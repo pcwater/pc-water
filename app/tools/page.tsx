@@ -147,7 +147,7 @@ export default async function ToolsPage() {
       {/* ── The tools ── */}
       <section id="toolkit" className="scroll-mt-20 bg-gradient-to-b from-[#f7fafc] to-white py-12 sm:py-16">
         <div className={SHELL}>
-          <div className="grid grid-cols-1 gap-10 lg:grid-cols-[minmax(0,1fr)_300px] lg:gap-14">
+          <div className="grid grid-cols-1 gap-10 lg:grid-cols-[minmax(0,1fr)_300px] lg:items-start lg:gap-14">
             <div>
               <SoftHeading kicker="Start here" meta="No signup · Result on screen">
                 Pick the question you need answered

@@ -81,7 +81,7 @@ export default function TankInstallationPage() {
 
       <section className="bg-white py-8 sm:py-10">
         <div className={SHELL}>
-          <div className="grid grid-cols-1 gap-8 lg:grid-cols-2 lg:gap-10 xl:grid-cols-[minmax(0,1fr)_minmax(0,1fr)_320px]">
+          <div className="grid grid-cols-1 gap-8 lg:grid-cols-2 lg:gap-10 xl:grid-cols-[minmax(0,1fr)_minmax(0,1fr)_320px] xl:items-start">
             <div>
               <p className="text-[#3e91ce] text-xs font-bold tracking-widest uppercase mb-4">/ What We Deliver</p>
               <h2 className="text-3xl font-black text-[#30505b] mb-6">Turnkey Installation, National Reach</h2>

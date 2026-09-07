@@ -221,7 +221,7 @@ export default async function ManagedProjectPage({
       {/* ── Body: spec rail · narrative · context rail ── */}
       <section className="bg-white py-8 sm:py-10">
         <div className={SHELL}>
-          <div className="grid grid-cols-1 gap-8 lg:grid-cols-[minmax(0,1fr)_300px] lg:gap-10 xl:grid-cols-[248px_minmax(0,1fr)_320px]">
+          <div className="grid grid-cols-1 gap-8 lg:grid-cols-[minmax(0,1fr)_300px] lg:gap-10 xl:grid-cols-[248px_minmax(0,1fr)_320px] xl:items-start">
             {/* Left rail — the spec sheet */}
             <div className="order-2 lg:order-none lg:col-span-2 xl:col-span-1 xl:col-start-1 xl:row-start-1">
               <Rail variant="wrap">
