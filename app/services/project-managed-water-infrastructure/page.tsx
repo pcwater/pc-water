@@ -6,6 +6,7 @@ import CTABanner from '@/components/CTABanner'
 import SectionProjects from '@/components/SectionProjects'
 import Masthead from '@/components/editorial/Masthead'
 import DetailRail from '@/components/editorial/DetailRail'
+import OverviewPhoto from '@/components/editorial/OverviewPhoto'
 import DetailFooterBand from '@/components/editorial/DetailFooterBand'
 import { SHELL } from '@/lib/shell'
 
@@ -127,6 +128,7 @@ export default function ProjectManagedWaterInfrastructurePage() {
                 </div>
               ))}
             </div>
+              <OverviewPhoto src="/water/water-09.jpg" alt="Project-managed water infrastructure delivery" />
               <DetailRail family="services" currentHref="/services/project-managed-water-infrastructure" />
             </div>
         </div>

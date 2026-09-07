@@ -6,6 +6,7 @@ import CTABanner from '@/components/CTABanner'
 import GatedDownloadLink from '@/components/GatedDownloadLink'
 import Masthead from '@/components/editorial/Masthead'
 import DetailRail from '@/components/editorial/DetailRail'
+import OverviewPhoto from '@/components/editorial/OverviewPhoto'
 import DetailFooterBand from '@/components/editorial/DetailFooterBand'
 import { SHELL } from '@/lib/shell'
 
@@ -107,6 +108,7 @@ export default function TenderProcurementPage() {
                 </div>
               ))}
             </div>
+              <OverviewPhoto src="/water/water-16.jpg" alt="Water infrastructure delivered under a government tender" />
               <DetailRail family="services" currentHref="/services/tender-procurement-support" />
             </div>
         </div>

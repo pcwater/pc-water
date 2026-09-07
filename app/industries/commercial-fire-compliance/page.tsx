@@ -5,6 +5,7 @@ import BreadcrumbJsonLd from '@/components/BreadcrumbJsonLd'
 import CTABanner from '@/components/CTABanner'
 import Masthead from '@/components/editorial/Masthead'
 import DetailRail from '@/components/editorial/DetailRail'
+import OverviewPhoto from '@/components/editorial/OverviewPhoto'
 import DetailFooterBand from '@/components/editorial/DetailFooterBand'
 import { SHELL } from '@/lib/shell'
 
@@ -122,6 +123,7 @@ export default function CommercialFireCompliancePage() {
                 </div>
               </div>
             </div>
+              <OverviewPhoto src="/water/water-04.jpg" alt="Fire compliance water storage for commercial buildings" />
               <DetailRail family="industries" currentHref="/industries/commercial-fire-compliance" />
             </div>
         </div>

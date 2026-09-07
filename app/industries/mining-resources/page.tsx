@@ -6,6 +6,7 @@ import CTABanner from '@/components/CTABanner'
 import SectionProjects from '@/components/SectionProjects'
 import Masthead from '@/components/editorial/Masthead'
 import DetailRail from '@/components/editorial/DetailRail'
+import OverviewPhoto from '@/components/editorial/OverviewPhoto'
 import DetailFooterBand from '@/components/editorial/DetailFooterBand'
 import { SHELL } from '@/lib/shell'
 
@@ -116,6 +117,7 @@ export default function MiningResourcesPage() {
                 ))}
               </div>
             </div>
+              <OverviewPhoto src="/water/water-08.jpg" alt="Water storage infrastructure for mining and resources operations" />
               <DetailRail family="industries" currentHref="/industries/mining-resources" />
             </div>
         </div>

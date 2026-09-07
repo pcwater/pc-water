@@ -6,6 +6,7 @@ import BreadcrumbJsonLd from '@/components/BreadcrumbJsonLd'
 import CTABanner from '@/components/CTABanner'
 import SectionProjects from '@/components/SectionProjects'
 import DetailRail from '@/components/editorial/DetailRail'
+import OverviewPhoto from '@/components/editorial/OverviewPhoto'
 import DetailFooterBand from '@/components/editorial/DetailFooterBand'
 import { SHELL } from '@/lib/shell'
 
@@ -121,6 +122,7 @@ export default function RemoteAreaDeliveryPage() {
                 </div>
               ))}
             </div>
+              <OverviewPhoto src="/water/water-17.jpg" alt="Water infrastructure delivery to a remote project site" />
               <DetailRail family="services" currentHref="/services/remote-area-delivery" />
             </div>
         </div>

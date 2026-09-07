@@ -6,6 +6,7 @@ import BreadcrumbJsonLd from '@/components/BreadcrumbJsonLd'
 import CTABanner from '@/components/CTABanner'
 import Masthead from '@/components/editorial/Masthead'
 import DetailRail from '@/components/editorial/DetailRail'
+import OverviewPhoto from '@/components/editorial/OverviewPhoto'
 import DetailFooterBand from '@/components/editorial/DetailFooterBand'
 import { SHELL } from '@/lib/shell'
 
@@ -110,6 +111,7 @@ export default function BuilderContractorPage() {
                 </div>
               ))}
             </div>
+              <OverviewPhoto src="/water/water-06.jpg" alt="Subcontract water infrastructure works for builders and contractors" />
               <DetailRail family="services" currentHref="/services/builder-contractor-partnerships" />
             </div>
         </div>

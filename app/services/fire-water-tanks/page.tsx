@@ -8,6 +8,7 @@ import SectionProjects from '@/components/SectionProjects'
 import ToolPromo from '@/components/ToolPromo'
 import Masthead from '@/components/editorial/Masthead'
 import DetailRail from '@/components/editorial/DetailRail'
+import OverviewPhoto from '@/components/editorial/OverviewPhoto'
 import DetailFooterBand from '@/components/editorial/DetailFooterBand'
 import { SHELL } from '@/lib/shell'
 
@@ -111,6 +112,7 @@ export default function FireWaterTanksPage() {
                 </div>
               ))}
             </div>
+              <OverviewPhoto src="/water/water-12.jpg" alt="Fire water tank storage system" />
               <DetailRail family="services" currentHref="/services/fire-water-tanks" />
             </div>
         </div>

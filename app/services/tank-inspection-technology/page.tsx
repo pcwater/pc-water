@@ -7,6 +7,7 @@ import CTABanner from '@/components/CTABanner'
 import ToolPromo from '@/components/ToolPromo'
 import Masthead from '@/components/editorial/Masthead'
 import DetailRail from '@/components/editorial/DetailRail'
+import OverviewPhoto from '@/components/editorial/OverviewPhoto'
 import DetailFooterBand from '@/components/editorial/DetailFooterBand'
 import { SHELL } from '@/lib/shell'
 
@@ -109,6 +110,7 @@ export default function TankInspectionPage() {
                 <p className="text-gray-500 text-sm leading-relaxed">Aerial drone inspection of external tank structures — roofs, coatings, external walls, and surrounding infrastructure. Safe, fast, and highly detailed.</p>
               </div>
             </div>
+              <OverviewPhoto src="/water/water-10.jpg" alt="Tank inspection technology assessing a water storage asset" />
               <DetailRail family="services" currentHref="/services/tank-inspection-technology" />
             </div>
         </div>

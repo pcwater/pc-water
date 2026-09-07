@@ -7,6 +7,7 @@ import CTABanner from '@/components/CTABanner'
 import SectionProjects from '@/components/SectionProjects'
 import Masthead from '@/components/editorial/Masthead'
 import DetailRail from '@/components/editorial/DetailRail'
+import OverviewPhoto from '@/components/editorial/OverviewPhoto'
 import DetailFooterBand from '@/components/editorial/DetailFooterBand'
 import { SHELL } from '@/lib/shell'
 
@@ -112,6 +113,7 @@ export default function CustomTankDesignPage() {
                 </div>
               ))}
             </div>
+              <OverviewPhoto src="/water/water-01.jpg" alt="Custom-engineered water tank design" />
               <DetailRail family="services" currentHref="/services/custom-tank-design" />
             </div>
         </div>

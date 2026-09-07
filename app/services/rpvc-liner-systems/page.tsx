@@ -8,6 +8,7 @@ import SectionProjects from '@/components/SectionProjects'
 import ToolPromo from '@/components/ToolPromo'
 import Masthead from '@/components/editorial/Masthead'
 import DetailRail from '@/components/editorial/DetailRail'
+import OverviewPhoto from '@/components/editorial/OverviewPhoto'
 import DetailFooterBand from '@/components/editorial/DetailFooterBand'
 import { SHELL } from '@/lib/shell'
 
@@ -111,6 +112,7 @@ export default function RPVCLinerPage() {
                 </div>
               ))}
             </div>
+              <OverviewPhoto src="/water/water-02.jpg" alt="RPVC liner system installed inside a water storage tank" />
               <DetailRail family="services" currentHref="/services/rpvc-liner-systems" />
             </div>
         </div>

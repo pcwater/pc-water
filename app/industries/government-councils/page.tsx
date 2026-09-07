@@ -6,6 +6,7 @@ import CTABanner from '@/components/CTABanner'
 import SectionProjects from '@/components/SectionProjects'
 import Masthead from '@/components/editorial/Masthead'
 import DetailRail from '@/components/editorial/DetailRail'
+import OverviewPhoto from '@/components/editorial/OverviewPhoto'
 import DetailFooterBand from '@/components/editorial/DetailFooterBand'
 import { SHELL } from '@/lib/shell'
 
@@ -117,6 +118,7 @@ export default function GovernmentCouncilsPage() {
                 ))}
               </div>
             </div>
+              <OverviewPhoto src="/water/water-05.jpg" alt="Water storage infrastructure for government and council assets" />
               <DetailRail family="industries" currentHref="/industries/government-councils" />
             </div>
         </div>

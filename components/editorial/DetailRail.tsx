@@ -1,7 +1,5 @@
-import { Rail, RailArticles, RailContact, RailDownload, RailLinks, RailPanel } from '@/components/editorial/RailPanel'
-import { getPublicPosts } from '@/lib/cms/queries'
-import { enrichArticles, sortByNewest } from '@/lib/cms/taxonomy'
-import { allServices, type DirectoryFamily, industries, STANDARDS, siblingsFor } from '@/lib/site-directory'
+import { Rail, RailContact, RailDownload, RailLinks, RailPanel } from '@/components/editorial/RailPanel'
+import { allServices, type DirectoryFamily, industries, STANDARDS } from '@/lib/site-directory'
 
 const CROSS_TITLE: Record<DirectoryFamily, string> = {
   services: 'Who we deliver for',
@@ -10,23 +8,20 @@ const CROSS_TITLE: Record<DirectoryFamily, string> = {
 }
 
 /**
- * The sticky rail that runs beside the opening content section of every
- * detail page — standards, cross-family links, the capability statement and
- * a contact prompt. Fills the third column that used to be white space.
+ * The sticky rail beside the opening content section of every detail page —
+ * standards, cross-family links, the capability statement and a contact
+ * prompt. Deliberately doesn't repeat sibling pages or articles: those get
+ * full image cards further down the page via DetailFooterBand, so listing
+ * them again here as bare text would only pad the rail without adding
+ * anything a reader can't already see below.
  */
-export default async function DetailRail({
+export default function DetailRail({
   family,
-  currentHref,
+  currentHref: _currentHref,
 }: {
   family: DirectoryFamily
   currentHref: string
 }) {
-  const posts = await getPublicPosts()
-
-  const relatedArticles = sortByNewest(enrichArticles(posts))
-    .slice(0, 3)
-    .map((a) => ({ id: a.id, slug: a.slug, title: a.title, readTime: a.readTime, kicker: a.category.shortName }))
-
   /* Services point at the sectors that buy them, sectors point back at the
      services that serve them, and tools point at both. */
   const crossLinks =
@@ -36,10 +31,8 @@ export default async function DetailRail({
         ? allServices.slice(0, 6).map((s) => ({ label: s.title, href: s.href }))
         : allServices.slice(0, 4).map((s) => ({ label: s.title, href: s.href }))
 
-  const siblings = siblingsFor(family, currentHref, 4).map((e) => ({ label: e.title, href: e.href }))
-
   return (
-    <Rail variant="wrap" className="lg:col-span-2 xl:col-span-1 xl:col-start-3">
+    <Rail variant="wrap" className="lg:col-span-2 xl:col-span-1 xl:col-start-3 xl:row-span-2">
       <RailPanel title="Standards we work to">
         <div className="flex flex-wrap gap-1.5">
           {STANDARDS.map((s) => (
@@ -58,14 +51,6 @@ export default async function DetailRail({
       </RailPanel>
 
       <RailDownload />
-
-      {siblings.length > 0 && (
-        <RailPanel title="Related pages">
-          <RailLinks links={siblings} />
-        </RailPanel>
-      )}
-
-      <RailArticles articles={relatedArticles} />
 
       <RailContact />
     </Rail>
