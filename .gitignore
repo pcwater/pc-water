@@ -48,3 +48,4 @@ AGENTS.md
 CLAUDE.md
 SUPABASE_CMS_SETUP.md
 *.txt
+supabase/.temp/

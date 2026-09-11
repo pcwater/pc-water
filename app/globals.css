@@ -260,9 +260,11 @@ body {
 /* Atmospheric app background */
 .cms-app-bg {
   background:
-    radial-gradient(ellipse 100% 55% at 50% -5%, rgba(62, 145, 206, 0.07) 0%, transparent 65%),
-    radial-gradient(ellipse 70% 45% at 92% 108%, rgba(20, 50, 100, 0.05) 0%, transparent 55%),
-    #EFF2F8;
+    linear-gradient(rgba(24, 66, 96, 0.025) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(24, 66, 96, 0.025) 1px, transparent 1px),
+    radial-gradient(ellipse 85% 45% at 50% -8%, rgba(62, 145, 206, 0.09) 0%, transparent 68%),
+    #F3F6FA;
+  background-size: 32px 32px, 32px 32px, auto, auto;
 }
 .dark .cms-app-bg {
   background:
@@ -273,15 +275,15 @@ body {
 
 /* Primary glass card */
 .cms-card {
-  background: rgba(255, 255, 255, 0.72);
-  backdrop-filter: blur(14px) saturate(160%);
-  -webkit-backdrop-filter: blur(14px) saturate(160%);
-  border: 1px solid rgba(0, 0, 0, 0.07);
+  background: rgba(255, 255, 255, 0.92);
+  backdrop-filter: blur(18px) saturate(150%);
+  -webkit-backdrop-filter: blur(18px) saturate(150%);
+  border: 1px solid rgba(20, 50, 72, 0.09);
   box-shadow:
-    0 1px 2px rgba(0, 0, 0, 0.04),
-    0 4px 24px rgba(0, 0, 0, 0.06),
-    inset 0 1px 0 rgba(255, 255, 255, 0.90);
-  border-radius: 0.75rem;
+    0 1px 2px rgba(9, 30, 48, 0.03),
+    0 18px 48px -36px rgba(9, 30, 48, 0.35),
+    inset 0 1px 0 rgba(255, 255, 255, 0.96);
+  border-radius: 1rem;
   overflow: hidden;
 }
 .dark .cms-card {
@@ -297,13 +299,17 @@ body {
 
 /* Sidebar glass */
 .cms-sidebar-glass {
-  background: rgba(248, 251, 255, 0.96);
+  background:
+    radial-gradient(circle at 30% 0%, rgba(62, 145, 206, 0.18), transparent 34%),
+    #071827;
   backdrop-filter: blur(28px) saturate(200%);
   -webkit-backdrop-filter: blur(28px) saturate(200%);
-  box-shadow: 2px 0 40px rgba(0, 0, 0, 0.07);
+  box-shadow: 10px 0 50px rgba(7, 24, 39, 0.16);
 }
 .dark .cms-sidebar-glass {
-  background: rgba(3, 5, 14, 0.96);
+  background:
+    radial-gradient(circle at 30% 0%, rgba(62, 145, 206, 0.17), transparent 34%),
+    #050F19;
   backdrop-filter: blur(28px) saturate(200%);
   -webkit-backdrop-filter: blur(28px) saturate(200%);
   box-shadow: 4px 0 60px rgba(0, 0, 0, 0.70);
@@ -349,15 +355,15 @@ body {
 
 /* Glass stat card (KPI) */
 .cms-stat-card {
-  background: rgba(255, 255, 255, 0.75);
+  background: rgba(255, 255, 255, 0.94);
   backdrop-filter: blur(16px) saturate(170%);
   -webkit-backdrop-filter: blur(16px) saturate(170%);
-  border: 1px solid rgba(0, 0, 0, 0.07);
+  border: 1px solid rgba(20, 50, 72, 0.09);
   box-shadow:
     0 1px 2px rgba(0, 0, 0, 0.04),
     0 4px 20px rgba(0, 0, 0, 0.06),
     inset 0 1px 0 rgba(255, 255, 255, 0.95);
-  border-radius: 0.75rem;
+  border-radius: 1rem;
   overflow: hidden;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
@@ -392,6 +398,129 @@ body {
 .cms-app ::-webkit-scrollbar-thumb { background: rgba(153, 170, 191, 0.35); border-radius: 99px; }
 .dark .cms-app ::-webkit-scrollbar-thumb { background: rgba(74, 86, 112, 0.45); }
 .cms-app ::-webkit-scrollbar-thumb:hover { background: rgba(62, 145, 206, 0.55); }
+
+.cms-kicker {
+  margin-bottom: 0.35rem;
+  color: #2f7fb9;
+  font-size: 0.625rem;
+  font-weight: 900;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+}
+
+.cms-page-title {
+  color: #071827;
+  font-size: clamp(1.65rem, 2vw, 2.2rem);
+  font-weight: 900;
+  letter-spacing: -0.035em;
+  line-height: 1.05;
+}
+
+.dark .cms-page-title { color: #f8fafc; }
+
+.cms-page-subtitle {
+  margin-top: 0.55rem;
+  max-width: 46rem;
+  color: #64748b;
+  font-size: 0.825rem;
+  line-height: 1.5;
+}
+
+.dark .cms-page-subtitle { color: #94a3b8; }
+
+.cms-button-primary,
+.cms-button-secondary {
+  display: inline-flex;
+  min-height: 2.5rem;
+  align-items: center;
+  justify-content: center;
+  gap: 0.45rem;
+  border-radius: 0.7rem;
+  padding: 0 1rem;
+  font-size: 0.75rem;
+  font-weight: 800;
+  transition: 160ms ease;
+}
+
+.cms-button-primary {
+  background: #2f7fb9;
+  color: white;
+  box-shadow: 0 10px 24px -14px rgba(47, 127, 185, 0.9);
+}
+
+.cms-button-primary:hover { background: #246a9f; transform: translateY(-1px); }
+
+.cms-button-secondary {
+  border: 1px solid rgba(20, 50, 72, 0.12);
+  background: rgba(255, 255, 255, 0.86);
+  color: #334155;
+}
+
+.cms-button-secondary:hover { border-color: #3e91ce; color: #2f7fb9; }
+.dark .cms-button-secondary { border-color: rgba(255,255,255,.09); background: rgba(255,255,255,.04); color: #cbd5e1; }
+
+.cms-search-input {
+  height: 2.5rem;
+  width: 100%;
+  border: 1px solid rgba(20, 50, 72, 0.11);
+  border-radius: 0.7rem;
+  background: rgba(255,255,255,.9);
+  padding: 0 0.9rem 0 2.35rem;
+  color: #0f172a;
+  font-size: 0.8rem;
+  outline: none;
+}
+
+.cms-search-input:focus { border-color: #3e91ce; box-shadow: 0 0 0 3px rgba(62,145,206,.12); }
+.dark .cms-search-input { border-color: rgba(255,255,255,.08); background: rgba(255,255,255,.035); color: #f8fafc; }
+
+.cms-table th {
+  padding: 0.75rem 1.25rem;
+  color: #94a3b8;
+  font-size: 0.625rem;
+  font-weight: 900;
+  letter-spacing: 0.12em;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+.cms-table td { padding: 0.9rem 1.25rem; border-top: 1px solid rgba(20,50,72,.065); font-size: .78rem; }
+.dark .cms-table td { border-color: rgba(255,255,255,.05); }
+.cms-table tbody tr { transition: background 150ms ease; }
+.cms-table tbody tr:hover { background: rgba(62,145,206,.035); }
+
+.cms-result-pill {
+  display: inline-flex;
+  border-radius: 999px;
+  background: #eef6fc;
+  padding: .35rem .65rem;
+  color: #246a9f;
+  font-size: .68rem;
+  font-weight: 800;
+}
+.dark .cms-result-pill { background: rgba(62,145,206,.12); color: #7cc2ed; }
+
+.cms-row-action {
+  border-radius: .55rem;
+  border: 1px solid rgba(20,50,72,.1);
+  padding: .4rem .65rem;
+  color: #475569;
+  font-size: .7rem;
+  font-weight: 800;
+}
+.cms-row-action:hover { border-color: #3e91ce; color: #2f7fb9; }
+
+.cms-icon-button {
+  display: grid;
+  height: 2rem;
+  width: 2rem;
+  place-items: center;
+  border-radius: .65rem;
+  background: #f1f5f9;
+  color: #64748b;
+  font-size: 1.25rem;
+}
+.dark .cms-icon-button { background: rgba(255,255,255,.06); color: #cbd5e1; }
 
 /* ── ARTICLE CONTENT ── */
 .article-content { max-width: 680px; margin: 0 auto; font-size: 17px; line-height: 1.75; color: #374151; }

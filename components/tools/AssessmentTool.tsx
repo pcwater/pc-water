@@ -7,6 +7,7 @@ import { validateEmailLocally } from '@/lib/email-validation'
 import { validateEmailWithServer } from '@/lib/email-validation-client'
 import { toolConfigs } from '@/lib/tools/registry'
 import type { AssessmentConfig, AssessmentResult, ResultTone } from '@/lib/tools/types'
+import TrackedProjectLink from '@/components/tools/TrackedProjectLink'
 
 const toneStyles: Record<ResultTone, { badge: string; bar: string; ring: string; label: string }> = {
   low: { badge: 'bg-emerald-50 text-emerald-700 border-emerald-200', bar: 'bg-emerald-500', ring: 'border-emerald-200', label: 'text-emerald-600' },
@@ -140,6 +141,15 @@ function ResultView({
   const [email, setEmail] = useState('')
   const [status, setStatus] = useState<'idle' | 'sending' | 'done'>('idle')
   const [errorMsg, setErrorMsg] = useState('')
+  const projectService = config.slug === 'repair-reline-replace'
+    ? 'Tank Maintenance & Upgrades'
+    : 'Tank Inspection Technology'
+  const projectHref = `${result.ctaHref}?${new URLSearchParams({
+    source: 'assessment-tool',
+    campaignId: config.slug,
+    service: projectService,
+    message: `I completed the ${config.toolTitle} and received a ${result.level} result. I would like to discuss the recommended next step.`,
+  }).toString()}#project-enquiry`
 
   async function submitLead(e: React.FormEvent) {
     e.preventDefault()
@@ -156,20 +166,31 @@ function ResultView({
       setStatus('idle')
       return
     }
-    await fetch('/api/tool-leads', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        email: local.email,
-        toolSlug: config.slug,
-        toolTitle: config.toolTitle,
-        division: config.leadDivision,
-        resultKey: result.key,
-        resultLevel: result.level,
-        answers,
-      }),
-    }).catch(() => null)
-    setStatus('done')
+    try {
+      const response = await fetch('/api/tool-leads', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          email: local.email,
+          toolSlug: config.slug,
+          toolTitle: config.toolTitle,
+          division: config.leadDivision,
+          resultKey: result.key,
+          resultLevel: result.level,
+          answers,
+        }),
+      })
+      const payload = await response.json().catch(() => null)
+
+      if (!response.ok || !payload?.ok) {
+        throw new Error(payload?.error ?? 'Unable to save your result right now.')
+      }
+
+      setStatus('done')
+    } catch (error) {
+      setErrorMsg(error instanceof Error ? error.message : 'Unable to save your result right now.')
+      setStatus('idle')
+    }
   }
 
   return (
@@ -198,15 +219,21 @@ function ResultView({
 
         {/* Primary CTA */}
         <div className="px-6 pb-6">
-          <Link
-            href={result.ctaHref}
+          <TrackedProjectLink
+            href={projectHref}
+            toolSlug={config.slug}
+            toolTitle={config.toolTitle}
+            division={config.leadDivision}
+            resultKey={result.key}
+            resultLevel={result.level}
+            answers={answers}
             className="glow-btn inline-flex items-center justify-center gap-2 w-full sm:w-auto bg-[#2a72ad] text-white px-8 py-3.5 rounded-full font-semibold hover:bg-[#246397] transition-colors"
           >
             {result.ctaLabel}
             <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
             </svg>
-          </Link>
+          </TrackedProjectLink>
         </div>
       </div>
 

@@ -29,7 +29,19 @@ export const metadata: Metadata = {
   twitter: { card: 'summary_large_image', images: ['/hero.png'] },
 }
 
-export default function ContactPage() {
+function first(value: string | string[] | undefined) {
+  return Array.isArray(value) ? value[0] ?? '' : value ?? ''
+}
+
+export default async function ContactPage({
+  searchParams,
+}: {
+  searchParams: Promise<Record<string, string | string[] | undefined>>
+}) {
+  const query = await searchParams
+  const source = first(query.source)
+  const allowedSource = ['article', 'assessment-tool'].includes(source) ? source : 'website'
+
   return (
     <>
       {/* Hero */}
@@ -168,7 +180,12 @@ export default function ContactPage() {
 
             {/* Form */}
             <div className="lg:col-span-2">
-              <ContactForm />
+              <ContactForm
+                initialService={first(query.service)}
+                initialMessage={first(query.message)}
+                source={allowedSource}
+                campaignId={first(query.campaignId)}
+              />
             </div>
           </div>
         </div>

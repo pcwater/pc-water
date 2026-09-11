@@ -243,7 +243,7 @@ export default function CmsSettingsPage() {
             { label: 'Supabase URL',    value: 'mhggidgfivmdgkjerejn.supabase.co' },
             { label: 'Storage Bucket', value: 'cms-media (public)' },
             { label: 'Content Tables', value: 'cms_posts, cms_projects, cms_tags' },
-            { label: 'Lead Capture',   value: 'resource_leads, project_enquiries' },
+            { label: 'Lead Capture',   value: 'project_enquiries, tool_leads, resource_leads' },
             { label: 'CRM Sync',       value: 'Pipedrive lead + note sync' },
           ].map((item) => (
             <div key={item.label} className="bg-black/[0.02] dark:bg-white/[0.02] rounded-lg px-4 py-3 border border-black/[0.05] dark:border-white/[0.04]">

@@ -7,7 +7,17 @@ import { validateEmailLocally } from '@/lib/email-validation'
 const inputCls = 'w-full border border-gray-200 rounded-lg px-4 py-2.5 text-sm focus:outline-none focus:border-[#3e91ce] transition-colors'
 const labelCls = 'block text-xs font-bold text-gray-500 uppercase tracking-wide mb-1.5'
 
-export default function ContactForm() {
+export default function ContactForm({
+  initialService = '',
+  initialMessage = '',
+  source = 'website',
+  campaignId = '',
+}: {
+  initialService?: string
+  initialMessage?: string
+  source?: string
+  campaignId?: string
+}) {
   const router = useRouter()
   const [email, setEmail] = useState('')
   const [emailError, setEmailError] = useState('')
@@ -44,6 +54,12 @@ export default function ContactForm() {
       budget: String(formData.get('budget') ?? ''),
       tankType: String(formData.get('tankType') ?? ''),
       message: String(formData.get('message') ?? ''),
+      source,
+      campaignId,
+      attribution: {
+        landingPage: window.location.href,
+        referrer: document.referrer,
+      },
     }
 
     setVerifying(true)
@@ -69,7 +85,7 @@ export default function ContactForm() {
   }
 
   return (
-    <div className="bg-white rounded-2xl p-8 shadow-sm border border-gray-100">
+    <div id="project-enquiry" className="scroll-mt-24 bg-white rounded-2xl p-8 shadow-sm border border-gray-100">
       <h2 className="text-xl font-black text-[#30505b] mb-6">PROJECT ENQUIRY FORM</h2>
       <form method="POST" action="/thank-you" className="space-y-5" onSubmit={handleSubmit}>
         <input type="text" name="website" tabIndex={-1} autoComplete="off" className="hidden" />
@@ -127,7 +143,7 @@ export default function ContactForm() {
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-5">
           <div>
             <label className={labelCls} htmlFor="service">Service Needed</label>
-            <select id="service" name="service" className={`${inputCls} bg-white`}>
+            <select id="service" name="service" defaultValue={initialService} className={`${inputCls} bg-white`}>
               <option value="">Select service...</option>
               {[
                 'Project Managed Water Infrastructure',
@@ -185,6 +201,7 @@ export default function ContactForm() {
             name="message"
             required
             rows={5}
+            defaultValue={initialMessage}
             placeholder="Tell us about your project, site, and requirements..."
             className={`${inputCls} resize-none`}
           />

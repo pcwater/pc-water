@@ -7,12 +7,14 @@ import ArticleJsonLd from '@/components/ArticleJsonLd'
 import BreadcrumbJsonLd from '@/components/BreadcrumbJsonLd'
 import CTABanner from '@/components/CTABanner'
 import ArticleByline from '@/components/resources/ArticleByline'
+import ArticleConversionCTA from '@/components/resources/ArticleConversionCTA'
 import ArticleFooterMeta from '@/components/resources/ArticleFooterMeta'
 import Breadcrumbs from '@/components/resources/Breadcrumbs'
 import { getAuthorFor } from '@/lib/cms/authors'
 import { getPublicPostBySlug, getPublicPosts } from '@/lib/cms/queries'
 import { enrichArticle } from '@/lib/cms/taxonomy'
 import { formatDate } from '@/lib/cms/utils'
+import { buildArticleEnquiryHref, getArticleConversion } from '@/lib/article-conversion'
 
 export const dynamic = 'force-static'
 const siteUrl = process.env.SITE_URL || 'https://pcwater.com.au'
@@ -1009,6 +1011,8 @@ export default async function ResourceArticlePage({
   const articleDescription = post.seoDescription || post.excerpt
   const meta = enrichArticle(post)
   const author = getAuthorFor(post.publishedAt)
+  const conversion = getArticleConversion(meta.category.slug)
+  const enquiryHref = buildArticleEnquiryHref(conversion, post.slug, post.title)
 
   return (
     <>
@@ -1103,10 +1107,14 @@ export default async function ResourceArticlePage({
       <section className="bg-white py-14 sm:py-20">
         <div className="max-w-3xl mx-auto px-4">
           <p className="text-xl text-gray-600 leading-relaxed mb-10 border-l-4 border-[#3e91ce] pl-6 italic">{post.excerpt}</p>
-          {/* eslint-disable-next-line @next/next/no-html-link-for-pages */}
           <article
             className="article-content prose max-w-none"
             dangerouslySetInnerHTML={{ __html: post.content }}
+          />
+          <ArticleConversionCTA
+            category={meta.category.slug}
+            articleSlug={post.slug}
+            articleTitle={post.title}
           />
           <ArticleFooterMeta author={author} url={articleUrl} title={post.title} />
         </div>
@@ -1181,10 +1189,10 @@ export default async function ResourceArticlePage({
       )}
 
       <CTABanner
-        heading="NEED HELP WITH A SIMILAR ISSUE?"
-        subheading="Speak to the PC Water team about your site, storage asset, or compliance challenge."
-        primaryCTA={{ label: 'Discuss a Project', href: '/contact' }}
-        secondaryCTA={{ label: 'View Projects', href: '/projects' }}
+        heading={conversion.heading.toUpperCase()}
+        subheading={conversion.body}
+        primaryCTA={{ label: conversion.enquiryLabel, href: enquiryHref }}
+        secondaryCTA={{ label: conversion.toolLabel, href: conversion.toolHref }}
         variant="navy"
       />
     </>

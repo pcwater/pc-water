@@ -20,6 +20,7 @@ function getRequiredText(value: unknown) {
 }
 
 const CAMPAIGN_IDS = new Set(['tank-remediation', 'remote-water-infrastructure'])
+const LEAD_SOURCES = new Set(['website', 'article', 'assessment-tool', 'paid-campaign'])
 
 function getLimitedText(value: unknown, maxLength = 500) {
   return getRequiredText(value).slice(0, maxLength)
@@ -95,6 +96,7 @@ export async function POST(request: Request) {
   const submittedSource = getLimitedText(rawBody.source, 100)
   const campaignId = getLimitedText(rawBody.campaignId, 100)
   const isCampaignEnquiry = submittedSource === 'paid-campaign'
+  const source = LEAD_SOURCES.has(submittedSource) ? submittedSource : 'website'
 
   if (isCampaignEnquiry && !CAMPAIGN_IDS.has(campaignId)) {
     return NextResponse.json(
@@ -125,13 +127,13 @@ export async function POST(request: Request) {
     budget: getLimitedText(rawBody.budget),
     tankType: getLimitedText(rawBody.tankType),
     message: getLimitedText(rawBody.message, 10000),
-    source: isCampaignEnquiry ? 'paid-campaign' : 'website',
-    campaignId: isCampaignEnquiry ? campaignId : '',
+    source,
+    campaignId: source === 'website' ? '' : campaignId,
     jobRole: isCampaignEnquiry ? getLimitedText(rawBody.jobRole) : '',
     preferredContactMethod: isCampaignEnquiry
       ? getLimitedText(rawBody.preferredContactMethod, 100)
       : '',
-    attribution: isCampaignEnquiry ? getAttribution(rawBody.attribution) : undefined,
+    attribution: getAttribution(rawBody.attribution),
   })
 
   if (!input.firstName || !input.lastName || !input.email || !input.message) {

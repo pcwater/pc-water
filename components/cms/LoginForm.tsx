@@ -10,7 +10,7 @@ import ThemeToggle from '@/components/cms/ThemeToggle'
 const features = [
   { label: 'Manage articles and project content' },
   { label: 'Upload and organise media assets' },
-  { label: 'Track resource download leads' },
+  { label: 'Prioritise project, tool and resource leads' },
   { label: 'Control admin access and settings' },
 ]
 
@@ -97,7 +97,7 @@ export default function LoginForm() {
             </div>
             <div>
               <p className="text-[14px] font-bold text-white leading-none tracking-tight">PC Water</p>
-              <p className="text-[9px] text-[#3A4560] font-bold uppercase tracking-[0.20em] mt-1">Studio</p>
+              <p className="text-[9px] text-[#3A4560] font-bold uppercase tracking-[0.20em] mt-1">Control Room</p>
             </div>
           </div>
 
@@ -107,7 +107,7 @@ export default function LoginForm() {
               Content<br />Management<br />System
             </h1>
             <p className="text-[14px] text-[#6B7D99] leading-relaxed max-w-[280px]">
-              A private workspace for managing PC Water Infrastructure&apos;s digital content.
+              A private command centre for PC Water Infrastructure&apos;s leads and digital content.
             </p>
           </div>
 
