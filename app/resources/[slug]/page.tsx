@@ -27,6 +27,356 @@ const resourceLinkMap: Record<
     keywords: string[]
   }
 > = {
+  'cil-tank-refurbishment-repairing-carbon-in-leach-circuits-without-stopping-production': {
+    relatedServices: [
+      { href: '/services/tank-maintenance-upgrades', label: 'Tank Maintenance & Upgrades' },
+    ],
+    relatedResources: ['leach-tank-refurbishment-structural-repair-for-corrosive-process-environments', 'mining-water-storage-tanks-a-practical-guide-for-site-engineers-and-asset-managers'],
+    keywords: ["cil tank refurbishment repairing carbon-in-leach circuits australia", "water storage tank cil tank refurbishment", "PC Water Infrastructure"],
+  },
+  'leach-tank-refurbishment-structural-repair-for-corrosive-process-environments': {
+    relatedServices: [
+      { href: '/services/tank-maintenance-upgrades', label: 'Tank Maintenance & Upgrades' },
+    ],
+    relatedResources: ['gold-mine-tank-structural-repairs-what-makes-mine-site-tanks-different', 'environmental-control-reservoirs-storage-for-mine-site-water-management-compliance'],
+    keywords: ["leach tank refurbishment structural repair for australia", "water storage tank leach tank refurbishment", "PC Water Infrastructure"],
+  },
+  'gold-mine-tank-structural-repairs-what-makes-mine-site-tanks-different': {
+    relatedServices: [
+      { href: '/industries/mining-resources', label: 'Mining & Resources' },
+    ],
+    relatedResources: ['bulk-water-supply-for-mining-sites-storage-sizing-for-remote-operations', 'sectional-tank-refurbishment-for-mine-sites-panel-replacement-without-a-full-rebuild'],
+    keywords: ["gold mine tank structural repairs what australia", "water storage tank gold mine tank", "PC Water Infrastructure"],
+  },
+  'bulk-water-supply-for-mining-sites-storage-sizing-for-remote-operations': {
+    relatedServices: [
+      { href: '/services/remote-area-delivery', label: 'Remote Area Project Delivery' },
+    ],
+    relatedResources: ['mining-water-storage-tanks-a-practical-guide-for-site-engineers-and-asset-managers', 'tailings-water-vs-process-water-storage-why-the-distinction-matters-for-tank-design'],
+    keywords: ["bulk water supply for mining sites australia", "water storage tank bulk water supply", "PC Water Infrastructure"],
+  },
+  'mining-water-storage-tanks-a-practical-guide-for-site-engineers-and-asset-managers': {
+    relatedServices: [
+      { href: '/industries/mining-resources', label: 'Mining & Resources' },
+    ],
+    relatedResources: ['environmental-control-reservoirs-storage-for-mine-site-water-management-compliance', 'high-tds-and-high-salinity-process-water-corrosion-considerations-for-mine-site-tanks'],
+    keywords: ["mining water storage tanks a practical australia", "water storage tank mining water storage", "PC Water Infrastructure"],
+  },
+  'environmental-control-reservoirs-storage-for-mine-site-water-management-compliance': {
+    relatedServices: [
+      { href: '/services/custom-tank-design', label: 'Custom Tank Design' },
+    ],
+    relatedResources: ['sectional-tank-refurbishment-for-mine-sites-panel-replacement-without-a-full-rebuild', 'water-infrastructure-contractors-for-mining-projects-what-to-look-for-in-a-delivery-partner'],
+    keywords: ["environmental control reservoirs storage for mine-site australia", "water storage tank environmental control reservoirs", "PC Water Infrastructure"],
+  },
+  'sectional-tank-refurbishment-for-mine-sites-panel-replacement-without-a-full-rebuild': {
+    relatedServices: [
+      { href: '/services/tank-maintenance-upgrades', label: 'Tank Maintenance & Upgrades' },
+    ],
+    relatedResources: ['tailings-water-vs-process-water-storage-why-the-distinction-matters-for-tank-design', 'cil-tank-refurbishment-repairing-carbon-in-leach-circuits-without-stopping-production'],
+    keywords: ["sectional tank refurbishment for mine sites australia", "water storage tank sectional tank refurbishment", "PC Water Infrastructure"],
+  },
+  'tailings-water-vs-process-water-storage-why-the-distinction-matters-for-tank-design': {
+    relatedServices: [
+      { href: '/services/custom-tank-design', label: 'Custom Tank Design' },
+    ],
+    relatedResources: ['high-tds-and-high-salinity-process-water-corrosion-considerations-for-mine-site-tanks', 'leach-tank-refurbishment-structural-repair-for-corrosive-process-environments'],
+    keywords: ["tailings water vs process water storage australia", "water storage tank tailings water vs", "PC Water Infrastructure"],
+  },
+  'high-tds-and-high-salinity-process-water-corrosion-considerations-for-mine-site-tanks': {
+    relatedServices: [
+      { href: '/services/custom-tank-design', label: 'Custom Tank Design' },
+    ],
+    relatedResources: ['water-infrastructure-contractors-for-mining-projects-what-to-look-for-in-a-delivery-partner', 'gold-mine-tank-structural-repairs-what-makes-mine-site-tanks-different'],
+    keywords: ["high-tds and high-salinity process water corrosion australia", "water storage tank high-tds and high-salinity", "PC Water Infrastructure"],
+  },
+  'water-infrastructure-contractors-for-mining-projects-what-to-look-for-in-a-delivery-partner': {
+    relatedServices: [
+      { href: '/services/project-managed-water-infrastructure', label: 'Project-Managed Water Infrastructure' },
+    ],
+    relatedResources: ['cil-tank-refurbishment-repairing-carbon-in-leach-circuits-without-stopping-production', 'bulk-water-supply-for-mining-sites-storage-sizing-for-remote-operations'],
+    keywords: ["water infrastructure contractors for mining projects australia", "water storage tank water infrastructure contractors", "PC Water Infrastructure"],
+  },
+  'hotel-and-hospitality-water-tank-compliance-coldwater-storage-legionella-and-guest-safety': {
+    relatedServices: [
+      { href: '/services/tank-inspection-technology', label: 'Tank Inspection Technology' },
+    ],
+    relatedResources: ['aged-care-facility-water-storage-compliance-requirements-for-vulnerable-occupants', 'meat-processing-and-abattoir-water-storage-volume-and-water-quality-demands'],
+    keywords: ["hotel and hospitality water tank compliance australia", "water storage tank hotel and hospitality", "PC Water Infrastructure"],
+  },
+  'aged-care-facility-water-storage-compliance-requirements-for-vulnerable-occupants': {
+    relatedServices: [
+      { href: '/services/tank-inspection-technology', label: 'Tank Inspection Technology' },
+    ],
+    relatedResources: ['school-and-education-precinct-water-tanks-compliance-and-maintenance-obligations', 'winery-and-vineyard-water-storage-irrigation-wash-down-and-fire-protection'],
+    keywords: ["aged care facility water storage compliance australia", "water storage tank aged care facility", "PC Water Infrastructure"],
+  },
+  'school-and-education-precinct-water-tanks-compliance-and-maintenance-obligations': {
+    relatedServices: [
+      { href: '/services/fire-water-tanks', label: 'Fire Water Tank Solutions' },
+    ],
+    relatedResources: ['retail-and-shopping-centre-water-storage-fire-and-potable-supply-for-high-occupancy-sites', 'caravan-park-and-tourism-water-storage-supply-security-for-peak-season-demand'],
+    keywords: ["school and education precinct water tanks australia", "water storage tank school and education", "PC Water Infrastructure"],
+  },
+  'retail-and-shopping-centre-water-storage-fire-and-potable-supply-for-high-occupancy-sites': {
+    relatedServices: [
+      { href: '/services/fire-water-tanks', label: 'Fire Water Tank Solutions' },
+    ],
+    relatedResources: ['agricultural-and-irrigation-water-storage-choosing-the-right-tank-for-farm-operations', 'quarry-and-cement-plant-water-storage-process-and-dust-suppression-requirements'],
+    keywords: ["retail and shopping centre water storage australia", "water storage tank retail and shopping", "PC Water Infrastructure"],
+  },
+  'agricultural-and-irrigation-water-storage-choosing-the-right-tank-for-farm-operations': {
+    relatedServices: [
+      { href: '/services/custom-tank-design', label: 'Custom Tank Design' },
+    ],
+    relatedResources: ['hospital-and-healthcare-facility-water-storage-redundancy-and-compliance-requirements', 'defence-facility-water-storage-compliance-and-security-requirements'],
+    keywords: ["agricultural and irrigation water storage choosing australia", "water storage tank agricultural and irrigation", "PC Water Infrastructure"],
+  },
+  'hospital-and-healthcare-facility-water-storage-redundancy-and-compliance-requirements': {
+    relatedServices: [
+      { href: '/services/project-managed-water-infrastructure', label: 'Project-Managed Water Infrastructure' },
+    ],
+    relatedResources: ['food-and-beverage-processing-water-storage-why-potable-grade-is-not-always-enough', 'poultry-and-piggery-water-storage-biosecurity-and-volume-considerations'],
+    keywords: ["hospital and healthcare facility water storage australia", "water storage tank hospital and healthcare", "PC Water Infrastructure"],
+  },
+  'food-and-beverage-processing-water-storage-why-potable-grade-is-not-always-enough': {
+    relatedServices: [
+      { href: '/services/water-treatment-solutions', label: 'Water Treatment Solutions' },
+    ],
+    relatedResources: ['dairy-processing-water-storage-wash-down-water-and-compliance-considerations', 'brewery-and-distillery-water-storage-process-water-quality-requirements'],
+    keywords: ["food and beverage processing water storage australia", "water storage tank food and beverage", "PC Water Infrastructure"],
+  },
+  'dairy-processing-water-storage-wash-down-water-and-compliance-considerations': {
+    relatedServices: [
+      { href: '/services/water-treatment-solutions', label: 'Water Treatment Solutions' },
+    ],
+    relatedResources: ['meat-processing-and-abattoir-water-storage-volume-and-water-quality-demands', 'correctional-and-justice-facility-water-storage-security-and-compliance-requirements'],
+    keywords: ["dairy processing water storage wash-down water australia", "water storage tank dairy processing water", "PC Water Infrastructure"],
+  },
+  'meat-processing-and-abattoir-water-storage-volume-and-water-quality-demands': {
+    relatedServices: [
+      { href: '/services/water-treatment-solutions', label: 'Water Treatment Solutions' },
+    ],
+    relatedResources: ['winery-and-vineyard-water-storage-irrigation-wash-down-and-fire-protection', 'sporting-and-recreation-precinct-water-storage-irrigation-and-amenity-supply'],
+    keywords: ["meat processing and abattoir water storage australia", "water storage tank meat processing and", "PC Water Infrastructure"],
+  },
+  'winery-and-vineyard-water-storage-irrigation-wash-down-and-fire-protection': {
+    relatedServices: [
+      { href: '/services/custom-tank-design', label: 'Custom Tank Design' },
+    ],
+    relatedResources: ['caravan-park-and-tourism-water-storage-supply-security-for-peak-season-demand', 'self-storage-and-warehouse-facility-water-storage-fire-compliance-for-large-footprint-sites'],
+    keywords: ["winery and vineyard water storage irrigation australia", "water storage tank winery and vineyard", "PC Water Infrastructure"],
+  },
+  'caravan-park-and-tourism-water-storage-supply-security-for-peak-season-demand': {
+    relatedServices: [
+      { href: '/services/tank-installation', label: 'Professional Tank Installation' },
+    ],
+    relatedResources: ['quarry-and-cement-plant-water-storage-process-and-dust-suppression-requirements', 'childcare-centre-water-storage-compliance-for-small-occupancy-high-duty-of-care-sites'],
+    keywords: ["caravan park and tourism water storage australia", "water storage tank caravan park and", "PC Water Infrastructure"],
+  },
+  'quarry-and-cement-plant-water-storage-process-and-dust-suppression-requirements': {
+    relatedServices: [
+      { href: '/industries/industrial-facilities', label: 'Industrial Facilities' },
+    ],
+    relatedResources: ['defence-facility-water-storage-compliance-and-security-requirements', 'strata-and-multi-residential-water-storage-shared-infrastructure-compliance'],
+    keywords: ["quarry and cement plant water storage australia", "water storage tank quarry and cement", "PC Water Infrastructure"],
+  },
+  'defence-facility-water-storage-compliance-and-security-requirements': {
+    relatedServices: [
+      { href: '/services/project-managed-water-infrastructure', label: 'Project-Managed Water Infrastructure' },
+    ],
+    relatedResources: ['poultry-and-piggery-water-storage-biosecurity-and-volume-considerations', 'renewable-energy-site-water-storage-construction-and-dust-suppression-for-solar-and-wind-farms'],
+    keywords: ["defence facility water storage compliance and australia", "water storage tank defence facility water", "PC Water Infrastructure"],
+  },
+  'poultry-and-piggery-water-storage-biosecurity-and-volume-considerations': {
+    relatedServices: [
+      { href: '/services/custom-tank-design', label: 'Custom Tank Design' },
+    ],
+    relatedResources: ['brewery-and-distillery-water-storage-process-water-quality-requirements', 'emergency-services-precinct-water-storage-fire-and-operational-resilience-requirements'],
+    keywords: ["poultry and piggery water storage biosecurity australia", "water storage tank poultry and piggery", "PC Water Infrastructure"],
+  },
+  'brewery-and-distillery-water-storage-process-water-quality-requirements': {
+    relatedServices: [
+      { href: '/services/water-treatment-solutions', label: 'Water Treatment Solutions' },
+    ],
+    relatedResources: ['correctional-and-justice-facility-water-storage-security-and-compliance-requirements', 'commercial-office-precinct-water-storage-fire-and-amenity-supply-requirements'],
+    keywords: ["brewery and distillery water storage process australia", "water storage tank brewery and distillery", "PC Water Infrastructure"],
+  },
+  'correctional-and-justice-facility-water-storage-security-and-compliance-requirements': {
+    relatedServices: [
+      { href: '/services/project-managed-water-infrastructure', label: 'Project-Managed Water Infrastructure' },
+    ],
+    relatedResources: ['sporting-and-recreation-precinct-water-storage-irrigation-and-amenity-supply', 'apartment-and-high-rise-residential-fire-water-storage-what-developers-need-to-know'],
+    keywords: ["correctional and justice facility water storage australia", "water storage tank correctional and justice", "PC Water Infrastructure"],
+  },
+  'sporting-and-recreation-precinct-water-storage-irrigation-and-amenity-supply': {
+    relatedServices: [
+      { href: '/services/custom-tank-design', label: 'Custom Tank Design' },
+    ],
+    relatedResources: ['self-storage-and-warehouse-facility-water-storage-fire-compliance-for-large-footprint-sites', 'aquatic-and-leisure-centre-water-storage-backwash-fire-and-potable-supply'],
+    keywords: ["sporting and recreation precinct water storage australia", "water storage tank sporting and recreation", "PC Water Infrastructure"],
+  },
+  'self-storage-and-warehouse-facility-water-storage-fire-compliance-for-large-footprint-sites': {
+    relatedServices: [
+      { href: '/services/fire-water-tanks', label: 'Fire Water Tank Solutions' },
+    ],
+    relatedResources: ['childcare-centre-water-storage-compliance-for-small-occupancy-high-duty-of-care-sites', 'airport-and-aviation-facility-water-storage-compliance-and-resilience-requirements'],
+    keywords: ["self-storage and warehouse facility water storage australia", "water storage tank self-storage and warehouse", "PC Water Infrastructure"],
+  },
+  'childcare-centre-water-storage-compliance-for-small-occupancy-high-duty-of-care-sites': {
+    relatedServices: [
+      { href: '/services/tank-inspection-technology', label: 'Tank Inspection Technology' },
+    ],
+    relatedResources: ['strata-and-multi-residential-water-storage-shared-infrastructure-compliance', 'rail-and-transport-depot-water-storage-process-and-fire-supply-requirements'],
+    keywords: ["childcare centre water storage compliance for australia", "water storage tank childcare centre water", "PC Water Infrastructure"],
+  },
+  'strata-and-multi-residential-water-storage-shared-infrastructure-compliance': {
+    relatedServices: [
+      { href: '/services/tank-maintenance-upgrades', label: 'Tank Maintenance & Upgrades' },
+    ],
+    relatedResources: ['renewable-energy-site-water-storage-construction-and-dust-suppression-for-solar-and-wind-farms', 'waste-management-and-recycling-facility-water-storage-dust-suppression-and-fire-compliance'],
+    keywords: ["strata and multi-residential water storage shared australia", "water storage tank strata and multi-residential", "PC Water Infrastructure"],
+  },
+  'renewable-energy-site-water-storage-construction-and-dust-suppression-for-solar-and-wind-farms': {
+    relatedServices: [
+      { href: '/services/remote-area-delivery', label: 'Remote Area Project Delivery' },
+    ],
+    relatedResources: ['emergency-services-precinct-water-storage-fire-and-operational-resilience-requirements', 'timber-and-forestry-processing-water-storage-fire-protection-for-high-fuel-load-sites'],
+    keywords: ["renewable energy site water storage construction australia", "water storage tank renewable energy site", "PC Water Infrastructure"],
+  },
+  'emergency-services-precinct-water-storage-fire-and-operational-resilience-requirements': {
+    relatedServices: [
+      { href: '/services/fire-water-tanks', label: 'Fire Water Tank Solutions' },
+    ],
+    relatedResources: ['commercial-office-precinct-water-storage-fire-and-amenity-supply-requirements', 'seafood-processing-and-aquaculture-water-storage-quality-and-volume-requirements'],
+    keywords: ["emergency services precinct water storage fire australia", "water storage tank emergency services precinct", "PC Water Infrastructure"],
+  },
+  'commercial-office-precinct-water-storage-fire-and-amenity-supply-requirements': {
+    relatedServices: [
+      { href: '/services/fire-water-tanks', label: 'Fire Water Tank Solutions' },
+    ],
+    relatedResources: ['apartment-and-high-rise-residential-fire-water-storage-what-developers-need-to-know', 'hotel-and-hospitality-water-tank-compliance-coldwater-storage-legionella-and-guest-safety'],
+    keywords: ["commercial office precinct water storage fire australia", "water storage tank commercial office precinct", "PC Water Infrastructure"],
+  },
+  'apartment-and-high-rise-residential-fire-water-storage-what-developers-need-to-know': {
+    relatedServices: [
+      { href: '/services/foundation-civil-integration', label: 'Foundation & Civil Integration' },
+    ],
+    relatedResources: ['aquatic-and-leisure-centre-water-storage-backwash-fire-and-potable-supply', 'aged-care-facility-water-storage-compliance-requirements-for-vulnerable-occupants'],
+    keywords: ["apartment and high-rise residential fire water australia", "water storage tank apartment and high-rise", "PC Water Infrastructure"],
+  },
+  'aquatic-and-leisure-centre-water-storage-backwash-fire-and-potable-supply': {
+    relatedServices: [
+      { href: '/services/water-treatment-solutions', label: 'Water Treatment Solutions' },
+    ],
+    relatedResources: ['airport-and-aviation-facility-water-storage-compliance-and-resilience-requirements', 'school-and-education-precinct-water-tanks-compliance-and-maintenance-obligations'],
+    keywords: ["aquatic and leisure centre water storage australia", "water storage tank aquatic and leisure", "PC Water Infrastructure"],
+  },
+  'airport-and-aviation-facility-water-storage-compliance-and-resilience-requirements': {
+    relatedServices: [
+      { href: '/services/project-managed-water-infrastructure', label: 'Project-Managed Water Infrastructure' },
+    ],
+    relatedResources: ['rail-and-transport-depot-water-storage-process-and-fire-supply-requirements', 'retail-and-shopping-centre-water-storage-fire-and-potable-supply-for-high-occupancy-sites'],
+    keywords: ["airport and aviation facility water storage australia", "water storage tank airport and aviation", "PC Water Infrastructure"],
+  },
+  'rail-and-transport-depot-water-storage-process-and-fire-supply-requirements': {
+    relatedServices: [
+      { href: '/industries/industrial-facilities', label: 'Industrial Facilities' },
+    ],
+    relatedResources: ['waste-management-and-recycling-facility-water-storage-dust-suppression-and-fire-compliance', 'agricultural-and-irrigation-water-storage-choosing-the-right-tank-for-farm-operations'],
+    keywords: ["rail and transport depot water storage australia", "water storage tank rail and transport", "PC Water Infrastructure"],
+  },
+  'waste-management-and-recycling-facility-water-storage-dust-suppression-and-fire-compliance': {
+    relatedServices: [
+      { href: '/services/fire-water-tanks', label: 'Fire Water Tank Solutions' },
+    ],
+    relatedResources: ['timber-and-forestry-processing-water-storage-fire-protection-for-high-fuel-load-sites', 'hospital-and-healthcare-facility-water-storage-redundancy-and-compliance-requirements'],
+    keywords: ["waste management and recycling facility water australia", "water storage tank waste management and", "PC Water Infrastructure"],
+  },
+  'timber-and-forestry-processing-water-storage-fire-protection-for-high-fuel-load-sites': {
+    relatedServices: [
+      { href: '/services/fire-water-tanks', label: 'Fire Water Tank Solutions' },
+    ],
+    relatedResources: ['seafood-processing-and-aquaculture-water-storage-quality-and-volume-requirements', 'food-and-beverage-processing-water-storage-why-potable-grade-is-not-always-enough'],
+    keywords: ["timber and forestry processing water storage australia", "water storage tank timber and forestry", "PC Water Infrastructure"],
+  },
+  'seafood-processing-and-aquaculture-water-storage-quality-and-volume-requirements': {
+    relatedServices: [
+      { href: '/services/water-treatment-solutions', label: 'Water Treatment Solutions' },
+    ],
+    relatedResources: ['hotel-and-hospitality-water-tank-compliance-coldwater-storage-legionella-and-guest-safety', 'dairy-processing-water-storage-wash-down-water-and-compliance-considerations'],
+    keywords: ["seafood processing and aquaculture water storage australia", "water storage tank seafood processing and", "PC Water Infrastructure"],
+  },
+  'water-storage-and-tank-services-in-melbourne-industrial-and-commercial-water-storage-across-victoria': {
+    relatedServices: [
+      { href: '/contact', label: 'Contact Our Team' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-hobart-tasmania-capital-and-industrial-water-security', 'water-storage-and-tank-services-in-canberra-government-and-institutional-water-storage-in-the-capital'],
+    keywords: ["water storage and tank services in australia", "water storage tank water storage and", "PC Water Infrastructure"],
+  },
+  'water-storage-and-tank-services-in-hobart-tasmania-capital-and-industrial-water-security': {
+    relatedServices: [
+      { href: '/contact', label: 'Contact Our Team' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-sydney-commercial-and-industrial-water-storage-demand-across-nsw', 'water-storage-and-tank-services-in-gold-coast-coastal-growth-corridor-water-infrastructure'],
+    keywords: ["water storage and tank services in australia", "water storage tank water storage and", "PC Water Infrastructure"],
+  },
+  'water-storage-and-tank-services-in-sydney-commercial-and-industrial-water-storage-demand-across-nsw': {
+    relatedServices: [
+      { href: '/contact', label: 'Contact Our Team' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-brisbane-south-east-queensland-growth-and-water-security', 'water-storage-and-tank-services-in-sunshine-coast-coastal-development-and-water-security'],
+    keywords: ["water storage and tank services in australia", "water storage tank water storage and", "PC Water Infrastructure"],
+  },
+  'water-storage-and-tank-services-in-brisbane-south-east-queensland-growth-and-water-security': {
+    relatedServices: [
+      { href: '/contact', label: 'Contact Our Team' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-canberra-government-and-institutional-water-storage-in-the-capital', 'water-storage-and-tank-services-in-wollongong-illawarra-industrial-and-coastal-water-storage'],
+    keywords: ["water storage and tank services in australia", "water storage tank water storage and", "PC Water Infrastructure"],
+  },
+  'water-storage-and-tank-services-in-canberra-government-and-institutional-water-storage-in-the-capital': {
+    relatedServices: [
+      { href: '/contact', label: 'Contact Our Team' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-gold-coast-coastal-growth-corridor-water-infrastructure', 'water-storage-and-tank-services-in-melbourne-industrial-and-commercial-water-storage-across-victoria'],
+    keywords: ["water storage and tank services in australia", "water storage tank water storage and", "PC Water Infrastructure"],
+  },
+  'water-storage-and-tank-services-in-gold-coast-coastal-growth-corridor-water-infrastructure': {
+    relatedServices: [
+      { href: '/contact', label: 'Contact Our Team' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-sunshine-coast-coastal-development-and-water-security', 'water-storage-and-tank-services-in-hobart-tasmania-capital-and-industrial-water-security'],
+    keywords: ["water storage and tank services in australia", "water storage tank water storage and", "PC Water Infrastructure"],
+  },
+  'water-storage-and-tank-services-in-sunshine-coast-coastal-development-and-water-security': {
+    relatedServices: [
+      { href: '/contact', label: 'Contact Our Team' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-wollongong-illawarra-industrial-and-coastal-water-storage', 'water-storage-and-tank-services-in-sydney-commercial-and-industrial-water-storage-demand-across-nsw'],
+    keywords: ["water storage and tank services in australia", "water storage tank water storage and", "PC Water Infrastructure"],
+  },
+  'water-storage-and-tank-services-in-wollongong-illawarra-industrial-and-coastal-water-storage': {
+    relatedServices: [
+      { href: '/contact', label: 'Contact Our Team' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-melbourne-industrial-and-commercial-water-storage-across-victoria', 'water-storage-and-tank-services-in-brisbane-south-east-queensland-growth-and-water-security'],
+    keywords: ["water storage and tank services in australia", "water storage tank water storage and", "PC Water Infrastructure"],
+  },
+  'iron-ore-mine-water-storage-pilbara-scale-process-and-dust-suppression-requirements': {
+    relatedServices: [
+      { href: '/industries/mining-resources', label: 'Mining & Resources' },
+    ],
+    relatedResources: ['cil-tank-refurbishment-repairing-carbon-in-leach-circuits-without-stopping-production', 'leach-tank-refurbishment-structural-repair-for-corrosive-process-environments'],
+    keywords: ["iron ore mine water storage pilbara australia", "water storage tank iron ore mine", "PC Water Infrastructure"],
+  },
+  'mine-site-water-storage-decommissioning-and-rehabilitation-what-closure-planning-requires': {
+    relatedServices: [
+      { href: '/services/tank-maintenance-upgrades', label: 'Tank Maintenance & Upgrades' },
+    ],
+    relatedResources: ['cil-tank-refurbishment-repairing-carbon-in-leach-circuits-without-stopping-production', 'leach-tank-refurbishment-structural-repair-for-corrosive-process-environments'],
+    keywords: ["mine site water storage decommissioning and australia", "water storage tank mine site water", "PC Water Infrastructure"],
+  },
   'why-your-fire-tank-might-fail-compliance-and-how-to-fix-it-fast': {
     relatedServices: [
       { href: '/services/fire-water-tanks', label: 'Fire Water Tank Solutions' },

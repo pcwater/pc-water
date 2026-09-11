@@ -3951,6 +3951,346 @@ const posts = [
   <a href="/contact" class="cta-btn">Discuss a Gold Coast Project</a>
 </div>`,
   },
+  {
+    slug: 'water-storage-and-tank-services-in-sunshine-coast-coastal-development-and-water-security',
+    title: 'Water Storage and Tank Services in Sunshine Coast: Coastal Development and Water Security',
+    excerpt:
+      'The Sunshine Coast rapid growth as both a residential and hospitality destination has created steady demand for correctly specified water storage, from beachside resort compliance through to fast-growing hinterland communities.',
+    coverImage: 'cities/sunshine-coast-baroon-pocket-dam.jpg',
+    readTime: '6 min read',
+    publishedAt: d(46),
+    seoTitle: 'Water Storage and Tank Services in Sunshine Coast | PC Water',
+    seoDescription:
+      'Water storage and tank services for the Sunshine Coast - hospitality, residential and hinterland water infrastructure considerations.',
+    tags: [
+      ['tag-commercial-sunshine-coast', 'Commercial', 'commercial'],
+      ['tag-remote-projects-sunshine-coast', 'Remote & Regional', 'remote-projects'],
+    ],
+    content: `<p class="article-lead">
+  Baroon Pocket Dam, in the Sunshine Coast hinterland, is a key part of the region water supply system, feeding into the broader South East Queensland grid that has helped the area keep pace with genuinely rapid population and tourism growth over recent decades.
+</p>
+
+<p>The Sunshine Coast combines a substantial coastal hospitality and tourism economy with fast-growing residential communities spreading into the hinterland, creating a water storage demand profile that spans hotel and resort coldwater compliance through to fire protection for new residential and commercial development well beyond the immediate coastline.</p>
+
+<figure>
+  <img src="${BASE}/cities/sunshine-coast-baroon-pocket-dam.jpg" alt="Baroon Pocket Dam in the Sunshine Coast hinterland"/>
+  <figcaption><strong>Baroon Pocket Dam, part of the Sunshine Coast water supply.</strong> Feeding into the broader South East Queensland grid that supports the region rapid growth. Photo: Kgbo, CC BY-SA 4.0, via Wikimedia Commons.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What shapes storage decisions on the Sunshine Coast</span></div>
+
+<h3>Coastal hospitality and tourism water quality obligations</h3>
+<p>The region substantial hotel, resort and holiday accommodation sector means coldwater storage compliance and legionella risk management carries the same weight here as it does at other major Australian tourism destinations, given the direct guest safety implications.</p>
+
+<h3>Hinterland growth extending demand inland</h3>
+<p>Population growth spreading from the coastline into the Sunshine Coast hinterland has created steady demand for new fire and potable water storage infrastructure in communities that, in some cases, have less established infrastructure than the more developed coastal strip.</p>
+
+<div class="article-divider"><span>Climate and regional supply context</span></div>
+
+<h3>Storm season and freeboard sizing</h3>
+<p>Sunshine Coast storm season intensity is a relevant factor in freeboard and overflow sizing for water storage, consistent with the broader subtropical Queensland climate considerations that apply across the South East Queensland region.</p>
+
+<h3>Connection to the regional water grid</h3>
+<p>The Sunshine Coast connection to the broader South East Queensland water grid provides supply resilience benefits, though individual site storage and fire protection compliance still needs its own proper specification regardless of the wider network reliability.</p>
+
+<blockquote class="article-quotable">
+  <p>The Sunshine Coast growth story runs in both directions - along the coast through tourism and hospitality, and inland through the hinterland - and water storage infrastructure demand has followed both.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">2</span>
+  <span class="stat-label">Directions Sunshine Coast growth has extended water storage demand: along the coastal hospitality strip, and inland into the hinterland</span>
+</div>
+
+<div class="article-divider"><span>Water infrastructure considerations on the Sunshine Coast</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Consideration</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Hotel and resort coldwater compliance</td><td>Legionella and guest safety considerations at meaningful scale</td></tr>
+    <tr><td>Hinterland residential growth</td><td>New communities often have less established infrastructure</td></tr>
+    <tr><td>Storm season freeboard sizing</td><td>Reflects the region subtropical storm intensity</td></tr>
+    <tr><td>Regional grid connection</td><td>Provides supply resilience but does not replace site-level compliance</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does PC Water Infrastructure deliver projects on the Sunshine Coast?</p>
+  <p class="faq-a">Yes. We deliver water storage infrastructure across the Sunshine Coast, including hospitality, residential and hinterland community projects.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does the Sunshine Coast hinterland have different water infrastructure needs to the coast?</p>
+  <p class="faq-a">Often yes - hinterland communities experiencing newer growth can have less established infrastructure than the more developed coastal strip, creating steady demand for correctly specified new storage.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does the South East Queensland grid connection remove the need for site-level storage compliance?</p>
+  <p class="faq-a">No - regional grid connection provides supply resilience benefits, but individual sites still need their own properly specified and compliant fire and potable water storage.</p>
+</div>
+
+<div class="article-cta">
+  <p>Planning water storage infrastructure on the Sunshine Coast? PC Water Infrastructure delivers coastal, hospitality and hinterland projects.</p>
+  <a href="/contact" class="cta-btn">Discuss a Sunshine Coast Project</a>
+</div>`,
+  },
+  {
+    slug: 'water-storage-and-tank-services-in-wollongong-illawarra-industrial-and-coastal-water-storage',
+    title: 'Water Storage and Tank Services in Wollongong: Illawarra Industrial and Coastal Water Storage',
+    excerpt:
+      'Wollongong and the wider Illawarra region combine a significant heavy industry legacy with coastal residential and commercial growth, each shaping water storage infrastructure demand in different ways.',
+    coverImage: 'cities/wollongong-cordeaux-dam.jpg',
+    readTime: '6 min read',
+    publishedAt: d(47),
+    seoTitle: 'Water Storage and Tank Services in Wollongong | PC Water',
+    seoDescription:
+      'Water storage and tank services for Wollongong and the Illawarra region - industrial, coastal and commercial water infrastructure considerations.',
+    tags: [
+      ['tag-industrial-facilities-wollongong', 'Industrial Facilities', 'industrial-facilities'],
+      ['tag-commercial-wollongong', 'Commercial', 'commercial'],
+    ],
+    content: `<p class="article-lead">
+  Cordeaux Dam, part of the Illawarra water supply catchment system, has supplied the Wollongong region for over a century, supporting a city long defined by its steelmaking and heavy industry legacy alongside a growing coastal residential and commercial base.
+</p>
+
+<p>The Illawarra region industrial history, centred on steel production and related heavy industry, has created a substantial base of process and fire water storage infrastructure that continues to need condition assessment, maintenance and, in some cases, upgrade as facilities age and operational requirements evolve.</p>
+
+<figure>
+  <img src="${BASE}/cities/wollongong-cordeaux-dam.jpg" alt="Cordeaux Dam, part of the Illawarra water supply catchment"/>
+  <figcaption><strong>Cordeaux Dam, part of the Illawarra water catchment.</strong> Supplying the Wollongong region for over a century, supporting both its industrial base and residential growth. Photo via Wikimedia Commons, public domain.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What shapes storage decisions in Wollongong</span></div>
+
+<h3>A significant heavy industry legacy</h3>
+<p>Wollongong steelmaking and related heavy industry base carries substantial process and fire water storage infrastructure, much of it established over decades, creating ongoing demand for condition assessment and refurbishment work distinct from new-build demand.</p>
+
+<h3>Coastal residential and commercial growth</h3>
+<p>Alongside its industrial base, the Illawarra coastal strip has seen sustained residential and commercial growth, creating parallel demand for new fire and potable water storage infrastructure correctly specified for coastal conditions and modern building occupancy standards.</p>
+
+<div class="article-divider"><span>Climate and regional context</span></div>
+
+<h3>Coastal salt exposure and material selection</h3>
+<p>Wollongong coastal location means salt exposure is a relevant corrosion consideration for tank material and coating selection, particularly for installations close to the coastline or exposed to prevailing onshore conditions.</p>
+
+<h3>Connection to the broader Sydney and Illawarra supply network</h3>
+<p>The Illawarra region water supply system connects into the broader Sydney and regional NSW network, providing supply resilience, though individual industrial and commercial sites still need their own correctly specified and maintained storage regardless of the network broader reliability.</p>
+
+<blockquote class="article-quotable">
+  <p>Wollongong industrial legacy and coastal growth create two quite different water storage demand profiles within one region - ageing heavy industry infrastructure needing condition assessment, and new coastal development needing correct specification from the start.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">2</span>
+  <span class="stat-label">Distinct demand profiles shaping Wollongong water storage: ageing heavy industry infrastructure, and newer coastal residential and commercial growth</span>
+</div>
+
+<div class="article-divider"><span>Water infrastructure considerations in Wollongong</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Consideration</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Heavy industry process and fire water assets</td><td>Established infrastructure needing ongoing condition assessment</td></tr>
+    <tr><td>Coastal residential and commercial growth</td><td>New storage needs correct specification for coastal conditions</td></tr>
+    <tr><td>Coastal salt exposure</td><td>Affects tank material and coating selection near the coastline</td></tr>
+    <tr><td>Regional supply network connection</td><td>Provides resilience but does not replace site-level compliance</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does PC Water Infrastructure deliver projects in Wollongong and the Illawarra?</p>
+  <p class="faq-a">Yes. We deliver water storage infrastructure across Wollongong and the wider Illawarra region, including industrial, commercial and residential projects.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Why does Wollongong have significant industrial water storage infrastructure?</p>
+  <p class="faq-a">The region steelmaking and heavy industry legacy has created a substantial base of process and fire water storage assets, much of it established over decades and requiring ongoing condition assessment and maintenance.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does coastal location affect tank material selection in Wollongong?</p>
+  <p class="faq-a">Yes - salt exposure is a relevant corrosion consideration for installations close to the coastline or exposed to prevailing onshore conditions.</p>
+</div>
+
+<div class="article-cta">
+  <p>Planning water storage infrastructure in Wollongong or the Illawarra region? PC Water Infrastructure delivers industrial, commercial and coastal projects.</p>
+  <a href="/contact" class="cta-btn">Discuss a Wollongong Project</a>
+</div>`,
+  },
+  {
+    slug: 'iron-ore-mine-water-storage-pilbara-scale-process-and-dust-suppression-requirements',
+    title: 'Iron Ore Mine Water Storage: Pilbara Scale Process and Dust Suppression Requirements',
+    excerpt:
+      'Iron ore operations in the Pilbara run at a scale, and in a climate, that puts water storage infrastructure under genuinely extreme demand - dust suppression across vast haul networks, and process water in one of Australia\'s harshest environments.',
+    coverImage: 'harsh-env-drone.jpg',
+    readTime: '7 min read',
+    publishedAt: d(48),
+    seoTitle: 'Iron Ore Mine Water Storage Pilbara | PC Water',
+    seoDescription:
+      'Water storage for iron ore mining operations at Pilbara scale - dust suppression across large haul networks, and process water in an extreme climate.',
+    tags: [
+      ['tag-mining-resources-iron-ore', 'Mining & Resources', 'mining-resources'],
+      ['tag-remote-projects-iron-ore', 'Remote & Regional', 'remote-projects'],
+    ],
+    content: `<p class="article-lead">
+  Iron ore mining in the Pilbara operates at a scale most other industries simply do not encounter - haul road networks running many kilometres, processing operations running continuously, and a climate that combines extreme heat, low humidity and genuinely long dry seasons. Water storage infrastructure here has to be sized and specified for conditions at the harsher end of what Australian industry deals with anywhere.
+</p>
+
+<p>Dust suppression across extensive haul road networks is typically the single largest water demand at a Pilbara iron ore operation, driven by both work health and safety requirements around respirable dust and the practical need to keep haul roads safe and operational for continuous heavy vehicle movement.</p>
+
+<figure>
+  <img src="${BASE}/harsh-env-drone.jpg" alt="Aerial view of water infrastructure supporting an iron ore mining operation"/>
+  <figcaption><strong>Scale changes the whole planning exercise.</strong> Water storage for a Pilbara iron ore operation needs to cover haul networks and processing demand at a scale that few other industrial applications encounter.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What drives storage at this scale</span></div>
+
+<h3>Extensive haul network dust suppression</h3>
+<p>Haul road networks at large Pilbara operations can run to many kilometres, and dust suppression demand scales directly with network length and haul truck traffic volume - storage and water cart supply logistics need to be planned against the actual network extent, not a generic per-tonne production estimate.</p>
+
+<h3>Extreme climate accelerating evaporation and demand</h3>
+<p>The Pilbara combination of high temperatures, low humidity and long dry seasons increases both suppression water evaporation rates and general operational water demand compared to milder climates - storage sizing needs to account for this climate reality directly, since a specification developed for a temperate site will understate real Pilbara demand.</p>
+
+<div class="article-divider"><span>Process water and supply reliability</span></div>
+
+<h3>Process water for beneficiation and materials handling</h3>
+<p>Beyond dust suppression, iron ore processing and materials handling operations carry their own substantial process water demand, generally more predictable and tied to production throughput, but still requiring dedicated storage separate from the dust suppression allocation.</p>
+
+<h3>Supply source reliability in a genuinely remote setting</h3>
+<p>Pilbara operations typically rely on bore fields or other remote supply sources with their own yield variability, and given the extreme consequence of a water shortfall at this scale, storage buffer and supply redundancy need to be planned conservatively rather than against an optimistic average yield assumption.</p>
+
+<blockquote class="article-quotable">
+  <p>Water storage at Pilbara iron ore scale is not a bigger version of a standard mine-site problem - the combination of network extent and climate severity genuinely changes the sizing math from what applies almost anywhere else.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">2</span>
+  <span class="stat-label">Compounding factors at Pilbara iron ore scale: haul network dust suppression demand, and evaporation losses from an extreme climate</span>
+</div>
+
+<div class="article-divider"><span>Pilbara iron ore water storage checklist</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Item</th><th>Why it matters</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Haul network length and traffic volume</td><td>Directly drives dust suppression water demand</td></tr>
+    <tr><td>Climate-adjusted evaporation allowance</td><td>Standard estimates understate genuine Pilbara demand</td></tr>
+    <tr><td>Separate process water allocation</td><td>Distinct from dust suppression, tied to production throughput</td></tr>
+    <tr><td>Conservative supply source buffer</td><td>Reflects the severity of a shortfall at this scale</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">Why is dust suppression usually the largest water demand at a Pilbara iron ore operation?</p>
+  <p class="faq-a">Haul road networks at large operations extend many kilometres, and suppression demand scales directly with network length and heavy vehicle traffic, driven by both safety requirements and operational necessity.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does climate affect water storage sizing in the Pilbara?</p>
+  <p class="faq-a">Significantly - high temperatures, low humidity and long dry seasons increase evaporation and general water demand, meaning storage specifications developed for milder climates will understate real Pilbara requirements.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How should supply source reliability be treated for a large Pilbara operation?</p>
+  <p class="faq-a">Conservatively - given the scale and remoteness of these operations, storage buffer and supply redundancy should be planned against realistic rather than optimistic bore field or supply source yield assumptions.</p>
+</div>
+
+<div class="article-cta">
+  <p>Planning water storage for a Pilbara-scale iron ore operation? PC Water Infrastructure sizes for the real demands of extreme climate and network scale.</p>
+  <a href="/industries/mining-resources" class="cta-btn">Discuss Iron Ore Water Storage</a>
+</div>`,
+  },
+  {
+    slug: 'mine-site-water-storage-decommissioning-and-rehabilitation-what-closure-planning-requires',
+    title: 'Mine Site Water Storage Decommissioning and Rehabilitation: What Closure Planning Requires',
+    excerpt:
+      'Mine closure planning treats water storage decommissioning as a defined obligation, not an afterthought - tanks and reservoirs need to be removed or rehabilitated to a standard set out well before closure day arrives.',
+    coverImage: 'harsh-env-hero.jpg',
+    readTime: '6 min read',
+    publishedAt: d(49),
+    seoTitle: 'Mine Site Water Storage Decommissioning | PC Water',
+    seoDescription:
+      'Water storage decommissioning and rehabilitation for mine site closure - planning obligations, structural removal and environmental compliance.',
+    tags: [
+      ['tag-mining-resources-decommission', 'Mining & Resources', 'mining-resources'],
+      ['tag-tank-maintenance-decommission', 'Tank Maintenance', 'tank-maintenance'],
+    ],
+    content: `<p class="article-lead">
+  Mine closure planning treats every piece of site infrastructure as something that eventually needs a defined end state, and water storage - potable tanks, process tanks, and environmental control reservoirs alike - is no exception. Decommissioning obligations are typically set out in the mine closure plan well before actual closure, not worked out reactively once production has ceased.
+</p>
+
+<p>Environmental control reservoirs carry particular decommissioning complexity given their direct contact with contact water and, potentially, contaminated sediment over the operating life of the mine - rehabilitation of these structures needs to address both the physical infrastructure and any residual contamination, under conditions the environmental approval and closure plan will have specified.</p>
+
+<figure>
+  <img src="${BASE}/harsh-env-hero.jpg" alt="Mine site infrastructure approaching end of operational life"/>
+  <figcaption><strong>Closure is planned, not improvised.</strong> Water storage decommissioning at a mine site follows obligations set out in the closure plan well ahead of actual closure, covering both structural removal and any environmental rehabilitation required.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What decommissioning actually involves</span></div>
+
+<h3>Structural removal versus rehabilitation in place</h3>
+<p>Depending on the closure plan and the specific structure, water storage decommissioning can mean full removal of the tank or reservoir structure, or in some cases rehabilitation and repurposing in place - the closure plan and relevant approvals determine which applies, and this needs to be confirmed early rather than assumed.</p>
+
+<h3>Contaminated sediment and residual material management</h3>
+<p>Tanks and reservoirs that held process water or contact water over an operating life can accumulate sediment or residual material requiring specific handling and disposal as part of decommissioning - this needs proper assessment before physical decommissioning work begins, not discovered partway through.</p>
+
+<div class="article-divider"><span>Compliance and documentation through closure</span></div>
+
+<h3>Meeting the standard set in the closure plan and approvals</h3>
+<p>Decommissioning work needs to be delivered against the specific standard set out in the mine closure plan and any relevant environmental approvals - these documents, not general industry practice, are the actual compliance benchmark for what constitutes properly completed decommissioning.</p>
+
+<h3>Documentation supporting closure sign-off</h3>
+<p>Regulators reviewing mine closure typically require documented evidence that decommissioning was completed to the specified standard - maintaining thorough records throughout the decommissioning process supports a smoother closure sign-off rather than requiring reconstruction of the record after the fact.</p>
+
+<blockquote class="article-quotable">
+  <p>Water storage decommissioning at mine closure is judged against the specific obligations set out in the closure plan, not a general industry standard - getting those obligations confirmed early avoids costly rework later.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">2</span>
+  <span class="stat-label">Decommissioning approaches determined by the closure plan: full structural removal, or rehabilitation and repurposing in place</span>
+</div>
+
+<div class="article-divider"><span>Mine-site water storage decommissioning checklist</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Step</th><th>Purpose</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Confirm closure plan and approval requirements</td><td>Determines removal versus rehabilitation approach for each structure</td></tr>
+    <tr><td>Assess sediment and residual material</td><td>Identifies handling and disposal needs before physical work begins</td></tr>
+    <tr><td>Deliver to the specified closure standard</td><td>The actual compliance benchmark, not general industry practice</td></tr>
+    <tr><td>Maintain documentation throughout</td><td>Supports regulator sign-off on completed closure</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">Are water storage tanks always fully removed during mine decommissioning?</p>
+  <p class="faq-a">Not always - depending on the closure plan and relevant approvals, some structures may be rehabilitated and repurposed in place rather than fully removed. This is determined by the closure plan, not assumed.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">What happens to sediment or residual material in a tank being decommissioned?</p>
+  <p class="faq-a">This needs proper assessment before decommissioning begins, since tanks that held process or contact water can accumulate material requiring specific handling and disposal as part of the closure process.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">What standard does mine-site water storage decommissioning need to meet?</p>
+  <p class="faq-a">The specific standard set out in the mine closure plan and relevant environmental approvals - these documents are the actual compliance benchmark, not a general industry practice assumption.</p>
+</div>
+
+<div class="article-cta">
+  <p>Planning water storage decommissioning or rehabilitation as part of mine closure? PC Water Infrastructure delivers to your closure plan requirements.</p>
+  <a href="/services/tank-maintenance-upgrades" class="cta-btn">Discuss Mine Closure Water Infrastructure</a>
+</div>`,
+  },
 ]
 
 // -- IMAGE UPLOAD LIST (unique images referenced) ------------------------------
@@ -3972,6 +4312,14 @@ const imageFiles = [
   'iron-bacteria-fouling.jpg',
   'ticking-inspection.jpg',
   'fire-tank-corroded.jpg',
+  'cities/melbourne-maroondah-dam.jpg',
+  'cities/hobart-rivulet.jpg',
+  'cities/sydney-warragamba-dam.jpg',
+  'cities/brisbane-wivenhoe-dam.jpg',
+  'cities/canberra-googong-dam.jpg',
+  'cities/gold-coast-hinze-dam.jpg',
+  'cities/sunshine-coast-baroon-pocket-dam.jpg',
+  'cities/wollongong-cordeaux-dam.jpg',
 ]
 
 // -- STATIC MODE: print TS entries for lib/cms/static-content.ts ---------------
