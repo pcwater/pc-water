@@ -1454,20 +1454,15 @@ export default async function ResourceArticlePage({
               )}
             </div>
 
-            <aside className="rounded-2xl border border-white/15 bg-white/[0.08] p-5 text-white shadow-[0_24px_70px_-38px_rgba(0,0,0,0.8)] backdrop-blur-md">
-              <p className="text-[10px] font-black uppercase tracking-[0.18em] text-[#77c5f5]">{conversion.eyebrow}</p>
-              <h2 className="mt-3 text-xl font-black leading-tight">{conversion.heading}</h2>
-              <p className="mt-3 text-sm leading-6 text-slate-200">{conversion.body}</p>
+            <aside className="rounded-xl border border-white/15 bg-white/[0.07] p-4 text-white backdrop-blur-md">
+              <h2 className="text-base font-bold leading-snug">{conversion.heading}</h2>
+              <p className="mt-1.5 text-xs leading-5 text-slate-300">{conversion.body}</p>
               <Link
                 href={enquiryHref}
-                className="mt-5 inline-flex min-h-11 w-full items-center justify-center rounded-xl bg-[#3e91ce] px-5 text-sm font-black text-white shadow-[0_14px_32px_-18px_rgba(62,145,206,0.8)] transition hover:bg-[#2f7fb9] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white"
+                className="mt-3 inline-flex items-center gap-1.5 rounded-lg bg-[#3e91ce] px-3.5 py-2 text-xs font-bold text-white transition hover:bg-[#2f7fb9] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white"
               >
                 {conversion.enquiryLabel}
-                <span className="ml-2" aria-hidden>→</span>
-              </Link>
-              <Link href={conversion.toolHref} className="mt-3 inline-flex text-xs font-bold text-slate-300 transition hover:text-white">
-                {conversion.toolLabel}
-                <span className="ml-1" aria-hidden>→</span>
+                <span aria-hidden>→</span>
               </Link>
             </aside>
           </div>
