@@ -31,16 +31,16 @@ function relativeTime(value: string) {
 
 function LeadMetric({ label, value, detail, href, accent }: { label: string; value: number | string; detail: string; href: string; accent: string }) {
   return (
-    <Link href={href} className="cms-stat-card group p-5">
+    <Link href={href} className="cms-stat-card group p-3.5">
       <div className="flex items-start justify-between">
-        <span className={`grid h-10 w-10 place-items-center rounded-xl ${accent}`}>
-          <svg className="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.8} d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" /></svg>
+        <span className={`grid h-8 w-8 place-items-center rounded-lg ${accent}`}>
+          <svg className="h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.8} d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" /></svg>
         </span>
         <span className="text-slate-300 transition group-hover:translate-x-0.5 group-hover:text-[#3e91ce]">→</span>
       </div>
-      <p className="mt-6 text-[10px] font-black uppercase tracking-[0.16em] text-slate-400">{label}</p>
-      <p className="mt-1 text-3xl font-black tracking-tight text-slate-950 dark:text-white">{value}</p>
-      <p className="mt-1 text-xs text-slate-500 dark:text-slate-400">{detail}</p>
+      <p className="mt-3 text-[10px] font-black uppercase tracking-[0.14em] text-slate-400">{label}</p>
+      <p className="mt-0.5 text-2xl font-black tracking-tight text-slate-950 dark:text-white">{value}</p>
+      <p className="mt-0.5 truncate text-[11px] text-slate-500 dark:text-slate-400">{detail}</p>
     </Link>
   )
 }
@@ -105,12 +105,12 @@ export default function CmsDashboardPage() {
   ].sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()).slice(0, 10), [enquiries, resources, tools])
 
   return (
-    <div className="space-y-7">
-      <header className="flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between">
+    <div className="space-y-4">
+      <header className="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
         <div>
           <p className="cms-kicker">Commercial overview</p>
           <h1 className="cms-page-title">Lead Command Center</h1>
-          <p className="cms-page-subtitle">The highest-intent activity across enquiries, assessment tools and resources.</p>
+          <p className="cms-page-subtitle">Highest-intent activity across enquiries, tools and resources.</p>
         </div>
         <div className="flex gap-2">
           <Link href="/cms/enquiries" className="cms-button-primary">Open lead inbox</Link>
@@ -118,21 +118,24 @@ export default function CmsDashboardPage() {
         </div>
       </header>
 
-      <section className="relative overflow-hidden rounded-[1.4rem] bg-[#071827] p-6 text-white shadow-[0_30px_80px_-45px_rgba(7,24,39,0.95)] sm:p-8">
-        <div className="absolute -right-20 -top-28 h-80 w-80 rounded-full border border-[#55a9dd]/15" />
-        <div className="absolute right-10 top-0 h-48 w-48 rounded-full bg-[#3e91ce]/10 blur-3xl" />
-        <div className="relative grid gap-8 lg:grid-cols-[1fr_auto] lg:items-end">
-          <div>
-            <p className="text-[10px] font-black uppercase tracking-[0.2em] text-[#62b1e1]">Total identified leads</p>
-            <div className="mt-3 flex items-end gap-4">
-              <p className="text-6xl font-black tracking-[-0.06em] sm:text-7xl">{loading ? '—' : totalIdentifiedLeads}</p>
-              <div className="pb-2"><p className="font-bold text-slate-200">{lastSevenDays} activities</p><p className="text-xs text-slate-400">recorded in the last 7 days</p></div>
+      <section className="relative overflow-hidden rounded-2xl bg-[#071827] p-4 text-white shadow-[0_22px_60px_-42px_rgba(7,24,39,0.95)]">
+        <div className="absolute -right-16 -top-24 h-64 w-64 rounded-full border border-[#55a9dd]/15" />
+        <div className="absolute right-10 top-0 h-36 w-36 rounded-full bg-[#3e91ce]/10 blur-3xl" />
+        <div className="relative grid gap-4 lg:grid-cols-[minmax(0,1fr)_auto] lg:items-center">
+          <div className="flex items-end gap-4">
+            <div>
+              <p className="text-[10px] font-black uppercase tracking-[0.18em] text-[#62b1e1]">Total identified leads</p>
+              <p className="mt-1 text-5xl font-black tracking-[-0.06em]">{loading ? '—' : totalIdentifiedLeads}</p>
+            </div>
+            <div className="pb-2">
+              <p className="text-sm font-bold text-slate-200">{lastSevenDays} activities</p>
+              <p className="text-[11px] text-slate-400">last 7 days</p>
             </div>
           </div>
-          <div className="grid grid-cols-2 gap-3 sm:grid-cols-3">
-            <div className="rounded-xl border border-white/10 bg-white/[0.05] px-4 py-3"><p className="text-2xl font-black">{enquiries.length}</p><p className="text-[10px] font-bold uppercase tracking-wider text-slate-400">Enquiries</p></div>
-            <div className="rounded-xl border border-white/10 bg-white/[0.05] px-4 py-3"><p className="text-2xl font-black">{identifiedToolLeads.length}</p><p className="text-[10px] font-bold uppercase tracking-wider text-slate-400">Tool leads</p></div>
-            <div className="rounded-xl border border-white/10 bg-white/[0.05] px-4 py-3"><p className="text-2xl font-black">{resources.length}</p><p className="text-[10px] font-bold uppercase tracking-wider text-slate-400">Downloads</p></div>
+          <div className="grid grid-cols-3 gap-2">
+            <div className="rounded-xl border border-white/10 bg-white/[0.05] px-3 py-2"><p className="text-xl font-black">{enquiries.length}</p><p className="text-[9px] font-bold uppercase tracking-wider text-slate-400">Enquiries</p></div>
+            <div className="rounded-xl border border-white/10 bg-white/[0.05] px-3 py-2"><p className="text-xl font-black">{identifiedToolLeads.length}</p><p className="text-[9px] font-bold uppercase tracking-wider text-slate-400">Tool leads</p></div>
+            <div className="rounded-xl border border-white/10 bg-white/[0.05] px-3 py-2"><p className="text-xl font-black">{resources.length}</p><p className="text-[9px] font-bold uppercase tracking-wider text-slate-400">Downloads</p></div>
           </div>
         </div>
       </section>
@@ -144,21 +147,21 @@ export default function CmsDashboardPage() {
         <LeadMetric label="Resource leads" value={loading ? '—' : resources.length} detail="gated downloads" href="/cms/leads" accent="bg-amber-50 text-amber-600 dark:bg-amber-500/10 dark:text-amber-300" />
       </section>
 
-      <section className="grid gap-5 xl:grid-cols-[minmax(0,1fr)_320px]">
+      <section className="grid gap-4 xl:grid-cols-[minmax(0,1fr)_300px]">
         <div className="cms-card">
-          <div className="flex items-center justify-between border-b border-slate-200/70 px-5 py-4 dark:border-white/[0.06]">
-            <div><p className="text-sm font-black text-slate-950 dark:text-white">Latest lead activity</p><p className="mt-0.5 text-xs text-slate-400">Newest activity across every capture point</p></div>
+          <div className="flex items-center justify-between border-b border-slate-200/70 px-4 py-3 dark:border-white/[0.06]">
+            <div><p className="text-sm font-black text-slate-950 dark:text-white">Latest lead activity</p><p className="mt-0.5 text-[11px] text-slate-400">Newest activity across every capture point</p></div>
             <span className="rounded-full bg-rose-50 px-2.5 py-1 text-[10px] font-black uppercase tracking-wide text-rose-700 dark:bg-rose-500/10 dark:text-rose-300">Priority view</span>
           </div>
           {loading ? (
-            <div className="grid min-h-72 place-items-center text-sm text-slate-400">Loading lead activity…</div>
+            <div className="grid min-h-60 place-items-center text-sm text-slate-400">Loading lead activity…</div>
           ) : activity.length === 0 ? (
-            <div className="grid min-h-72 place-items-center text-sm text-slate-400">No lead activity yet.</div>
+            <div className="grid min-h-60 place-items-center text-sm text-slate-400">No lead activity yet.</div>
           ) : (
-            <div className="divide-y divide-slate-100 dark:divide-white/[0.05]">
+            <div className="max-h-[330px] divide-y divide-slate-100 overflow-y-auto dark:divide-white/[0.05]">
               {activity.map((item) => (
-                <Link key={`${item.kind}-${item.id}`} href={item.href} className="grid gap-3 px-5 py-4 transition hover:bg-slate-50/80 sm:grid-cols-[110px_minmax(0,1fr)_auto_auto] sm:items-center dark:hover:bg-white/[0.025]">
-                  <span className="text-[10px] font-black uppercase tracking-wider text-[#2f7fb9]">{item.kind}</span>
+                <Link key={`${item.kind}-${item.id}`} href={item.href} className="grid gap-2 px-4 py-2.5 transition hover:bg-slate-50/80 sm:grid-cols-[90px_minmax(0,1fr)_auto_auto] sm:items-center dark:hover:bg-white/[0.025]">
+                  <span className="text-[9px] font-black uppercase tracking-wider text-[#2f7fb9]">{item.kind}</span>
                   <div className="min-w-0"><p className="truncate text-sm font-bold text-slate-950 dark:text-white">{item.name}</p><p className="mt-0.5 truncate text-xs text-slate-500">{item.detail}</p></div>
                   <PriorityPill value={item.priority} />
                   <span className="whitespace-nowrap text-xs text-slate-400">{relativeTime(item.date)}</span>
@@ -168,24 +171,24 @@ export default function CmsDashboardPage() {
           )}
         </div>
 
-        <div className="space-y-5">
-          <div className="cms-card p-5">
+        <div className="space-y-4">
+          <div className="cms-card p-4">
             <p className="cms-kicker">Fast actions</p>
-            <div className="mt-4 space-y-2">
+            <div className="mt-3 space-y-2">
               {[
                 ['/cms/enquiries', 'Review project enquiries'],
                 ['/cms/tool-leads', 'Inspect tool intent'],
                 ['/cms/posts/new', 'Publish an article'],
                 ['/cms/projects/new', 'Add a project'],
-              ].map(([href, label]) => <Link key={href} href={href} className="flex items-center justify-between rounded-xl border border-slate-200 px-4 py-3 text-sm font-bold text-slate-700 transition hover:border-[#3e91ce] hover:text-[#2f7fb9] dark:border-white/[0.07] dark:text-slate-200"><span>{label}</span><span>→</span></Link>)}
+              ].map(([href, label]) => <Link key={href} href={href} className="flex items-center justify-between rounded-xl border border-slate-200 px-3 py-2.5 text-sm font-bold text-slate-700 transition hover:border-[#3e91ce] hover:text-[#2f7fb9] dark:border-white/[0.07] dark:text-slate-200"><span>{label}</span><span>→</span></Link>)}
             </div>
           </div>
-          <div className="cms-card p-5">
+          <div className="cms-card p-4">
             <p className="cms-kicker">Content operations</p>
-            <div className="mt-4 grid grid-cols-2 gap-3">
-              <div className="rounded-xl bg-slate-50 p-4 dark:bg-white/[0.04]"><p className="text-2xl font-black text-slate-950 dark:text-white">{posts.length}</p><p className="text-xs text-slate-500">Articles</p></div>
-              <div className="rounded-xl bg-slate-50 p-4 dark:bg-white/[0.04]"><p className="text-2xl font-black text-slate-950 dark:text-white">{projects.length}</p><p className="text-xs text-slate-500">Projects</p></div>
-              <div className="col-span-2 rounded-xl bg-slate-50 p-4 dark:bg-white/[0.04]"><p className="text-2xl font-black text-slate-950 dark:text-white">{posts.filter((post) => post.status === 'published').length + projects.filter((project) => project.status === 'published').length}</p><p className="text-xs text-slate-500">Published entries</p></div>
+            <div className="mt-3 grid grid-cols-3 gap-2">
+              <div className="rounded-xl bg-slate-50 p-3 dark:bg-white/[0.04]"><p className="text-xl font-black text-slate-950 dark:text-white">{posts.length}</p><p className="text-[11px] text-slate-500">Articles</p></div>
+              <div className="rounded-xl bg-slate-50 p-3 dark:bg-white/[0.04]"><p className="text-xl font-black text-slate-950 dark:text-white">{projects.length}</p><p className="text-[11px] text-slate-500">Projects</p></div>
+              <div className="rounded-xl bg-slate-50 p-3 dark:bg-white/[0.04]"><p className="text-xl font-black text-slate-950 dark:text-white">{posts.filter((post) => post.status === 'published').length + projects.filter((project) => project.status === 'published').length}</p><p className="text-[11px] text-slate-500">Published</p></div>
             </div>
           </div>
         </div>

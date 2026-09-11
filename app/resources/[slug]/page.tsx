@@ -1385,7 +1385,7 @@ export default async function ResourceArticlePage({
         author={{ name: author.name, role: author.role }}
       />
       {/* Hero — full bleed cover image with overlay */}
-      <section className="relative pt-28 pb-14 sm:pt-36 sm:pb-20 lg:pt-40 lg:pb-24 overflow-hidden min-h-[480px] flex items-end">
+      <section className="relative flex min-h-[480px] items-end overflow-hidden pb-12 pt-28 sm:pb-16 sm:pt-36 lg:pb-20 lg:pt-40">
         {post.coverImageUrl ? (
           <AppImage
             src={post.coverImageUrl}
@@ -1399,57 +1399,78 @@ export default async function ResourceArticlePage({
           <div className="absolute inset-0 bg-gradient-to-br from-[#162538] via-[#30505b] to-[#3e91ce]" />
         )}
         <div className="absolute inset-0 bg-[#0d1b2a]/70" />
-        <div className="relative z-10 max-w-4xl mx-auto px-4 w-full">
-          <Breadcrumbs
-            light
-            items={[
-              { label: 'Home', href: '/' },
-              { label: 'Articles', href: '/resources' },
-              { label: meta.category.shortName, href: `/resources/category/${meta.category.slug}` },
-            ]}
-          />
-          <div className="flex flex-wrap items-center gap-2 mb-5">
-            <Link
-              href={`/resources/category/${meta.category.slug}`}
-              className="inline-flex items-center rounded-full px-3 py-1 text-[11px] font-bold uppercase tracking-wider text-white transition-opacity hover:opacity-85"
-              style={{ backgroundColor: meta.category.accent }}
-            >
-              {meta.category.name}
-            </Link>
-            <span className="rounded-full rounded-full border border-white/25 px-3 py-1 text-[11px] font-bold uppercase tracking-wider text-white/80">
-              {meta.format.label}
-            </span>
-            {meta.region && (
-              <Link
-                href={`/resources/region/${meta.region.slug}`}
-                className="rounded-full rounded-full border border-white/25 px-3 py-1 text-[11px] font-bold uppercase tracking-wider text-white/80 transition-colors hover:border-[#3e91ce] hover:text-white"
-              >
-                {meta.region.name}
-              </Link>
-            )}
-          </div>
-          <h1 className="text-[1.9rem] sm:text-4xl md:text-5xl font-black text-white mb-5 leading-tight">{post.title}</h1>
-          <div className="flex flex-wrap items-center gap-x-5 gap-y-3">
-            <ArticleByline author={author} light />
-            <div className="flex flex-wrap items-center gap-3 text-gray-400 text-sm">
-              {post.readTime && <span className="bg-white/10 px-3 py-1 rounded-full text-white/70">{post.readTime}</span>}
-              {post.publishedAt && <span>{formatDate(post.publishedAt)}</span>}
-            </div>
-          </div>
-          {meta.topics.length > 0 && (
-            <div className="mt-5 flex flex-wrap items-center gap-2">
-              <span className="text-xs text-gray-500">Topics:</span>
-              {meta.topics.map((topic) => (
+        <div className="relative z-10 mx-auto w-full max-w-6xl px-4">
+          <div className="grid gap-7 lg:grid-cols-[minmax(0,1fr)_360px] lg:items-end">
+            <div>
+              <Breadcrumbs
+                light
+                items={[
+                  { label: 'Home', href: '/' },
+                  { label: 'Articles', href: '/resources' },
+                  { label: meta.category.shortName, href: `/resources/category/${meta.category.slug}` },
+                ]}
+              />
+              <div className="mb-5 flex flex-wrap items-center gap-2">
                 <Link
-                  key={topic.slug}
-                  href={`/resources/topic/${topic.slug}`}
-                  className="rounded-full bg-white/10 px-3 py-1 text-xs font-medium text-gray-300 transition-colors hover:bg-white/20 hover:text-white"
+                  href={`/resources/category/${meta.category.slug}`}
+                  className="inline-flex items-center rounded-full px-3 py-1 text-[11px] font-bold uppercase tracking-wider text-white transition-opacity hover:opacity-85"
+                  style={{ backgroundColor: meta.category.accent }}
                 >
-                  {topic.name}
+                  {meta.category.name}
                 </Link>
-              ))}
+                <span className="rounded-full border border-white/25 px-3 py-1 text-[11px] font-bold uppercase tracking-wider text-white/80">
+                  {meta.format.label}
+                </span>
+                {meta.region && (
+                  <Link
+                    href={`/resources/region/${meta.region.slug}`}
+                    className="rounded-full border border-white/25 px-3 py-1 text-[11px] font-bold uppercase tracking-wider text-white/80 transition-colors hover:border-[#3e91ce] hover:text-white"
+                  >
+                    {meta.region.name}
+                  </Link>
+                )}
+              </div>
+              <h1 className="mb-5 text-[1.9rem] font-black leading-tight text-white sm:text-4xl md:text-5xl">{post.title}</h1>
+              <div className="flex flex-wrap items-center gap-x-5 gap-y-3">
+                <ArticleByline author={author} light />
+                <div className="flex flex-wrap items-center gap-3 text-sm text-gray-400">
+                  {post.readTime && <span className="rounded-full bg-white/10 px-3 py-1 text-white/70">{post.readTime}</span>}
+                  {post.publishedAt && <span>{formatDate(post.publishedAt)}</span>}
+                </div>
+              </div>
+              {meta.topics.length > 0 && (
+                <div className="mt-5 flex flex-wrap items-center gap-2">
+                  <span className="text-xs text-gray-500">Topics:</span>
+                  {meta.topics.map((topic) => (
+                    <Link
+                      key={topic.slug}
+                      href={`/resources/topic/${topic.slug}`}
+                      className="rounded-full bg-white/10 px-3 py-1 text-xs font-medium text-gray-300 transition-colors hover:bg-white/20 hover:text-white"
+                    >
+                      {topic.name}
+                    </Link>
+                  ))}
+                </div>
+              )}
             </div>
-          )}
+
+            <aside className="rounded-2xl border border-white/15 bg-white/[0.08] p-5 text-white shadow-[0_24px_70px_-38px_rgba(0,0,0,0.8)] backdrop-blur-md">
+              <p className="text-[10px] font-black uppercase tracking-[0.18em] text-[#77c5f5]">{conversion.eyebrow}</p>
+              <h2 className="mt-3 text-xl font-black leading-tight">{conversion.heading}</h2>
+              <p className="mt-3 text-sm leading-6 text-slate-200">{conversion.body}</p>
+              <Link
+                href={enquiryHref}
+                className="mt-5 inline-flex min-h-11 w-full items-center justify-center rounded-xl bg-[#3e91ce] px-5 text-sm font-black text-white shadow-[0_14px_32px_-18px_rgba(62,145,206,0.8)] transition hover:bg-[#2f7fb9] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white"
+              >
+                {conversion.enquiryLabel}
+                <span className="ml-2" aria-hidden>→</span>
+              </Link>
+              <Link href={conversion.toolHref} className="mt-3 inline-flex text-xs font-bold text-slate-300 transition hover:text-white">
+                {conversion.toolLabel}
+                <span className="ml-1" aria-hidden>→</span>
+              </Link>
+            </aside>
+          </div>
         </div>
       </section>
 
