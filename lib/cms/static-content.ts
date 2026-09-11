@@ -542,6 +542,11 @@ export const fallbackPosts: CmsPost[] = [
   </tbody>
 </table>
 
+<div class="article-pull-stat">
+  <span class="stat-num">0.3 mg/L</span>
+  <span class="stat-label">ADWG aesthetic guideline value for iron in drinking water — above this, staining and taste complaints typically start</span>
+</div>
+
 <blockquote class="article-quotable">
   <p>When the same storage asset keeps sitting behind brown or black water complaints, the tank is no longer just the place where the evidence settles. It is part of the mechanism.</p>
 </blockquote>
@@ -1000,6 +1005,11 @@ export const fallbackPosts: CmsPost[] = [
 </figure>
 
 <div class="article-divider"><span>The tanker cost factor</span></div>
+
+<div class="article-pull-stat">
+  <span class="stat-num">45 min</span>
+  <span class="stat-label">Return-trip time to the discharge point beyond which a two-tanker rotation starts leaving gaps in the cleaning schedule</span>
+</div>
 
 <p>A standard 25,000 litre semi tanker fills in approximately one hour of continuous vacuuming. Two tankers allow uninterrupted rotation when the round-trip is under 45 minutes. Beyond that, a third is needed - and vehicle hire, driver time, and disposal fees compound quickly. Get the full logistics plan and a cost breakdown before signing, not just a day rate.</p>
 
@@ -1580,6 +1590,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>The value of an inspection is not the visit — it is the record. A dated, photographic condition report at defined positions is what lets you plan maintenance, defend compliance, and compare the asset against itself next cycle.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">0 events</span>
+  <span class="stat-label">Dewatering events required for a ROV condition assessment — the tank stays in service throughout the inspection</span>
+</div>
+
 <div class="article-divider"><span>What a real report contains</span></div>
 
 <table class="checklist-table">
@@ -1770,6 +1785,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>ROV and manned entry are not competing methods — they are sequential ones. The ROV tells you where to look closely; manned entry, where it is needed, tells you exactly what is happening there.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">0 days</span>
+  <span class="stat-label">Typical service downtime a well-planned ROV inspection adds to a potable or fire tank</span>
+</div>
+
 <div class="article-divider"><span>Choosing the right method</span></div>
 
 <table class="checklist-table">
@@ -1861,6 +1881,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>The tank is rarely the hard part of a remote modular project. Getting the right freight to the right access point in the right window, in that order, is where the project is actually won or lost.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">6 mths</span>
+  <span class="stat-label">Typical dry-season window remote modular tank programs are planned around before wet-season access closes</span>
+</div>
+
 <div class="article-divider"><span>What to lock in before you commit to a modular tank</span></div>
 
 <table class="checklist-table">
@@ -1947,6 +1972,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>A good inspection report does not just describe what was found. It tells you, in plain terms, what happens if nothing is done — and by when that stops being an acceptable answer.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">12 mths</span>
+  <span class="stat-label">Typical maximum interval before a 'monitor' finding needs re-inspection, unless the report sets an earlier date</span>
+</div>
+
 <div class="article-divider"><span>What to check before filing the report away</span></div>
 
 <table class="checklist-table">
@@ -2031,6 +2061,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>A fire tank is not being asked "how much water do you hold." It is being asked "how much water can you deliver, from where, at what rate, when it matters." Those are different questions with different answers.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">4 hrs</span>
+  <span class="stat-label">A commonly specified minimum fire water supply duration under AS2419 for a standard hydrant system</span>
+</div>
 
 <div class="article-divider"><span>What a proper draw-down review checks</span></div>
 
@@ -2117,6 +2152,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>Treatment gets the water to standard. Storage decides how much of that standard survives to the tap. A tank's condition and hydraulics are a water-chemistry variable, whether or not anyone is tracking them as one.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">0.2 mg/L</span>
+  <span class="stat-label">Minimum free chlorine residual the ADWG recommends maintaining at point of use to guard against regrowth</span>
+</div>
 
 <div class="article-divider"><span>What to check if residual is dropping in storage</span></div>
 
@@ -2211,6 +2251,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>Nobody inspects a foundation for its own sake. They inspect it because the tank started telling them something was wrong — and by then, the ground has usually been moving for years.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">1%</span>
+  <span class="stat-label">Differential settlement, as a share of tank diameter, commonly used as a rule-of-thumb distress threshold</span>
+</div>
+
 <div class="article-divider"><span>What to check if you suspect a foundation issue</span></div>
 
 <table class="checklist-table">
@@ -2302,6 +2347,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>The question is never "custom or standard" in the abstract. It is whether the site's real constraints — footprint, height, demand profile — can be met by an off-the-shelf specification. If they can, use it. If they cannot, forcing the fit costs more in the long run than designing for it upfront.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">3 mths</span>
+  <span class="stat-label">Typical added lead time a genuinely custom brief adds to design and fabrication over an off-the-shelf tank</span>
+</div>
+
 <div class="article-divider"><span>Questions that reveal whether you need a custom design</span></div>
 
 <table class="checklist-table">
@@ -2392,6 +2442,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>A tender specification is not a wish list — it is the document every bid, every comparison, and every eventual variation will be measured against. Ambiguity in that document does not disappear during the contract; it just becomes someone's dispute.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">12 mths</span>
+  <span class="stat-label">Standard Defects Liability Period in most Australian water infrastructure contracts — the practical deadline for catching what the tender left unclear</span>
+</div>
+
 <div class="article-divider"><span>Before releasing a water infrastructure tender</span></div>
 
 <table class="checklist-table">
@@ -2479,6 +2534,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>A coating is a barrier that can fail. Cathodic protection is a second, independent line of defence that keeps working even after the barrier does — which is exactly why the two are usually specified together on tanks that cannot afford a corrosion surprise.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">15-20 yrs</span>
+  <span class="stat-label">Typical design life of a correctly specified cathodic protection system backing up a coated steel tank</span>
+</div>
 
 <div class="article-divider"><span>Is cathodic protection right for your tank?</span></div>
 
@@ -2574,6 +2634,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>The controls exist because the risk is real, not because the paperwork demands it. A permit, a gas test and a standby person are the difference between a routine task and a fatality statistic — and that gap has been proven in incident reports, not just in theory.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">19.5-23.5%</span>
+  <span class="stat-label">Safe oxygen range required before confined space entry is authorised — outside it, entry does not proceed</span>
+</div>
+
 <div class="article-divider"><span>Before anyone enters a water tank</span></div>
 
 <table class="checklist-table">
@@ -2664,6 +2729,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>Water storage is infrastructure a building depends on for its entire operating life, sized against numbers that are usually finalised partway through design. Getting the sequencing and the specification right the first time is far cheaper than resizing or retrofitting later.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">6 mths</span>
+  <span class="stat-label">Typical minimum lead time fire tank sizing needs to be locked in before it collides with the building program</span>
+</div>
 
 <div class="article-divider"><span>What to confirm early on a new build</span></div>
 
@@ -2846,6 +2916,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>A brief turbidity spike after cleaning is the sediment leaving the system, not entering it. The red flag is not the spike itself — it is a spike that does not resolve within the expected window, or one that has no obvious cleaning-related cause.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">5 NTU</span>
+  <span class="stat-label">ADWG turbidity guideline value a post-clean spike should fall back under within the expected window</span>
+</div>
+
 <div class="article-divider"><span>Normal versus red flag</span></div>
 
 <table class="checklist-table">
@@ -2933,6 +3008,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>Splitting a project into separate contracts distributes the work. It does not distribute the risk fairly — it concentrates the risk of interface failures onto the asset owner, who is the only party with visibility across every contract at once.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">1 contract</span>
+  <span class="stat-label">How many parties stay accountable for a project's outcome when it is delivered under one integrated contract instead of several</span>
+</div>
 
 <div class="article-divider"><span>Questions worth asking before splitting a project into separate contracts</span></div>
 
@@ -3024,6 +3104,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>Iron bacteria do not just discolour water — they build a living environment on the tank's metal surfaces that makes corrosion happen faster and more unpredictably than it otherwise would. Treating the discolouration without addressing the colony leaves the corrosion driver in place.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">1.5 mm/yr</span>
+  <span class="stat-label">Localised pitting rate an untreated iron bacteria colony can drive under its tubercles — well above background corrosion</span>
+</div>
 
 <div class="article-divider"><span>What to check if iron bacteria is suspected</span></div>
 
@@ -3118,6 +3203,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>A warranty is not a guarantee that nothing will go wrong. It is a conditional promise that the condition can be proven — and the proof has to exist before the defect does, not after.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">7 yrs</span>
+  <span class="stat-label">Typical minimum period maintenance records should be retained to support a future warranty or insurance claim</span>
+</div>
+
 <div class="article-divider"><span>Protecting your warranty position</span></div>
 
 <table class="checklist-table">
@@ -3209,6 +3299,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>Mining water compliance is not a stricter version of standard tank compliance — it is an additional layer, built on licence conditions and reporting obligations that are specific to that site and that mine's approvals. Assuming the standard framework covers it is how gaps get missed.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">12 mths</span>
+  <span class="stat-label">Typical reporting cycle a mine site's environmental licence conditions add on top of standard AS compliance</span>
+</div>
+
 <div class="article-divider"><span>What to confirm on a mining or resources site</span></div>
 
 <table class="checklist-table">
@@ -3299,6 +3394,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>A static water supply is only as good as the moment it is actually needed — which is the worst possible time to discover the fitting is wrong, the access is blocked, or the reserved volume was quietly drawn down months ago.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">10 kL</span>
+  <span class="stat-label">A commonly specified minimum static water reserve for bushfire-prone properties — actual figures vary by council and BAL rating</span>
+</div>
 
 <div class="article-divider"><span>Checking your static water supply</span></div>
 
@@ -3392,6 +3492,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>A monitoring system that reports a plausible number is not the same as one that reports a trustworthy number. The difference is entirely in the sensor selection, the alarm logic, and whether the communication path has been tested under the conditions it will actually operate in — not in the dashboard.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">15 min</span>
+  <span class="stat-label">Typical maximum reporting interval for remote tank-level telemetry before a communication dropout should trigger an alarm</span>
+</div>
+
 <div class="article-divider"><span>Specifying a tank monitoring system</span></div>
 
 <table class="checklist-table">
@@ -3484,6 +3589,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>The question is not "rainwater tank or backup tank" — it is what specific risk each part of your water strategy is meant to cover. Get that clear first, and the sizing and configuration follow naturally.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">50%+</span>
+  <span class="stat-label">Typical mains water demand offset a correctly sized rainwater harvesting system can achieve on an eligible property</span>
+</div>
+
 <div class="article-divider"><span>Choosing the right system for your situation</span></div>
 
 <table class="checklist-table">
@@ -3574,6 +3684,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>A tank's decommissioning is the last chance to manage its accumulated history responsibly — the sediment, the residual chemicals, the ground beneath it. Skipping that step does not make the history disappear; it just defers the problem to whoever inherits the site next.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">3 mths</span>
+  <span class="stat-label">Typical minimum period a decommissioned tank site is monitored for residual contamination before sign-off</span>
+</div>
+
 <div class="article-divider"><span>Before decommissioning a water tank</span></div>
 
 <table class="checklist-table">
@@ -3662,6 +3777,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>AS4020 answers one specific question: does this product harm drinking water quality on contact? It does not answer whether the tank was built right, sized right, or maintained right — and treating the certification as if it does is a common and consequential misreading.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">AS4020</span>
+  <span class="stat-label">The Australian Standard specifically covering products in contact with drinking water — not tank construction, sizing or maintenance</span>
+</div>
+
 <div class="article-divider"><span>Building a complete compliance picture</span></div>
 
 <table class="checklist-table">
@@ -3748,6 +3868,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>An insurer is not asking "did the tank fail." They are asking "should this have been caught first." A documented inspection history is the only evidence that reliably answers that question in the asset owner's favour.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">5 yrs</span>
+  <span class="stat-label">Typical minimum inspection history insurers expect on file before accepting a tank failure was not foreseeable</span>
+</div>
 
 <div class="article-divider"><span>Protecting your position before a claim is ever needed</span></div>
 
@@ -3837,6 +3962,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>A tank that holds water perfectly well on a calm day tells you nothing about how it performs during the one event its structural design was actually meant to survive. That answer only comes from site-specific seismic and wind analysis, not from the tank's everyday performance.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">1-in-500 yr</span>
+  <span class="stat-label">A commonly used structural design return period under AS1170 for a typical importance-level tank</span>
+</div>
+
 <div class="article-divider"><span>What to confirm for a site's structural adequacy</span></div>
 
 <table class="checklist-table">
@@ -3923,6 +4053,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>A facility that treats power redundancy as non-negotiable and water storage redundancy as optional has a genuine gap in its risk profile — one that only becomes visible during the outage nobody planned for.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">99.99%</span>
+  <span class="stat-label">The uptime standard ('four nines') data centre design typically targets — water storage redundancy should be held to the same bar</span>
+</div>
 
 <div class="article-divider"><span>Assessing water storage redundancy at a critical facility</span></div>
 
@@ -4013,6 +4148,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>A constrained budget does not excuse a council from its reporting obligations, but it does demand that every dollar spent on inspection and maintenance does double duty — informing the asset register and supporting the statutory report from the same data.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">20+ yrs</span>
+  <span class="stat-label">Typical long-term horizon a council asset management plan is required to project renewal costs across</span>
+</div>
 
 <div class="article-divider"><span>Building a defensible, budget-realistic program</span></div>
 
@@ -4105,6 +4245,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>Asking "which coating is best" is the wrong question. The right question is which combination of primer, intermediate and topcoat suits this tank's exposure, chemical environment and maintenance access — because the system, not any single product, determines how long the protection actually lasts.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">20+ yrs</span>
+  <span class="stat-label">Typical design life a correctly specified three-coat protective system adds before major recoating is needed</span>
+</div>
+
 <div class="article-divider"><span>Matching a coating system to the application</span></div>
 
 <table class="checklist-table">
@@ -4192,6 +4337,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>Potable-grade is not a synonym for "high quality" in every context. It is a specific specification for a specific purpose — drinking water compatibility. Process water needs its own specification, worked out from what the process actually demands.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">2x</span>
+  <span class="stat-label">Typical chemical-resistance margin a genuine process water specification builds in beyond potable-grade material tolerance</span>
+</div>
 
 <div class="article-divider"><span>Specifying process water storage correctly</span></div>
 
@@ -4283,6 +4433,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>A weld that has not been tested is not a weld with no defects — it is a weld with unknown defects. NDT does not create quality; it verifies it, and that verification is what a visual inspection alone cannot provide.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">100%</span>
+  <span class="stat-label">Share of critical structural welds full-penetration testing (UT or RT) typically covers on a tank built to Australian Standard</span>
+</div>
+
 <div class="article-divider"><span>What a proper weld quality program includes</span></div>
 
 <table class="checklist-table">
@@ -4371,6 +4526,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>Freeboard and overflow sizing are both about planning for the event you hope never happens. Getting them right costs a small amount of theoretical capacity at design stage. Getting them wrong costs uncontrolled overtopping at exactly the moment the tank is under the most stress.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">150 mm</span>
+  <span class="stat-label">A commonly specified minimum freeboard allowance above design water level before overflow engages</span>
+</div>
+
 <div class="article-divider"><span>What to confirm on freeboard and overflow design</span></div>
 
 <table class="checklist-table">
@@ -4458,6 +4618,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>Water security for a remote community is not measured by how good the tank is on a normal day. It is measured by what happens to the community's water supply on the day that tank fails — and whether anything was planned for that day.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">48+ hrs</span>
+  <span class="stat-label">Typical minimum mobilisation time to get a repair crew to a remote community after a tank failure is reported</span>
+</div>
 
 <div class="article-divider"><span>Assessing water security for a remote community</span></div>
 
@@ -4551,6 +4716,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>Commissioning is the step that turns a finished structure into a verified water asset. A tank handed over without documented disinfection and water quality results is handed over on trust, not on evidence.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">24 hrs</span>
+  <span class="stat-label">Typical minimum chlorine contact time specified before a newly commissioned tank is flushed and tested</span>
+</div>
+
 <div class="article-divider"><span>What handover documentation should confirm</span></div>
 
 <table class="checklist-table">
@@ -4642,6 +4812,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>The right roof type is not about which one looks most modern — it is about matching the structural span, the maintenance access requirement, and the contamination risk profile to the specific tank. An open reservoir converted to a properly enclosed one is often a bigger water-quality win than any amount of internal cleaning.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">30 m+</span>
+  <span class="stat-label">Diameter above which a geodesic dome roof typically becomes the more economical structural choice over a flat span roof</span>
+</div>
+
 <div class="article-divider"><span>Choosing a roof type</span></div>
 
 <table class="checklist-table">
@@ -4727,6 +4902,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>A tank inspection that only checks the waterline down is checking the easier half of the problem. The vapour space above it experiences a genuinely different, and often more aggressive, corrosion environment — and it deserves its own line of attention in both inspection and specification.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">2-3x</span>
+  <span class="stat-label">How much faster the cyclic vapour space above the waterline can corrode compared with the constantly submerged zone below it</span>
+</div>
 
 <div class="article-divider"><span>What to check for vapour space condition</span></div>
 
@@ -4819,6 +4999,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>An asset register that only tells you what you own is an inventory. An asset register that tells you what needs attention next, and why, is a management tool — and the difference between the two is entirely in what data gets tracked and how consistently.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">5 yrs</span>
+  <span class="stat-label">Typical condition assessment cycle feeding a well-maintained water asset register</span>
+</div>
+
 <div class="article-divider"><span>What to include in a water asset register</span></div>
 
 <table class="checklist-table">
@@ -4910,6 +5095,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>There is no universally superior tank configuration — only the one that correctly matches a specific site's pressure requirement, land constraint and water-quality obligation. Choosing based on what worked on a previous project, without re-checking these constraints, is a common and avoidable design mistake.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">10 m ≈ 1 bar</span>
+  <span class="stat-label">The hydraulic head-to-pressure conversion that drives most elevated-versus-ground-level tank decisions</span>
+</div>
+
 <div class="article-divider"><span>Matching configuration to requirement</span></div>
 
 <table class="checklist-table">
@@ -4996,6 +5186,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>A cross-connection is not automatically a contamination event — it is a pathway that makes one possible under the right (or wrong) pressure conditions. Backflow prevention devices exist to close that pathway, not to fix a contamination event after it has already occurred.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">12 mths</span>
+  <span class="stat-label">Standard testing interval for a tested backflow prevention device under AS/NZS3500</span>
+</div>
 
 <div class="article-divider"><span>What a backflow prevention program should cover</span></div>
 
@@ -5088,6 +5283,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>Legionella risk is not a mystery — it is the predictable outcome of stagnation, warm temperature and biofilm occurring together. Control the conditions, and the risk drops in proportion, which is exactly why a structured risk management approach works.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">20-45°C</span>
+  <span class="stat-label">The water temperature range in which Legionella bacteria proliferate — control relies on staying outside it</span>
+</div>
+
 <div class="article-divider"><span>What a Legionella risk assessment checks</span></div>
 
 <table class="checklist-table">
@@ -5175,6 +5375,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>Access provision is one of the few design decisions that pays a dividend every single time the tank is inspected for the rest of its service life — or, if done badly, costs a small penalty every single time instead.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">2 m</span>
+  <span class="stat-label">Height above which WHS regulations generally require fall protection for tank access and inspection work</span>
+</div>
 
 <div class="article-divider"><span>What to check on tank access provision</span></div>
 
@@ -5267,6 +5472,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>Tank shape is not a cosmetic decision made after the engineering — it is one of the engineering decisions. Height and diameter should be chosen deliberately against site footprint, wind and seismic exposure, and cost, not defaulted to a standard proportion.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">9.81 kPa/m</span>
+  <span class="stat-label">Hydrostatic pressure added at the tank wall for every extra metre of water depth — the core of the height-versus-diameter trade-off</span>
+</div>
+
 <div class="article-divider"><span>Weighing diameter versus height for your site</span></div>
 
 <table class="checklist-table">
@@ -5353,6 +5563,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>A tank's wind resistance is not a fixed property — it changes with how full the tank is. Anchorage design has to account for the worst case, which is usually empty, not the everyday case of a full or partially full tank.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">0 kg</span>
+  <span class="stat-label">Water weight left to resist wind uplift once a steel tank is fully drawn down — anchorage alone has to do the job</span>
+</div>
 
 <div class="article-divider"><span>Managing empty-tank wind risk</span></div>
 
@@ -5445,6 +5660,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>A water tank does not stop being an asset with its own risk profile just because it is not the headline reason for the purchase. Checking its condition and compliance before settlement is far cheaper than discovering a problem afterward.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">5 days</span>
+  <span class="stat-label">Typical cooling-off period during an Australian property purchase — rarely enough time to commission a full tank condition report</span>
+</div>
+
 <div class="article-divider"><span>Pre-purchase water tank checklist</span></div>
 
 <table class="checklist-table">
@@ -5531,6 +5751,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>Tank colour and material are not just about how the tank looks on the property. Lighter colours reduce heat absorption, and opaque materials exclude the light algae needs — both genuine, physically grounded water-quality factors worth considering at specification stage.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">5-10°C</span>
+  <span class="stat-label">Typical internal temperature difference between a dark, opaque tank and a light-coloured, translucent one on a hot day</span>
+</div>
 
 <div class="article-divider"><span>What to consider for colour and material</span></div>
 
@@ -5623,6 +5848,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>The question during an emergency is never just "can this be patched." It is "does this patch restore genuine structural and functional confidence, or does it just hide the problem while the underlying risk continues." Those are very different outcomes wearing the same temporary fix.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">72 hrs</span>
+  <span class="stat-label">Typical maximum duration a genuine temporary fix should be trusted to hold before a permanent repair is scheduled</span>
+</div>
+
 <div class="article-divider"><span>Assessing an emergency tank situation</span></div>
 
 <table class="checklist-table">
@@ -5711,6 +5941,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>Insulation is not a universal quality upgrade for a water tank — it is a targeted response to a specific climate or water-quality risk. Specifying it without confirming that risk actually exists is spending money on a problem the site may not have.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">0°C</span>
+  <span class="stat-label">The threshold below which uninsulated exposed water storage becomes a genuine freeze risk</span>
+</div>
+
 <div class="article-divider"><span>Deciding whether insulation is warranted</span></div>
 
 <table class="checklist-table">
@@ -5797,6 +6032,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>A region that has already lived through a genuine water shortage does not need convincing that storage matters. What it needs is storage sized, maintained and inspected to actually perform when the dry period tests it again.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">3x</span>
+  <span class="stat-label">Typical multiple peak irrigation-season demand can reach over an inland region's average daily draw</span>
+</div>
 
 <div class="article-divider"><span>What to check on a Darling Downs property</span></div>
 
@@ -5885,6 +6125,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>A tank designed only for Townsville's average conditions is designed for a climate the city does not actually have. The real design brief is the full swing — cyclone-season extremes and dry-season demand — not the number in between.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">1-in-100 yr</span>
+  <span class="stat-label">Storm design benchmark cyclone-region tanks and their foundations are engineered against, on top of standard wind loading</span>
+</div>
+
 <div class="article-divider"><span>What to check for a Townsville-region tank</span></div>
 
 <table class="checklist-table">
@@ -5971,6 +6216,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>A flood-prone site does not mean a tank cannot be safely installed and operated there — it means the foundation, drainage and post-event inspection plan all need to explicitly account for a risk that a dry, stable site simply does not carry.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">1-in-100 yr</span>
+  <span class="stat-label">Flood planning level (AEP) benchmark foundation and drainage design on a floodplain is typically checked against</span>
+</div>
 
 <div class="article-divider"><span>What to check on a flood-exposed property</span></div>
 
@@ -6059,6 +6309,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>A cyclone-rated tank and a process-water-specified tank are both correct answers — to different questions. Mackay's industrial sites often need both, specified separately, not one generic tank trying to do both jobs.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">20+ yrs</span>
+  <span class="stat-label">Typical design life expected of a cyclone-rated tank structure specified for a Mackay-region site</span>
+</div>
+
 <div class="article-divider"><span>What to check for a Mackay region facility</span></div>
 
 <table class="checklist-table">
@@ -6145,6 +6400,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>Cairns is not just a hot, wet climate for tank design purposes — it is a climate and an environmental context together, and both deserve specific attention rather than a standard specification applied without adjustment.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">20+ yrs</span>
+  <span class="stat-label">Typical design life a correctly specified coating and structural system needs to hold up in a tropical, humid climate</span>
+</div>
 
 <div class="article-divider"><span>What to check for a Cairns region property</span></div>
 
@@ -6233,6 +6493,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>Gladstone's industrial density means water storage decisions here are rarely simple — but they are answerable, provided each tank's actual purpose is defined clearly before the specification is written, not assumed from a generic industrial template.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">3x</span>
+  <span class="stat-label">Typical multiple peak heavy-industry process demand can reach over an average day's draw</span>
+</div>
+
 <div class="article-divider"><span>What to check for a Gladstone industrial site</span></div>
 
 <table class="checklist-table">
@@ -6319,6 +6584,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>Adelaide's relationship with rainwater tanks reflects a real climate constraint, not a fashion. That means the sizing and specification deserve the same rigour as any other water security decision, not a default off-the-shelf approach.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">50%+</span>
+  <span class="stat-label">Typical mains water demand offset a correctly sized rainwater system can achieve on an eligible Adelaide property</span>
+</div>
 
 <div class="article-divider"><span>What to check for an Adelaide property</span></div>
 
@@ -6407,6 +6677,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>A river system that swings between flood and drought within the same region demands storage planning that accounts for both ends of that range — not a single average condition that neither extreme actually represents.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">1-in-100 yr</span>
+  <span class="stat-label">Flood planning benchmark siting and foundation design in a flood-and-drought region like the Riverina is typically checked against</span>
+</div>
+
 <div class="article-divider"><span>What to check for a Riverina property</span></div>
 
 <table class="checklist-table">
@@ -6493,6 +6768,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>The Central West's drought history is not ancient history — it is a planning benchmark. Sizing storage against anything less conservative risks repeating a lesson the region has already learned.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">1-in-100 yr</span>
+  <span class="stat-label">A commonly used worst-case drought duration benchmark storage planning in the Central West is sized against</span>
+</div>
 
 <div class="article-divider"><span>What to check for a Dubbo region property or facility</span></div>
 
@@ -6581,6 +6861,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>Bendigo's history is a long-running case study in taking water scarcity seriously as a planning input. That same discipline, applied at the individual property level, is what makes tank storage a genuine asset rather than an assumption.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">3x</span>
+  <span class="stat-label">Typical multiple peak demand can reach over average draw as regional growth adds pressure to a fixed supply system</span>
+</div>
+
 <div class="article-divider"><span>What to check for a Bendigo region property</span></div>
 
 <table class="checklist-table">
@@ -6668,6 +6953,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>Ballarat is a reminder that climate is local, not just regional. A property a short drive away at lower elevation may face a genuinely different frost risk — which is exactly why the specific site's conditions, not a broad regional assumption, should drive the decision.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">0°C</span>
+  <span class="stat-label">The threshold below which an uninsulated Ballarat-region tank at elevation becomes a genuine freeze risk</span>
+</div>
+
 <div class="article-divider"><span>What to check for a Ballarat region property</span></div>
 
 <table class="checklist-table">
@@ -6754,6 +7044,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>Geelong's dual identity — working port and growing regional city — means there is no single water infrastructure answer for the region. Each project needs its water storage specified against what it is actually for.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">3x</span>
+  <span class="stat-label">Typical multiple peak industrial process demand can reach over an average day's draw at an established port facility</span>
+</div>
 
 <div class="article-divider"><span>What to check for a Geelong region project</span></div>
 
@@ -6845,6 +7140,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>Darwin does not have the luxury of treating climate, logistics and compliance as separate problems solved one at a time. A project that plans for all three together avoids the delays and rework that come from discovering one of them too late.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">1-in-100 yr</span>
+  <span class="stat-label">Storm design benchmark cyclone-region tanks and foundations in the Darwin area are engineered against</span>
+</div>
+
 <div class="article-divider"><span>What to check for a Darwin region project</span></div>
 
 <table class="checklist-table">
@@ -6932,6 +7232,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>A region that has depended on water piped hundreds of kilometres for over a century does not take water security lightly. On-site storage and system separation at any Kalgoorlie facility deserve the same rigour.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">48+ hrs</span>
+  <span class="stat-label">Typical minimum mobilisation time to get a repair crew to a remote Goldfields site after a tank failure is reported</span>
+</div>
+
 <div class="article-divider"><span>What to check for a Kalgoorlie region facility</span></div>
 
 <table class="checklist-table">
@@ -7018,6 +7323,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>Launceston's river confluence and Tasmania's cooler climate are both well-documented regional realities, not edge cases. A tank specification that treats them as afterthoughts is missing two of the most locally relevant design inputs available.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">1-in-100 yr</span>
+  <span class="stat-label">Flood planning level (AEP) benchmark foundation design near the Tamar confluence is typically checked against</span>
+</div>
 
 <div class="article-divider"><span>What to check for a Launceston region property</span></div>
 
@@ -7127,6 +7437,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>A tank shutdown is not successful because the work finished quickly. It is successful when the asset returns to service with the right evidence behind it: condition confirmed, works completed, testing passed, and operational risk closed.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">24 hrs</span>
+  <span class="stat-label">Typical minimum chlorine contact time built into a shutdown program before the tank returns to service</span>
+</div>
 
 <div class="article-divider"><span>Return to service is a controlled step</span></div>
 
@@ -7240,6 +7555,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>Neither construction method is more correct — the right tank is the one whose joints, access requirements and future flexibility match what the site and the asset owner actually need over the tank working life.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">50%</span>
+  <span class="stat-label">Roughly how much faster a bolted tank typically erects on site compared with an equivalent welded structure</span>
+</div>
 
 <div class="article-divider"><span>Choosing between them: a quick checklist</span></div>
 
@@ -7419,6 +7739,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>A fire water tank that meets its storage volume requirement is only doing half its job. The pump set determines whether that stored water is actually deliverable when it matters.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">12 mths</span>
+  <span class="stat-label">Standard AS1851 testing interval for a fire pump set's full performance (churn) test</span>
+</div>
+
 <div class="article-divider"><span>Fire pump maintenance checklist</span></div>
 
 <table class="checklist-table">
@@ -7515,6 +7840,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>On a remote project, the tank design rarely fails. What fails, if it fails, is the assumption that materials, cranes and access would simply be available when the program said they would be.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">500 km+</span>
+  <span class="stat-label">Typical one-way delivery distance for a remote tank project once you're outside a regional service hub</span>
+</div>
+
 <div class="article-divider"><span>Remote delivery planning checklist</span></div>
 
 <table class="checklist-table">
@@ -7599,6 +7929,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>A water quality complaint traced back to a storage tank is rarely explained by a single bad day. It is usually the end result of water sitting longer than the system was designed to tolerate.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">0.2 mg/L</span>
+  <span class="stat-label">Minimum free chlorine residual the ADWG recommends maintaining at point of use as water age increases</span>
+</div>
 
 <div class="article-divider"><span>Managing water age in storage</span></div>
 
@@ -7696,6 +8031,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>The choice between GRP and glass-fused-to-steel is a material engineering decision, not a brand preference — it depends on what the tank will store, how large it needs to be, and how much steel-versus-composite risk the asset owner is comfortable managing over the tank's life.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">10+ yrs</span>
+  <span class="stat-label">Typical gelcoat UV-integrity design life on a correctly specified GRP panel tank exterior</span>
+</div>
+
 <div class="article-divider"><span>Material comparison at a glance</span></div>
 
 <table class="checklist-table">
@@ -7791,6 +8131,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>Cathodic protection is not a substitute for a good coating system — it is what protects the steel at the coating defects every real-world coating eventually develops.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">15-20 yrs</span>
+  <span class="stat-label">Typical design life of a correctly sized sacrificial anode system before anode replacement is needed</span>
+</div>
+
 <div class="article-divider"><span>Choosing a system: quick comparison</span></div>
 
 <table class="checklist-table">
@@ -7874,6 +8219,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>Sprinkler storage sizing is a calculation with real inputs, not a rule of thumb — and every one of those inputs should be re-checked whenever the building's use, layout or fire hazard classification changes.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">5 mm/min</span>
+  <span class="stat-label">A commonly specified sprinkler design density under AS2118 for an ordinary hazard occupancy — one input storage volume is calculated from</span>
+</div>
 
 <div class="article-divider"><span>Storage sizing checklist</span></div>
 
@@ -7970,6 +8320,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>In a solar-pumped system, the tank is not just meeting demand — it is standing in for the reliability a mains power connection would otherwise provide.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">3 days</span>
+  <span class="stat-label">Typical minimum autonomy days an off-grid solar-pumped water system is sized to cover without sufficient sun</span>
+</div>
+
 <div class="article-divider"><span>Off-grid solar storage sizing checklist</span></div>
 
 <table class="checklist-table">
@@ -8053,6 +8408,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>A tank that keeps failing the same water quality parameter after cleaning is not necessarily being cleaned badly — it may be growing the problem back faster than the cleaning cycle can keep up with.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">14 days</span>
+  <span class="stat-label">Roughly how quickly an established biofilm can recolonise a surface if the underlying conditions were not addressed during cleaning</span>
+</div>
 
 <div class="article-divider"><span>Biofilm risk checklist</span></div>
 
@@ -8139,6 +8499,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>A tank that has never been tested full of water is, structurally speaking, still an assumption. Hydrostatic testing is what converts that assumption into a verified, documented fact before the asset goes into service.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">24-48 hrs</span>
+  <span class="stat-label">Typical hold period a hydrostatic test runs to confirm no unacceptable settlement, leakage or structural movement</span>
+</div>
+
 <div class="article-divider"><span>Hydrostatic testing checklist</span></div>
 
 <table class="checklist-table">
@@ -8222,6 +8587,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>A tank does not need to be full of water to fail structurally. An empty, thin-walled shell under design wind load is its own distinct engineering problem, and wind girders are the answer to that specific problem.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">H/D > 2</span>
+  <span class="stat-label">Height-to-diameter ratio above which an empty large-diameter steel tank typically needs wind girders to resist shell buckling</span>
+</div>
 
 <div class="article-divider"><span>Structural design checklist for large-diameter tanks</span></div>
 
@@ -8307,6 +8677,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>A hydrant flow test is not really testing the hydrant. It is testing everything behind it — and read that way, the results become a genuinely useful early warning system rather than a compliance formality.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">150 kPa</span>
+  <span class="stat-label">A commonly specified minimum residual pressure at the hydrant outlet a flow test is checking for</span>
+</div>
+
 <div class="article-divider"><span>Interpreting flow test results</span></div>
 
 <table class="checklist-table">
@@ -8390,6 +8765,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>Carting rarely loses the comparison on day one. It loses the comparison on day two hundred, once the ongoing cost has been running long enough to add up to more than the storage tank would have cost outright.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">12-18 mths</span>
+  <span class="stat-label">Typical break-even point at which permanent storage becomes cheaper than ongoing water carting on a regular-use remote site</span>
+</div>
 
 <div class="article-divider"><span>Carting vs permanent storage: what to weigh up</span></div>
 
@@ -8476,6 +8856,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>The base ring and anchor bolt system is not a construction detail finalised on site — it is a structural design decision that determines whether the tank stays put under the worst wind or seismic event the site will ever see.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">±3 mm</span>
+  <span class="stat-label">A commonly specified base ring levelling tolerance — tight enough that it is easy to underestimate during construction</span>
+</div>
+
 <div class="article-divider"><span>Base ring and anchorage checklist</span></div>
 
 <table class="checklist-table">
@@ -8559,6 +8944,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>A liner is not proven watertight because the panels are the right material and the welds look clean. It is proven watertight because the seams were actually tested and the results documented.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">15-25 kV</span>
+  <span class="stat-label">Typical test voltage used in spark testing to detect pinholes in a welded liner seam before it goes into service</span>
+</div>
 
 <div class="article-divider"><span>Seam testing checklist</span></div>
 
@@ -8644,6 +9034,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>Cooling tower makeup storage looks like "just another industrial tank" from the outside, but its sizing, water chemistry target and material compatibility all need to be worked out against the cooling system's actual duty — not borrowed from a potable water specification.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">1-2%</span>
+  <span class="stat-label">Typical evaporation loss, as a share of circulating flow, that drives ongoing cooling tower makeup water demand</span>
+</div>
+
 <div class="article-divider"><span>Cooling tower storage specification checklist</span></div>
 
 <table class="checklist-table">
@@ -8727,6 +9122,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>A reservoir does not fail structurally in the way most people picture concrete failure. It fails by leaking through cracks the concrete design never adequately controlled in the first place.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">0.2 mm</span>
+  <span class="stat-label">A commonly specified maximum crack width under AS3735 for a liquid-retaining concrete structure to stay watertight</span>
+</div>
 
 <div class="article-divider"><span>Liquid-retaining concrete design checklist</span></div>
 
@@ -8812,6 +9212,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>Pressure and vacuum relief valves protect against a failure mode that, precisely because it is rare, is also the one most likely to be forgotten during routine maintenance — until the one draw-down event that actually needs it finds it blocked.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">2 kPa</span>
+  <span class="stat-label">A typical low-pressure setting a tank's pressure/vacuum relief valve is calibrated to before it opens</span>
+</div>
+
 <div class="article-divider"><span>Tank venting checklist</span></div>
 
 <table class="checklist-table">
@@ -8895,6 +9300,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>A boiler concentrates every impurity in its feed water into a smaller and smaller volume as steam leaves the system — which is precisely why feed water chemistry targets are often tighter than drinking water standards, not looser.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num"><7 ppb</span>
+  <span class="stat-label">Typical maximum dissolved oxygen target for high-pressure boiler feed water — far tighter than any drinking water standard</span>
+</div>
 
 <div class="article-divider"><span>Boiler feed water storage checklist</span></div>
 
@@ -8980,6 +9390,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>Confined space regulation asks whether entry has been properly authorised. A genuine rescue plan asks a harder and more specific question: exactly how does this particular person get out of this particular tank, fast enough, if something goes wrong.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">4-6 min</span>
+  <span class="stat-label">Roughly how quickly irreversible harm can begin without oxygen — why a pre-rigged non-entry retrieval plan matters more than fast entry</span>
+</div>
+
 <div class="article-divider"><span>Confined space rescue readiness checklist</span></div>
 
 <table class="checklist-table">
@@ -9063,6 +9478,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>Newcastle's water infrastructure challenge is not unusual in kind — it is unusual in the sheer concentration of different demand types sharing the same regional network at meaningful scale.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">3x</span>
+  <span class="stat-label">Typical multiple peak industrial port demand can reach over an average day's draw on a shared regional network</span>
+</div>
 
 <div class="article-divider"><span>Water infrastructure considerations for the Newcastle region</span></div>
 
@@ -9148,6 +9568,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>The overflow and vent are the two openings every sealed tank still needs to have. Proper screening is what keeps "needs to have" from turning into "an open door for whatever finds it."</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">1.5 mm</span>
+  <span class="stat-label">A commonly specified maximum mesh aperture for overflow and vent screens to keep insects and vermin out</span>
+</div>
+
 <div class="article-divider"><span>Overflow and vent screening checklist</span></div>
 
 <table class="checklist-table">
@@ -9231,6 +9656,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>Greywater and wastewater reuse storage is not potable storage with lower standards — it is its own storage category with its own biological, material and regulatory requirements that need to be specified deliberately.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">AS/NZS 3500</span>
+  <span class="stat-label">The plumbing standard requiring distinct (purple/lilac) pipe labelling wherever a site runs both potable and reuse water systems</span>
+</div>
 
 <div class="article-divider"><span>Reuse water storage checklist</span></div>
 
@@ -9316,6 +9746,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>A condition rating is a compression of information, not a replacement for it. The number is only as useful as the inspection record it is traceable back to.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">1-5</span>
+  <span class="stat-label">The condition rating range used across most Australian water infrastructure asset management frameworks — 1 excellent, 5 failed</span>
+</div>
+
 <div class="article-divider"><span>Building a useful condition rating system</span></div>
 
 <table class="checklist-table">
@@ -9399,6 +9834,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>In Central Australia, the tank design is often the straightforward part of the project. Getting materials, equipment and the right construction method to a site this remote is where genuine project expertise matters most.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">500 km+</span>
+  <span class="stat-label">Typical one-way freight distance for equipment and materials reaching a Central Australian tank project</span>
+</div>
 
 <div class="article-divider"><span>Water infrastructure considerations for Central Australia</span></div>
 
@@ -9484,6 +9924,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>Cross-connection risk rarely comes from the original system design. It comes from what happens to that design over years of site changes, maintenance work and modifications made by people who were not thinking about the water system at all.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">12 mths</span>
+  <span class="stat-label">Standard testing interval for a tested backflow prevention device separating potable and process water under AS/NZS3500</span>
+</div>
+
 <div class="article-divider"><span>Water system segregation checklist</span></div>
 
 <table class="checklist-table">
@@ -9567,6 +10012,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>The lowest quote and the lowest lifetime cost are two different numbers, and they do not always point to the same decision — which is exactly why whole-of-life costing is worth doing before, not after, the capital commitment is made.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">30 yrs</span>
+  <span class="stat-label">Typical planning horizon a whole-of-life cost comparison for water storage assets is run across</span>
+</div>
 
 <div class="article-divider"><span>Whole-of-life costing checklist</span></div>
 
@@ -9652,6 +10102,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>Panel arrangements and open tenders are not competing philosophies — they solve different procurement frequency problems, and a well-run public sector procurement function typically uses both, matched to the right situation.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">3 yrs</span>
+  <span class="stat-label">Typical renewal cycle for a pre-qualified supplier panel arrangement in public sector procurement</span>
+</div>
+
 <div class="article-divider"><span>Choosing the right procurement pathway</span></div>
 
 <table class="checklist-table">
@@ -9735,6 +10190,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>Perth's shift toward desalination is a genuine model for climate-adapted water supply — and it illustrates why storage infrastructure planning has to keep pace with how the supply system itself is changing, not remain built around assumptions from a wetter past.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">50%+</span>
+  <span class="stat-label">Roughly how much of Perth's Integrated Water Supply Scheme now comes from non-rainfall-dependent sources like desalination and groundwater</span>
+</div>
 
 <div class="article-divider"><span>Water infrastructure considerations across WA</span></div>
 
@@ -9820,6 +10280,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>A CIL tank refurbishment is judged as much on how little it disrupts the circuit around it as on the quality of the repair itself.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">pH 10.5+</span>
+  <span class="stat-label">Minimum process pH a CIL circuit is kept above to prevent toxic HCN gas release — a constraint refurbishment work has to respect</span>
+</div>
+
 <div class="article-divider"><span>Scoping a CIL refurbishment</span></div>
 
 <table class="checklist-table">
@@ -9903,6 +10368,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>The decision between recoating and plate replacement should be made from thickness data, not from how the surface looks - the two can tell very different stories on the same tank.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">20%</span>
+  <span class="stat-label">A commonly used wall-loss threshold — once corrosion has removed this much original plate thickness, replacement usually beats recoating</span>
+</div>
 
 <div class="article-divider"><span>Leach tank repair scoping checklist</span></div>
 
@@ -9988,6 +10458,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>The engineering behind a mine-site tank repair is often the easy part - the logistics, access planning and coordination with production are what actually determine whether the repair lands on time and on budget.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">48+ hrs</span>
+  <span class="stat-label">Typical minimum mobilisation time to get a structural repair crew to a remote mine site</span>
+</div>
+
 <div class="article-divider"><span>Scoping a mine-site structural repair</span></div>
 
 <table class="checklist-table">
@@ -10071,6 +10546,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>Bulk water storage sizing on a remote mine site is a risk management decision as much as an engineering calculation - the real question is how much of a supply interruption the operation can absorb before it becomes a production problem.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">3x</span>
+  <span class="stat-label">Typical multiple peak process demand can reach over average daily draw on a working mine site</span>
+</div>
 
 <div class="article-divider"><span>Bulk water storage sizing checklist</span></div>
 
@@ -10159,6 +10639,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>The tanks that cause the most trouble on a mine site are rarely the ones with the most demanding compliance obligations - they are the ones nobody has looked at closely enough to know their real condition.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">5 yrs</span>
+  <span class="stat-label">Typical condition assessment cycle feeding a well-maintained mine-site tank fleet register</span>
+</div>
+
 <div class="article-divider"><span>Mine-site water tank management checklist</span></div>
 
 <table class="checklist-table">
@@ -10242,6 +10727,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>An environmental control reservoir is only doing its job if its capacity, integrity and operating record can all be defended against the licence condition it exists to satisfy.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">1-in-100 yr</span>
+  <span class="stat-label">Design storm containment benchmark an environmental control reservoir's licence conditions are commonly measured against</span>
+</div>
 
 <div class="article-divider"><span>Environmental reservoir compliance checklist</span></div>
 
@@ -10327,6 +10817,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>Sectional refurbishment only pays off when the degradation is genuinely localised - the assessment has to be honest about whether that is actually the case before committing to the panel-by-panel approach.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">20%</span>
+  <span class="stat-label">A commonly used wall-loss threshold — once corrosion has removed this much original plate thickness, replacement usually beats a panel patch</span>
+</div>
+
 <div class="article-divider"><span>Sectional refurbishment decision checklist</span></div>
 
 <table class="checklist-table">
@@ -10410,6 +10905,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>Calling something tailings water or process water is a starting point, not a specification - the actual solids content and chemistry of the stream should drive the tank design, not the label alone.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">pH 2-11</span>
+  <span class="stat-label">The pH range a tailings or process water stream can span depending on the ore and reagents — why the label alone is not a specification</span>
+</div>
 
 <div class="article-divider"><span>Tailings vs process water design checklist</span></div>
 
@@ -10495,6 +10995,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>The single most cost-effective step in preventing early corrosion on a high-TDS tank is getting a water analysis done before the coating system is chosen, not after the first signs of failure appear.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">3-5x</span>
+  <span class="stat-label">Roughly how much faster uncoated steel can corrode in a high-TDS mine-site process stream compared with typical freshwater</span>
+</div>
+
 <div class="article-divider"><span>High-TDS storage specification checklist</span></div>
 
 <table class="checklist-table">
@@ -10578,6 +11083,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>The value of a single, accountable water infrastructure partner on a mining project is not that any one discipline is done better in isolation - it is that nothing falls into the gap between disciplines.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">10+ yrs</span>
+  <span class="stat-label">A common minimum track record asset owners look for before trusting a contractor with mine-site water infrastructure</span>
+</div>
 
 <div class="article-divider"><span>Evaluating a mining water infrastructure contractor</span></div>
 
@@ -10663,6 +11173,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>A hotel coldwater tank that has not been inspected in years is not necessarily a problem yet - but it is definitely a risk nobody has actually measured, which is its own kind of exposure.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">20-45°C</span>
+  <span class="stat-label">The water temperature range in which Legionella bacteria proliferate in hotel hot and cold water systems — control relies on staying outside it</span>
+</div>
+
 <div class="article-divider"><span>Hotel water tank compliance checklist</span></div>
 
 <table class="checklist-table">
@@ -10746,6 +11261,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>Water storage maintenance in aged care is a resident safety issue first and a building maintenance task second - the standard of diligence should reflect that ordering.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">60°C</span>
+  <span class="stat-label">Minimum hot water storage temperature AS/NZS3500 requires to control Legionella risk in vulnerable-occupancy buildings like aged care</span>
+</div>
 
 <div class="article-divider"><span>Aged care water storage compliance checklist</span></div>
 
@@ -10831,6 +11351,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>The school calendar is not an obstacle to water infrastructure maintenance - it is the single most useful scheduling tool available, if maintenance planning is built around it rather than around it.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">4 hrs</span>
+  <span class="stat-label">A commonly specified minimum fire water supply duration under AS2419 for a school site's hydrant or sprinkler protection</span>
+</div>
+
 <div class="article-divider"><span>School water infrastructure checklist</span></div>
 
 <table class="checklist-table">
@@ -10914,6 +11439,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>Water infrastructure at a shopping centre is judged the same way the rest of the building services are - by whether it keeps working while thousands of people are inside, not just by whether it meets the design standard on paper.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">3x</span>
+  <span class="stat-label">Typical multiple peak trading-hours demand can reach over an average day's draw at a busy shopping centre</span>
+</div>
 
 <div class="article-divider"><span>Retail water infrastructure checklist</span></div>
 
@@ -10999,6 +11529,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>The most expensive mistake in farm water storage is treating irrigation, stock and potable needs as one undifferentiated requirement, rather than sizing and specifying each against what it actually needs to do.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">5x</span>
+  <span class="stat-label">Typical multiple peak irrigation-season demand can reach over a farm's average annual daily draw</span>
+</div>
+
 <div class="article-divider"><span>Farm water storage planning checklist</span></div>
 
 <table class="checklist-table">
@@ -11082,6 +11617,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>Water storage at a hospital is infrastructure in service of patient safety - every maintenance and redundancy decision should be traceable back to that, not treated as a standard commercial building task.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">N+1</span>
+  <span class="stat-label">The redundancy standard ('N+1' — one spare beyond what's needed) hospital-critical water infrastructure is typically held to</span>
+</div>
 
 <div class="article-divider"><span>Hospital water storage checklist</span></div>
 
@@ -11167,6 +11707,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>Meeting the drinking water standard at the point water enters a facility says nothing about whether it still meets that standard, or a stricter process standard, at the point it is actually used.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">48 hrs</span>
+  <span class="stat-label">A commonly used maximum water age benchmark before stored potable-grade water starts posing a process quality risk</span>
+</div>
+
 <div class="article-divider"><span>Food and beverage water storage checklist</span></div>
 
 <table class="checklist-table">
@@ -11250,6 +11795,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>Wash-down water in a dairy facility is not a secondary demand to plan around later - for many sites it rivals or exceeds process water demand and deserves the same level of storage planning attention.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">77°C+</span>
+  <span class="stat-label">A commonly specified hot water temperature for dairy CIP sanitation cycles — a real driver of hot water storage capacity</span>
+</div>
 
 <div class="article-divider"><span>Dairy water storage checklist</span></div>
 
@@ -11335,6 +11885,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>A meat processing facility cannot simply slow down and wait for water supply to catch up - storage has to be sized for the peak the operation actually needs, not the average it usually runs at.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">82°C</span>
+  <span class="stat-label">A commonly required hot water sanitation temperature for sterilising equipment in meat processing facilities</span>
+</div>
+
 <div class="article-divider"><span>Meat processing water storage checklist</span></div>
 
 <table class="checklist-table">
@@ -11418,6 +11973,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>A winery water storage strategy that only accounts for irrigation and cellar operations is missing a category that, on a bushfire-exposed rural property, can matter more than either of the other two.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">10 kL</span>
+  <span class="stat-label">A commonly specified minimum static water reserve for a bushfire-exposed rural property — actual figures vary by council and BAL rating</span>
+</div>
 
 <div class="article-divider"><span>Winery water storage checklist</span></div>
 
@@ -11503,6 +12063,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>The real test of tourism property water storage is not whether it works in a quiet month - it is whether it holds up during the one peak weekend of the year when every site is occupied at once.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">4x</span>
+  <span class="stat-label">Typical multiple peak-season occupancy can reach over the off-season average at a caravan park or tourism property</span>
+</div>
+
 <div class="article-divider"><span>Tourism property water storage checklist</span></div>
 
 <table class="checklist-table">
@@ -11586,6 +12151,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>Dust suppression water demand at a quarry does not respect an average figure - it spikes exactly when conditions are driest, which is also when compliance obligations are under the most pressure.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">3x</span>
+  <span class="stat-label">Typical multiple peak dust-suppression demand can reach over average draw during hot, dry, windy conditions</span>
+</div>
 
 <div class="article-divider"><span>Quarry and cement plant water storage checklist</span></div>
 
@@ -11671,6 +12241,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>The engineering behind defence facility water storage is not unusual - what is different is the security, access and documentation framework the project needs to be delivered within.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">72 hrs</span>
+  <span class="stat-label">A commonly specified minimum self-sufficiency period for water supply on a security-sensitive defence site</span>
+</div>
+
 <div class="article-divider"><span>Defence facility water infrastructure checklist</span></div>
 
 <table class="checklist-table">
@@ -11754,6 +12329,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>Water storage on an intensive livestock operation is animal health infrastructure as much as it is a utility - the biosecurity plan and the water infrastructure maintenance plan should be treated as one connected system, not two separate documents.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">24 hrs</span>
+  <span class="stat-label">Roughly how quickly a water interruption can become a genuine animal welfare emergency on an intensive livestock operation</span>
+</div>
 
 <div class="article-divider"><span>Poultry and piggery water storage checklist</span></div>
 
@@ -11839,6 +12419,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>Storage for brewing and distilling water has succeeded when the water coming out tastes and behaves exactly like the water that went in - anything else is the storage system doing more to the product than it should.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">pH 6.5-8.5</span>
+  <span class="stat-label">A typical target pH range for brewing and distilling process water — outside it, storage material and treatment choices change</span>
+</div>
+
 <div class="article-divider"><span>Brewery and distillery water storage checklist</span></div>
 
 <table class="checklist-table">
@@ -11922,6 +12507,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>Water infrastructure compliance at a correctional facility follows the same standards as anywhere else - what changes is that every step of planning and delivery has to work within a security framework that most projects never encounter.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">N+1</span>
+  <span class="stat-label">The redundancy standard correctional facility water infrastructure is typically held to, given occupants cannot simply leave during an outage</span>
+</div>
 
 <div class="article-divider"><span>Correctional facility water infrastructure checklist</span></div>
 
@@ -12007,6 +12597,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>The irrigation number usually dominates a sporting precinct water budget, but it is not the only number that matters - amenity peaks and fire protection storage both need their own consideration, not an assumption that irrigation capacity covers everything.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">3x</span>
+  <span class="stat-label">Typical multiple peak irrigation demand can reach over average draw during a dry spell at a turf-heavy sporting precinct</span>
+</div>
+
 <div class="article-divider"><span>Sporting precinct water storage checklist</span></div>
 
 <table class="checklist-table">
@@ -12090,6 +12685,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>A near-empty warehouse and a fully occupied office building can require similar fire water storage - occupancy tells you how many people are at risk, but fuel load and floor area tell you how much water the fire system actually needs to deliver.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">500 m²</span>
+  <span class="stat-label">A commonly used floor-area benchmark in fire engineering that drives hydrant and sprinkler sizing more than occupancy numbers do</span>
+</div>
 
 <div class="article-divider"><span>Self-storage and warehouse fire storage checklist</span></div>
 
@@ -12175,6 +12775,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>The modest scale of a childcare centre water infrastructure should never be mistaken for modest stakes - the standard of care follows the vulnerability of the occupants, not the size of the site.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">7 yrs</span>
+  <span class="stat-label">A commonly required minimum period childcare facility compliance and maintenance records need to be retained for licensing</span>
+</div>
+
 <div class="article-divider"><span>Childcare centre water storage checklist</span></div>
 
 <table class="checklist-table">
@@ -12258,6 +12863,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>The technical side of strata water infrastructure maintenance is often the easy part - getting a defect identified early enough that it can be funded and approved through the committee process before it becomes urgent is where the real value lies.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">10 yrs</span>
+  <span class="stat-label">The capital works planning horizon most strata schemes are required to maintain — where a tank's eventual renewal needs to be budgeted</span>
+</div>
 
 <div class="article-divider"><span>Strata water storage checklist</span></div>
 
@@ -12343,6 +12953,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>Water storage for a renewable energy construction project should be planned around the construction program, not the eventual operational facility - the demand curve for the two phases looks nothing alike.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">5x</span>
+  <span class="stat-label">Roughly how much higher water demand can run during a solar or wind farm's construction phase compared with steady-state operations</span>
+</div>
+
 <div class="article-divider"><span>Renewable energy site water storage checklist</span></div>
 
 <table class="checklist-table">
@@ -12426,6 +13041,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>An emergency services facility asks the community to trust it will be ready when needed - its own water and fire protection infrastructure should be held to exactly that same standard.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">N+1</span>
+  <span class="stat-label">The redundancy standard an emergency services facility's own water and fire protection infrastructure is typically held to</span>
+</div>
 
 <div class="article-divider"><span>Emergency services precinct water storage checklist</span></div>
 
@@ -12511,6 +13131,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>Office precinct water infrastructure rarely presents a hard engineering problem - the value is in disciplined, ongoing compliance management across a building life that will see many tenants and several rounds of fit-out change.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">4 hrs</span>
+  <span class="stat-label">A commonly specified minimum fire water supply duration under AS2419 for a multi-tenant commercial office precinct</span>
+</div>
+
 <div class="article-divider"><span>Office precinct water storage checklist</span></div>
 
 <table class="checklist-table">
@@ -12594,6 +13219,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>The developer decisions about fire water storage location and access are made once, during design - but the body corporate lives with the consequences of those decisions for the entire life of the building.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">4 hrs</span>
+  <span class="stat-label">A commonly specified minimum fire water supply duration under AS2419 that a high-rise's structural tank is sized to hold</span>
+</div>
 
 <div class="article-divider"><span>High-rise fire water storage design checklist</span></div>
 
@@ -12679,6 +13309,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>The water demand people notice at an aquatic centre is the pools themselves - the demand that actually shapes storage and supply planning is usually the filtration backwash running quietly in the background.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">2-5%</span>
+  <span class="stat-label">Typical share of total pool volume a single filtration backwash cycle can use — the demand that quietly shapes aquatic centre storage sizing</span>
+</div>
+
 <div class="article-divider"><span>Aquatic centre water storage checklist</span></div>
 
 <table class="checklist-table">
@@ -12762,6 +13397,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>An airport water infrastructure problem rarely stays contained to the airport itself - the resilience standard should reflect how much a region actually depends on that airport staying open.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">N+1</span>
+  <span class="stat-label">The redundancy standard airport water infrastructure is typically held to, given how much a region can depend on it staying open</span>
+</div>
 
 <div class="article-divider"><span>Airport water infrastructure checklist</span></div>
 
@@ -12847,6 +13487,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>A rail or transport depot water infrastructure brief covers two genuinely different systems - operational wash-down process water, and building fire protection - and both deserve their own proper sizing exercise.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">4 hrs</span>
+  <span class="stat-label">A commonly specified minimum fire water supply duration under AS2419 for depot shed and yard protection</span>
+</div>
+
 <div class="article-divider"><span>Rail and transport depot water storage checklist</span></div>
 
 <table class="checklist-table">
@@ -12930,6 +13575,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>Water storage at a waste or recycling facility is frontline fire risk management, not a supporting utility - the sizing and reliability standard should reflect that directly, not follow a generic industrial default.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">2x</span>
+  <span class="stat-label">Roughly how far above minimum code compliance insurer expectations commonly push fire water storage at a recognised stockpile fire risk site</span>
+</div>
 
 <div class="article-divider"><span>Waste facility water storage checklist</span></div>
 
@@ -13015,6 +13665,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>The fuel load at a timber processing site is not subtle - the fire water storage and maintenance standard should be equally unambiguous about matching that risk.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">4 hrs</span>
+  <span class="stat-label">A commonly specified minimum fire water supply duration under AS2419 for a high fuel load timber processing site</span>
+</div>
+
 <div class="article-divider"><span>Timber processing fire water checklist</span></div>
 
 <table class="checklist-table">
@@ -13098,6 +13753,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>Water reliability at an aquaculture operation is not a supporting utility question - it is a direct input to whether the stock survives, which is a different and higher standard than most process water storage needs to meet.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">24 hrs</span>
+  <span class="stat-label">Roughly how quickly a water interruption can become a genuine stock-survival emergency at an aquaculture operation</span>
+</div>
 
 <div class="article-divider"><span>Seafood and aquaculture water storage checklist</span></div>
 
@@ -13183,6 +13843,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>Melbourne's water storage history through sustained drought pressure has left a lasting awareness among large water users of just how much a reliable storage strategy matters when supply security cannot be assumed.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">20+ yrs</span>
+  <span class="stat-label">Typical design life a correctly specified tank and coating system is expected to deliver across Melbourne's cool, variable climate</span>
+</div>
+
 <div class="article-divider"><span>Water infrastructure considerations in Melbourne</span></div>
 
 <table class="checklist-table">
@@ -13266,6 +13931,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>Hobart's combination of significant industrial demand and a relatively compact metropolitan footprint means water storage infrastructure here has to work hard for a city its size.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">0°C</span>
+  <span class="stat-label">The threshold below which an uninsulated exposed Hobart-region tank becomes a genuine freeze risk</span>
+</div>
 
 <div class="article-divider"><span>Water infrastructure considerations in Hobart</span></div>
 
@@ -13351,6 +14021,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>A resilient metropolitan supply system like Sydney's does not remove the need for individual commercial and industrial sites to get their own storage and fire compliance right - the scale of the source system is a separate question from the reliability of any one site infrastructure.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">~15%</span>
+  <span class="stat-label">Roughly how much of Sydney's water demand the desalination plant can supply at full capacity when the dam system is under pressure</span>
+</div>
+
 <div class="article-divider"><span>Water infrastructure considerations in Sydney</span></div>
 
 <table class="checklist-table">
@@ -13434,6 +14109,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>South East Queensland's regional water grid was built specifically to withstand exactly the kind of supply pressure sustained growth creates - and that same growth is what keeps generating ongoing demand for new, well-specified storage infrastructure at the individual site level.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">1-in-100 yr</span>
+  <span class="stat-label">Storm design benchmark subtropical South East Queensland tanks and foundations are commonly engineered against</span>
+</div>
 
 <div class="article-divider"><span>Water infrastructure considerations in Brisbane</span></div>
 
@@ -13519,6 +14199,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>Canberra concentration of government and institutional buildings means water infrastructure work here is judged against a documentation and procurement standard that reflects the national capital broader administrative character.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">12 mths</span>
+  <span class="stat-label">Standard Defects Liability Period reflected in most government and institutional procurement contracts in Canberra</span>
+</div>
+
 <div class="article-divider"><span>Water infrastructure considerations in Canberra</span></div>
 
 <table class="checklist-table">
@@ -13602,6 +14287,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>The Gold Coast growth has been sustained and rapid enough that Hinze Dam itself has had to be expanded repeatedly to keep pace - the same growth pressure is what keeps generating demand for correctly specified storage infrastructure at the individual site level.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">2-4x</span>
+  <span class="stat-label">Roughly how much faster uncoated steel corrodes in a coastal salt-exposure environment like the Gold Coast compared with an inland site</span>
+</div>
 
 <div class="article-divider"><span>Water infrastructure considerations on the Gold Coast</span></div>
 
@@ -13687,6 +14377,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>The Sunshine Coast growth story runs in both directions - along the coast through tourism and hospitality, and inland through the hinterland - and water storage infrastructure demand has followed both.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">2-4x</span>
+  <span class="stat-label">Roughly how much faster uncoated steel corrodes in a coastal salt-exposure environment compared with an inland hinterland site</span>
+</div>
+
 <div class="article-divider"><span>Water infrastructure considerations on the Sunshine Coast</span></div>
 
 <table class="checklist-table">
@@ -13770,6 +14465,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>Wollongong industrial legacy and coastal growth create two quite different water storage demand profiles within one region - ageing heavy industry infrastructure needing condition assessment, and new coastal development needing correct specification from the start.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">2-4x</span>
+  <span class="stat-label">Roughly how much faster uncoated steel corrodes in a coastal industrial environment like the Illawarra compared with an inland site</span>
+</div>
 
 <div class="article-divider"><span>Water infrastructure considerations in Wollongong</span></div>
 
@@ -13855,6 +14555,11 @@ export const fallbackPosts: CmsPost[] = [
   <p>Water storage at Pilbara iron ore scale is not a bigger version of a standard mine-site problem - the combination of network extent and climate severity genuinely changes the sizing math from what applies almost anywhere else.</p>
 </blockquote>
 
+<div class="article-pull-stat">
+  <span class="stat-num">3,000+ mm/yr</span>
+  <span class="stat-label">Typical annual pan evaporation in the Pilbara — among the highest in Australia, and a genuine input to storage sizing math</span>
+</div>
+
 <div class="article-divider"><span>Pilbara iron ore water storage checklist</span></div>
 
 <table class="checklist-table">
@@ -13938,6 +14643,11 @@ export const fallbackPosts: CmsPost[] = [
 <blockquote class="article-quotable">
   <p>Water storage decommissioning at mine closure is judged against the specific obligations set out in the closure plan, not a general industry standard - getting those obligations confirmed early avoids costly rework later.</p>
 </blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">10+ yrs</span>
+  <span class="stat-label">A commonly required minimum post-closure environmental monitoring period written into mine site closure plans</span>
+</div>
 
 <div class="article-divider"><span>Mine-site water storage decommissioning checklist</span></div>
 
