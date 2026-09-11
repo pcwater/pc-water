@@ -1454,9 +1454,8 @@ export default async function ResourceArticlePage({
               )}
             </div>
 
-            <aside className="rounded-xl border border-white/15 bg-white/[0.07] p-4 text-white backdrop-blur-md">
-              <h2 className="text-base font-bold leading-snug">{conversion.heading}</h2>
-              <p className="mt-1.5 text-xs leading-5 text-slate-300">{conversion.body}</p>
+            <aside className="self-center rounded-xl border border-white/15 bg-white/[0.07] p-5 text-white backdrop-blur-md">
+              <h2 className="text-lg font-bold leading-snug">{conversion.heading}</h2>
               <Link
                 href={enquiryHref}
                 className="mt-3 inline-flex items-center gap-1.5 rounded-lg bg-[#3e91ce] px-3.5 py-2 text-xs font-bold text-white transition hover:bg-[#2f7fb9] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white"
