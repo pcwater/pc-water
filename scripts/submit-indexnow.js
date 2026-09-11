@@ -32,7 +32,7 @@ function submitToIndexNow(urlsToSubmit) {
   const payload = JSON.stringify({
     host: 'pcwater.com.au',
     key: indexnowKey,
-    keyLocation: 'https://pcwater.com.au/.well-known/indexnow',
+    keyLocation: `https://pcwater.com.au/${indexnowKey}.txt`,
     urlList: urlsToSubmit,
   });
 
@@ -48,7 +48,7 @@ function submitToIndexNow(urlsToSubmit) {
 
   console.log(`\nSubmitting ${urlsToSubmit.length} URLs to IndexNow API...`);
   console.log(`Host: ${postOptions.host}`);
-  console.log(`Key Location: https://pcwater.com.au/.well-known/indexnow\n`);
+  console.log(`Key Location: https://pcwater.com.au/${indexnowKey}.txt\n`);
 
   const req = https.request(postOptions, (res) => {
     let data = '';
