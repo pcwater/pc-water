@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from 'react'
 
+import { exportProjectEnquiriesPdf } from '@/lib/cms/export-project-enquiries-pdf'
 import { deleteProjectEnquiry, fetchProjectEnquiries } from '@/lib/supabase/project-enquiries'
 import type { ProjectEnquiry } from '@/lib/project-enquiries'
 
@@ -321,6 +322,9 @@ export default function ProjectEnquiriesPage() {
   const [toDelete, setToDelete] = useState<ProjectEnquiry | null>(null)
   const [deleting, setDeleting] = useState(false)
   const [selectedEnquiry, setSelectedEnquiry] = useState<ProjectEnquiry | null>(null)
+  const [exportingPdf, setExportingPdf] = useState(false)
+  const [exportError, setExportError] = useState('')
+  const [mountedAt] = useState(() => Date.now())
 
   async function load() {
     const data = await fetchProjectEnquiries()
@@ -330,7 +334,17 @@ export default function ProjectEnquiriesPage() {
   }
 
   useEffect(() => {
-    load()
+    let cancelled = false
+
+    void fetchProjectEnquiries().then((data) => {
+      if (cancelled) return
+      setEnquiries(data)
+      setLoading(false)
+    })
+
+    return () => {
+      cancelled = true
+    }
   }, [])
 
   async function handleDeleteConfirm() {
@@ -344,8 +358,26 @@ export default function ProjectEnquiriesPage() {
     setToDelete(null)
   }
 
+  async function handlePdfExport() {
+    if (filtered.length === 0 || exportingPdf) return
+
+    setExportingPdf(true)
+    setExportError('')
+    try {
+      await exportProjectEnquiriesPdf(filtered, {
+        search,
+        status: statusFilter,
+      })
+    } catch (error) {
+      console.error('[project_enquiries] PDF export failed', error)
+      setExportError('The PDF could not be generated. Please try again.')
+    } finally {
+      setExportingPdf(false)
+    }
+  }
+
   const uniqueEmails = new Set(enquiries.map((item) => item.email.toLowerCase())).size
-  const oneWeekAgo = new Date(Date.now() - 7 * 24 * 60 * 60 * 1000)
+  const oneWeekAgo = new Date(mountedAt - 7 * 24 * 60 * 60 * 1000)
   const thisWeekCount = enquiries.filter((item) => new Date(item.submittedAt) >= oneWeekAgo).length
   const sentCount = enquiries.filter((item) => item.emailDeliveryStatus === 'sent').length
   const syncedCount = enquiries.filter((item) => Boolean(item.pipedriveLeadId)).length
@@ -386,14 +418,37 @@ export default function ProjectEnquiriesPage() {
             </svg>
           </button>
           <button
+            onClick={handlePdfExport}
+            disabled={filtered.length === 0 || exportingPdf}
+            className="flex items-center gap-1.5 px-3.5 h-9 rounded-lg bg-[#1F3A62] hover:bg-[#162B4A] text-white text-[12px] font-semibold transition-colors disabled:opacity-40 whitespace-nowrap shadow-sm"
+          >
+            {exportingPdf ? (
+              <svg className="w-3.5 h-3.5 animate-spin" fill="none" viewBox="0 0 24 24">
+                <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" />
+                <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z" />
+              </svg>
+            ) : (
+              <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 10v6m0 0l-3-3m3 3l3-3m2 6H7a2 2 0 01-2-2V7a2 2 0 012-2h3l2 2h5a2 2 0 012 2v8a2 2 0 01-2 2z" />
+              </svg>
+            )}
+            {exportingPdf ? 'Building PDF…' : 'Export PDF'}
+          </button>
+          <button
             onClick={() => exportCSV(filtered)}
             disabled={filtered.length === 0}
             className="flex items-center gap-1.5 px-3.5 h-9 rounded-lg border border-black/[0.08] dark:border-white/[0.07] bg-white/80 dark:bg-[#060A14]/70 backdrop-blur-sm text-[12px] font-semibold text-[#536070] dark:text-[#8B9CB8] hover:border-emerald-400 hover:text-emerald-600 dark:hover:text-emerald-400 transition-colors disabled:opacity-40 whitespace-nowrap"
           >
-            Export CSV
+            CSV
           </button>
         </div>
       </div>
+
+      {exportError && (
+        <div className="rounded-xl border border-red-200 bg-red-50 px-4 py-3 text-[12px] font-medium text-red-700 dark:border-red-900/60 dark:bg-red-950/30 dark:text-red-300">
+          {exportError}
+        </div>
+      )}
 
       <div className="grid grid-cols-2 xl:grid-cols-4 gap-3">
         <StatCard label="Total Enquiries" value={loading ? '—' : enquiries.length} sub="all time" accentClass="bg-[#3E91CE]" />
