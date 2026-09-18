@@ -14777,9 +14777,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Bundaberg | PC Water",
     seoDescription:
       "Bundaberg (the Wide Bay–Burnett) tank storage: sugar milling demand and cyclone-region conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-09-19T09:00:00.000Z',
-    createdAt: '2026-09-19T09:00:00.000Z',
-    updatedAt: '2026-09-19T09:00:00.000Z',
+    publishedAt: '2026-09-10T00:00:00.000Z',
+    createdAt: '2026-09-10T00:00:00.000Z',
+    updatedAt: '2026-09-10T00:00:00.000Z',
     tags: [
       { id: 'tag-regional-bundaberg', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-bundaberg', name: 'Remote Community', slug: 'remote-community' },
@@ -14866,9 +14866,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Hervey Bay | PC Water",
     seoDescription:
       "Hervey Bay (the Fraser Coast) tank storage: tourism demand and cyclone-region conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-09-19T15:00:00.000Z',
-    createdAt: '2026-09-19T15:00:00.000Z',
-    updatedAt: '2026-09-19T15:00:00.000Z',
+    publishedAt: '2026-09-11T00:00:00.000Z',
+    createdAt: '2026-09-11T00:00:00.000Z',
+    updatedAt: '2026-09-11T00:00:00.000Z',
     tags: [
       { id: 'tag-regional-hervey-bay', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-hervey-bay', name: 'Remote Community', slug: 'remote-community' },
@@ -14955,9 +14955,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Gympie | PC Water",
     seoDescription:
       "Gympie (the Cooloola Coast hinterland) tank storage: timber demand and subtropical conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-09-20T09:00:00.000Z',
-    createdAt: '2026-09-20T09:00:00.000Z',
-    updatedAt: '2026-09-20T09:00:00.000Z',
+    publishedAt: '2026-09-12T00:00:00.000Z',
+    createdAt: '2026-09-12T00:00:00.000Z',
+    updatedAt: '2026-09-12T00:00:00.000Z',
     tags: [
       { id: 'tag-regional-gympie', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-gympie', name: 'Remote Community', slug: 'remote-community' },
@@ -15044,9 +15044,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Warwick | PC Water",
     seoDescription:
       "Warwick (the Southern Downs) tank storage: agriculture demand and cool-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-09-20T15:00:00.000Z',
-    createdAt: '2026-09-20T15:00:00.000Z',
-    updatedAt: '2026-09-20T15:00:00.000Z',
+    publishedAt: '2026-09-13T00:00:00.000Z',
+    createdAt: '2026-09-13T00:00:00.000Z',
+    updatedAt: '2026-09-13T00:00:00.000Z',
     tags: [
       { id: 'tag-regional-warwick', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-warwick', name: 'Remote Community', slug: 'remote-community' },
@@ -15133,9 +15133,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Maryborough | PC Water",
     seoDescription:
       "Maryborough (the Fraser Coast) tank storage: rail heritage demand and subtropical conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-09-21T09:00:00.000Z',
-    createdAt: '2026-09-21T09:00:00.000Z',
-    updatedAt: '2026-09-21T09:00:00.000Z',
+    publishedAt: '2026-09-14T00:00:00.000Z',
+    createdAt: '2026-09-14T00:00:00.000Z',
+    updatedAt: '2026-09-14T00:00:00.000Z',
     tags: [
       { id: 'tag-regional-maryborough', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-maryborough', name: 'Remote Community', slug: 'remote-community' },
@@ -15222,9 +15222,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Emerald | PC Water",
     seoDescription:
       "Emerald (the Central Highlands) tank storage: coal mining demand and dry-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-09-21T15:00:00.000Z',
-    createdAt: '2026-09-21T15:00:00.000Z',
-    updatedAt: '2026-09-21T15:00:00.000Z',
+    publishedAt: '2026-09-15T00:00:00.000Z',
+    createdAt: '2026-09-15T00:00:00.000Z',
+    updatedAt: '2026-09-15T00:00:00.000Z',
     tags: [
       { id: 'tag-regional-emerald', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-emerald', name: 'Remote Community', slug: 'remote-community' },
@@ -15311,9 +15311,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Roma | PC Water",
     seoDescription:
       "Roma (the Western Downs) tank storage: gas fields demand and dry-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-09-22T09:00:00.000Z',
-    createdAt: '2026-09-22T09:00:00.000Z',
-    updatedAt: '2026-09-22T09:00:00.000Z',
+    publishedAt: '2026-09-16T00:00:00.000Z',
+    createdAt: '2026-09-16T00:00:00.000Z',
+    updatedAt: '2026-09-16T00:00:00.000Z',
     tags: [
       { id: 'tag-regional-roma', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-roma', name: 'Remote Community', slug: 'remote-community' },
@@ -15400,9 +15400,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Charleville | PC Water",
     seoDescription:
       "Charleville (South West Queensland) tank storage: pastoral grazing demand and outback conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-09-22T15:00:00.000Z',
-    createdAt: '2026-09-22T15:00:00.000Z',
-    updatedAt: '2026-09-22T15:00:00.000Z',
+    publishedAt: '2026-09-17T00:00:00.000Z',
+    createdAt: '2026-09-17T00:00:00.000Z',
+    updatedAt: '2026-09-17T00:00:00.000Z',
     tags: [
       { id: 'tag-regional-charleville', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-charleville', name: 'Remote Community', slug: 'remote-community' },
@@ -15489,9 +15489,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Longreach | PC Water",
     seoDescription:
       "Longreach (Central West Queensland) tank storage: grazing demand and outback conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-09-23T09:00:00.000Z',
-    createdAt: '2026-09-23T09:00:00.000Z',
-    updatedAt: '2026-09-23T09:00:00.000Z',
+    publishedAt: '2026-09-18T00:00:00.000Z',
+    createdAt: '2026-09-18T00:00:00.000Z',
+    updatedAt: '2026-09-18T00:00:00.000Z',
     tags: [
       { id: 'tag-regional-longreach', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-longreach', name: 'Remote Community', slug: 'remote-community' },
@@ -15578,9 +15578,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Mount Isa | PC Water",
     seoDescription:
       "Mount Isa (North West Queensland) tank storage: copper demand and outback conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-09-23T15:00:00.000Z',
-    createdAt: '2026-09-23T15:00:00.000Z',
-    updatedAt: '2026-09-23T15:00:00.000Z',
+    publishedAt: '2026-09-10T02:00:00.000Z',
+    createdAt: '2026-09-10T02:00:00.000Z',
+    updatedAt: '2026-09-10T02:00:00.000Z',
     tags: [
       { id: 'tag-regional-mount-isa', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-mount-isa', name: 'Remote Community', slug: 'remote-community' },
@@ -15667,9 +15667,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Bowen | PC Water",
     seoDescription:
       "Bowen (the Whitsunday region) tank storage: horticulture demand and cyclone-region conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-09-24T09:00:00.000Z',
-    createdAt: '2026-09-24T09:00:00.000Z',
-    updatedAt: '2026-09-24T09:00:00.000Z',
+    publishedAt: '2026-09-11T02:00:00.000Z',
+    createdAt: '2026-09-11T02:00:00.000Z',
+    updatedAt: '2026-09-11T02:00:00.000Z',
     tags: [
       { id: 'tag-regional-bowen', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-bowen', name: 'Remote Community', slug: 'remote-community' },
@@ -15756,9 +15756,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Ayr | PC Water",
     seoDescription:
       "Ayr (the Burdekin) tank storage: sugar cane growing demand and cyclone-region conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-09-24T15:00:00.000Z',
-    createdAt: '2026-09-24T15:00:00.000Z',
-    updatedAt: '2026-09-24T15:00:00.000Z',
+    publishedAt: '2026-09-12T02:00:00.000Z',
+    createdAt: '2026-09-12T02:00:00.000Z',
+    updatedAt: '2026-09-12T02:00:00.000Z',
     tags: [
       { id: 'tag-regional-ayr', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-ayr', name: 'Remote Community', slug: 'remote-community' },
@@ -15845,9 +15845,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Innisfail | PC Water",
     seoDescription:
       "Innisfail (the Cassowary Coast) tank storage: sugar demand and tropical conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-09-25T09:00:00.000Z',
-    createdAt: '2026-09-25T09:00:00.000Z',
-    updatedAt: '2026-09-25T09:00:00.000Z',
+    publishedAt: '2026-09-13T02:00:00.000Z',
+    createdAt: '2026-09-13T02:00:00.000Z',
+    updatedAt: '2026-09-13T02:00:00.000Z',
     tags: [
       { id: 'tag-regional-innisfail', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-innisfail', name: 'Remote Community', slug: 'remote-community' },
@@ -15934,9 +15934,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Mareeba | PC Water",
     seoDescription:
       "Mareeba (the Atherton Tablelands) tank storage: coffee demand and tropical conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-09-25T15:00:00.000Z',
-    createdAt: '2026-09-25T15:00:00.000Z',
-    updatedAt: '2026-09-25T15:00:00.000Z',
+    publishedAt: '2026-09-14T02:00:00.000Z',
+    createdAt: '2026-09-14T02:00:00.000Z',
+    updatedAt: '2026-09-14T02:00:00.000Z',
     tags: [
       { id: 'tag-regional-mareeba', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-mareeba', name: 'Remote Community', slug: 'remote-community' },
@@ -16023,9 +16023,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Charters Towers | PC Water",
     seoDescription:
       "Charters Towers (North Queensland) tank storage: historic gold mining demand and dry-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-09-26T09:00:00.000Z',
-    createdAt: '2026-09-26T09:00:00.000Z',
-    updatedAt: '2026-09-26T09:00:00.000Z',
+    publishedAt: '2026-09-15T02:00:00.000Z',
+    createdAt: '2026-09-15T02:00:00.000Z',
+    updatedAt: '2026-09-15T02:00:00.000Z',
     tags: [
       { id: 'tag-regional-charters-towers', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-charters-towers', name: 'Remote Community', slug: 'remote-community' },
@@ -16112,9 +16112,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Yeppoon | PC Water",
     seoDescription:
       "Yeppoon (the Capricorn Coast) tank storage: tourism demand and cyclone-region conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-09-26T15:00:00.000Z',
-    createdAt: '2026-09-26T15:00:00.000Z',
-    updatedAt: '2026-09-26T15:00:00.000Z',
+    publishedAt: '2026-09-16T02:00:00.000Z',
+    createdAt: '2026-09-16T02:00:00.000Z',
+    updatedAt: '2026-09-16T02:00:00.000Z',
     tags: [
       { id: 'tag-regional-yeppoon', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-yeppoon', name: 'Remote Community', slug: 'remote-community' },
@@ -16201,9 +16201,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Biloela | PC Water",
     seoDescription:
       "Biloela (the Callide Valley) tank storage: coal-fired power generation demand and subtropical conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-09-27T09:00:00.000Z',
-    createdAt: '2026-09-27T09:00:00.000Z',
-    updatedAt: '2026-09-27T09:00:00.000Z',
+    publishedAt: '2026-09-17T02:00:00.000Z',
+    createdAt: '2026-09-17T02:00:00.000Z',
+    updatedAt: '2026-09-17T02:00:00.000Z',
     tags: [
       { id: 'tag-regional-biloela', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-biloela', name: 'Remote Community', slug: 'remote-community' },
@@ -16290,9 +16290,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Chinchilla | PC Water",
     seoDescription:
       "Chinchilla (the Western Downs) tank storage: coal seam gas demand and dry-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-09-27T15:00:00.000Z',
-    createdAt: '2026-09-27T15:00:00.000Z',
-    updatedAt: '2026-09-27T15:00:00.000Z',
+    publishedAt: '2026-09-18T02:00:00.000Z',
+    createdAt: '2026-09-18T02:00:00.000Z',
+    updatedAt: '2026-09-18T02:00:00.000Z',
     tags: [
       { id: 'tag-regional-chinchilla', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-chinchilla', name: 'Remote Community', slug: 'remote-community' },
@@ -16379,9 +16379,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Dalby | PC Water",
     seoDescription:
       "Dalby (the Darling Downs) tank storage: grain growing demand and dry-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-09-28T09:00:00.000Z',
-    createdAt: '2026-09-28T09:00:00.000Z',
-    updatedAt: '2026-09-28T09:00:00.000Z',
+    publishedAt: '2026-09-10T04:00:00.000Z',
+    createdAt: '2026-09-10T04:00:00.000Z',
+    updatedAt: '2026-09-10T04:00:00.000Z',
     tags: [
       { id: 'tag-regional-dalby', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-dalby', name: 'Remote Community', slug: 'remote-community' },
@@ -16468,9 +16468,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Kingaroy | PC Water",
     seoDescription:
       "Kingaroy (the South Burnett) tank storage: peanut growing demand and subtropical conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-09-28T15:00:00.000Z',
-    createdAt: '2026-09-28T15:00:00.000Z',
-    updatedAt: '2026-09-28T15:00:00.000Z',
+    publishedAt: '2026-09-11T04:00:00.000Z',
+    createdAt: '2026-09-11T04:00:00.000Z',
+    updatedAt: '2026-09-11T04:00:00.000Z',
     tags: [
       { id: 'tag-regional-kingaroy', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-kingaroy', name: 'Remote Community', slug: 'remote-community' },
@@ -16557,9 +16557,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Stanthorpe | PC Water",
     seoDescription:
       "Stanthorpe (the Granite Belt) tank storage: viticulture demand and cool-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-09-29T09:00:00.000Z',
-    createdAt: '2026-09-29T09:00:00.000Z',
-    updatedAt: '2026-09-29T09:00:00.000Z',
+    publishedAt: '2026-09-12T04:00:00.000Z',
+    createdAt: '2026-09-12T04:00:00.000Z',
+    updatedAt: '2026-09-12T04:00:00.000Z',
     tags: [
       { id: 'tag-regional-stanthorpe', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-stanthorpe', name: 'Remote Community', slug: 'remote-community' },
@@ -16646,9 +16646,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Caboolture | PC Water",
     seoDescription:
       "Caboolture (Moreton Bay) tank storage: residential growth corridor demand and subtropical conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-09-29T15:00:00.000Z',
-    createdAt: '2026-09-29T15:00:00.000Z',
-    updatedAt: '2026-09-29T15:00:00.000Z',
+    publishedAt: '2026-09-13T04:00:00.000Z',
+    createdAt: '2026-09-13T04:00:00.000Z',
+    updatedAt: '2026-09-13T04:00:00.000Z',
     tags: [
       { id: 'tag-regional-caboolture', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-caboolture', name: 'Remote Community', slug: 'remote-community' },
@@ -16735,9 +16735,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Noosa | PC Water",
     seoDescription:
       "Noosa (the Sunshine Coast) tank storage: tourism demand and subtropical conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-09-30T09:00:00.000Z',
-    createdAt: '2026-09-30T09:00:00.000Z',
-    updatedAt: '2026-09-30T09:00:00.000Z',
+    publishedAt: '2026-09-14T04:00:00.000Z',
+    createdAt: '2026-09-14T04:00:00.000Z',
+    updatedAt: '2026-09-14T04:00:00.000Z',
     tags: [
       { id: 'tag-regional-noosa', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-noosa', name: 'Remote Community', slug: 'remote-community' },
@@ -16824,9 +16824,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Bathurst | PC Water",
     seoDescription:
       "Bathurst (the Central Tablelands) tank storage: agriculture demand and cool-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-09-30T15:00:00.000Z',
-    createdAt: '2026-09-30T15:00:00.000Z',
-    updatedAt: '2026-09-30T15:00:00.000Z',
+    publishedAt: '2026-09-15T04:00:00.000Z',
+    createdAt: '2026-09-15T04:00:00.000Z',
+    updatedAt: '2026-09-15T04:00:00.000Z',
     tags: [
       { id: 'tag-regional-bathurst', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-bathurst', name: 'Remote Community', slug: 'remote-community' },
@@ -16913,9 +16913,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Orange | PC Water",
     seoDescription:
       "Orange (the Central West) tank storage: orcharding demand and cool-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-01T09:00:00.000Z',
-    createdAt: '2026-10-01T09:00:00.000Z',
-    updatedAt: '2026-10-01T09:00:00.000Z',
+    publishedAt: '2026-09-16T04:00:00.000Z',
+    createdAt: '2026-09-16T04:00:00.000Z',
+    updatedAt: '2026-09-16T04:00:00.000Z',
     tags: [
       { id: 'tag-regional-orange', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-orange', name: 'Remote Community', slug: 'remote-community' },
@@ -17002,9 +17002,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Tamworth | PC Water",
     seoDescription:
       "Tamworth (New England) tank storage: agribusiness demand and cool-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-01T15:00:00.000Z',
-    createdAt: '2026-10-01T15:00:00.000Z',
-    updatedAt: '2026-10-01T15:00:00.000Z',
+    publishedAt: '2026-09-17T04:00:00.000Z',
+    createdAt: '2026-09-17T04:00:00.000Z',
+    updatedAt: '2026-09-17T04:00:00.000Z',
     tags: [
       { id: 'tag-regional-tamworth', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-tamworth', name: 'Remote Community', slug: 'remote-community' },
@@ -17091,9 +17091,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Griffith | PC Water",
     seoDescription:
       "Griffith (the Riverina (Murrumbidgee Irrigation Area)) tank storage: irrigated agriculture demand and dry-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-02T09:00:00.000Z',
-    createdAt: '2026-10-02T09:00:00.000Z',
-    updatedAt: '2026-10-02T09:00:00.000Z',
+    publishedAt: '2026-09-18T04:00:00.000Z',
+    createdAt: '2026-09-18T04:00:00.000Z',
+    updatedAt: '2026-09-18T04:00:00.000Z',
     tags: [
       { id: 'tag-regional-griffith', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-griffith', name: 'Remote Community', slug: 'remote-community' },
@@ -17180,9 +17180,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Goulburn | PC Water",
     seoDescription:
       "Goulburn (the Southern Tablelands) tank storage: wool demand and cool-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-02T15:00:00.000Z',
-    createdAt: '2026-10-02T15:00:00.000Z',
-    updatedAt: '2026-10-02T15:00:00.000Z',
+    publishedAt: '2026-09-10T06:00:00.000Z',
+    createdAt: '2026-09-10T06:00:00.000Z',
+    updatedAt: '2026-09-10T06:00:00.000Z',
     tags: [
       { id: 'tag-regional-goulburn', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-goulburn', name: 'Remote Community', slug: 'remote-community' },
@@ -17269,9 +17269,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Nowra | PC Water",
     seoDescription:
       "Nowra (the Shoalhaven) tank storage: dairy demand and coastal conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-03T09:00:00.000Z',
-    createdAt: '2026-10-03T09:00:00.000Z',
-    updatedAt: '2026-10-03T09:00:00.000Z',
+    publishedAt: '2026-09-11T06:00:00.000Z',
+    createdAt: '2026-09-11T06:00:00.000Z',
+    updatedAt: '2026-09-11T06:00:00.000Z',
     tags: [
       { id: 'tag-regional-nowra', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-nowra', name: 'Remote Community', slug: 'remote-community' },
@@ -17358,9 +17358,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Lismore | PC Water",
     seoDescription:
       "Lismore (the Northern Rivers) tank storage: agriculture demand and subtropical conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-03T15:00:00.000Z',
-    createdAt: '2026-10-03T15:00:00.000Z',
-    updatedAt: '2026-10-03T15:00:00.000Z',
+    publishedAt: '2026-09-12T06:00:00.000Z',
+    createdAt: '2026-09-12T06:00:00.000Z',
+    updatedAt: '2026-09-12T06:00:00.000Z',
     tags: [
       { id: 'tag-regional-lismore', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-lismore', name: 'Remote Community', slug: 'remote-community' },
@@ -17447,9 +17447,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Ballina | PC Water",
     seoDescription:
       "Ballina (the Northern Rivers) tank storage: tourism demand and subtropical conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-04T09:00:00.000Z',
-    createdAt: '2026-10-04T09:00:00.000Z',
-    updatedAt: '2026-10-04T09:00:00.000Z',
+    publishedAt: '2026-09-13T06:00:00.000Z',
+    createdAt: '2026-09-13T06:00:00.000Z',
+    updatedAt: '2026-09-13T06:00:00.000Z',
     tags: [
       { id: 'tag-regional-ballina', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-ballina', name: 'Remote Community', slug: 'remote-community' },
@@ -17536,9 +17536,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Grafton | PC Water",
     seoDescription:
       "Grafton (the Clarence Valley) tank storage: agriculture demand and subtropical conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-04T15:00:00.000Z',
-    createdAt: '2026-10-04T15:00:00.000Z',
-    updatedAt: '2026-10-04T15:00:00.000Z',
+    publishedAt: '2026-09-14T06:00:00.000Z',
+    createdAt: '2026-09-14T06:00:00.000Z',
+    updatedAt: '2026-09-14T06:00:00.000Z',
     tags: [
       { id: 'tag-regional-grafton', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-grafton', name: 'Remote Community', slug: 'remote-community' },
@@ -17625,9 +17625,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Coffs Harbour | PC Water",
     seoDescription:
       "Coffs Harbour (the Mid North Coast) tank storage: blueberry growing demand and subtropical conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-05T09:00:00.000Z',
-    createdAt: '2026-10-05T09:00:00.000Z',
-    updatedAt: '2026-10-05T09:00:00.000Z',
+    publishedAt: '2026-09-15T06:00:00.000Z',
+    createdAt: '2026-09-15T06:00:00.000Z',
+    updatedAt: '2026-09-15T06:00:00.000Z',
     tags: [
       { id: 'tag-regional-coffs-harbour', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-coffs-harbour', name: 'Remote Community', slug: 'remote-community' },
@@ -17714,9 +17714,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Port Macquarie | PC Water",
     seoDescription:
       "Port Macquarie (the Mid North Coast) tank storage: tourism demand and subtropical conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-05T15:00:00.000Z',
-    createdAt: '2026-10-05T15:00:00.000Z',
-    updatedAt: '2026-10-05T15:00:00.000Z',
+    publishedAt: '2026-09-16T06:00:00.000Z',
+    createdAt: '2026-09-16T06:00:00.000Z',
+    updatedAt: '2026-09-16T06:00:00.000Z',
     tags: [
       { id: 'tag-regional-port-macquarie', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-port-macquarie', name: 'Remote Community', slug: 'remote-community' },
@@ -17803,9 +17803,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Albury | PC Water",
     seoDescription:
       "Albury (the Murray River border region) tank storage: food processing demand and cool-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-06T09:00:00.000Z',
-    createdAt: '2026-10-06T09:00:00.000Z',
-    updatedAt: '2026-10-06T09:00:00.000Z',
+    publishedAt: '2026-09-17T06:00:00.000Z',
+    createdAt: '2026-09-17T06:00:00.000Z',
+    updatedAt: '2026-09-17T06:00:00.000Z',
     tags: [
       { id: 'tag-regional-albury', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-albury', name: 'Remote Community', slug: 'remote-community' },
@@ -17892,9 +17892,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Armidale | PC Water",
     seoDescription:
       "Armidale (the New England Tablelands) tank storage: agriculture demand and cool-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-06T15:00:00.000Z',
-    createdAt: '2026-10-06T15:00:00.000Z',
-    updatedAt: '2026-10-06T15:00:00.000Z',
+    publishedAt: '2026-09-18T06:00:00.000Z',
+    createdAt: '2026-09-18T06:00:00.000Z',
+    updatedAt: '2026-09-18T06:00:00.000Z',
     tags: [
       { id: 'tag-regional-armidale', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-armidale', name: 'Remote Community', slug: 'remote-community' },
@@ -17981,9 +17981,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Bega | PC Water",
     seoDescription:
       "Bega (the Sapphire Coast) tank storage: dairy processing demand and coastal conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-07T09:00:00.000Z',
-    createdAt: '2026-10-07T09:00:00.000Z',
-    updatedAt: '2026-10-07T09:00:00.000Z',
+    publishedAt: '2026-09-10T08:00:00.000Z',
+    createdAt: '2026-09-10T08:00:00.000Z',
+    updatedAt: '2026-09-10T08:00:00.000Z',
     tags: [
       { id: 'tag-regional-bega', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-bega', name: 'Remote Community', slug: 'remote-community' },
@@ -18070,9 +18070,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Broken Hill | PC Water",
     seoDescription:
       "Broken Hill (the far west) tank storage: silver demand and outback conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-07T15:00:00.000Z',
-    createdAt: '2026-10-07T15:00:00.000Z',
-    updatedAt: '2026-10-07T15:00:00.000Z',
+    publishedAt: '2026-09-11T08:00:00.000Z',
+    createdAt: '2026-09-11T08:00:00.000Z',
+    updatedAt: '2026-09-11T08:00:00.000Z',
     tags: [
       { id: 'tag-regional-broken-hill', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-broken-hill', name: 'Remote Community', slug: 'remote-community' },
@@ -18159,9 +18159,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Parkes | PC Water",
     seoDescription:
       "Parkes (the Central West) tank storage: agriculture demand and dry-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-08T09:00:00.000Z',
-    createdAt: '2026-10-08T09:00:00.000Z',
-    updatedAt: '2026-10-08T09:00:00.000Z',
+    publishedAt: '2026-09-12T08:00:00.000Z',
+    createdAt: '2026-09-12T08:00:00.000Z',
+    updatedAt: '2026-09-12T08:00:00.000Z',
     tags: [
       { id: 'tag-regional-parkes', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-parkes', name: 'Remote Community', slug: 'remote-community' },
@@ -18248,9 +18248,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Mudgee | PC Water",
     seoDescription:
       "Mudgee (the Central West) tank storage: viticulture demand and cool-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-08T15:00:00.000Z',
-    createdAt: '2026-10-08T15:00:00.000Z',
-    updatedAt: '2026-10-08T15:00:00.000Z',
+    publishedAt: '2026-09-13T08:00:00.000Z',
+    createdAt: '2026-09-13T08:00:00.000Z',
+    updatedAt: '2026-09-13T08:00:00.000Z',
     tags: [
       { id: 'tag-regional-mudgee', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-mudgee', name: 'Remote Community', slug: 'remote-community' },
@@ -18337,9 +18337,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Queanbeyan | PC Water",
     seoDescription:
       "Queanbeyan (the ACT border region) tank storage: residential growth adjoining Canberra demand and cool-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-09T09:00:00.000Z',
-    createdAt: '2026-10-09T09:00:00.000Z',
-    updatedAt: '2026-10-09T09:00:00.000Z',
+    publishedAt: '2026-09-14T08:00:00.000Z',
+    createdAt: '2026-09-14T08:00:00.000Z',
+    updatedAt: '2026-09-14T08:00:00.000Z',
     tags: [
       { id: 'tag-regional-queanbeyan', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-queanbeyan', name: 'Remote Community', slug: 'remote-community' },
@@ -18426,9 +18426,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Taree | PC Water",
     seoDescription:
       "Taree (the Manning Valley) tank storage: dairy demand and subtropical conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-09T15:00:00.000Z',
-    createdAt: '2026-10-09T15:00:00.000Z',
-    updatedAt: '2026-10-09T15:00:00.000Z',
+    publishedAt: '2026-09-15T08:00:00.000Z',
+    createdAt: '2026-09-15T08:00:00.000Z',
+    updatedAt: '2026-09-15T08:00:00.000Z',
     tags: [
       { id: 'tag-regional-taree', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-taree', name: 'Remote Community', slug: 'remote-community' },
@@ -18515,9 +18515,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Moree | PC Water",
     seoDescription:
       "Moree (north west New South Wales) tank storage: cotton growing demand and dry-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-10T09:00:00.000Z',
-    createdAt: '2026-10-10T09:00:00.000Z',
-    updatedAt: '2026-10-10T09:00:00.000Z',
+    publishedAt: '2026-09-16T08:00:00.000Z',
+    createdAt: '2026-09-16T08:00:00.000Z',
+    updatedAt: '2026-09-16T08:00:00.000Z',
     tags: [
       { id: 'tag-regional-moree', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-moree', name: 'Remote Community', slug: 'remote-community' },
@@ -18604,9 +18604,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Cootamundra | PC Water",
     seoDescription:
       "Cootamundra (the South West Slopes) tank storage: agriculture demand and cool-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-10T15:00:00.000Z',
-    createdAt: '2026-10-10T15:00:00.000Z',
-    updatedAt: '2026-10-10T15:00:00.000Z',
+    publishedAt: '2026-09-17T08:00:00.000Z',
+    createdAt: '2026-09-17T08:00:00.000Z',
+    updatedAt: '2026-09-17T08:00:00.000Z',
     tags: [
       { id: 'tag-regional-cootamundra', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-cootamundra', name: 'Remote Community', slug: 'remote-community' },
@@ -18693,9 +18693,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Young | PC Water",
     seoDescription:
       "Young (the South West Slopes) tank storage: cherry growing demand and cool-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-11T09:00:00.000Z',
-    createdAt: '2026-10-11T09:00:00.000Z',
-    updatedAt: '2026-10-11T09:00:00.000Z',
+    publishedAt: '2026-09-18T08:00:00.000Z',
+    createdAt: '2026-09-18T08:00:00.000Z',
+    updatedAt: '2026-09-18T08:00:00.000Z',
     tags: [
       { id: 'tag-regional-young', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-young', name: 'Remote Community', slug: 'remote-community' },
@@ -18782,9 +18782,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Kempsey | PC Water",
     seoDescription:
       "Kempsey (the Macleay Valley) tank storage: dairy demand and subtropical conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-11T15:00:00.000Z',
-    createdAt: '2026-10-11T15:00:00.000Z',
-    updatedAt: '2026-10-11T15:00:00.000Z',
+    publishedAt: '2026-09-10T10:00:00.000Z',
+    createdAt: '2026-09-10T10:00:00.000Z',
+    updatedAt: '2026-09-10T10:00:00.000Z',
     tags: [
       { id: 'tag-regional-kempsey', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-kempsey', name: 'Remote Community', slug: 'remote-community' },
@@ -18871,9 +18871,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Lithgow | PC Water",
     seoDescription:
       "Lithgow (the western edge of the Blue Mountains) tank storage: heavy industry demand and cool-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-12T09:00:00.000Z',
-    createdAt: '2026-10-12T09:00:00.000Z',
-    updatedAt: '2026-10-12T09:00:00.000Z',
+    publishedAt: '2026-09-11T10:00:00.000Z',
+    createdAt: '2026-09-11T10:00:00.000Z',
+    updatedAt: '2026-09-11T10:00:00.000Z',
     tags: [
       { id: 'tag-regional-lithgow', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-lithgow', name: 'Remote Community', slug: 'remote-community' },
@@ -18960,9 +18960,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Narrabri | PC Water",
     seoDescription:
       "Narrabri (the Namoi Valley) tank storage: cotton growing demand and dry-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-12T15:00:00.000Z',
-    createdAt: '2026-10-12T15:00:00.000Z',
-    updatedAt: '2026-10-12T15:00:00.000Z',
+    publishedAt: '2026-09-12T10:00:00.000Z',
+    createdAt: '2026-09-12T10:00:00.000Z',
+    updatedAt: '2026-09-12T10:00:00.000Z',
     tags: [
       { id: 'tag-regional-narrabri', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-narrabri', name: 'Remote Community', slug: 'remote-community' },
@@ -19049,9 +19049,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Shepparton | PC Water",
     seoDescription:
       "Shepparton (the Goulburn Valley) tank storage: fruit demand and cool-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-13T09:00:00.000Z',
-    createdAt: '2026-10-13T09:00:00.000Z',
-    updatedAt: '2026-10-13T09:00:00.000Z',
+    publishedAt: '2026-09-13T10:00:00.000Z',
+    createdAt: '2026-09-13T10:00:00.000Z',
+    updatedAt: '2026-09-13T10:00:00.000Z',
     tags: [
       { id: 'tag-regional-shepparton', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-shepparton', name: 'Remote Community', slug: 'remote-community' },
@@ -19138,9 +19138,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Mildura | PC Water",
     seoDescription:
       "Mildura (Sunraysia) tank storage: irrigated viticulture demand and dry-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-13T15:00:00.000Z',
-    createdAt: '2026-10-13T15:00:00.000Z',
-    updatedAt: '2026-10-13T15:00:00.000Z',
+    publishedAt: '2026-09-14T10:00:00.000Z',
+    createdAt: '2026-09-14T10:00:00.000Z',
+    updatedAt: '2026-09-14T10:00:00.000Z',
     tags: [
       { id: 'tag-regional-mildura', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-mildura', name: 'Remote Community', slug: 'remote-community' },
@@ -19227,9 +19227,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Warrnambool | PC Water",
     seoDescription:
       "Warrnambool (the South West Coast) tank storage: dairy processing demand and coastal conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-14T09:00:00.000Z',
-    createdAt: '2026-10-14T09:00:00.000Z',
-    updatedAt: '2026-10-14T09:00:00.000Z',
+    publishedAt: '2026-09-15T10:00:00.000Z',
+    createdAt: '2026-09-15T10:00:00.000Z',
+    updatedAt: '2026-09-15T10:00:00.000Z',
     tags: [
       { id: 'tag-regional-warrnambool', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-warrnambool', name: 'Remote Community', slug: 'remote-community' },
@@ -19316,9 +19316,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Horsham | PC Water",
     seoDescription:
       "Horsham (the Wimmera) tank storage: grain growing demand and dry-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-14T15:00:00.000Z',
-    createdAt: '2026-10-14T15:00:00.000Z',
-    updatedAt: '2026-10-14T15:00:00.000Z',
+    publishedAt: '2026-09-16T10:00:00.000Z',
+    createdAt: '2026-09-16T10:00:00.000Z',
+    updatedAt: '2026-09-16T10:00:00.000Z',
     tags: [
       { id: 'tag-regional-horsham', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-horsham', name: 'Remote Community', slug: 'remote-community' },
@@ -19405,9 +19405,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Wodonga | PC Water",
     seoDescription:
       "Wodonga (the Murray River border region) tank storage: logistics demand and cool-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-15T09:00:00.000Z',
-    createdAt: '2026-10-15T09:00:00.000Z',
-    updatedAt: '2026-10-15T09:00:00.000Z',
+    publishedAt: '2026-09-17T10:00:00.000Z',
+    createdAt: '2026-09-17T10:00:00.000Z',
+    updatedAt: '2026-09-17T10:00:00.000Z',
     tags: [
       { id: 'tag-regional-wodonga', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-wodonga', name: 'Remote Community', slug: 'remote-community' },
@@ -19494,9 +19494,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Traralgon | PC Water",
     seoDescription:
       "Traralgon (the Latrobe Valley) tank storage: energy generation demand and cool-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-15T15:00:00.000Z',
-    createdAt: '2026-10-15T15:00:00.000Z',
-    updatedAt: '2026-10-15T15:00:00.000Z',
+    publishedAt: '2026-09-18T10:00:00.000Z',
+    createdAt: '2026-09-18T10:00:00.000Z',
+    updatedAt: '2026-09-18T10:00:00.000Z',
     tags: [
       { id: 'tag-regional-traralgon', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-traralgon', name: 'Remote Community', slug: 'remote-community' },
@@ -19583,9 +19583,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Sale | PC Water",
     seoDescription:
       "Sale (Gippsland) tank storage: oil demand and coastal conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-16T09:00:00.000Z',
-    createdAt: '2026-10-16T09:00:00.000Z',
-    updatedAt: '2026-10-16T09:00:00.000Z',
+    publishedAt: '2026-09-10T12:00:00.000Z',
+    createdAt: '2026-09-10T12:00:00.000Z',
+    updatedAt: '2026-09-10T12:00:00.000Z',
     tags: [
       { id: 'tag-regional-sale', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-sale', name: 'Remote Community', slug: 'remote-community' },
@@ -19672,9 +19672,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Bairnsdale | PC Water",
     seoDescription:
       "Bairnsdale (East Gippsland) tank storage: dairy demand and coastal conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-16T15:00:00.000Z',
-    createdAt: '2026-10-16T15:00:00.000Z',
-    updatedAt: '2026-10-16T15:00:00.000Z',
+    publishedAt: '2026-09-11T12:00:00.000Z',
+    createdAt: '2026-09-11T12:00:00.000Z',
+    updatedAt: '2026-09-11T12:00:00.000Z',
     tags: [
       { id: 'tag-regional-bairnsdale', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-bairnsdale', name: 'Remote Community', slug: 'remote-community' },
@@ -19761,9 +19761,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Wangaratta | PC Water",
     seoDescription:
       "Wangaratta (North East Victoria) tank storage: agriculture demand and cool-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-17T09:00:00.000Z',
-    createdAt: '2026-10-17T09:00:00.000Z',
-    updatedAt: '2026-10-17T09:00:00.000Z',
+    publishedAt: '2026-09-12T12:00:00.000Z',
+    createdAt: '2026-09-12T12:00:00.000Z',
+    updatedAt: '2026-09-12T12:00:00.000Z',
     tags: [
       { id: 'tag-regional-wangaratta', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-wangaratta', name: 'Remote Community', slug: 'remote-community' },
@@ -19850,9 +19850,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Echuca | PC Water",
     seoDescription:
       "Echuca (the Murray River region) tank storage: tourism demand and cool-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-17T15:00:00.000Z',
-    createdAt: '2026-10-17T15:00:00.000Z',
-    updatedAt: '2026-10-17T15:00:00.000Z',
+    publishedAt: '2026-09-13T12:00:00.000Z',
+    createdAt: '2026-09-13T12:00:00.000Z',
+    updatedAt: '2026-09-13T12:00:00.000Z',
     tags: [
       { id: 'tag-regional-echuca', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-echuca', name: 'Remote Community', slug: 'remote-community' },
@@ -19939,9 +19939,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Colac | PC Water",
     seoDescription:
       "Colac (the Western District) tank storage: dairy processing demand and cool-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-18T09:00:00.000Z',
-    createdAt: '2026-10-18T09:00:00.000Z',
-    updatedAt: '2026-10-18T09:00:00.000Z',
+    publishedAt: '2026-09-14T12:00:00.000Z',
+    createdAt: '2026-09-14T12:00:00.000Z',
+    updatedAt: '2026-09-14T12:00:00.000Z',
     tags: [
       { id: 'tag-regional-colac', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-colac', name: 'Remote Community', slug: 'remote-community' },
@@ -20028,9 +20028,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Portland | PC Water",
     seoDescription:
       "Portland (the south-west coast) tank storage: aluminium smelting demand and coastal conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-18T15:00:00.000Z',
-    createdAt: '2026-10-18T15:00:00.000Z',
-    updatedAt: '2026-10-18T15:00:00.000Z',
+    publishedAt: '2026-09-15T12:00:00.000Z',
+    createdAt: '2026-09-15T12:00:00.000Z',
+    updatedAt: '2026-09-15T12:00:00.000Z',
     tags: [
       { id: 'tag-regional-portland', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-portland', name: 'Remote Community', slug: 'remote-community' },
@@ -20117,9 +20117,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Ararat | PC Water",
     seoDescription:
       "Ararat (the Grampians region) tank storage: viticulture demand and cool-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-19T09:00:00.000Z',
-    createdAt: '2026-10-19T09:00:00.000Z',
-    updatedAt: '2026-10-19T09:00:00.000Z',
+    publishedAt: '2026-09-16T12:00:00.000Z',
+    createdAt: '2026-09-16T12:00:00.000Z',
+    updatedAt: '2026-09-16T12:00:00.000Z',
     tags: [
       { id: 'tag-regional-ararat', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-ararat', name: 'Remote Community', slug: 'remote-community' },
@@ -20206,9 +20206,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Swan Hill | PC Water",
     seoDescription:
       "Swan Hill (the Murray River region) tank storage: irrigated horticulture demand and dry-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-19T15:00:00.000Z',
-    createdAt: '2026-10-19T15:00:00.000Z',
-    updatedAt: '2026-10-19T15:00:00.000Z',
+    publishedAt: '2026-09-17T12:00:00.000Z',
+    createdAt: '2026-09-17T12:00:00.000Z',
+    updatedAt: '2026-09-17T12:00:00.000Z',
     tags: [
       { id: 'tag-regional-swan-hill', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-swan-hill', name: 'Remote Community', slug: 'remote-community' },
@@ -20295,9 +20295,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Benalla | PC Water",
     seoDescription:
       "Benalla (North East Victoria) tank storage: agriculture demand and cool-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-20T09:00:00.000Z',
-    createdAt: '2026-10-20T09:00:00.000Z',
-    updatedAt: '2026-10-20T09:00:00.000Z',
+    publishedAt: '2026-09-18T12:00:00.000Z',
+    createdAt: '2026-09-18T12:00:00.000Z',
+    updatedAt: '2026-09-18T12:00:00.000Z',
     tags: [
       { id: 'tag-regional-benalla', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-benalla', name: 'Remote Community', slug: 'remote-community' },
@@ -20384,9 +20384,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Maryborough | PC Water",
     seoDescription:
       "Maryborough (Central Victoria) tank storage: historic goldfields heritage demand and cool-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-20T15:00:00.000Z',
-    createdAt: '2026-10-20T15:00:00.000Z',
-    updatedAt: '2026-10-20T15:00:00.000Z',
+    publishedAt: '2026-09-10T14:00:00.000Z',
+    createdAt: '2026-09-10T14:00:00.000Z',
+    updatedAt: '2026-09-10T14:00:00.000Z',
     tags: [
       { id: 'tag-regional-maryborough', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-maryborough', name: 'Remote Community', slug: 'remote-community' },
@@ -20473,9 +20473,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Whyalla | PC Water",
     seoDescription:
       "Whyalla (the Upper Spencer Gulf) tank storage: steelmaking demand and outback conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-21T09:00:00.000Z',
-    createdAt: '2026-10-21T09:00:00.000Z',
-    updatedAt: '2026-10-21T09:00:00.000Z',
+    publishedAt: '2026-09-11T14:00:00.000Z',
+    createdAt: '2026-09-11T14:00:00.000Z',
+    updatedAt: '2026-09-11T14:00:00.000Z',
     tags: [
       { id: 'tag-regional-whyalla', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-whyalla', name: 'Remote Community', slug: 'remote-community' },
@@ -20562,9 +20562,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Port Lincoln | PC Water",
     seoDescription:
       "Port Lincoln (the Eyre Peninsula) tank storage: tuna farming demand and dry-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-21T15:00:00.000Z',
-    createdAt: '2026-10-21T15:00:00.000Z',
-    updatedAt: '2026-10-21T15:00:00.000Z',
+    publishedAt: '2026-09-12T14:00:00.000Z',
+    createdAt: '2026-09-12T14:00:00.000Z',
+    updatedAt: '2026-09-12T14:00:00.000Z',
     tags: [
       { id: 'tag-regional-port-lincoln', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-port-lincoln', name: 'Remote Community', slug: 'remote-community' },
@@ -20651,9 +20651,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Port Augusta | PC Water",
     seoDescription:
       "Port Augusta (the Upper Spencer Gulf) tank storage: energy generation demand and outback conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-22T09:00:00.000Z',
-    createdAt: '2026-10-22T09:00:00.000Z',
-    updatedAt: '2026-10-22T09:00:00.000Z',
+    publishedAt: '2026-09-13T14:00:00.000Z',
+    createdAt: '2026-09-13T14:00:00.000Z',
+    updatedAt: '2026-09-13T14:00:00.000Z',
     tags: [
       { id: 'tag-regional-port-augusta', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-port-augusta', name: 'Remote Community', slug: 'remote-community' },
@@ -20740,9 +20740,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Mount Gambier | PC Water",
     seoDescription:
       "Mount Gambier (the Limestone Coast) tank storage: forestry demand and coastal conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-22T15:00:00.000Z',
-    createdAt: '2026-10-22T15:00:00.000Z',
-    updatedAt: '2026-10-22T15:00:00.000Z',
+    publishedAt: '2026-09-14T14:00:00.000Z',
+    createdAt: '2026-09-14T14:00:00.000Z',
+    updatedAt: '2026-09-14T14:00:00.000Z',
     tags: [
       { id: 'tag-regional-mount-gambier', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-mount-gambier', name: 'Remote Community', slug: 'remote-community' },
@@ -20829,9 +20829,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Murray Bridge | PC Water",
     seoDescription:
       "Murray Bridge (the Murray River region) tank storage: food processing demand and dry-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-23T09:00:00.000Z',
-    createdAt: '2026-10-23T09:00:00.000Z',
-    updatedAt: '2026-10-23T09:00:00.000Z',
+    publishedAt: '2026-09-15T14:00:00.000Z',
+    createdAt: '2026-09-15T14:00:00.000Z',
+    updatedAt: '2026-09-15T14:00:00.000Z',
     tags: [
       { id: 'tag-regional-murray-bridge', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-murray-bridge', name: 'Remote Community', slug: 'remote-community' },
@@ -20918,9 +20918,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Renmark | PC Water",
     seoDescription:
       "Renmark (the Riverland) tank storage: irrigated viticulture demand and dry-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-23T15:00:00.000Z',
-    createdAt: '2026-10-23T15:00:00.000Z',
-    updatedAt: '2026-10-23T15:00:00.000Z',
+    publishedAt: '2026-09-16T14:00:00.000Z',
+    createdAt: '2026-09-16T14:00:00.000Z',
+    updatedAt: '2026-09-16T14:00:00.000Z',
     tags: [
       { id: 'tag-regional-renmark', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-renmark', name: 'Remote Community', slug: 'remote-community' },
@@ -21007,9 +21007,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Victor Harbor | PC Water",
     seoDescription:
       "Victor Harbor (the Fleurieu Peninsula) tank storage: tourism demand and coastal conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-24T09:00:00.000Z',
-    createdAt: '2026-10-24T09:00:00.000Z',
-    updatedAt: '2026-10-24T09:00:00.000Z',
+    publishedAt: '2026-09-17T14:00:00.000Z',
+    createdAt: '2026-09-17T14:00:00.000Z',
+    updatedAt: '2026-09-17T14:00:00.000Z',
     tags: [
       { id: 'tag-regional-victor-harbor', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-victor-harbor', name: 'Remote Community', slug: 'remote-community' },
@@ -21096,9 +21096,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Berri | PC Water",
     seoDescription:
       "Berri (the Riverland) tank storage: citrus demand and dry-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-24T15:00:00.000Z',
-    createdAt: '2026-10-24T15:00:00.000Z',
-    updatedAt: '2026-10-24T15:00:00.000Z',
+    publishedAt: '2026-09-18T14:00:00.000Z',
+    createdAt: '2026-09-18T14:00:00.000Z',
+    updatedAt: '2026-09-18T14:00:00.000Z',
     tags: [
       { id: 'tag-regional-berri', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-berri', name: 'Remote Community', slug: 'remote-community' },
@@ -21185,9 +21185,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Gawler | PC Water",
     seoDescription:
       "Gawler (the northern Adelaide plains) tank storage: residential growth demand and mediterranean-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-25T09:00:00.000Z',
-    createdAt: '2026-10-25T09:00:00.000Z',
-    updatedAt: '2026-10-25T09:00:00.000Z',
+    publishedAt: '2026-09-10T16:00:00.000Z',
+    createdAt: '2026-09-10T16:00:00.000Z',
+    updatedAt: '2026-09-10T16:00:00.000Z',
     tags: [
       { id: 'tag-regional-gawler', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-gawler', name: 'Remote Community', slug: 'remote-community' },
@@ -21274,9 +21274,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Ceduna | PC Water",
     seoDescription:
       "Ceduna (the far west coast) tank storage: grain growing demand and outback conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-25T15:00:00.000Z',
-    createdAt: '2026-10-25T15:00:00.000Z',
-    updatedAt: '2026-10-25T15:00:00.000Z',
+    publishedAt: '2026-09-11T16:00:00.000Z',
+    createdAt: '2026-09-11T16:00:00.000Z',
+    updatedAt: '2026-09-11T16:00:00.000Z',
     tags: [
       { id: 'tag-regional-ceduna', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-ceduna', name: 'Remote Community', slug: 'remote-community' },
@@ -21363,9 +21363,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Kadina | PC Water",
     seoDescription:
       "Kadina (the Yorke Peninsula (Copper Coast)) tank storage: grain growing demand and mediterranean-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-26T09:00:00.000Z',
-    createdAt: '2026-10-26T09:00:00.000Z',
-    updatedAt: '2026-10-26T09:00:00.000Z',
+    publishedAt: '2026-09-12T16:00:00.000Z',
+    createdAt: '2026-09-12T16:00:00.000Z',
+    updatedAt: '2026-09-12T16:00:00.000Z',
     tags: [
       { id: 'tag-regional-kadina', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-kadina', name: 'Remote Community', slug: 'remote-community' },
@@ -21452,9 +21452,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Geraldton | PC Water",
     seoDescription:
       "Geraldton (the Mid West (Batavia Coast)) tank storage: fishing demand and mediterranean-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-26T15:00:00.000Z',
-    createdAt: '2026-10-26T15:00:00.000Z',
-    updatedAt: '2026-10-26T15:00:00.000Z',
+    publishedAt: '2026-09-13T16:00:00.000Z',
+    createdAt: '2026-09-13T16:00:00.000Z',
+    updatedAt: '2026-09-13T16:00:00.000Z',
     tags: [
       { id: 'tag-regional-geraldton', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-geraldton', name: 'Remote Community', slug: 'remote-community' },
@@ -21541,9 +21541,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Bunbury | PC Water",
     seoDescription:
       "Bunbury (the South West) tank storage: port operations demand and mediterranean-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-27T09:00:00.000Z',
-    createdAt: '2026-10-27T09:00:00.000Z',
-    updatedAt: '2026-10-27T09:00:00.000Z',
+    publishedAt: '2026-09-14T16:00:00.000Z',
+    createdAt: '2026-09-14T16:00:00.000Z',
+    updatedAt: '2026-09-14T16:00:00.000Z',
     tags: [
       { id: 'tag-regional-bunbury', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-bunbury', name: 'Remote Community', slug: 'remote-community' },
@@ -21630,9 +21630,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Broome | PC Water",
     seoDescription:
       "Broome (the Kimberley) tank storage: tourism demand and tropical conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-27T15:00:00.000Z',
-    createdAt: '2026-10-27T15:00:00.000Z',
-    updatedAt: '2026-10-27T15:00:00.000Z',
+    publishedAt: '2026-09-15T16:00:00.000Z',
+    createdAt: '2026-09-15T16:00:00.000Z',
+    updatedAt: '2026-09-15T16:00:00.000Z',
     tags: [
       { id: 'tag-regional-broome', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-broome', name: 'Remote Community', slug: 'remote-community' },
@@ -21719,9 +21719,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Karratha | PC Water",
     seoDescription:
       "Karratha (the Pilbara) tank storage: iron ore export demand and cyclone-region conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-28T09:00:00.000Z',
-    createdAt: '2026-10-28T09:00:00.000Z',
-    updatedAt: '2026-10-28T09:00:00.000Z',
+    publishedAt: '2026-09-16T16:00:00.000Z',
+    createdAt: '2026-09-16T16:00:00.000Z',
+    updatedAt: '2026-09-16T16:00:00.000Z',
     tags: [
       { id: 'tag-regional-karratha', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-karratha', name: 'Remote Community', slug: 'remote-community' },
@@ -21808,9 +21808,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Port Hedland | PC Water",
     seoDescription:
       "Port Hedland (the Pilbara) tank storage: iron ore export demand and cyclone-region conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-28T15:00:00.000Z',
-    createdAt: '2026-10-28T15:00:00.000Z',
-    updatedAt: '2026-10-28T15:00:00.000Z',
+    publishedAt: '2026-09-17T16:00:00.000Z',
+    createdAt: '2026-09-17T16:00:00.000Z',
+    updatedAt: '2026-09-17T16:00:00.000Z',
     tags: [
       { id: 'tag-regional-port-hedland', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-port-hedland', name: 'Remote Community', slug: 'remote-community' },
@@ -21897,9 +21897,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Albany | PC Water",
     seoDescription:
       "Albany (the Great Southern) tank storage: agriculture demand and coastal conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-29T09:00:00.000Z',
-    createdAt: '2026-10-29T09:00:00.000Z',
-    updatedAt: '2026-10-29T09:00:00.000Z',
+    publishedAt: '2026-09-18T16:00:00.000Z',
+    createdAt: '2026-09-18T16:00:00.000Z',
+    updatedAt: '2026-09-18T16:00:00.000Z',
     tags: [
       { id: 'tag-regional-albany', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-albany', name: 'Remote Community', slug: 'remote-community' },
@@ -21986,9 +21986,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Esperance | PC Water",
     seoDescription:
       "Esperance (the south coast) tank storage: grain growing demand and coastal conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-29T15:00:00.000Z',
-    createdAt: '2026-10-29T15:00:00.000Z',
-    updatedAt: '2026-10-29T15:00:00.000Z',
+    publishedAt: '2026-09-10T18:00:00.000Z',
+    createdAt: '2026-09-10T18:00:00.000Z',
+    updatedAt: '2026-09-10T18:00:00.000Z',
     tags: [
       { id: 'tag-regional-esperance', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-esperance', name: 'Remote Community', slug: 'remote-community' },
@@ -22075,9 +22075,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Busselton | PC Water",
     seoDescription:
       "Busselton (the South West) tank storage: tourism demand and mediterranean-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-30T09:00:00.000Z',
-    createdAt: '2026-10-30T09:00:00.000Z',
-    updatedAt: '2026-10-30T09:00:00.000Z',
+    publishedAt: '2026-09-11T18:00:00.000Z',
+    createdAt: '2026-09-11T18:00:00.000Z',
+    updatedAt: '2026-09-11T18:00:00.000Z',
     tags: [
       { id: 'tag-regional-busselton', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-busselton', name: 'Remote Community', slug: 'remote-community' },
@@ -22164,9 +22164,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Kununurra | PC Water",
     seoDescription:
       "Kununurra (the East Kimberley) tank storage: irrigated agriculture demand and tropical conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-30T15:00:00.000Z',
-    createdAt: '2026-10-30T15:00:00.000Z',
-    updatedAt: '2026-10-30T15:00:00.000Z',
+    publishedAt: '2026-09-12T18:00:00.000Z',
+    createdAt: '2026-09-12T18:00:00.000Z',
+    updatedAt: '2026-09-12T18:00:00.000Z',
     tags: [
       { id: 'tag-regional-kununurra', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-kununurra', name: 'Remote Community', slug: 'remote-community' },
@@ -22253,9 +22253,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Carnarvon | PC Water",
     seoDescription:
       "Carnarvon (the Gascoyne) tank storage: horticulture demand and outback conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-31T09:00:00.000Z',
-    createdAt: '2026-10-31T09:00:00.000Z',
-    updatedAt: '2026-10-31T09:00:00.000Z',
+    publishedAt: '2026-09-13T18:00:00.000Z',
+    createdAt: '2026-09-13T18:00:00.000Z',
+    updatedAt: '2026-09-13T18:00:00.000Z',
     tags: [
       { id: 'tag-regional-carnarvon', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-carnarvon', name: 'Remote Community', slug: 'remote-community' },
@@ -22342,9 +22342,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Northam | PC Water",
     seoDescription:
       "Northam (the Avon Valley (Wheatbelt)) tank storage: grain growing demand and mediterranean-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-10-31T15:00:00.000Z',
-    createdAt: '2026-10-31T15:00:00.000Z',
-    updatedAt: '2026-10-31T15:00:00.000Z',
+    publishedAt: '2026-09-14T18:00:00.000Z',
+    createdAt: '2026-09-14T18:00:00.000Z',
+    updatedAt: '2026-09-14T18:00:00.000Z',
     tags: [
       { id: 'tag-regional-northam', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-northam', name: 'Remote Community', slug: 'remote-community' },
@@ -22431,9 +22431,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Collie | PC Water",
     seoDescription:
       "Collie (the South West) tank storage: coal mining demand and mediterranean-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-11-01T09:00:00.000Z',
-    createdAt: '2026-11-01T09:00:00.000Z',
-    updatedAt: '2026-11-01T09:00:00.000Z',
+    publishedAt: '2026-09-15T18:00:00.000Z',
+    createdAt: '2026-09-15T18:00:00.000Z',
+    updatedAt: '2026-09-15T18:00:00.000Z',
     tags: [
       { id: 'tag-regional-collie', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-collie', name: 'Remote Community', slug: 'remote-community' },
@@ -22520,9 +22520,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Manjimup | PC Water",
     seoDescription:
       "Manjimup (the South West) tank storage: timber demand and coastal conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-11-01T15:00:00.000Z',
-    createdAt: '2026-11-01T15:00:00.000Z',
-    updatedAt: '2026-11-01T15:00:00.000Z',
+    publishedAt: '2026-09-16T18:00:00.000Z',
+    createdAt: '2026-09-16T18:00:00.000Z',
+    updatedAt: '2026-09-16T18:00:00.000Z',
     tags: [
       { id: 'tag-regional-manjimup', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-manjimup', name: 'Remote Community', slug: 'remote-community' },
@@ -22609,9 +22609,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Merredin | PC Water",
     seoDescription:
       "Merredin (the Central Wheatbelt) tank storage: grain growing demand and dry-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-11-02T09:00:00.000Z',
-    createdAt: '2026-11-02T09:00:00.000Z',
-    updatedAt: '2026-11-02T09:00:00.000Z',
+    publishedAt: '2026-09-17T18:00:00.000Z',
+    createdAt: '2026-09-17T18:00:00.000Z',
+    updatedAt: '2026-09-17T18:00:00.000Z',
     tags: [
       { id: 'tag-regional-merredin', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-merredin', name: 'Remote Community', slug: 'remote-community' },
@@ -22698,9 +22698,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Kalbarri | PC Water",
     seoDescription:
       "Kalbarri (the Mid West coast) tank storage: tourism demand and outback conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-11-02T15:00:00.000Z',
-    createdAt: '2026-11-02T15:00:00.000Z',
-    updatedAt: '2026-11-02T15:00:00.000Z',
+    publishedAt: '2026-09-18T18:00:00.000Z',
+    createdAt: '2026-09-18T18:00:00.000Z',
+    updatedAt: '2026-09-18T18:00:00.000Z',
     tags: [
       { id: 'tag-regional-kalbarri', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-kalbarri', name: 'Remote Community', slug: 'remote-community' },
@@ -22787,9 +22787,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in York | PC Water",
     seoDescription:
       "York (the Avon Valley (Wheatbelt)) tank storage: agriculture demand and mediterranean-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-11-03T09:00:00.000Z',
-    createdAt: '2026-11-03T09:00:00.000Z',
-    updatedAt: '2026-11-03T09:00:00.000Z',
+    publishedAt: '2026-09-10T20:00:00.000Z',
+    createdAt: '2026-09-10T20:00:00.000Z',
+    updatedAt: '2026-09-10T20:00:00.000Z',
     tags: [
       { id: 'tag-regional-york', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-york', name: 'Remote Community', slug: 'remote-community' },
@@ -22876,9 +22876,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Katherine | PC Water",
     seoDescription:
       "Katherine (the Top End) tank storage: defence demand and tropical conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-11-03T15:00:00.000Z',
-    createdAt: '2026-11-03T15:00:00.000Z',
-    updatedAt: '2026-11-03T15:00:00.000Z',
+    publishedAt: '2026-09-11T20:00:00.000Z',
+    createdAt: '2026-09-11T20:00:00.000Z',
+    updatedAt: '2026-09-11T20:00:00.000Z',
     tags: [
       { id: 'tag-regional-katherine', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-katherine', name: 'Remote Community', slug: 'remote-community' },
@@ -22965,9 +22965,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Tennant Creek | PC Water",
     seoDescription:
       "Tennant Creek (the Barkly region) tank storage: gold mining demand and outback conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-11-04T09:00:00.000Z',
-    createdAt: '2026-11-04T09:00:00.000Z',
-    updatedAt: '2026-11-04T09:00:00.000Z',
+    publishedAt: '2026-09-12T20:00:00.000Z',
+    createdAt: '2026-09-12T20:00:00.000Z',
+    updatedAt: '2026-09-12T20:00:00.000Z',
     tags: [
       { id: 'tag-regional-tennant-creek', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-tennant-creek', name: 'Remote Community', slug: 'remote-community' },
@@ -23054,9 +23054,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Nhulunbuy | PC Water",
     seoDescription:
       "Nhulunbuy (East Arnhem Land) tank storage: bauxite mining demand and tropical conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-11-04T15:00:00.000Z',
-    createdAt: '2026-11-04T15:00:00.000Z',
-    updatedAt: '2026-11-04T15:00:00.000Z',
+    publishedAt: '2026-09-13T20:00:00.000Z',
+    createdAt: '2026-09-13T20:00:00.000Z',
+    updatedAt: '2026-09-13T20:00:00.000Z',
     tags: [
       { id: 'tag-regional-nhulunbuy', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-nhulunbuy', name: 'Remote Community', slug: 'remote-community' },
@@ -23143,9 +23143,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Palmerston | PC Water",
     seoDescription:
       "Palmerston (greater Darwin) tank storage: residential growth demand and tropical conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-11-05T09:00:00.000Z',
-    createdAt: '2026-11-05T09:00:00.000Z',
-    updatedAt: '2026-11-05T09:00:00.000Z',
+    publishedAt: '2026-09-14T20:00:00.000Z',
+    createdAt: '2026-09-14T20:00:00.000Z',
+    updatedAt: '2026-09-14T20:00:00.000Z',
     tags: [
       { id: 'tag-regional-palmerston', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-palmerston', name: 'Remote Community', slug: 'remote-community' },
@@ -23232,9 +23232,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Devonport | PC Water",
     seoDescription:
       "Devonport (the North West Coast) tank storage: port operations demand and coastal conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-11-05T15:00:00.000Z',
-    createdAt: '2026-11-05T15:00:00.000Z',
-    updatedAt: '2026-11-05T15:00:00.000Z',
+    publishedAt: '2026-09-15T20:00:00.000Z',
+    createdAt: '2026-09-15T20:00:00.000Z',
+    updatedAt: '2026-09-15T20:00:00.000Z',
     tags: [
       { id: 'tag-regional-devonport', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-devonport', name: 'Remote Community', slug: 'remote-community' },
@@ -23321,9 +23321,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Burnie | PC Water",
     seoDescription:
       "Burnie (the North West Coast) tank storage: port operations demand and coastal conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-11-06T09:00:00.000Z',
-    createdAt: '2026-11-06T09:00:00.000Z',
-    updatedAt: '2026-11-06T09:00:00.000Z',
+    publishedAt: '2026-09-16T20:00:00.000Z',
+    createdAt: '2026-09-16T20:00:00.000Z',
+    updatedAt: '2026-09-16T20:00:00.000Z',
     tags: [
       { id: 'tag-regional-burnie', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-burnie', name: 'Remote Community', slug: 'remote-community' },
@@ -23410,9 +23410,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Ulverstone | PC Water",
     seoDescription:
       "Ulverstone (the North West Coast) tank storage: vegetable processing demand and coastal conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-11-06T15:00:00.000Z',
-    createdAt: '2026-11-06T15:00:00.000Z',
-    updatedAt: '2026-11-06T15:00:00.000Z',
+    publishedAt: '2026-09-17T20:00:00.000Z',
+    createdAt: '2026-09-17T20:00:00.000Z',
+    updatedAt: '2026-09-17T20:00:00.000Z',
     tags: [
       { id: 'tag-regional-ulverstone', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-ulverstone', name: 'Remote Community', slug: 'remote-community' },
@@ -23499,9 +23499,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Queenstown | PC Water",
     seoDescription:
       "Queenstown (the West Coast) tank storage: historic copper mining heritage demand and coastal conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-11-07T09:00:00.000Z',
-    createdAt: '2026-11-07T09:00:00.000Z',
-    updatedAt: '2026-11-07T09:00:00.000Z',
+    publishedAt: '2026-09-18T20:00:00.000Z',
+    createdAt: '2026-09-18T20:00:00.000Z',
+    updatedAt: '2026-09-18T20:00:00.000Z',
     tags: [
       { id: 'tag-regional-queenstown', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-queenstown', name: 'Remote Community', slug: 'remote-community' },
@@ -23588,9 +23588,9 @@ export const fallbackPosts: CmsPost[] = [
     seoTitle: "Water Tank Services in Huonville | PC Water",
     seoDescription:
       "Huonville (the Huon Valley) tank storage: apple growing demand and coastal conditions shape sizing, compliance and maintenance. A practical regional guide.",
-    publishedAt: '2026-11-07T15:00:00.000Z',
-    createdAt: '2026-11-07T15:00:00.000Z',
-    updatedAt: '2026-11-07T15:00:00.000Z',
+    publishedAt: '2026-09-10T22:00:00.000Z',
+    createdAt: '2026-09-10T22:00:00.000Z',
+    updatedAt: '2026-09-10T22:00:00.000Z',
     tags: [
       { id: 'tag-regional-huonville', name: 'Regional', slug: 'regional' },
       { id: 'tag-remote-community-huonville', name: 'Remote Community', slug: 'remote-community' },

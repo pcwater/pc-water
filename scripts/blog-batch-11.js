@@ -32,11 +32,17 @@
 const BASE = 'https://mhggidgfivmdgkjerejn.supabase.co/storage/v1/object/public/cms-media/posts'
 
 // -- DATE SPREAD ----------------------------------------------------------
-const D0 = new Date('2026-09-19T09:00:00.000Z')
+// Compressed to fit between the last existing post (2026-09-09) and today
+// (2026-09-18) - 9 days, ~11-12 posts/day at 2-hour intervals - rather than
+// running 2/day out to November.
+const DAY0 = new Date('2026-09-10T00:00:00.000Z')
+const NUM_DAYS = 9
+const dayCounts = new Array(NUM_DAYS).fill(0)
 function d(i) {
-  const day = Math.floor(i / 2)
-  const time = i % 2 === 0 ? 0 : 6 * 60 * 60 * 1000 // 09:00 or 15:00 UTC
-  return new Date(D0.getTime() + day * 24 * 60 * 60 * 1000 + time).toISOString()
+  const dayIdx = i % NUM_DAYS
+  const slot = dayCounts[dayIdx]++
+  const hours = slot * 2 // 2-hour spacing, max 12 slots/day
+  return new Date(DAY0.getTime() + dayIdx * 24 * 60 * 60 * 1000 + hours * 60 * 60 * 1000).toISOString()
 }
 
 // -- IMAGES (reused generic imagery - no new city photos in this batch) ---
