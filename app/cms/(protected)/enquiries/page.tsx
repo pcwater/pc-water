@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from 'react'
 
+import { downloadProjectEnquiriesXlsx } from '@/lib/cms/download-project-enquiries-xlsx'
 import { exportProjectEnquiriesPdf } from '@/lib/cms/export-project-enquiries-pdf'
 import { deleteProjectEnquiry, fetchProjectEnquiries } from '@/lib/supabase/project-enquiries'
 import type { ProjectEnquiry } from '@/lib/project-enquiries'
@@ -12,10 +13,6 @@ function formatDateTime(iso: string) {
   const d = new Date(iso)
   return d.toLocaleDateString('en-AU', { day: '2-digit', month: 'short', year: 'numeric' }) +
     ' · ' + d.toLocaleTimeString('en-AU', { hour: '2-digit', minute: '2-digit', hour12: true })
-}
-
-function formatDateShort(iso: string) {
-  return new Date(iso).toLocaleDateString('en-AU', { day: '2-digit', month: 'short', year: 'numeric' })
 }
 
 function StatCard({ label, value, sub, accentClass }: { label: string; value: string | number; sub: string; accentClass: string }) {
@@ -236,43 +233,6 @@ function EnquiryDetailModal({
   )
 }
 
-function exportCSV(rows: ProjectEnquiry[]) {
-  const headers = ['Submitted', 'First Name', 'Last Name', 'Company', 'Email', 'Phone', 'State', 'Suburb/Town', 'Industry', 'Service', 'Project Stage', 'Timeline', 'Budget', 'Tank Type', 'Status', 'Email Status', 'Message']
-  const data = rows.map((row) => [
-    formatDateShort(row.submittedAt),
-    row.firstName,
-    row.lastName,
-    row.company || '',
-    row.email,
-    row.phone || '',
-    row.state || '',
-    row.suburbTown || '',
-    row.industry || '',
-    row.service || '',
-    row.projectStage || '',
-    row.timeline || '',
-    row.budget || '',
-    row.tankType || '',
-    row.submissionStatus,
-    row.emailDeliveryStatus,
-    row.message,
-  ])
-
-  const csv = [headers, ...data]
-    .map((row) => row.map((cell) => `"${String(cell).replace(/"/g, '""')}"`).join(','))
-    .join('\n')
-
-  const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' })
-  const url = URL.createObjectURL(blob)
-  const a = document.createElement('a')
-  a.href = url
-  a.download = `pc-water-project-enquiries-${new Date().toISOString().slice(0, 10)}.csv`
-  document.body.appendChild(a)
-  a.click()
-  document.body.removeChild(a)
-  URL.revokeObjectURL(url)
-}
-
 function DeleteConfirmModal({
   enquiry,
   deleting,
@@ -322,6 +282,7 @@ export default function ProjectEnquiriesPage() {
   const [toDelete, setToDelete] = useState<ProjectEnquiry | null>(null)
   const [deleting, setDeleting] = useState(false)
   const [selectedEnquiry, setSelectedEnquiry] = useState<ProjectEnquiry | null>(null)
+  const [exportingXlsx, setExportingXlsx] = useState(false)
   const [exportingPdf, setExportingPdf] = useState(false)
   const [exportError, setExportError] = useState('')
   const [mountedAt] = useState(() => Date.now())
@@ -376,6 +337,24 @@ export default function ProjectEnquiriesPage() {
     }
   }
 
+  async function handleXlsxExport() {
+    if (filtered.length === 0 || exportingXlsx) return
+
+    setExportingXlsx(true)
+    setExportError('')
+    try {
+      await downloadProjectEnquiriesXlsx(filtered, {
+        search,
+        status: statusFilter,
+      })
+    } catch (error) {
+      console.error('[project_enquiries] Excel export failed', error)
+      setExportError('The Excel workbook could not be generated. Please try again.')
+    } finally {
+      setExportingXlsx(false)
+    }
+  }
+
   const uniqueEmails = new Set(enquiries.map((item) => item.email.toLowerCase())).size
   const oneWeekAgo = new Date(mountedAt - 7 * 24 * 60 * 60 * 1000)
   const thisWeekCount = enquiries.filter((item) => new Date(item.submittedAt) >= oneWeekAgo).length
@@ -418,11 +397,11 @@ export default function ProjectEnquiriesPage() {
             </svg>
           </button>
           <button
-            onClick={handlePdfExport}
-            disabled={filtered.length === 0 || exportingPdf}
+            onClick={handleXlsxExport}
+            disabled={filtered.length === 0 || exportingXlsx}
             className="flex items-center gap-1.5 px-3.5 h-9 rounded-lg bg-[#1F3A62] hover:bg-[#162B4A] text-white text-[12px] font-semibold transition-colors disabled:opacity-40 whitespace-nowrap shadow-sm"
           >
-            {exportingPdf ? (
+            {exportingXlsx ? (
               <svg className="w-3.5 h-3.5 animate-spin" fill="none" viewBox="0 0 24 24">
                 <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" />
                 <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z" />
@@ -432,14 +411,14 @@ export default function ProjectEnquiriesPage() {
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 10v6m0 0l-3-3m3 3l3-3m2 6H7a2 2 0 01-2-2V7a2 2 0 012-2h3l2 2h5a2 2 0 012 2v8a2 2 0 01-2 2z" />
               </svg>
             )}
-            {exportingPdf ? 'Building PDF…' : 'Export PDF'}
+            {exportingXlsx ? 'Building Excel…' : 'Export Excel'}
           </button>
           <button
-            onClick={() => exportCSV(filtered)}
-            disabled={filtered.length === 0}
-            className="flex items-center gap-1.5 px-3.5 h-9 rounded-lg border border-black/[0.08] dark:border-white/[0.07] bg-white/80 dark:bg-[#060A14]/70 backdrop-blur-sm text-[12px] font-semibold text-[#536070] dark:text-[#8B9CB8] hover:border-emerald-400 hover:text-emerald-600 dark:hover:text-emerald-400 transition-colors disabled:opacity-40 whitespace-nowrap"
+            onClick={handlePdfExport}
+            disabled={filtered.length === 0 || exportingPdf}
+            className="flex items-center gap-1.5 px-3.5 h-9 rounded-lg border border-black/[0.08] dark:border-white/[0.07] bg-white/80 dark:bg-[#060A14]/70 backdrop-blur-sm text-[12px] font-semibold text-[#536070] dark:text-[#8B9CB8] hover:border-[#3E91CE] hover:text-[#3E91CE] transition-colors disabled:opacity-40 whitespace-nowrap"
           >
-            CSV
+            {exportingPdf ? 'Building PDF…' : 'Export PDF'}
           </button>
         </div>
       </div>
