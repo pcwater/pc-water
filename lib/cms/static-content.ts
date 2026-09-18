@@ -14696,6 +14696,8906 @@ export const fallbackPosts: CmsPost[] = [
       { id: 'tag-tank-maintenance-decommission', name: 'Tank Maintenance', slug: 'tank-maintenance' },
     ],
   },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Bundaberg: Sugar Milling '),
+    title: "Water Storage and Tank Services in Bundaberg: Sugar Milling & Cyclone-Region Water Security",
+    slug: 'water-storage-and-tank-services-in-bundaberg-sugar-milling-and-cyclone-region-water-security',
+    excerpt:
+      "Bundaberg is on the Burnett River, in the Wide Bay–Burnett, a major sugar cane floodplain economy with a long history of seasonal river flooding. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Bundaberg sits on the Burnett River, in the Wide Bay–Burnett of Queensland. The town's economy is built substantially around sugar milling, rum distilling and macadamia processing, and it is a major sugar cane floodplain economy with a long history of seasonal river flooding - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Bundaberg, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Bundaberg's water context is distinctive</span></div>
+
+<h3>A cyclone-exposed coastal economy</h3>
+<p>Bundaberg is on the Burnett River, and that geography carries real consequences for water storage: a major sugar cane floodplain economy with a long history of seasonal river flooding. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from sugar milling</h3>
+<p>Sugar Milling, Rum Distilling And Macadamia Processing is a defining part of Bundaberg's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/sector-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Wide Bay–Burnett account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Wide Bay–Burnett</span></div>
+
+<p>For a property in or around Bundaberg, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a major sugar cane floodplain economy with a long history of seasonal river flooding. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/fire-tank-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Wide Bay–Burnett is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Bundaberg's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">Region C</span>
+  <span class="stat-label">AS/NZS 1170.2 cyclonic wind classification covering Bundaberg — tank structural design here carries a materially higher wind loading requirement than non-cyclonic regions further south</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Bundaberg property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Structural wind rating against AS/NZS 1170.2</td><td>Tanks here are designed for a materially higher wind loading category than non-cyclonic regions</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Bundaberg different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Bundaberg is a major sugar cane floodplain economy with a long history of seasonal river flooding, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does sugar milling affect water storage requirements for other properties in Bundaberg?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around sugar milling, rum distilling and macadamia processing shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Wide Bay–Burnett be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Bundaberg's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Bundaberg? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Wide Bay–Burnett's real conditions.</p>
+  <a href="/services/foundation-civil-integration" class="cta-btn">Discuss Cyclone-Region Tank Design</a>
+</div>`,
+    coverImageUrl: `${BASE}/sector-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Bundaberg | PC Water",
+    seoDescription:
+      "Bundaberg (the Wide Bay–Burnett) tank storage: sugar milling demand and cyclone-region conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-09-19T09:00:00.000Z',
+    createdAt: '2026-09-19T09:00:00.000Z',
+    updatedAt: '2026-09-19T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-bundaberg', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-bundaberg', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Hervey Bay: Tourism & Cyc'),
+    title: "Water Storage and Tank Services in Hervey Bay: Tourism & Cyclone-Region Water Security",
+    slug: 'water-storage-and-tank-services-in-hervey-bay-tourism-and-cyclone-region-water-security',
+    excerpt:
+      "Hervey Bay is on the Great Sandy Strait, in the Fraser Coast, a coastal tourism gateway with strong seasonal population swings that spike peak water demand. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Hervey Bay sits on the Great Sandy Strait, in the Fraser Coast of Queensland. The town's economy is built substantially around tourism and fishing, and it is a coastal tourism gateway with strong seasonal population swings that spike peak water demand - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Hervey Bay, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Hervey Bay's water context is distinctive</span></div>
+
+<h3>A city built for cyclone-season resilience</h3>
+<p>Hervey Bay is on the Great Sandy Strait, and that geography carries real consequences for water storage: a coastal tourism gateway with strong seasonal population swings that spike peak water demand. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from tourism</h3>
+<p>Tourism And Fishing is a defining part of Hervey Bay's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/sector-inspection.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Fraser Coast account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Fraser Coast</span></div>
+
+<p>For a property in or around Hervey Bay, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a coastal tourism gateway with strong seasonal population swings that spike peak water demand. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/fire-tank-inspection.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Fraser Coast is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Hervey Bay's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">Region D</span>
+  <span class="stat-label">AS/NZS 1170.2 severe cyclonic wind classification covering Hervey Bay — the highest wind loading category in the Australian structural design standard</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Hervey Bay property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Structural wind rating against AS/NZS 1170.2</td><td>Tanks here are designed for a materially higher wind loading category than non-cyclonic regions</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Hervey Bay different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Hervey Bay is a coastal tourism gateway with strong seasonal population swings that spike peak water demand, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does tourism affect water storage requirements for other properties in Hervey Bay?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around tourism and fishing shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Fraser Coast be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Hervey Bay's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Hervey Bay? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Fraser Coast's real conditions.</p>
+  <a href="/services/foundation-civil-integration" class="cta-btn">Discuss Cyclone-Region Tank Design</a>
+</div>`,
+    coverImageUrl: `${BASE}/sector-inspection.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Hervey Bay | PC Water",
+    seoDescription:
+      "Hervey Bay (the Fraser Coast) tank storage: tourism demand and cyclone-region conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-09-19T15:00:00.000Z',
+    createdAt: '2026-09-19T15:00:00.000Z',
+    updatedAt: '2026-09-19T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-hervey-bay', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-hervey-bay', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Gympie: Timber & Subtropi'),
+    title: "Water Storage and Tank Services in Gympie: Timber & Subtropical Water Security",
+    slug: 'water-storage-and-tank-services-in-gympie-timber-and-subtropical-water-security',
+    excerpt:
+      "Gympie is on the Mary River, in the Cooloola Coast hinterland, a Mary River catchment town with a well-documented flood history. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Gympie sits on the Mary River, in the Cooloola Coast hinterland of Queensland. The town's economy is built substantially around timber, agriculture and historic gold mining, and it is a Mary River catchment town with a well-documented flood history - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Gympie, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Gympie's water context is distinctive</span></div>
+
+<h3>Warm, wet summers and a documented flood record</h3>
+<p>Gympie is on the Mary River, and that geography carries real consequences for water storage: a Mary River catchment town with a well-documented flood history. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from timber</h3>
+<p>Timber, Agriculture And Historic Gold Mining is a defining part of Gympie's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/harsh-env-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Cooloola Coast hinterland account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Cooloola Coast hinterland</span></div>
+
+<p>For a property in or around Gympie, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a Mary River catchment town with a well-documented flood history. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/ticking-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Cooloola Coast hinterland is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Gympie's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">20-45°C</span>
+  <span class="stat-label">The water temperature range in which Legionella bacteria multiply most readily in stored water — the reason temperature control matters as much as disinfectant residual</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Gympie property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Flood-level clearance for inlet and access fittings</td><td>The region's documented flood history makes this a real planning factor, not a formality</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Gympie different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Gympie is a Mary River catchment town with a well-documented flood history, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does timber affect water storage requirements for other properties in Gympie?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around timber, agriculture and historic gold mining shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Cooloola Coast hinterland be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Gympie's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Gympie? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Cooloola Coast hinterland's real conditions.</p>
+  <a href="/services/tank-maintenance-upgrades" class="cta-btn">Discuss Industrial Tank Maintenance</a>
+</div>`,
+    coverImageUrl: `${BASE}/harsh-env-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Gympie | PC Water",
+    seoDescription:
+      "Gympie (the Cooloola Coast hinterland) tank storage: timber demand and subtropical conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-09-20T09:00:00.000Z',
+    createdAt: '2026-09-20T09:00:00.000Z',
+    updatedAt: '2026-09-20T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-gympie', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-gympie', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Warwick: Agriculture & Co'),
+    title: "Water Storage and Tank Services in Warwick: Agriculture & Cool-Climate Water Security",
+    slug: 'water-storage-and-tank-services-in-warwick-agriculture-and-cool-climate-water-security',
+    excerpt:
+      "Warwick is on the Condamine River, in the Southern Downs, one of the coldest inland towns in Queensland, with genuine winter frost risk. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Warwick sits on the Condamine River, in the Southern Downs of Queensland. The town's economy is built substantially around agriculture, viticulture and rodeo/agribusiness events, and it is one of the coldest inland towns in Queensland, with genuine winter frost risk - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Warwick, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Warwick's water context is distinctive</span></div>
+
+<h3>A cool-climate inland centre</h3>
+<p>Warwick is on the Condamine River, and that geography carries real consequences for water storage: one of the coldest inland towns in Queensland, with genuine winter frost risk. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from agriculture</h3>
+<p>Agriculture, Viticulture And Rodeo/agribusiness Events is a defining part of Warwick's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/harsh-env-drone.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Southern Downs account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Southern Downs</span></div>
+
+<p>For a property in or around Warwick, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given one of the coldest inland towns in Queensland, with genuine winter frost risk. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/ticking-inspection.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Southern Downs is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Warwick's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">AS4020</span>
+  <span class="stat-label">The Australian Standard certifying that a product or material is safe for use in contact with drinking water</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Warwick property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Frost protection on exposed pipework and fittings</td><td>Genuine sub-zero nights create freeze risk this region's design has to account for</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Warwick different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Warwick is one of the coldest inland towns in Queensland, with genuine winter frost risk, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does agriculture affect water storage requirements for other properties in Warwick?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around agriculture, viticulture and rodeo/agribusiness events shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Southern Downs be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Warwick's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Warwick? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Southern Downs's real conditions.</p>
+  <a href="/services/custom-tank-design" class="cta-btn">Discuss Your Water Storage Requirements</a>
+</div>`,
+    coverImageUrl: `${BASE}/harsh-env-drone.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Warwick | PC Water",
+    seoDescription:
+      "Warwick (the Southern Downs) tank storage: agriculture demand and cool-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-09-20T15:00:00.000Z',
+    createdAt: '2026-09-20T15:00:00.000Z',
+    updatedAt: '2026-09-20T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-warwick', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-warwick', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Maryborough: Rail Heritag'),
+    title: "Water Storage and Tank Services in Maryborough: Rail Heritage & Subtropical Water Security",
+    slug: 'water-storage-and-tank-services-in-maryborough-rail-heritage-and-subtropical-water-security',
+    excerpt:
+      "Maryborough is on the Mary River, in the Fraser Coast, a historic river port town with a long industrial base. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Maryborough sits on the Mary River, in the Fraser Coast of Queensland. The town's economy is built substantially around rail heritage, sugar and light manufacturing, and it is a historic river port town with a long industrial base - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Maryborough, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Maryborough's water context is distinctive</span></div>
+
+<h3>A humid subtropical climate with a real flood history</h3>
+<p>Maryborough is on the Mary River, and that geography carries real consequences for water storage: a historic river port town with a long industrial base. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from rail heritage</h3>
+<p>Rail Heritage, Sugar And Light Manufacturing is a defining part of Maryborough's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/corrosion-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Fraser Coast account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Fraser Coast</span></div>
+
+<p>For a property in or around Maryborough, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a historic river port town with a long industrial base. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/sediment-tank-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Fraser Coast is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Maryborough's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">AS1170</span>
+  <span class="stat-label">The Australian Standard series governing structural design actions, including the wind and seismic loads every water tank has to be engineered against</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Maryborough property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Flood-level clearance for inlet and access fittings</td><td>The region's documented flood history makes this a real planning factor, not a formality</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Maryborough different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Maryborough is a historic river port town with a long industrial base, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does rail heritage affect water storage requirements for other properties in Maryborough?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around rail heritage, sugar and light manufacturing shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Fraser Coast be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Maryborough's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Maryborough? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Fraser Coast's real conditions.</p>
+  <a href="/services/custom-tank-design" class="cta-btn">Discuss Your Water Storage Requirements</a>
+</div>`,
+    coverImageUrl: `${BASE}/corrosion-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Maryborough | PC Water",
+    seoDescription:
+      "Maryborough (the Fraser Coast) tank storage: rail heritage demand and subtropical conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-09-21T09:00:00.000Z',
+    createdAt: '2026-09-21T09:00:00.000Z',
+    updatedAt: '2026-09-21T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-maryborough', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-maryborough', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Emerald: Coal Mining & Dr'),
+    title: "Water Storage and Tank Services in Emerald: Coal Mining & Dry-Climate Water Security",
+    slug: 'water-storage-and-tank-services-in-emerald-coal-mining-and-dry-climate-water-security',
+    excerpt:
+      "Emerald is near Lake Maraboon (Fairbairn Dam), in the Central Highlands, a coal and irrigation economy sitting on one of Queensland's largest inland reservoirs. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Emerald sits near Lake Maraboon (Fairbairn Dam), in the Central Highlands of Queensland. The town's economy is built substantially around coal mining and irrigated agriculture (cotton, citrus), and it is a coal and irrigation economy sitting on one of Queensland's largest inland reservoirs - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Emerald, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Emerald's water context is distinctive</span></div>
+
+<h3>A dry-climate agricultural service centre</h3>
+<p>Emerald is near Lake Maraboon (Fairbairn Dam), and that geography carries real consequences for water storage: a coal and irrigation economy sitting on one of Queensland's largest inland reservoirs. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from coal mining</h3>
+<p>Coal Mining And Irrigated Agriculture (Cotton, Citrus) is a defining part of Emerald's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/corrosion-rov-inspection.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Central Highlands account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Central Highlands</span></div>
+
+<p>For a property in or around Emerald, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a coal and irrigation economy sitting on one of Queensland's largest inland reservoirs. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/water-food-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Central Highlands is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Emerald's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">AS2419</span>
+  <span class="stat-label">The Australian Standard governing fire hydrant installations, including the static water supply a fire tank has to reliably deliver</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Emerald property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Tank sizing against realistic dry-period duration</td><td>Irrigation-dependent local demand makes storage margin a genuine planning factor</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Emerald different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Emerald is a coal and irrigation economy sitting on one of Queensland's largest inland reservoirs, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does coal mining affect water storage requirements for other properties in Emerald?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around coal mining and irrigated agriculture (cotton, citrus) shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Central Highlands be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Emerald's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Emerald? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Central Highlands's real conditions.</p>
+  <a href="/services/tank-maintenance-upgrades" class="cta-btn">Discuss Industrial Tank Maintenance</a>
+</div>`,
+    coverImageUrl: `${BASE}/corrosion-rov-inspection.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Emerald | PC Water",
+    seoDescription:
+      "Emerald (the Central Highlands) tank storage: coal mining demand and dry-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-09-21T15:00:00.000Z',
+    createdAt: '2026-09-21T15:00:00.000Z',
+    updatedAt: '2026-09-21T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-emerald', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-emerald', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Roma: Gas Fields & Dry-Cl'),
+    title: "Water Storage and Tank Services in Roma: Gas Fields & Dry-Climate Water Security",
+    slug: 'water-storage-and-tank-services-in-roma-gas-fields-and-dry-climate-water-security',
+    excerpt:
+      "Roma is on the Bungil Creek floodplain, in the Western Downs, a gas and cattle service town with a genuinely variable rainfall pattern. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Roma sits on the Bungil Creek floodplain, in the Western Downs of Queensland. The town's economy is built substantially around gas fields, cattle saleyards and agriculture, and it is a gas and cattle service town with a genuinely variable rainfall pattern - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Roma, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Roma's water context is distinctive</span></div>
+
+<h3>A semi-arid agricultural district</h3>
+<p>Roma is on the Bungil Creek floodplain, and that geography carries real consequences for water storage: a gas and cattle service town with a genuinely variable rainfall pattern. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from gas fields</h3>
+<p>Gas Fields, Cattle Saleyards And Agriculture is a defining part of Roma's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/cleaning-inspection-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Western Downs account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Western Downs</span></div>
+
+<p>For a property in or around Roma, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a gas and cattle service town with a genuinely variable rainfall pattern. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/water-food-hatch.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Western Downs is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Roma's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">19.5-23.5%</span>
+  <span class="stat-label">The safe oxygen concentration range for confined space entry into a water tank — outside this band, entry requires additional controls before anyone goes in</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Roma property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Tank sizing against realistic dry-period duration</td><td>Irrigation-dependent local demand makes storage margin a genuine planning factor</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Roma different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Roma is a gas and cattle service town with a genuinely variable rainfall pattern, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does gas fields affect water storage requirements for other properties in Roma?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around gas fields, cattle saleyards and agriculture shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Western Downs be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Roma's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Roma? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Western Downs's real conditions.</p>
+  <a href="/services/tank-maintenance-upgrades" class="cta-btn">Discuss Industrial Tank Maintenance</a>
+</div>`,
+    coverImageUrl: `${BASE}/cleaning-inspection-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Roma | PC Water",
+    seoDescription:
+      "Roma (the Western Downs) tank storage: gas fields demand and dry-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-09-22T09:00:00.000Z',
+    createdAt: '2026-09-22T09:00:00.000Z',
+    updatedAt: '2026-09-22T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-roma', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-roma', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Charleville: Pastoral Gra'),
+    title: "Water Storage and Tank Services in Charleville: Pastoral Grazing & Outback Water Security",
+    slug: 'water-storage-and-tank-services-in-charleville-pastoral-grazing-and-outback-water-security',
+    excerpt:
+      "Charleville is on the Warrego River, in South West Queensland, a remote outback service centre where tank storage is frequently the primary, not backup, water source. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Charleville sits on the Warrego River, in South West Queensland of Queensland. The town's economy is built substantially around pastoral grazing and outback tourism, and it is a remote outback service centre where tank storage is frequently the primary, not backup, water source - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Charleville, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Charleville's water context is distinctive</span></div>
+
+<h3>One of the driest inhabited parts of the country</h3>
+<p>Charleville is on the Warrego River, and that geography carries real consequences for water storage: a remote outback service centre where tank storage is frequently the primary, not backup, water source. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from pastoral grazing</h3>
+<p>Pastoral Grazing And Outback Tourism is a defining part of Charleville's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/fire-tank-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in South West Queensland account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in South West Queensland</span></div>
+
+<p>For a property in or around Charleville, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a remote outback service centre where tank storage is frequently the primary, not backup, water source. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/rpvc-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for South West Queensland is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Charleville's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">150mm+</span>
+  <span class="stat-label">A typical minimum freeboard allowance built into tank design so storm inflow and wave action do not push water over the roofline</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Charleville property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Freight and access planning for remote delivery</td><td>Long distances from a supply base change what "urgent repair" can realistically mean</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Charleville different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Charleville is a remote outback service centre where tank storage is frequently the primary, not backup, water source, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does pastoral grazing affect water storage requirements for other properties in Charleville?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around pastoral grazing and outback tourism shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in South West Queensland be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Charleville's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Charleville? PC Water Infrastructure delivers tank design, installation and maintenance suited to South West Queensland's real conditions.</p>
+  <a href="/services/remote-area-delivery" class="cta-btn">Discuss Remote Water Storage Delivery</a>
+</div>`,
+    coverImageUrl: `${BASE}/fire-tank-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Charleville | PC Water",
+    seoDescription:
+      "Charleville (South West Queensland) tank storage: pastoral grazing demand and outback conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-09-22T15:00:00.000Z',
+    createdAt: '2026-09-22T15:00:00.000Z',
+    updatedAt: '2026-09-22T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-charleville', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-charleville', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Longreach: Grazing & Outb'),
+    title: "Water Storage and Tank Services in Longreach: Grazing & Outback Water Security",
+    slug: 'water-storage-and-tank-services-in-longreach-grazing-and-outback-water-security',
+    excerpt:
+      "Longreach is on the Thomson River, in Central West Queensland, a genuinely remote inland centre where freight distance shapes every water infrastructure decision. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Longreach sits on the Thomson River, in Central West Queensland of Queensland. The town's economy is built substantially around grazing, aviation heritage and outback tourism, and it is a genuinely remote inland centre where freight distance shapes every water infrastructure decision - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Longreach, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Longreach's water context is distinctive</span></div>
+
+<h3>Low, unreliable rainfall and long freight distances</h3>
+<p>Longreach is on the Thomson River, and that geography carries real consequences for water storage: a genuinely remote inland centre where freight distance shapes every water infrastructure decision. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from grazing</h3>
+<p>Grazing, Aviation Heritage And Outback Tourism is a defining part of Longreach's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/fire-tank-inspection.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in Central West Queensland account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in Central West Queensland</span></div>
+
+<p>For a property in or around Longreach, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a genuinely remote inland centre where freight distance shapes every water infrastructure decision. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/rpvc-inline.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for Central West Queensland is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Longreach's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">9.81 kPa</span>
+  <span class="stat-label">Hydrostatic pressure added at the base of a water tank for every metre of head — the constant every tank foundation and shell design has to be checked against</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Longreach property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Freight and access planning for remote delivery</td><td>Long distances from a supply base change what "urgent repair" can realistically mean</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Longreach different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Longreach is a genuinely remote inland centre where freight distance shapes every water infrastructure decision, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does grazing affect water storage requirements for other properties in Longreach?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around grazing, aviation heritage and outback tourism shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in Central West Queensland be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Longreach's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Longreach? PC Water Infrastructure delivers tank design, installation and maintenance suited to Central West Queensland's real conditions.</p>
+  <a href="/services/remote-area-delivery" class="cta-btn">Discuss Remote Water Storage Delivery</a>
+</div>`,
+    coverImageUrl: `${BASE}/fire-tank-inspection.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Longreach | PC Water",
+    seoDescription:
+      "Longreach (Central West Queensland) tank storage: grazing demand and outback conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-09-23T09:00:00.000Z',
+    createdAt: '2026-09-23T09:00:00.000Z',
+    updatedAt: '2026-09-23T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-longreach', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-longreach', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Mount Isa: Copper & Outba'),
+    title: "Water Storage and Tank Services in Mount Isa: Copper & Outback Water Security",
+    slug: 'water-storage-and-tank-services-in-mount-isa-copper-and-outback-water-security',
+    excerpt:
+      "Mount Isa is on the Leichhardt River, in North West Queensland, one of Australia's major mining cities, with large-scale process and potable water demand side by side. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Mount Isa sits on the Leichhardt River, in North West Queensland of Queensland. The town's economy is built substantially around copper, lead, zinc and silver mining, and it is one of Australia's major mining cities, with large-scale process and potable water demand side by side - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Mount Isa, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Mount Isa's water context is distinctive</span></div>
+
+<h3>A genuinely arid, remote setting</h3>
+<p>Mount Isa is on the Leichhardt River, and that geography carries real consequences for water storage: one of Australia's major mining cities, with large-scale process and potable water demand side by side. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from copper</h3>
+<p>Copper, Lead, Zinc And Silver Mining is a defining part of Mount Isa's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/ticking-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in North West Queensland account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in North West Queensland</span></div>
+
+<p>For a property in or around Mount Isa, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given one of Australia's major mining cities, with large-scale process and potable water demand side by side. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/sector-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for North West Queensland is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Mount Isa's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">12 mths</span>
+  <span class="stat-label">Standard Defects Liability Period reflected in most Australian water infrastructure procurement contracts</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Mount Isa property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Freight and access planning for remote delivery</td><td>Long distances from a supply base change what "urgent repair" can realistically mean</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Mount Isa different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Mount Isa is one of Australia's major mining cities, with large-scale process and potable water demand side by side, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does copper affect water storage requirements for other properties in Mount Isa?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around copper, lead, zinc and silver mining shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in North West Queensland be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Mount Isa's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Mount Isa? PC Water Infrastructure delivers tank design, installation and maintenance suited to North West Queensland's real conditions.</p>
+  <a href="/services/remote-area-delivery" class="cta-btn">Discuss Remote Water Storage Delivery</a>
+</div>`,
+    coverImageUrl: `${BASE}/ticking-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Mount Isa | PC Water",
+    seoDescription:
+      "Mount Isa (North West Queensland) tank storage: copper demand and outback conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-09-23T15:00:00.000Z',
+    createdAt: '2026-09-23T15:00:00.000Z',
+    updatedAt: '2026-09-23T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-mount-isa', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-mount-isa', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Bowen: Horticulture & Cyc'),
+    title: "Water Storage and Tank Services in Bowen: Horticulture & Cyclone-Region Water Security",
+    slug: 'water-storage-and-tank-services-in-bowen-horticulture-and-cyclone-region-water-security',
+    excerpt:
+      "Bowen is on the Coral Sea coast, in the Whitsunday region, a horticultural centre directly in the path of the North Queensland cyclone season. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Bowen sits on the Coral Sea coast, in the Whitsunday region of Queensland. The town's economy is built substantially around horticulture (tomatoes, mangoes) and tourism, and it is a horticultural centre directly in the path of the North Queensland cyclone season - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Bowen, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Bowen's water context is distinctive</span></div>
+
+<h3>A city built for cyclone-season resilience</h3>
+<p>Bowen is on the Coral Sea coast, and that geography carries real consequences for water storage: a horticultural centre directly in the path of the North Queensland cyclone season. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from horticulture</h3>
+<p>Horticulture (Tomatoes, Mangoes) And Tourism is a defining part of Bowen's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/ticking-inspection.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Whitsunday region account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Whitsunday region</span></div>
+
+<p>For a property in or around Bowen, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a horticultural centre directly in the path of the North Queensland cyclone season. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/sector-inspection.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Whitsunday region is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Bowen's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">Region C</span>
+  <span class="stat-label">AS/NZS 1170.2 cyclonic wind classification covering Bowen — tank structural design here carries a materially higher wind loading requirement than non-cyclonic regions further south</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Bowen property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Structural wind rating against AS/NZS 1170.2</td><td>Tanks here are designed for a materially higher wind loading category than non-cyclonic regions</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Bowen different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Bowen is a horticultural centre directly in the path of the North Queensland cyclone season, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does horticulture affect water storage requirements for other properties in Bowen?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around horticulture (tomatoes, mangoes) and tourism shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Whitsunday region be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Bowen's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Bowen? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Whitsunday region's real conditions.</p>
+  <a href="/services/foundation-civil-integration" class="cta-btn">Discuss Cyclone-Region Tank Design</a>
+</div>`,
+    coverImageUrl: `${BASE}/ticking-inspection.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Bowen | PC Water",
+    seoDescription:
+      "Bowen (the Whitsunday region) tank storage: horticulture demand and cyclone-region conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-09-24T09:00:00.000Z',
+    createdAt: '2026-09-24T09:00:00.000Z',
+    updatedAt: '2026-09-24T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-bowen', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-bowen', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Ayr: Sugar Cane Growing &'),
+    title: "Water Storage and Tank Services in Ayr: Sugar Cane Growing & Cyclone-Region Water Security",
+    slug: 'water-storage-and-tank-services-in-ayr-sugar-cane-growing-and-cyclone-region-water-security',
+    excerpt:
+      "Ayr is on the Burdekin River delta, in the Burdekin, part of one of Australia's most productive sugar districts, on a major cyclone-exposed floodplain. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Ayr sits on the Burdekin River delta, in the Burdekin of Queensland. The town's economy is built substantially around sugar cane growing and milling, and it is part of one of Australia's most productive sugar districts, on a major cyclone-exposed floodplain - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Ayr, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Ayr's water context is distinctive</span></div>
+
+<h3>Coastal, humid and squarely in the cyclone belt</h3>
+<p>Ayr is on the Burdekin River delta, and that geography carries real consequences for water storage: part of one of Australia's most productive sugar districts, on a major cyclone-exposed floodplain. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from sugar cane growing</h3>
+<p>Sugar Cane Growing And Milling is a defining part of Ayr's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/sediment-tank-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Burdekin account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Burdekin</span></div>
+
+<p>For a property in or around Ayr, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given part of one of Australia's most productive sugar districts, on a major cyclone-exposed floodplain. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/harsh-env-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Burdekin is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Ayr's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">Region D</span>
+  <span class="stat-label">AS/NZS 1170.2 severe cyclonic wind classification covering Ayr — the highest wind loading category in the Australian structural design standard</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Ayr property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Structural wind rating against AS/NZS 1170.2</td><td>Tanks here are designed for a materially higher wind loading category than non-cyclonic regions</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Ayr different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Ayr is part of one of Australia's most productive sugar districts, on a major cyclone-exposed floodplain, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does sugar cane growing affect water storage requirements for other properties in Ayr?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around sugar cane growing and milling shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Burdekin be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Ayr's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Ayr? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Burdekin's real conditions.</p>
+  <a href="/services/foundation-civil-integration" class="cta-btn">Discuss Cyclone-Region Tank Design</a>
+</div>`,
+    coverImageUrl: `${BASE}/sediment-tank-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Ayr | PC Water",
+    seoDescription:
+      "Ayr (the Burdekin) tank storage: sugar cane growing demand and cyclone-region conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-09-24T15:00:00.000Z',
+    createdAt: '2026-09-24T15:00:00.000Z',
+    updatedAt: '2026-09-24T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-ayr', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-ayr', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Innisfail: Sugar & Tropic'),
+    title: "Water Storage and Tank Services in Innisfail: Sugar & Tropical Water Security",
+    slug: 'water-storage-and-tank-services-in-innisfail-sugar-and-tropical-water-security',
+    excerpt:
+      "Innisfail is on the Johnstone River, in the Cassowary Coast, one of the wettest towns in Australia, with extremely high annual rainfall and cyclone exposure. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Innisfail sits on the Johnstone River, in the Cassowary Coast of Queensland. The town's economy is built substantially around sugar and banana growing, and it is one of the wettest towns in Australia, with extremely high annual rainfall and cyclone exposure - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Innisfail, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Innisfail's water context is distinctive</span></div>
+
+<h3>An extreme wet-dry tropical climate</h3>
+<p>Innisfail is on the Johnstone River, and that geography carries real consequences for water storage: one of the wettest towns in Australia, with extremely high annual rainfall and cyclone exposure. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from sugar</h3>
+<p>Sugar And Banana Growing is a defining part of Innisfail's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/water-food-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Cassowary Coast account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Cassowary Coast</span></div>
+
+<p>For a property in or around Innisfail, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given one of the wettest towns in Australia, with extremely high annual rainfall and cyclone exposure. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/harsh-env-drone.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Cassowary Coast is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Innisfail's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">AS1170</span>
+  <span class="stat-label">The Australian Standard series governing structural design actions, including the wind and seismic loads every water tank has to be engineered against</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Innisfail property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Roof and vent design for monsoon-intensity rainfall</td><td>Wet-season inflow rates are far higher than a temperate-climate design assumption</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Innisfail different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Innisfail is one of the wettest towns in Australia, with extremely high annual rainfall and cyclone exposure, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does sugar affect water storage requirements for other properties in Innisfail?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around sugar and banana growing shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Cassowary Coast be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Innisfail's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Innisfail? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Cassowary Coast's real conditions.</p>
+  <a href="/services/foundation-civil-integration" class="cta-btn">Discuss Cyclone-Region Tank Design</a>
+</div>`,
+    coverImageUrl: `${BASE}/water-food-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Innisfail | PC Water",
+    seoDescription:
+      "Innisfail (the Cassowary Coast) tank storage: sugar demand and tropical conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-09-25T09:00:00.000Z',
+    createdAt: '2026-09-25T09:00:00.000Z',
+    updatedAt: '2026-09-25T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-innisfail', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-innisfail', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Mareeba: Coffee & Tropica'),
+    title: "Water Storage and Tank Services in Mareeba: Coffee & Tropical Water Security",
+    slug: 'water-storage-and-tank-services-in-mareeba-coffee-and-tropical-water-security',
+    excerpt:
+      "Mareeba is on the Barron River, in the Atherton Tablelands, a tablelands agricultural centre with a distinct wet-dry tropical seasonal pattern. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Mareeba sits on the Barron River, in the Atherton Tablelands of Queensland. The town's economy is built substantially around coffee, avocado and mixed tropical agriculture, and it is a tablelands agricultural centre with a distinct wet-dry tropical seasonal pattern - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Mareeba, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Mareeba's water context is distinctive</span></div>
+
+<h3>A monsoon-driven seasonal water cycle</h3>
+<p>Mareeba is on the Barron River, and that geography carries real consequences for water storage: a tablelands agricultural centre with a distinct wet-dry tropical seasonal pattern. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from coffee</h3>
+<p>Coffee, Avocado And Mixed Tropical Agriculture is a defining part of Mareeba's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/water-food-hatch.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Atherton Tablelands account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Atherton Tablelands</span></div>
+
+<p>For a property in or around Mareeba, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a tablelands agricultural centre with a distinct wet-dry tropical seasonal pattern. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/corrosion-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Atherton Tablelands is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Mareeba's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">AS2419</span>
+  <span class="stat-label">The Australian Standard governing fire hydrant installations, including the static water supply a fire tank has to reliably deliver</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Mareeba property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Roof and vent design for monsoon-intensity rainfall</td><td>Wet-season inflow rates are far higher than a temperate-climate design assumption</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Mareeba different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Mareeba is a tablelands agricultural centre with a distinct wet-dry tropical seasonal pattern, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does coffee affect water storage requirements for other properties in Mareeba?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around coffee, avocado and mixed tropical agriculture shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Atherton Tablelands be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Mareeba's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Mareeba? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Atherton Tablelands's real conditions.</p>
+  <a href="/services/foundation-civil-integration" class="cta-btn">Discuss Cyclone-Region Tank Design</a>
+</div>`,
+    coverImageUrl: `${BASE}/water-food-hatch.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Mareeba | PC Water",
+    seoDescription:
+      "Mareeba (the Atherton Tablelands) tank storage: coffee demand and tropical conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-09-25T15:00:00.000Z',
+    createdAt: '2026-09-25T15:00:00.000Z',
+    updatedAt: '2026-09-25T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-mareeba', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-mareeba', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Charters Towers: Historic'),
+    title: "Water Storage and Tank Services in Charters Towers: Historic Gold Mining & Dry-Climate Water Security",
+    slug: 'water-storage-and-tank-services-in-charters-towers-historic-gold-mining-and-dry-climate-water-security',
+    excerpt:
+      "Charters Towers is on the Burdekin River catchment, in North Queensland, a former gold boomtown now serving as an inland cattle and education centre. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Charters Towers sits on the Burdekin River catchment, in North Queensland of Queensland. The town's economy is built substantially around historic gold mining and cattle grazing, and it is a former gold boomtown now serving as an inland cattle and education centre - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Charters Towers, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Charters Towers's water context is distinctive</span></div>
+
+<h3>A dry-climate agricultural service centre</h3>
+<p>Charters Towers is on the Burdekin River catchment, and that geography carries real consequences for water storage: a former gold boomtown now serving as an inland cattle and education centre. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from historic gold mining</h3>
+<p>Historic Gold Mining And Cattle Grazing is a defining part of Charters Towers's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/rpvc-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in North Queensland account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in North Queensland</span></div>
+
+<p>For a property in or around Charters Towers, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a former gold boomtown now serving as an inland cattle and education centre. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/corrosion-rov-inspection.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for North Queensland is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Charters Towers's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">19.5-23.5%</span>
+  <span class="stat-label">The safe oxygen concentration range for confined space entry into a water tank — outside this band, entry requires additional controls before anyone goes in</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Charters Towers property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Tank sizing against realistic dry-period duration</td><td>Irrigation-dependent local demand makes storage margin a genuine planning factor</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Charters Towers different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Charters Towers is a former gold boomtown now serving as an inland cattle and education centre, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does historic gold mining affect water storage requirements for other properties in Charters Towers?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around historic gold mining and cattle grazing shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in North Queensland be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Charters Towers's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Charters Towers? PC Water Infrastructure delivers tank design, installation and maintenance suited to North Queensland's real conditions.</p>
+  <a href="/services/tank-maintenance-upgrades" class="cta-btn">Discuss Industrial Tank Maintenance</a>
+</div>`,
+    coverImageUrl: `${BASE}/rpvc-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Charters Towers | PC Water",
+    seoDescription:
+      "Charters Towers (North Queensland) tank storage: historic gold mining demand and dry-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-09-26T09:00:00.000Z',
+    createdAt: '2026-09-26T09:00:00.000Z',
+    updatedAt: '2026-09-26T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-charters-towers', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-charters-towers', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Yeppoon: Tourism & Cyclon'),
+    title: "Water Storage and Tank Services in Yeppoon: Tourism & Cyclone-Region Water Security",
+    slug: 'water-storage-and-tank-services-in-yeppoon-tourism-and-cyclone-region-water-security',
+    excerpt:
+      "Yeppoon is on the Coral Sea coast, in the Capricorn Coast, a coastal tourism town on the Tropic of Capricorn, within the standard cyclone belt. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Yeppoon sits on the Coral Sea coast, in the Capricorn Coast of Queensland. The town's economy is built substantially around tourism and horticulture, and it is a coastal tourism town on the Tropic of Capricorn, within the standard cyclone belt - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Yeppoon, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Yeppoon's water context is distinctive</span></div>
+
+<h3>A cyclone-exposed coastal economy</h3>
+<p>Yeppoon is on the Coral Sea coast, and that geography carries real consequences for water storage: a coastal tourism town on the Tropic of Capricorn, within the standard cyclone belt. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from tourism</h3>
+<p>Tourism And Horticulture is a defining part of Yeppoon's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/rpvc-inline.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Capricorn Coast account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Capricorn Coast</span></div>
+
+<p>For a property in or around Yeppoon, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a coastal tourism town on the Tropic of Capricorn, within the standard cyclone belt. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/cleaning-inspection-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Capricorn Coast is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Yeppoon's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">Region D</span>
+  <span class="stat-label">AS/NZS 1170.2 severe cyclonic wind classification covering Yeppoon — the highest wind loading category in the Australian structural design standard</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Yeppoon property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Structural wind rating against AS/NZS 1170.2</td><td>Tanks here are designed for a materially higher wind loading category than non-cyclonic regions</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Yeppoon different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Yeppoon is a coastal tourism town on the Tropic of Capricorn, within the standard cyclone belt, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does tourism affect water storage requirements for other properties in Yeppoon?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around tourism and horticulture shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Capricorn Coast be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Yeppoon's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Yeppoon? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Capricorn Coast's real conditions.</p>
+  <a href="/services/foundation-civil-integration" class="cta-btn">Discuss Cyclone-Region Tank Design</a>
+</div>`,
+    coverImageUrl: `${BASE}/rpvc-inline.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Yeppoon | PC Water",
+    seoDescription:
+      "Yeppoon (the Capricorn Coast) tank storage: tourism demand and cyclone-region conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-09-26T15:00:00.000Z',
+    createdAt: '2026-09-26T15:00:00.000Z',
+    updatedAt: '2026-09-26T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-yeppoon', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-yeppoon', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Biloela: Coal-fired Power'),
+    title: "Water Storage and Tank Services in Biloela: Coal-fired Power Generation & Subtropical Water Security",
+    slug: 'water-storage-and-tank-services-in-biloela-coal-fired-power-generation-and-subtropical-water-security',
+    excerpt:
+      "Biloela is near Callide Dam, in the Callide Valley, an energy and grain-growing centre built around one of the region's major dams. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Biloela sits near Callide Dam, in the Callide Valley of Queensland. The town's economy is built substantially around coal-fired power generation and grain growing, and it is an energy and grain-growing centre built around one of the region's major dams - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Biloela, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Biloela's water context is distinctive</span></div>
+
+<h3>A humid subtropical climate with a real flood history</h3>
+<p>Biloela is near Callide Dam, and that geography carries real consequences for water storage: an energy and grain-growing centre built around one of the region's major dams. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from coal-fired power generation</h3>
+<p>Coal-fired Power Generation And Grain Growing is a defining part of Biloela's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/sector-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Callide Valley account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Callide Valley</span></div>
+
+<p>For a property in or around Biloela, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given an energy and grain-growing centre built around one of the region's major dams. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/fire-tank-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Callide Valley is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Biloela's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">9.81 kPa</span>
+  <span class="stat-label">Hydrostatic pressure added at the base of a water tank for every metre of head — the constant every tank foundation and shell design has to be checked against</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Biloela property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Flood-level clearance for inlet and access fittings</td><td>The region's documented flood history makes this a real planning factor, not a formality</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Biloela different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Biloela is an energy and grain-growing centre built around one of the region's major dams, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does coal-fired power generation affect water storage requirements for other properties in Biloela?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around coal-fired power generation and grain growing shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Callide Valley be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Biloela's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Biloela? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Callide Valley's real conditions.</p>
+  <a href="/services/tank-maintenance-upgrades" class="cta-btn">Discuss Industrial Tank Maintenance</a>
+</div>`,
+    coverImageUrl: `${BASE}/sector-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Biloela | PC Water",
+    seoDescription:
+      "Biloela (the Callide Valley) tank storage: coal-fired power generation demand and subtropical conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-09-27T09:00:00.000Z',
+    createdAt: '2026-09-27T09:00:00.000Z',
+    updatedAt: '2026-09-27T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-biloela', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-biloela', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Chinchilla: Coal Seam Gas'),
+    title: "Water Storage and Tank Services in Chinchilla: Coal Seam Gas & Dry-Climate Water Security",
+    slug: 'water-storage-and-tank-services-in-chinchilla-coal-seam-gas-and-dry-climate-water-security',
+    excerpt:
+      "Chinchilla is on the Condamine River, in the Western Downs, a gas-field service town with significant construction-camp and process water demand. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Chinchilla sits on the Condamine River, in the Western Downs of Queensland. The town's economy is built substantially around coal seam gas and melon growing, and it is a gas-field service town with significant construction-camp and process water demand - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Chinchilla, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Chinchilla's water context is distinctive</span></div>
+
+<h3>A dry-climate agricultural service centre</h3>
+<p>Chinchilla is on the Condamine River, and that geography carries real consequences for water storage: a gas-field service town with significant construction-camp and process water demand. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from coal seam gas</h3>
+<p>Coal Seam Gas And Melon Growing is a defining part of Chinchilla's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/sector-inspection.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Western Downs account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Western Downs</span></div>
+
+<p>For a property in or around Chinchilla, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a gas-field service town with significant construction-camp and process water demand. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/fire-tank-inspection.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Western Downs is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Chinchilla's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">12 mths</span>
+  <span class="stat-label">Standard Defects Liability Period reflected in most Australian water infrastructure procurement contracts</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Chinchilla property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Tank sizing against realistic dry-period duration</td><td>Irrigation-dependent local demand makes storage margin a genuine planning factor</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Chinchilla different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Chinchilla is a gas-field service town with significant construction-camp and process water demand, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does coal seam gas affect water storage requirements for other properties in Chinchilla?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around coal seam gas and melon growing shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Western Downs be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Chinchilla's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Chinchilla? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Western Downs's real conditions.</p>
+  <a href="/services/tank-maintenance-upgrades" class="cta-btn">Discuss Industrial Tank Maintenance</a>
+</div>`,
+    coverImageUrl: `${BASE}/sector-inspection.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Chinchilla | PC Water",
+    seoDescription:
+      "Chinchilla (the Western Downs) tank storage: coal seam gas demand and dry-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-09-27T15:00:00.000Z',
+    createdAt: '2026-09-27T15:00:00.000Z',
+    updatedAt: '2026-09-27T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-chinchilla', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-chinchilla', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Dalby: Grain Growing & Dr'),
+    title: "Water Storage and Tank Services in Dalby: Grain Growing & Dry-Climate Water Security",
+    slug: 'water-storage-and-tank-services-in-dalby-grain-growing-and-dry-climate-water-security',
+    excerpt:
+      "Dalby is on the Condamine River, in the Darling Downs, a major grain and livestock service centre for the wider Darling Downs. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Dalby sits on the Condamine River, in the Darling Downs of Queensland. The town's economy is built substantially around grain growing, feedlots and agribusiness, and it is a major grain and livestock service centre for the wider Darling Downs - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Dalby, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Dalby's water context is distinctive</span></div>
+
+<h3>A semi-arid agricultural district</h3>
+<p>Dalby is on the Condamine River, and that geography carries real consequences for water storage: a major grain and livestock service centre for the wider Darling Downs. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from grain growing</h3>
+<p>Grain Growing, Feedlots And Agribusiness is a defining part of Dalby's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/harsh-env-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Darling Downs account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Darling Downs</span></div>
+
+<p>For a property in or around Dalby, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a major grain and livestock service centre for the wider Darling Downs. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/ticking-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Darling Downs is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Dalby's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">20-45°C</span>
+  <span class="stat-label">The water temperature range in which Legionella bacteria multiply most readily in stored water — the reason temperature control matters as much as disinfectant residual</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Dalby property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Tank sizing against realistic dry-period duration</td><td>Irrigation-dependent local demand makes storage margin a genuine planning factor</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Dalby different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Dalby is a major grain and livestock service centre for the wider Darling Downs, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does grain growing affect water storage requirements for other properties in Dalby?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around grain growing, feedlots and agribusiness shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Darling Downs be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Dalby's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Dalby? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Darling Downs's real conditions.</p>
+  <a href="/services/custom-tank-design" class="cta-btn">Discuss Your Water Storage Requirements</a>
+</div>`,
+    coverImageUrl: `${BASE}/harsh-env-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Dalby | PC Water",
+    seoDescription:
+      "Dalby (the Darling Downs) tank storage: grain growing demand and dry-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-09-28T09:00:00.000Z',
+    createdAt: '2026-09-28T09:00:00.000Z',
+    updatedAt: '2026-09-28T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-dalby', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-dalby', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Kingaroy: Peanut Growing '),
+    title: "Water Storage and Tank Services in Kingaroy: Peanut Growing & Subtropical Water Security",
+    slug: 'water-storage-and-tank-services-in-kingaroy-peanut-growing-and-subtropical-water-security',
+    excerpt:
+      "Kingaroy is near Bjelke-Petersen Dam, in the South Burnett, Australia's best-known peanut-growing district, reliant on a mix of dam and bore supply. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Kingaroy sits near Bjelke-Petersen Dam, in the South Burnett of Queensland. The town's economy is built substantially around peanut growing and mixed agriculture, and it is Australia's best-known peanut-growing district, reliant on a mix of dam and bore supply - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Kingaroy, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Kingaroy's water context is distinctive</span></div>
+
+<h3>A humid subtropical climate with a real flood history</h3>
+<p>Kingaroy is near Bjelke-Petersen Dam, and that geography carries real consequences for water storage: Australia's best-known peanut-growing district, reliant on a mix of dam and bore supply. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from peanut growing</h3>
+<p>Peanut Growing And Mixed Agriculture is a defining part of Kingaroy's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/harsh-env-drone.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the South Burnett account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the South Burnett</span></div>
+
+<p>For a property in or around Kingaroy, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given Australia's best-known peanut-growing district, reliant on a mix of dam and bore supply. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/ticking-inspection.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the South Burnett is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Kingaroy's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">AS4020</span>
+  <span class="stat-label">The Australian Standard certifying that a product or material is safe for use in contact with drinking water</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Kingaroy property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Flood-level clearance for inlet and access fittings</td><td>The region's documented flood history makes this a real planning factor, not a formality</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Kingaroy different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Kingaroy is Australia's best-known peanut-growing district, reliant on a mix of dam and bore supply, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does peanut growing affect water storage requirements for other properties in Kingaroy?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around peanut growing and mixed agriculture shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the South Burnett be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Kingaroy's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Kingaroy? PC Water Infrastructure delivers tank design, installation and maintenance suited to the South Burnett's real conditions.</p>
+  <a href="/services/custom-tank-design" class="cta-btn">Discuss Your Water Storage Requirements</a>
+</div>`,
+    coverImageUrl: `${BASE}/harsh-env-drone.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Kingaroy | PC Water",
+    seoDescription:
+      "Kingaroy (the South Burnett) tank storage: peanut growing demand and subtropical conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-09-28T15:00:00.000Z',
+    createdAt: '2026-09-28T15:00:00.000Z',
+    updatedAt: '2026-09-28T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-kingaroy', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-kingaroy', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Stanthorpe: Viticulture &'),
+    title: "Water Storage and Tank Services in Stanthorpe: Viticulture & Cool-Climate Water Security",
+    slug: 'water-storage-and-tank-services-in-stanthorpe-viticulture-and-cool-climate-water-security',
+    excerpt:
+      "Stanthorpe is on the Severn River headwaters, in the Granite Belt, Queensland's coldest town, with recorded sub-zero winter temperatures and genuine frost risk. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Stanthorpe sits on the Severn River headwaters, in the Granite Belt of Queensland. The town's economy is built substantially around viticulture, stone fruit and cool-climate agriculture, and it is Queensland's coldest town, with recorded sub-zero winter temperatures and genuine frost risk - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Stanthorpe, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Stanthorpe's water context is distinctive</span></div>
+
+<h3>An elevated, frost-prone regional city</h3>
+<p>Stanthorpe is on the Severn River headwaters, and that geography carries real consequences for water storage: Queensland's coldest town, with recorded sub-zero winter temperatures and genuine frost risk. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from viticulture</h3>
+<p>Viticulture, Stone Fruit And Cool-climate Agriculture is a defining part of Stanthorpe's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/corrosion-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Granite Belt account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Granite Belt</span></div>
+
+<p>For a property in or around Stanthorpe, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given Queensland's coldest town, with recorded sub-zero winter temperatures and genuine frost risk. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/sediment-tank-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Granite Belt is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Stanthorpe's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">AS1170</span>
+  <span class="stat-label">The Australian Standard series governing structural design actions, including the wind and seismic loads every water tank has to be engineered against</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Stanthorpe property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Frost protection on exposed pipework and fittings</td><td>Genuine sub-zero nights create freeze risk this region's design has to account for</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Stanthorpe different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Stanthorpe is Queensland's coldest town, with recorded sub-zero winter temperatures and genuine frost risk, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does viticulture affect water storage requirements for other properties in Stanthorpe?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around viticulture, stone fruit and cool-climate agriculture shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Granite Belt be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Stanthorpe's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Stanthorpe? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Granite Belt's real conditions.</p>
+  <a href="/services/custom-tank-design" class="cta-btn">Discuss Your Water Storage Requirements</a>
+</div>`,
+    coverImageUrl: `${BASE}/corrosion-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Stanthorpe | PC Water",
+    seoDescription:
+      "Stanthorpe (the Granite Belt) tank storage: viticulture demand and cool-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-09-29T09:00:00.000Z',
+    createdAt: '2026-09-29T09:00:00.000Z',
+    updatedAt: '2026-09-29T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-stanthorpe', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-stanthorpe', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Caboolture: Residential G'),
+    title: "Water Storage and Tank Services in Caboolture: Residential Growth Corridor & Subtropical Water Security",
+    slug: 'water-storage-and-tank-services-in-caboolture-residential-growth-corridor-and-subtropical-water-security',
+    excerpt:
+      "Caboolture is on the Caboolture River, in Moreton Bay, one of South East Queensland's fastest-growing outer suburbs, with new-build demand outpacing established infrastructure. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Caboolture sits on the Caboolture River, in Moreton Bay of Queensland. The town's economy is built substantially around residential growth corridor and light industry, and it is one of South East Queensland's fastest-growing outer suburbs, with new-build demand outpacing established infrastructure - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Caboolture, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Caboolture's water context is distinctive</span></div>
+
+<h3>A subtropical river-catchment town</h3>
+<p>Caboolture is on the Caboolture River, and that geography carries real consequences for water storage: one of South East Queensland's fastest-growing outer suburbs, with new-build demand outpacing established infrastructure. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from residential growth corridor</h3>
+<p>Residential Growth Corridor And Light Industry is a defining part of Caboolture's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/corrosion-rov-inspection.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in Moreton Bay account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in Moreton Bay</span></div>
+
+<p>For a property in or around Caboolture, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given one of South East Queensland's fastest-growing outer suburbs, with new-build demand outpacing established infrastructure. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/water-food-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for Moreton Bay is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Caboolture's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">AS2419</span>
+  <span class="stat-label">The Australian Standard governing fire hydrant installations, including the static water supply a fire tank has to reliably deliver</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Caboolture property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Flood-level clearance for inlet and access fittings</td><td>The region's documented flood history makes this a real planning factor, not a formality</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Caboolture different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Caboolture is one of South East Queensland's fastest-growing outer suburbs, with new-build demand outpacing established infrastructure, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does residential growth corridor affect water storage requirements for other properties in Caboolture?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around residential growth corridor and light industry shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in Moreton Bay be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Caboolture's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Caboolture? PC Water Infrastructure delivers tank design, installation and maintenance suited to Moreton Bay's real conditions.</p>
+  <a href="/services/custom-tank-design" class="cta-btn">Discuss Your Water Storage Requirements</a>
+</div>`,
+    coverImageUrl: `${BASE}/corrosion-rov-inspection.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Caboolture | PC Water",
+    seoDescription:
+      "Caboolture (Moreton Bay) tank storage: residential growth corridor demand and subtropical conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-09-29T15:00:00.000Z',
+    createdAt: '2026-09-29T15:00:00.000Z',
+    updatedAt: '2026-09-29T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-caboolture', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-caboolture', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Noosa: Tourism & Subtropi'),
+    title: "Water Storage and Tank Services in Noosa: Tourism & Subtropical Water Security",
+    slug: 'water-storage-and-tank-services-in-noosa-tourism-and-subtropical-water-security',
+    excerpt:
+      "Noosa is on the Noosa River, in the Sunshine Coast, a premium coastal tourism destination with sharp seasonal demand peaks. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Noosa sits on the Noosa River, in the Sunshine Coast of Queensland. The town's economy is built substantially around tourism and hospitality, and it is a premium coastal tourism destination with sharp seasonal demand peaks - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Noosa, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Noosa's water context is distinctive</span></div>
+
+<h3>A humid subtropical climate with a real flood history</h3>
+<p>Noosa is on the Noosa River, and that geography carries real consequences for water storage: a premium coastal tourism destination with sharp seasonal demand peaks. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from tourism</h3>
+<p>Tourism And Hospitality is a defining part of Noosa's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/cleaning-inspection-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Sunshine Coast account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Sunshine Coast</span></div>
+
+<p>For a property in or around Noosa, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a premium coastal tourism destination with sharp seasonal demand peaks. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/water-food-hatch.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Sunshine Coast is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Noosa's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">19.5-23.5%</span>
+  <span class="stat-label">The safe oxygen concentration range for confined space entry into a water tank — outside this band, entry requires additional controls before anyone goes in</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Noosa property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Flood-level clearance for inlet and access fittings</td><td>The region's documented flood history makes this a real planning factor, not a formality</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Noosa different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Noosa is a premium coastal tourism destination with sharp seasonal demand peaks, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does tourism affect water storage requirements for other properties in Noosa?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around tourism and hospitality shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Sunshine Coast be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Noosa's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Noosa? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Sunshine Coast's real conditions.</p>
+  <a href="/services/custom-tank-design" class="cta-btn">Discuss Your Water Storage Requirements</a>
+</div>`,
+    coverImageUrl: `${BASE}/cleaning-inspection-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Noosa | PC Water",
+    seoDescription:
+      "Noosa (the Sunshine Coast) tank storage: tourism demand and subtropical conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-09-30T09:00:00.000Z',
+    createdAt: '2026-09-30T09:00:00.000Z',
+    updatedAt: '2026-09-30T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-noosa', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-noosa', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Bathurst: Agriculture & C'),
+    title: "Water Storage and Tank Services in Bathurst: Agriculture & Cool-Climate Water Security",
+    slug: 'water-storage-and-tank-services-in-bathurst-agriculture-and-cool-climate-water-security',
+    excerpt:
+      "Bathurst is on the Macquarie River, in the Central Tablelands, one of the oldest inland cities in Australia, with cold winters and genuine frost risk. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Bathurst sits on the Macquarie River, in the Central Tablelands of New South Wales. The town's economy is built substantially around agriculture, education and light manufacturing, and it is one of the oldest inland cities in Australia, with cold winters and genuine frost risk - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Bathurst, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Bathurst's water context is distinctive</span></div>
+
+<h3>An elevated, frost-prone regional city</h3>
+<p>Bathurst is on the Macquarie River, and that geography carries real consequences for water storage: one of the oldest inland cities in Australia, with cold winters and genuine frost risk. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from agriculture</h3>
+<p>Agriculture, Education And Light Manufacturing is a defining part of Bathurst's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/fire-tank-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Central Tablelands account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Central Tablelands</span></div>
+
+<p>For a property in or around Bathurst, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given one of the oldest inland cities in Australia, with cold winters and genuine frost risk. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/rpvc-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Central Tablelands is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Bathurst's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">150mm+</span>
+  <span class="stat-label">A typical minimum freeboard allowance built into tank design so storm inflow and wave action do not push water over the roofline</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Bathurst property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Frost protection on exposed pipework and fittings</td><td>Genuine sub-zero nights create freeze risk this region's design has to account for</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Bathurst different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Bathurst is one of the oldest inland cities in Australia, with cold winters and genuine frost risk, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does agriculture affect water storage requirements for other properties in Bathurst?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around agriculture, education and light manufacturing shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Central Tablelands be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Bathurst's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Bathurst? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Central Tablelands's real conditions.</p>
+  <a href="/services/custom-tank-design" class="cta-btn">Discuss Your Water Storage Requirements</a>
+</div>`,
+    coverImageUrl: `${BASE}/fire-tank-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Bathurst | PC Water",
+    seoDescription:
+      "Bathurst (the Central Tablelands) tank storage: agriculture demand and cool-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-09-30T15:00:00.000Z',
+    createdAt: '2026-09-30T15:00:00.000Z',
+    updatedAt: '2026-09-30T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-bathurst', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-bathurst', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Orange: Orcharding & Cool'),
+    title: "Water Storage and Tank Services in Orange: Orcharding & Cool-Climate Water Security",
+    slug: 'water-storage-and-tank-services-in-orange-orcharding-and-cool-climate-water-security',
+    excerpt:
+      "Orange is near Suma Park Dam, in the Central West, a cool-climate agricultural centre at genuine elevation, with a distinct frost season. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Orange sits near Suma Park Dam, in the Central West of New South Wales. The town's economy is built substantially around orcharding, viticulture and mining services, and it is a cool-climate agricultural centre at genuine elevation, with a distinct frost season - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Orange, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Orange's water context is distinctive</span></div>
+
+<h3>A cool-climate inland centre</h3>
+<p>Orange is near Suma Park Dam, and that geography carries real consequences for water storage: a cool-climate agricultural centre at genuine elevation, with a distinct frost season. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from orcharding</h3>
+<p>Orcharding, Viticulture And Mining Services is a defining part of Orange's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/fire-tank-inspection.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Central West account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Central West</span></div>
+
+<p>For a property in or around Orange, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a cool-climate agricultural centre at genuine elevation, with a distinct frost season. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/rpvc-inline.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Central West is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Orange's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">9.81 kPa</span>
+  <span class="stat-label">Hydrostatic pressure added at the base of a water tank for every metre of head — the constant every tank foundation and shell design has to be checked against</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Orange property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Frost protection on exposed pipework and fittings</td><td>Genuine sub-zero nights create freeze risk this region's design has to account for</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Orange different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Orange is a cool-climate agricultural centre at genuine elevation, with a distinct frost season, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does orcharding affect water storage requirements for other properties in Orange?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around orcharding, viticulture and mining services shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Central West be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Orange's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Orange? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Central West's real conditions.</p>
+  <a href="/services/tank-maintenance-upgrades" class="cta-btn">Discuss Industrial Tank Maintenance</a>
+</div>`,
+    coverImageUrl: `${BASE}/fire-tank-inspection.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Orange | PC Water",
+    seoDescription:
+      "Orange (the Central West) tank storage: orcharding demand and cool-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-01T09:00:00.000Z',
+    createdAt: '2026-10-01T09:00:00.000Z',
+    updatedAt: '2026-10-01T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-orange', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-orange', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Tamworth: Agribusiness & '),
+    title: "Water Storage and Tank Services in Tamworth: Agribusiness & Cool-Climate Water Security",
+    slug: 'water-storage-and-tank-services-in-tamworth-agribusiness-and-cool-climate-water-security',
+    excerpt:
+      "Tamworth is on the Peel River, in New England, a major regional service city with hot summers and cold winters. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Tamworth sits on the Peel River, in New England of New South Wales. The town's economy is built substantially around agribusiness, livestock and equine industries, and it is a major regional service city with hot summers and cold winters - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Tamworth, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Tamworth's water context is distinctive</span></div>
+
+<h3>Genuine winter cold and frost risk</h3>
+<p>Tamworth is on the Peel River, and that geography carries real consequences for water storage: a major regional service city with hot summers and cold winters. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from agribusiness</h3>
+<p>Agribusiness, Livestock And Equine Industries is a defining part of Tamworth's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/ticking-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in New England account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in New England</span></div>
+
+<p>For a property in or around Tamworth, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a major regional service city with hot summers and cold winters. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/sector-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for New England is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Tamworth's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">12 mths</span>
+  <span class="stat-label">Standard Defects Liability Period reflected in most Australian water infrastructure procurement contracts</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Tamworth property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Frost protection on exposed pipework and fittings</td><td>Genuine sub-zero nights create freeze risk this region's design has to account for</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Tamworth different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Tamworth is a major regional service city with hot summers and cold winters, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does agribusiness affect water storage requirements for other properties in Tamworth?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around agribusiness, livestock and equine industries shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in New England be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Tamworth's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Tamworth? PC Water Infrastructure delivers tank design, installation and maintenance suited to New England's real conditions.</p>
+  <a href="/services/custom-tank-design" class="cta-btn">Discuss Your Water Storage Requirements</a>
+</div>`,
+    coverImageUrl: `${BASE}/ticking-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Tamworth | PC Water",
+    seoDescription:
+      "Tamworth (New England) tank storage: agribusiness demand and cool-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-01T15:00:00.000Z',
+    createdAt: '2026-10-01T15:00:00.000Z',
+    updatedAt: '2026-10-01T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-tamworth', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-tamworth', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Griffith: Irrigated Agric'),
+    title: "Water Storage and Tank Services in Griffith: Irrigated Agriculture & Dry-Climate Water Security",
+    slug: 'water-storage-and-tank-services-in-griffith-irrigated-agriculture-and-dry-climate-water-security',
+    excerpt:
+      "Griffith is within the Murrumbidgee Irrigation Area, in the Riverina (Murrumbidgee Irrigation Area), the centre of one of Australia's largest irrigation districts. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Griffith sits within the Murrumbidgee Irrigation Area, in the Riverina (Murrumbidgee Irrigation Area) of New South Wales. The town's economy is built substantially around irrigated agriculture, viticulture and citrus, and it is the centre of one of Australia's largest irrigation districts - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Griffith, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Griffith's water context is distinctive</span></div>
+
+<h3>A dry-climate agricultural service centre</h3>
+<p>Griffith is within the Murrumbidgee Irrigation Area, and that geography carries real consequences for water storage: the centre of one of Australia's largest irrigation districts. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from irrigated agriculture</h3>
+<p>Irrigated Agriculture, Viticulture And Citrus is a defining part of Griffith's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/ticking-inspection.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Riverina (Murrumbidgee Irrigation Area) account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Riverina (Murrumbidgee Irrigation Area)</span></div>
+
+<p>For a property in or around Griffith, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given the centre of one of Australia's largest irrigation districts. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/sector-inspection.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Riverina (Murrumbidgee Irrigation Area) is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Griffith's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">20-45°C</span>
+  <span class="stat-label">The water temperature range in which Legionella bacteria multiply most readily in stored water — the reason temperature control matters as much as disinfectant residual</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Griffith property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Tank sizing against realistic dry-period duration</td><td>Irrigation-dependent local demand makes storage margin a genuine planning factor</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Griffith different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Griffith is the centre of one of Australia's largest irrigation districts, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does irrigated agriculture affect water storage requirements for other properties in Griffith?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around irrigated agriculture, viticulture and citrus shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Riverina (Murrumbidgee Irrigation Area) be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Griffith's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Griffith? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Riverina (Murrumbidgee Irrigation Area)'s real conditions.</p>
+  <a href="/services/custom-tank-design" class="cta-btn">Discuss Your Water Storage Requirements</a>
+</div>`,
+    coverImageUrl: `${BASE}/ticking-inspection.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Griffith | PC Water",
+    seoDescription:
+      "Griffith (the Riverina (Murrumbidgee Irrigation Area)) tank storage: irrigated agriculture demand and dry-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-02T09:00:00.000Z',
+    createdAt: '2026-10-02T09:00:00.000Z',
+    updatedAt: '2026-10-02T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-griffith', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-griffith', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Goulburn: Wool & Cool-Cli'),
+    title: "Water Storage and Tank Services in Goulburn: Wool & Cool-Climate Water Security",
+    slug: 'water-storage-and-tank-services-in-goulburn-wool-and-cool-climate-water-security',
+    excerpt:
+      "Goulburn is on the Wollondilly River, in the Southern Tablelands, a historic wool town on the exposed Southern Tablelands, with genuine winter cold. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Goulburn sits on the Wollondilly River, in the Southern Tablelands of New South Wales. The town's economy is built substantially around wool, agriculture and logistics, and it is a historic wool town on the exposed Southern Tablelands, with genuine winter cold - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Goulburn, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Goulburn's water context is distinctive</span></div>
+
+<h3>A cool-climate inland centre</h3>
+<p>Goulburn is on the Wollondilly River, and that geography carries real consequences for water storage: a historic wool town on the exposed Southern Tablelands, with genuine winter cold. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from wool</h3>
+<p>Wool, Agriculture And Logistics is a defining part of Goulburn's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/sediment-tank-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Southern Tablelands account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Southern Tablelands</span></div>
+
+<p>For a property in or around Goulburn, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a historic wool town on the exposed Southern Tablelands, with genuine winter cold. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/harsh-env-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Southern Tablelands is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Goulburn's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">AS4020</span>
+  <span class="stat-label">The Australian Standard certifying that a product or material is safe for use in contact with drinking water</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Goulburn property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Frost protection on exposed pipework and fittings</td><td>Genuine sub-zero nights create freeze risk this region's design has to account for</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Goulburn different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Goulburn is a historic wool town on the exposed Southern Tablelands, with genuine winter cold, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does wool affect water storage requirements for other properties in Goulburn?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around wool, agriculture and logistics shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Southern Tablelands be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Goulburn's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Goulburn? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Southern Tablelands's real conditions.</p>
+  <a href="/services/custom-tank-design" class="cta-btn">Discuss Your Water Storage Requirements</a>
+</div>`,
+    coverImageUrl: `${BASE}/sediment-tank-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Goulburn | PC Water",
+    seoDescription:
+      "Goulburn (the Southern Tablelands) tank storage: wool demand and cool-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-02T15:00:00.000Z',
+    createdAt: '2026-10-02T15:00:00.000Z',
+    updatedAt: '2026-10-02T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-goulburn', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-goulburn', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Nowra: Dairy & Coastal Wa'),
+    title: "Water Storage and Tank Services in Nowra: Dairy & Coastal Water Security",
+    slug: 'water-storage-and-tank-services-in-nowra-dairy-and-coastal-water-security',
+    excerpt:
+      "Nowra is on the Shoalhaven River, in the Shoalhaven, a South Coast centre with a significant defence and agricultural base side by side. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Nowra sits on the Shoalhaven River, in the Shoalhaven of New South Wales. The town's economy is built substantially around dairy, defence (naval air station) and tourism, and it is a South Coast centre with a significant defence and agricultural base side by side - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Nowra, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Nowra's water context is distinctive</span></div>
+
+<h3>A temperate coastal economy</h3>
+<p>Nowra is on the Shoalhaven River, and that geography carries real consequences for water storage: a South Coast centre with a significant defence and agricultural base side by side. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from dairy</h3>
+<p>Dairy, Defence (Naval Air Station) And Tourism is a defining part of Nowra's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/water-food-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Shoalhaven account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Shoalhaven</span></div>
+
+<p>For a property in or around Nowra, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a South Coast centre with a significant defence and agricultural base side by side. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/harsh-env-drone.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Shoalhaven is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Nowra's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">AS1170</span>
+  <span class="stat-label">The Australian Standard series governing structural design actions, including the wind and seismic loads every water tank has to be engineered against</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Nowra property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Salt-air corrosion allowance on external steelwork</td><td>Coastal exposure accelerates external corrosion beyond a standard inland specification</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Nowra different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Nowra is a South Coast centre with a significant defence and agricultural base side by side, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does dairy affect water storage requirements for other properties in Nowra?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around dairy, defence (naval air station) and tourism shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Shoalhaven be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Nowra's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Nowra? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Shoalhaven's real conditions.</p>
+  <a href="/services/custom-tank-design" class="cta-btn">Discuss Your Water Storage Requirements</a>
+</div>`,
+    coverImageUrl: `${BASE}/water-food-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Nowra | PC Water",
+    seoDescription:
+      "Nowra (the Shoalhaven) tank storage: dairy demand and coastal conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-03T09:00:00.000Z',
+    createdAt: '2026-10-03T09:00:00.000Z',
+    updatedAt: '2026-10-03T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-nowra', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-nowra', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Lismore: Agriculture & Su'),
+    title: "Water Storage and Tank Services in Lismore: Agriculture & Subtropical Water Security",
+    slug: 'water-storage-and-tank-services-in-lismore-agriculture-and-subtropical-water-security',
+    excerpt:
+      "Lismore is on the Wilsons River, in the Northern Rivers, a town with one of the most extensively documented flood histories in New South Wales. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Lismore sits on the Wilsons River, in the Northern Rivers of New South Wales. The town's economy is built substantially around agriculture and regional services, and it is a town with one of the most extensively documented flood histories in New South Wales - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Lismore, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Lismore's water context is distinctive</span></div>
+
+<h3>Warm, wet summers and a documented flood record</h3>
+<p>Lismore is on the Wilsons River, and that geography carries real consequences for water storage: a town with one of the most extensively documented flood histories in New South Wales. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from agriculture</h3>
+<p>Agriculture And Regional Services is a defining part of Lismore's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/water-food-hatch.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Northern Rivers account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Northern Rivers</span></div>
+
+<p>For a property in or around Lismore, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a town with one of the most extensively documented flood histories in New South Wales. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/corrosion-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Northern Rivers is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Lismore's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">AS2419</span>
+  <span class="stat-label">The Australian Standard governing fire hydrant installations, including the static water supply a fire tank has to reliably deliver</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Lismore property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Flood-level clearance for inlet and access fittings</td><td>The region's documented flood history makes this a real planning factor, not a formality</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Lismore different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Lismore is a town with one of the most extensively documented flood histories in New South Wales, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does agriculture affect water storage requirements for other properties in Lismore?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around agriculture and regional services shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Northern Rivers be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Lismore's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Lismore? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Northern Rivers's real conditions.</p>
+  <a href="/services/custom-tank-design" class="cta-btn">Discuss Your Water Storage Requirements</a>
+</div>`,
+    coverImageUrl: `${BASE}/water-food-hatch.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Lismore | PC Water",
+    seoDescription:
+      "Lismore (the Northern Rivers) tank storage: agriculture demand and subtropical conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-03T15:00:00.000Z',
+    createdAt: '2026-10-03T15:00:00.000Z',
+    updatedAt: '2026-10-03T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-lismore', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-lismore', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Ballina: Tourism & Subtro'),
+    title: "Water Storage and Tank Services in Ballina: Tourism & Subtropical Water Security",
+    slug: 'water-storage-and-tank-services-in-ballina-tourism-and-subtropical-water-security',
+    excerpt:
+      "Ballina is on the Richmond River, in the Northern Rivers, a coastal Northern Rivers town balancing tourism demand against agricultural water use. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Ballina sits on the Richmond River, in the Northern Rivers of New South Wales. The town's economy is built substantially around tourism and macadamia growing, and it is a coastal Northern Rivers town balancing tourism demand against agricultural water use - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Ballina, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Ballina's water context is distinctive</span></div>
+
+<h3>A subtropical river-catchment town</h3>
+<p>Ballina is on the Richmond River, and that geography carries real consequences for water storage: a coastal Northern Rivers town balancing tourism demand against agricultural water use. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from tourism</h3>
+<p>Tourism And Macadamia Growing is a defining part of Ballina's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/rpvc-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Northern Rivers account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Northern Rivers</span></div>
+
+<p>For a property in or around Ballina, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a coastal Northern Rivers town balancing tourism demand against agricultural water use. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/corrosion-rov-inspection.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Northern Rivers is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Ballina's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">19.5-23.5%</span>
+  <span class="stat-label">The safe oxygen concentration range for confined space entry into a water tank — outside this band, entry requires additional controls before anyone goes in</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Ballina property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Flood-level clearance for inlet and access fittings</td><td>The region's documented flood history makes this a real planning factor, not a formality</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Ballina different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Ballina is a coastal Northern Rivers town balancing tourism demand against agricultural water use, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does tourism affect water storage requirements for other properties in Ballina?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around tourism and macadamia growing shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Northern Rivers be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Ballina's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Ballina? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Northern Rivers's real conditions.</p>
+  <a href="/services/custom-tank-design" class="cta-btn">Discuss Your Water Storage Requirements</a>
+</div>`,
+    coverImageUrl: `${BASE}/rpvc-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Ballina | PC Water",
+    seoDescription:
+      "Ballina (the Northern Rivers) tank storage: tourism demand and subtropical conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-04T09:00:00.000Z',
+    createdAt: '2026-10-04T09:00:00.000Z',
+    updatedAt: '2026-10-04T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-ballina', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-ballina', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Grafton: Agriculture & Su'),
+    title: "Water Storage and Tank Services in Grafton: Agriculture & Subtropical Water Security",
+    slug: 'water-storage-and-tank-services-in-grafton-agriculture-and-subtropical-water-security',
+    excerpt:
+      "Grafton is on the Clarence River, in the Clarence Valley, a river city with a long and well-documented flood record on the Clarence. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Grafton sits on the Clarence River, in the Clarence Valley of New South Wales. The town's economy is built substantially around agriculture and forestry, and it is a river city with a long and well-documented flood record on the Clarence - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Grafton, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Grafton's water context is distinctive</span></div>
+
+<h3>A humid subtropical climate with a real flood history</h3>
+<p>Grafton is on the Clarence River, and that geography carries real consequences for water storage: a river city with a long and well-documented flood record on the Clarence. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from agriculture</h3>
+<p>Agriculture And Forestry is a defining part of Grafton's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/rpvc-inline.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Clarence Valley account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Clarence Valley</span></div>
+
+<p>For a property in or around Grafton, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a river city with a long and well-documented flood record on the Clarence. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/cleaning-inspection-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Clarence Valley is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Grafton's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">150mm+</span>
+  <span class="stat-label">A typical minimum freeboard allowance built into tank design so storm inflow and wave action do not push water over the roofline</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Grafton property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Flood-level clearance for inlet and access fittings</td><td>The region's documented flood history makes this a real planning factor, not a formality</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Grafton different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Grafton is a river city with a long and well-documented flood record on the Clarence, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does agriculture affect water storage requirements for other properties in Grafton?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around agriculture and forestry shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Clarence Valley be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Grafton's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Grafton? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Clarence Valley's real conditions.</p>
+  <a href="/services/custom-tank-design" class="cta-btn">Discuss Your Water Storage Requirements</a>
+</div>`,
+    coverImageUrl: `${BASE}/rpvc-inline.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Grafton | PC Water",
+    seoDescription:
+      "Grafton (the Clarence Valley) tank storage: agriculture demand and subtropical conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-04T15:00:00.000Z',
+    createdAt: '2026-10-04T15:00:00.000Z',
+    updatedAt: '2026-10-04T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-grafton', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-grafton', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Coffs Harbour: Blueberry '),
+    title: "Water Storage and Tank Services in Coffs Harbour: Blueberry Growing & Subtropical Water Security",
+    slug: 'water-storage-and-tank-services-in-coffs-harbour-blueberry-growing-and-subtropical-water-security',
+    excerpt:
+      "Coffs Harbour is on the Coral Sea coast, in the Mid North Coast, a coastal horticulture and tourism centre with high seasonal visitor demand. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Coffs Harbour sits on the Coral Sea coast, in the Mid North Coast of New South Wales. The town's economy is built substantially around blueberry growing and tourism, and it is a coastal horticulture and tourism centre with high seasonal visitor demand - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Coffs Harbour, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Coffs Harbour's water context is distinctive</span></div>
+
+<h3>Warm, wet summers and a documented flood record</h3>
+<p>Coffs Harbour is on the Coral Sea coast, and that geography carries real consequences for water storage: a coastal horticulture and tourism centre with high seasonal visitor demand. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from blueberry growing</h3>
+<p>Blueberry Growing And Tourism is a defining part of Coffs Harbour's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/sector-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Mid North Coast account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Mid North Coast</span></div>
+
+<p>For a property in or around Coffs Harbour, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a coastal horticulture and tourism centre with high seasonal visitor demand. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/fire-tank-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Mid North Coast is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Coffs Harbour's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">9.81 kPa</span>
+  <span class="stat-label">Hydrostatic pressure added at the base of a water tank for every metre of head — the constant every tank foundation and shell design has to be checked against</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Coffs Harbour property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Flood-level clearance for inlet and access fittings</td><td>The region's documented flood history makes this a real planning factor, not a formality</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Coffs Harbour different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Coffs Harbour is a coastal horticulture and tourism centre with high seasonal visitor demand, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does blueberry growing affect water storage requirements for other properties in Coffs Harbour?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around blueberry growing and tourism shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Mid North Coast be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Coffs Harbour's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Coffs Harbour? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Mid North Coast's real conditions.</p>
+  <a href="/services/custom-tank-design" class="cta-btn">Discuss Your Water Storage Requirements</a>
+</div>`,
+    coverImageUrl: `${BASE}/sector-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Coffs Harbour | PC Water",
+    seoDescription:
+      "Coffs Harbour (the Mid North Coast) tank storage: blueberry growing demand and subtropical conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-05T09:00:00.000Z',
+    createdAt: '2026-10-05T09:00:00.000Z',
+    updatedAt: '2026-10-05T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-coffs-harbour', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-coffs-harbour', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Port Macquarie: Tourism &'),
+    title: "Water Storage and Tank Services in Port Macquarie: Tourism & Subtropical Water Security",
+    slug: 'water-storage-and-tank-services-in-port-macquarie-tourism-and-subtropical-water-security',
+    excerpt:
+      "Port Macquarie is on the Hastings River, in the Mid North Coast, a fast-growing coastal centre with a significant aged-care and retirement population. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Port Macquarie sits on the Hastings River, in the Mid North Coast of New South Wales. The town's economy is built substantially around tourism, retirement living and agriculture, and it is a fast-growing coastal centre with a significant aged-care and retirement population - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Port Macquarie, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Port Macquarie's water context is distinctive</span></div>
+
+<h3>A subtropical river-catchment town</h3>
+<p>Port Macquarie is on the Hastings River, and that geography carries real consequences for water storage: a fast-growing coastal centre with a significant aged-care and retirement population. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from tourism</h3>
+<p>Tourism, Retirement Living And Agriculture is a defining part of Port Macquarie's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/sector-inspection.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Mid North Coast account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Mid North Coast</span></div>
+
+<p>For a property in or around Port Macquarie, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a fast-growing coastal centre with a significant aged-care and retirement population. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/fire-tank-inspection.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Mid North Coast is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Port Macquarie's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">12 mths</span>
+  <span class="stat-label">Standard Defects Liability Period reflected in most Australian water infrastructure procurement contracts</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Port Macquarie property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Flood-level clearance for inlet and access fittings</td><td>The region's documented flood history makes this a real planning factor, not a formality</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Port Macquarie different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Port Macquarie is a fast-growing coastal centre with a significant aged-care and retirement population, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does tourism affect water storage requirements for other properties in Port Macquarie?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around tourism, retirement living and agriculture shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Mid North Coast be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Port Macquarie's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Port Macquarie? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Mid North Coast's real conditions.</p>
+  <a href="/services/custom-tank-design" class="cta-btn">Discuss Your Water Storage Requirements</a>
+</div>`,
+    coverImageUrl: `${BASE}/sector-inspection.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Port Macquarie | PC Water",
+    seoDescription:
+      "Port Macquarie (the Mid North Coast) tank storage: tourism demand and subtropical conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-05T15:00:00.000Z',
+    createdAt: '2026-10-05T15:00:00.000Z',
+    updatedAt: '2026-10-05T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-port-macquarie', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-port-macquarie', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Albury: Food Processing &'),
+    title: "Water Storage and Tank Services in Albury: Food Processing & Cool-Climate Water Security",
+    slug: 'water-storage-and-tank-services-in-albury-food-processing-and-cool-climate-water-security',
+    excerpt:
+      "Albury is on the Murray River, in the Murray River border region, a twin-city border centre with Wodonga, straddling two states' regulatory frameworks. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Albury sits on the Murray River, in the Murray River border region of New South Wales. The town's economy is built substantially around food processing, logistics and agriculture, and it is a twin-city border centre with Wodonga, straddling two states' regulatory frameworks - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Albury, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Albury's water context is distinctive</span></div>
+
+<h3>Genuine winter cold and frost risk</h3>
+<p>Albury is on the Murray River, and that geography carries real consequences for water storage: a twin-city border centre with Wodonga, straddling two states' regulatory frameworks. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from food processing</h3>
+<p>Food Processing, Logistics And Agriculture is a defining part of Albury's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/harsh-env-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Murray River border region account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Murray River border region</span></div>
+
+<p>For a property in or around Albury, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a twin-city border centre with Wodonga, straddling two states' regulatory frameworks. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/ticking-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Murray River border region is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Albury's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">20-45°C</span>
+  <span class="stat-label">The water temperature range in which Legionella bacteria multiply most readily in stored water — the reason temperature control matters as much as disinfectant residual</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Albury property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Frost protection on exposed pipework and fittings</td><td>Genuine sub-zero nights create freeze risk this region's design has to account for</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Albury different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Albury is a twin-city border centre with Wodonga, straddling two states' regulatory frameworks, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does food processing affect water storage requirements for other properties in Albury?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around food processing, logistics and agriculture shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Murray River border region be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Albury's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Albury? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Murray River border region's real conditions.</p>
+  <a href="/services/tank-maintenance-upgrades" class="cta-btn">Discuss Industrial Tank Maintenance</a>
+</div>`,
+    coverImageUrl: `${BASE}/harsh-env-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Albury | PC Water",
+    seoDescription:
+      "Albury (the Murray River border region) tank storage: food processing demand and cool-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-06T09:00:00.000Z',
+    createdAt: '2026-10-06T09:00:00.000Z',
+    updatedAt: '2026-10-06T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-albury', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-albury', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Armidale: Agriculture & C'),
+    title: "Water Storage and Tank Services in Armidale: Agriculture & Cool-Climate Water Security",
+    slug: 'water-storage-and-tank-services-in-armidale-agriculture-and-cool-climate-water-security',
+    excerpt:
+      "Armidale is on the Dumaresq Creek catchment, in the New England Tablelands, one of the highest-elevation regional cities in New South Wales, with genuine winter snow risk. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Armidale sits on the Dumaresq Creek catchment, in the New England Tablelands of New South Wales. The town's economy is built substantially around agriculture, wool and education, and it is one of the highest-elevation regional cities in New South Wales, with genuine winter snow risk - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Armidale, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Armidale's water context is distinctive</span></div>
+
+<h3>An elevated, frost-prone regional city</h3>
+<p>Armidale is on the Dumaresq Creek catchment, and that geography carries real consequences for water storage: one of the highest-elevation regional cities in New South Wales, with genuine winter snow risk. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from agriculture</h3>
+<p>Agriculture, Wool And Education is a defining part of Armidale's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/harsh-env-drone.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the New England Tablelands account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the New England Tablelands</span></div>
+
+<p>For a property in or around Armidale, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given one of the highest-elevation regional cities in New South Wales, with genuine winter snow risk. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/ticking-inspection.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the New England Tablelands is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Armidale's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">AS4020</span>
+  <span class="stat-label">The Australian Standard certifying that a product or material is safe for use in contact with drinking water</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Armidale property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Frost protection on exposed pipework and fittings</td><td>Genuine sub-zero nights create freeze risk this region's design has to account for</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Armidale different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Armidale is one of the highest-elevation regional cities in New South Wales, with genuine winter snow risk, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does agriculture affect water storage requirements for other properties in Armidale?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around agriculture, wool and education shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the New England Tablelands be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Armidale's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Armidale? PC Water Infrastructure delivers tank design, installation and maintenance suited to the New England Tablelands's real conditions.</p>
+  <a href="/services/custom-tank-design" class="cta-btn">Discuss Your Water Storage Requirements</a>
+</div>`,
+    coverImageUrl: `${BASE}/harsh-env-drone.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Armidale | PC Water",
+    seoDescription:
+      "Armidale (the New England Tablelands) tank storage: agriculture demand and cool-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-06T15:00:00.000Z',
+    createdAt: '2026-10-06T15:00:00.000Z',
+    updatedAt: '2026-10-06T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-armidale', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-armidale', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Bega: Dairy Processing & '),
+    title: "Water Storage and Tank Services in Bega: Dairy Processing & Coastal Water Security",
+    slug: 'water-storage-and-tank-services-in-bega-dairy-processing-and-coastal-water-security',
+    excerpt:
+      "Bega is on the Bega River, in the Sapphire Coast, the centre of one of Australia's best-known dairy processing districts. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Bega sits on the Bega River, in the Sapphire Coast of New South Wales. The town's economy is built substantially around dairy processing, and it is the centre of one of Australia's best-known dairy processing districts - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Bega, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Bega's water context is distinctive</span></div>
+
+<h3>A cool, wet coastal climate</h3>
+<p>Bega is on the Bega River, and that geography carries real consequences for water storage: the centre of one of Australia's best-known dairy processing districts. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from dairy processing</h3>
+<p>Dairy Processing is a defining part of Bega's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/corrosion-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Sapphire Coast account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Sapphire Coast</span></div>
+
+<p>For a property in or around Bega, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given the centre of one of Australia's best-known dairy processing districts. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/sediment-tank-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Sapphire Coast is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Bega's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">AS1170</span>
+  <span class="stat-label">The Australian Standard series governing structural design actions, including the wind and seismic loads every water tank has to be engineered against</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Bega property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Salt-air corrosion allowance on external steelwork</td><td>Coastal exposure accelerates external corrosion beyond a standard inland specification</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Bega different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Bega is the centre of one of Australia's best-known dairy processing districts, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does dairy processing affect water storage requirements for other properties in Bega?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around dairy processing shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Sapphire Coast be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Bega's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Bega? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Sapphire Coast's real conditions.</p>
+  <a href="/services/tank-maintenance-upgrades" class="cta-btn">Discuss Industrial Tank Maintenance</a>
+</div>`,
+    coverImageUrl: `${BASE}/corrosion-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Bega | PC Water",
+    seoDescription:
+      "Bega (the Sapphire Coast) tank storage: dairy processing demand and coastal conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-07T09:00:00.000Z',
+    createdAt: '2026-10-07T09:00:00.000Z',
+    updatedAt: '2026-10-07T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-bega', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-bega', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Broken Hill: Silver & Out'),
+    title: "Water Storage and Tank Services in Broken Hill: Silver & Outback Water Security",
+    slug: 'water-storage-and-tank-services-in-broken-hill-silver-and-outback-water-security',
+    excerpt:
+      "Broken Hill is far from any major river, reliant on the Menindee Lakes system, in the far west, one of the most water-stressed major towns in New South Wales, historically dependent on a single pipeline. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Broken Hill sits far from any major river, reliant on the Menindee Lakes system, in the far west of New South Wales. The town's economy is built substantially around silver, lead and zinc mining, and it is one of the most water-stressed major towns in New South Wales, historically dependent on a single pipeline - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Broken Hill, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Broken Hill's water context is distinctive</span></div>
+
+<h3>One of the driest inhabited parts of the country</h3>
+<p>Broken Hill is far from any major river, reliant on the Menindee Lakes system, and that geography carries real consequences for water storage: one of the most water-stressed major towns in New South Wales, historically dependent on a single pipeline. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from silver</h3>
+<p>Silver, Lead And Zinc Mining is a defining part of Broken Hill's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/corrosion-rov-inspection.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the far west account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the far west</span></div>
+
+<p>For a property in or around Broken Hill, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given one of the most water-stressed major towns in New South Wales, historically dependent on a single pipeline. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/water-food-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the far west is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Broken Hill's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">AS2419</span>
+  <span class="stat-label">The Australian Standard governing fire hydrant installations, including the static water supply a fire tank has to reliably deliver</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Broken Hill property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Freight and access planning for remote delivery</td><td>Long distances from a supply base change what "urgent repair" can realistically mean</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Broken Hill different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Broken Hill is one of the most water-stressed major towns in New South Wales, historically dependent on a single pipeline, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does silver affect water storage requirements for other properties in Broken Hill?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around silver, lead and zinc mining shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the far west be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Broken Hill's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Broken Hill? PC Water Infrastructure delivers tank design, installation and maintenance suited to the far west's real conditions.</p>
+  <a href="/services/remote-area-delivery" class="cta-btn">Discuss Remote Water Storage Delivery</a>
+</div>`,
+    coverImageUrl: `${BASE}/corrosion-rov-inspection.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Broken Hill | PC Water",
+    seoDescription:
+      "Broken Hill (the far west) tank storage: silver demand and outback conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-07T15:00:00.000Z',
+    createdAt: '2026-10-07T15:00:00.000Z',
+    updatedAt: '2026-10-07T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-broken-hill', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-broken-hill', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Parkes: Agriculture & Dry'),
+    title: "Water Storage and Tank Services in Parkes: Agriculture & Dry-Climate Water Security",
+    slug: 'water-storage-and-tank-services-in-parkes-agriculture-and-dry-climate-water-security',
+    excerpt:
+      "Parkes is on the Bogan River, in the Central West, a logistics and agricultural hub known internationally for its radio astronomy facility. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Parkes sits on the Bogan River, in the Central West of New South Wales. The town's economy is built substantially around agriculture, logistics and the CSIRO radio telescope, and it is a logistics and agricultural hub known internationally for its radio astronomy facility - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Parkes, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Parkes's water context is distinctive</span></div>
+
+<h3>A dry-climate agricultural service centre</h3>
+<p>Parkes is on the Bogan River, and that geography carries real consequences for water storage: a logistics and agricultural hub known internationally for its radio astronomy facility. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from agriculture</h3>
+<p>Agriculture, Logistics And The CSIRO Radio Telescope is a defining part of Parkes's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/cleaning-inspection-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Central West account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Central West</span></div>
+
+<p>For a property in or around Parkes, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a logistics and agricultural hub known internationally for its radio astronomy facility. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/water-food-hatch.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Central West is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Parkes's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">19.5-23.5%</span>
+  <span class="stat-label">The safe oxygen concentration range for confined space entry into a water tank — outside this band, entry requires additional controls before anyone goes in</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Parkes property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Tank sizing against realistic dry-period duration</td><td>Irrigation-dependent local demand makes storage margin a genuine planning factor</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Parkes different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Parkes is a logistics and agricultural hub known internationally for its radio astronomy facility, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does agriculture affect water storage requirements for other properties in Parkes?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around agriculture, logistics and the CSIRO radio telescope shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Central West be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Parkes's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Parkes? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Central West's real conditions.</p>
+  <a href="/services/custom-tank-design" class="cta-btn">Discuss Your Water Storage Requirements</a>
+</div>`,
+    coverImageUrl: `${BASE}/cleaning-inspection-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Parkes | PC Water",
+    seoDescription:
+      "Parkes (the Central West) tank storage: agriculture demand and dry-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-08T09:00:00.000Z',
+    createdAt: '2026-10-08T09:00:00.000Z',
+    updatedAt: '2026-10-08T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-parkes', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-parkes', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Mudgee: Viticulture & Coo'),
+    title: "Water Storage and Tank Services in Mudgee: Viticulture & Cool-Climate Water Security",
+    slug: 'water-storage-and-tank-services-in-mudgee-viticulture-and-cool-climate-water-security',
+    excerpt:
+      "Mudgee is on the Cudgegong River, in the Central West, a wine region economy with cool-climate viticulture and nearby coal mining side by side. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Mudgee sits on the Cudgegong River, in the Central West of New South Wales. The town's economy is built substantially around viticulture and coal mining, and it is a wine region economy with cool-climate viticulture and nearby coal mining side by side - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Mudgee, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Mudgee's water context is distinctive</span></div>
+
+<h3>A cool-climate inland centre</h3>
+<p>Mudgee is on the Cudgegong River, and that geography carries real consequences for water storage: a wine region economy with cool-climate viticulture and nearby coal mining side by side. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from viticulture</h3>
+<p>Viticulture And Coal Mining is a defining part of Mudgee's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/fire-tank-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Central West account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Central West</span></div>
+
+<p>For a property in or around Mudgee, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a wine region economy with cool-climate viticulture and nearby coal mining side by side. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/rpvc-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Central West is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Mudgee's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">150mm+</span>
+  <span class="stat-label">A typical minimum freeboard allowance built into tank design so storm inflow and wave action do not push water over the roofline</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Mudgee property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Frost protection on exposed pipework and fittings</td><td>Genuine sub-zero nights create freeze risk this region's design has to account for</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Mudgee different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Mudgee is a wine region economy with cool-climate viticulture and nearby coal mining side by side, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does viticulture affect water storage requirements for other properties in Mudgee?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around viticulture and coal mining shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Central West be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Mudgee's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Mudgee? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Central West's real conditions.</p>
+  <a href="/services/tank-maintenance-upgrades" class="cta-btn">Discuss Industrial Tank Maintenance</a>
+</div>`,
+    coverImageUrl: `${BASE}/fire-tank-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Mudgee | PC Water",
+    seoDescription:
+      "Mudgee (the Central West) tank storage: viticulture demand and cool-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-08T15:00:00.000Z',
+    createdAt: '2026-10-08T15:00:00.000Z',
+    updatedAt: '2026-10-08T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-mudgee', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-mudgee', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Queanbeyan: Residential G'),
+    title: "Water Storage and Tank Services in Queanbeyan: Residential Growth Adjoining Canberra & Cool-Climate Water Security",
+    slug: 'water-storage-and-tank-services-in-queanbeyan-residential-growth-adjoining-canberra-and-cool-climate-water-security',
+    excerpt:
+      "Queanbeyan is on the Queanbeyan River, in the ACT border region, a fast-growing satellite city sharing infrastructure pressure with the national capital. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Queanbeyan sits on the Queanbeyan River, in the ACT border region of New South Wales. The town's economy is built substantially around residential growth adjoining Canberra, and it is a fast-growing satellite city sharing infrastructure pressure with the national capital - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Queanbeyan, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Queanbeyan's water context is distinctive</span></div>
+
+<h3>Genuine winter cold and frost risk</h3>
+<p>Queanbeyan is on the Queanbeyan River, and that geography carries real consequences for water storage: a fast-growing satellite city sharing infrastructure pressure with the national capital. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from residential growth adjoining Canberra</h3>
+<p>Residential Growth Adjoining Canberra is a defining part of Queanbeyan's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/fire-tank-inspection.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the ACT border region account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the ACT border region</span></div>
+
+<p>For a property in or around Queanbeyan, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a fast-growing satellite city sharing infrastructure pressure with the national capital. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/rpvc-inline.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the ACT border region is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Queanbeyan's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">9.81 kPa</span>
+  <span class="stat-label">Hydrostatic pressure added at the base of a water tank for every metre of head — the constant every tank foundation and shell design has to be checked against</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Queanbeyan property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Frost protection on exposed pipework and fittings</td><td>Genuine sub-zero nights create freeze risk this region's design has to account for</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Queanbeyan different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Queanbeyan is a fast-growing satellite city sharing infrastructure pressure with the national capital, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does residential growth adjoining Canberra affect water storage requirements for other properties in Queanbeyan?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around residential growth adjoining Canberra shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the ACT border region be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Queanbeyan's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Queanbeyan? PC Water Infrastructure delivers tank design, installation and maintenance suited to the ACT border region's real conditions.</p>
+  <a href="/services/custom-tank-design" class="cta-btn">Discuss Your Water Storage Requirements</a>
+</div>`,
+    coverImageUrl: `${BASE}/fire-tank-inspection.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Queanbeyan | PC Water",
+    seoDescription:
+      "Queanbeyan (the ACT border region) tank storage: residential growth adjoining Canberra demand and cool-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-09T09:00:00.000Z',
+    createdAt: '2026-10-09T09:00:00.000Z',
+    updatedAt: '2026-10-09T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-queanbeyan', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-queanbeyan', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Taree: Dairy & Subtropica'),
+    title: "Water Storage and Tank Services in Taree: Dairy & Subtropical Water Security",
+    slug: 'water-storage-and-tank-services-in-taree-dairy-and-subtropical-water-security',
+    excerpt:
+      "Taree is on the Manning River, in the Manning Valley, a Manning Valley river town with a genuine flood history. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Taree sits on the Manning River, in the Manning Valley of New South Wales. The town's economy is built substantially around dairy, timber and agriculture, and it is a Manning Valley river town with a genuine flood history - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Taree, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Taree's water context is distinctive</span></div>
+
+<h3>Warm, wet summers and a documented flood record</h3>
+<p>Taree is on the Manning River, and that geography carries real consequences for water storage: a Manning Valley river town with a genuine flood history. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from dairy</h3>
+<p>Dairy, Timber And Agriculture is a defining part of Taree's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/ticking-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Manning Valley account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Manning Valley</span></div>
+
+<p>For a property in or around Taree, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a Manning Valley river town with a genuine flood history. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/sector-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Manning Valley is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Taree's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">12 mths</span>
+  <span class="stat-label">Standard Defects Liability Period reflected in most Australian water infrastructure procurement contracts</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Taree property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Flood-level clearance for inlet and access fittings</td><td>The region's documented flood history makes this a real planning factor, not a formality</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Taree different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Taree is a Manning Valley river town with a genuine flood history, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does dairy affect water storage requirements for other properties in Taree?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around dairy, timber and agriculture shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Manning Valley be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Taree's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Taree? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Manning Valley's real conditions.</p>
+  <a href="/services/custom-tank-design" class="cta-btn">Discuss Your Water Storage Requirements</a>
+</div>`,
+    coverImageUrl: `${BASE}/ticking-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Taree | PC Water",
+    seoDescription:
+      "Taree (the Manning Valley) tank storage: dairy demand and subtropical conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-09T15:00:00.000Z',
+    createdAt: '2026-10-09T15:00:00.000Z',
+    updatedAt: '2026-10-09T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-taree', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-taree', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Moree: Cotton Growing & D'),
+    title: "Water Storage and Tank Services in Moree: Cotton Growing & Dry-Climate Water Security",
+    slug: 'water-storage-and-tank-services-in-moree-cotton-growing-and-dry-climate-water-security',
+    excerpt:
+      "Moree is on the Mehi River, above the Great Artesian Basin, in north west New South Wales, one of the most productive cotton-growing districts in the country, sitting above artesian groundwater. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Moree sits on the Mehi River, above the Great Artesian Basin, in north west New South Wales of New South Wales. The town's economy is built substantially around cotton growing and grain, and it is one of the most productive cotton-growing districts in the country, sitting above artesian groundwater - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Moree, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Moree's water context is distinctive</span></div>
+
+<h3>A semi-arid agricultural district</h3>
+<p>Moree is on the Mehi River, above the Great Artesian Basin, and that geography carries real consequences for water storage: one of the most productive cotton-growing districts in the country, sitting above artesian groundwater. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from cotton growing</h3>
+<p>Cotton Growing And Grain is a defining part of Moree's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/ticking-inspection.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in north west New South Wales account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in north west New South Wales</span></div>
+
+<p>For a property in or around Moree, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given one of the most productive cotton-growing districts in the country, sitting above artesian groundwater. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/sector-inspection.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for north west New South Wales is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Moree's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">20-45°C</span>
+  <span class="stat-label">The water temperature range in which Legionella bacteria multiply most readily in stored water — the reason temperature control matters as much as disinfectant residual</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Moree property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Tank sizing against realistic dry-period duration</td><td>Irrigation-dependent local demand makes storage margin a genuine planning factor</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Moree different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Moree is one of the most productive cotton-growing districts in the country, sitting above artesian groundwater, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does cotton growing affect water storage requirements for other properties in Moree?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around cotton growing and grain shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in north west New South Wales be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Moree's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Moree? PC Water Infrastructure delivers tank design, installation and maintenance suited to north west New South Wales's real conditions.</p>
+  <a href="/services/custom-tank-design" class="cta-btn">Discuss Your Water Storage Requirements</a>
+</div>`,
+    coverImageUrl: `${BASE}/ticking-inspection.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Moree | PC Water",
+    seoDescription:
+      "Moree (north west New South Wales) tank storage: cotton growing demand and dry-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-10T09:00:00.000Z',
+    createdAt: '2026-10-10T09:00:00.000Z',
+    updatedAt: '2026-10-10T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-moree', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-moree', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Cootamundra: Agriculture '),
+    title: "Water Storage and Tank Services in Cootamundra: Agriculture & Cool-Climate Water Security",
+    slug: 'water-storage-and-tank-services-in-cootamundra-agriculture-and-cool-climate-water-security',
+    excerpt:
+      "Cootamundra is on the Muttama Creek catchment, in the South West Slopes, a South West Slopes agricultural service town with cold winters. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Cootamundra sits on the Muttama Creek catchment, in the South West Slopes of New South Wales. The town's economy is built substantially around agriculture and rail heritage, and it is a South West Slopes agricultural service town with cold winters - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Cootamundra, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Cootamundra's water context is distinctive</span></div>
+
+<h3>Genuine winter cold and frost risk</h3>
+<p>Cootamundra is on the Muttama Creek catchment, and that geography carries real consequences for water storage: a South West Slopes agricultural service town with cold winters. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from agriculture</h3>
+<p>Agriculture And Rail Heritage is a defining part of Cootamundra's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/sediment-tank-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the South West Slopes account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the South West Slopes</span></div>
+
+<p>For a property in or around Cootamundra, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a South West Slopes agricultural service town with cold winters. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/harsh-env-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the South West Slopes is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Cootamundra's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">AS4020</span>
+  <span class="stat-label">The Australian Standard certifying that a product or material is safe for use in contact with drinking water</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Cootamundra property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Frost protection on exposed pipework and fittings</td><td>Genuine sub-zero nights create freeze risk this region's design has to account for</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Cootamundra different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Cootamundra is a South West Slopes agricultural service town with cold winters, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does agriculture affect water storage requirements for other properties in Cootamundra?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around agriculture and rail heritage shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the South West Slopes be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Cootamundra's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Cootamundra? PC Water Infrastructure delivers tank design, installation and maintenance suited to the South West Slopes's real conditions.</p>
+  <a href="/services/custom-tank-design" class="cta-btn">Discuss Your Water Storage Requirements</a>
+</div>`,
+    coverImageUrl: `${BASE}/sediment-tank-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Cootamundra | PC Water",
+    seoDescription:
+      "Cootamundra (the South West Slopes) tank storage: agriculture demand and cool-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-10T15:00:00.000Z',
+    createdAt: '2026-10-10T15:00:00.000Z',
+    updatedAt: '2026-10-10T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-cootamundra', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-cootamundra', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Young: Cherry Growing & C'),
+    title: "Water Storage and Tank Services in Young: Cherry Growing & Cool-Climate Water Security",
+    slug: 'water-storage-and-tank-services-in-young-cherry-growing-and-cool-climate-water-security',
+    excerpt:
+      "Young is on the Burrangong Creek catchment, in the South West Slopes, known nationally as the Cherry Capital, with frost-sensitive horticulture as its core industry. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Young sits on the Burrangong Creek catchment, in the South West Slopes of New South Wales. The town's economy is built substantially around cherry growing and mixed horticulture, and it is known nationally as the Cherry Capital, with frost-sensitive horticulture as its core industry - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Young, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Young's water context is distinctive</span></div>
+
+<h3>An elevated, frost-prone regional city</h3>
+<p>Young is on the Burrangong Creek catchment, and that geography carries real consequences for water storage: known nationally as the Cherry Capital, with frost-sensitive horticulture as its core industry. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from cherry growing</h3>
+<p>Cherry Growing And Mixed Horticulture is a defining part of Young's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/water-food-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the South West Slopes account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the South West Slopes</span></div>
+
+<p>For a property in or around Young, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given known nationally as the Cherry Capital, with frost-sensitive horticulture as its core industry. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/harsh-env-drone.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the South West Slopes is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Young's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">AS1170</span>
+  <span class="stat-label">The Australian Standard series governing structural design actions, including the wind and seismic loads every water tank has to be engineered against</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Young property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Frost protection on exposed pipework and fittings</td><td>Genuine sub-zero nights create freeze risk this region's design has to account for</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Young different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Young is known nationally as the Cherry Capital, with frost-sensitive horticulture as its core industry, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does cherry growing affect water storage requirements for other properties in Young?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around cherry growing and mixed horticulture shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the South West Slopes be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Young's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Young? PC Water Infrastructure delivers tank design, installation and maintenance suited to the South West Slopes's real conditions.</p>
+  <a href="/services/custom-tank-design" class="cta-btn">Discuss Your Water Storage Requirements</a>
+</div>`,
+    coverImageUrl: `${BASE}/water-food-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Young | PC Water",
+    seoDescription:
+      "Young (the South West Slopes) tank storage: cherry growing demand and cool-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-11T09:00:00.000Z',
+    createdAt: '2026-10-11T09:00:00.000Z',
+    updatedAt: '2026-10-11T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-young', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-young', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Kempsey: Dairy & Subtropi'),
+    title: "Water Storage and Tank Services in Kempsey: Dairy & Subtropical Water Security",
+    slug: 'water-storage-and-tank-services-in-kempsey-dairy-and-subtropical-water-security',
+    excerpt:
+      "Kempsey is on the Macleay River, in the Macleay Valley, a Macleay Valley town with a well-documented flood plain history. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Kempsey sits on the Macleay River, in the Macleay Valley of New South Wales. The town's economy is built substantially around dairy and agriculture, and it is a Macleay Valley town with a well-documented flood plain history - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Kempsey, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Kempsey's water context is distinctive</span></div>
+
+<h3>A subtropical river-catchment town</h3>
+<p>Kempsey is on the Macleay River, and that geography carries real consequences for water storage: a Macleay Valley town with a well-documented flood plain history. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from dairy</h3>
+<p>Dairy And Agriculture is a defining part of Kempsey's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/water-food-hatch.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Macleay Valley account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Macleay Valley</span></div>
+
+<p>For a property in or around Kempsey, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a Macleay Valley town with a well-documented flood plain history. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/corrosion-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Macleay Valley is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Kempsey's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">AS2419</span>
+  <span class="stat-label">The Australian Standard governing fire hydrant installations, including the static water supply a fire tank has to reliably deliver</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Kempsey property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Flood-level clearance for inlet and access fittings</td><td>The region's documented flood history makes this a real planning factor, not a formality</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Kempsey different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Kempsey is a Macleay Valley town with a well-documented flood plain history, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does dairy affect water storage requirements for other properties in Kempsey?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around dairy and agriculture shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Macleay Valley be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Kempsey's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Kempsey? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Macleay Valley's real conditions.</p>
+  <a href="/services/custom-tank-design" class="cta-btn">Discuss Your Water Storage Requirements</a>
+</div>`,
+    coverImageUrl: `${BASE}/water-food-hatch.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Kempsey | PC Water",
+    seoDescription:
+      "Kempsey (the Macleay Valley) tank storage: dairy demand and subtropical conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-11T15:00:00.000Z',
+    createdAt: '2026-10-11T15:00:00.000Z',
+    updatedAt: '2026-10-11T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-kempsey', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-kempsey', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Lithgow: Heavy Industry &'),
+    title: "Water Storage and Tank Services in Lithgow: Heavy Industry & Cool-Climate Water Security",
+    slug: 'water-storage-and-tank-services-in-lithgow-heavy-industry-and-cool-climate-water-security',
+    excerpt:
+      "Lithgow is on the Coxs River catchment, in the western edge of the Blue Mountains, a former heavy-industrial city at genuine elevation, with cold, frost-prone winters. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Lithgow sits on the Coxs River catchment, in the western edge of the Blue Mountains of New South Wales. The town's economy is built substantially around heavy industry, coal and light manufacturing, and it is a former heavy-industrial city at genuine elevation, with cold, frost-prone winters - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Lithgow, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Lithgow's water context is distinctive</span></div>
+
+<h3>Genuine winter cold and frost risk</h3>
+<p>Lithgow is on the Coxs River catchment, and that geography carries real consequences for water storage: a former heavy-industrial city at genuine elevation, with cold, frost-prone winters. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from heavy industry</h3>
+<p>Heavy Industry, Coal And Light Manufacturing is a defining part of Lithgow's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/rpvc-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the western edge of the Blue Mountains account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the western edge of the Blue Mountains</span></div>
+
+<p>For a property in or around Lithgow, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a former heavy-industrial city at genuine elevation, with cold, frost-prone winters. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/corrosion-rov-inspection.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the western edge of the Blue Mountains is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Lithgow's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">19.5-23.5%</span>
+  <span class="stat-label">The safe oxygen concentration range for confined space entry into a water tank — outside this band, entry requires additional controls before anyone goes in</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Lithgow property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Frost protection on exposed pipework and fittings</td><td>Genuine sub-zero nights create freeze risk this region's design has to account for</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Lithgow different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Lithgow is a former heavy-industrial city at genuine elevation, with cold, frost-prone winters, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does heavy industry affect water storage requirements for other properties in Lithgow?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around heavy industry, coal and light manufacturing shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the western edge of the Blue Mountains be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Lithgow's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Lithgow? PC Water Infrastructure delivers tank design, installation and maintenance suited to the western edge of the Blue Mountains's real conditions.</p>
+  <a href="/services/tank-maintenance-upgrades" class="cta-btn">Discuss Industrial Tank Maintenance</a>
+</div>`,
+    coverImageUrl: `${BASE}/rpvc-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Lithgow | PC Water",
+    seoDescription:
+      "Lithgow (the western edge of the Blue Mountains) tank storage: heavy industry demand and cool-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-12T09:00:00.000Z',
+    createdAt: '2026-10-12T09:00:00.000Z',
+    updatedAt: '2026-10-12T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-lithgow', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-lithgow', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Narrabri: Cotton Growing '),
+    title: "Water Storage and Tank Services in Narrabri: Cotton Growing & Dry-Climate Water Security",
+    slug: 'water-storage-and-tank-services-in-narrabri-cotton-growing-and-dry-climate-water-security',
+    excerpt:
+      "Narrabri is on the Namoi River, in the Namoi Valley, a major cotton-growing centre also hosting significant gas industry activity. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Narrabri sits on the Namoi River, in the Namoi Valley of New South Wales. The town's economy is built substantially around cotton growing and gas exploration, and it is a major cotton-growing centre also hosting significant gas industry activity - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Narrabri, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Narrabri's water context is distinctive</span></div>
+
+<h3>A dry-climate agricultural service centre</h3>
+<p>Narrabri is on the Namoi River, and that geography carries real consequences for water storage: a major cotton-growing centre also hosting significant gas industry activity. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from cotton growing</h3>
+<p>Cotton Growing And Gas Exploration is a defining part of Narrabri's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/rpvc-inline.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Namoi Valley account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Namoi Valley</span></div>
+
+<p>For a property in or around Narrabri, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a major cotton-growing centre also hosting significant gas industry activity. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/cleaning-inspection-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Namoi Valley is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Narrabri's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">150mm+</span>
+  <span class="stat-label">A typical minimum freeboard allowance built into tank design so storm inflow and wave action do not push water over the roofline</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Narrabri property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Tank sizing against realistic dry-period duration</td><td>Irrigation-dependent local demand makes storage margin a genuine planning factor</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Narrabri different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Narrabri is a major cotton-growing centre also hosting significant gas industry activity, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does cotton growing affect water storage requirements for other properties in Narrabri?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around cotton growing and gas exploration shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Namoi Valley be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Narrabri's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Narrabri? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Namoi Valley's real conditions.</p>
+  <a href="/services/tank-maintenance-upgrades" class="cta-btn">Discuss Industrial Tank Maintenance</a>
+</div>`,
+    coverImageUrl: `${BASE}/rpvc-inline.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Narrabri | PC Water",
+    seoDescription:
+      "Narrabri (the Namoi Valley) tank storage: cotton growing demand and dry-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-12T15:00:00.000Z',
+    createdAt: '2026-10-12T15:00:00.000Z',
+    updatedAt: '2026-10-12T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-narrabri', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-narrabri', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Shepparton: Fruit & Cool-'),
+    title: "Water Storage and Tank Services in Shepparton: Fruit & Cool-Climate Water Security",
+    slug: 'water-storage-and-tank-services-in-shepparton-fruit-and-cool-climate-water-security',
+    excerpt:
+      "Shepparton is on the Goulburn River, in the Goulburn Valley, the centre of Australia's largest fruit and vegetable processing district. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Shepparton sits on the Goulburn River, in the Goulburn Valley of Victoria. The town's economy is built substantially around fruit and vegetable processing (SPC, canneries), and it is the centre of Australia's largest fruit and vegetable processing district - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Shepparton, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Shepparton's water context is distinctive</span></div>
+
+<h3>A cool-climate inland centre</h3>
+<p>Shepparton is on the Goulburn River, and that geography carries real consequences for water storage: the centre of Australia's largest fruit and vegetable processing district. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from fruit</h3>
+<p>Fruit And Vegetable Processing (SPC, Canneries) is a defining part of Shepparton's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/sector-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Goulburn Valley account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Goulburn Valley</span></div>
+
+<p>For a property in or around Shepparton, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given the centre of Australia's largest fruit and vegetable processing district. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/fire-tank-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Goulburn Valley is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Shepparton's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">9.81 kPa</span>
+  <span class="stat-label">Hydrostatic pressure added at the base of a water tank for every metre of head — the constant every tank foundation and shell design has to be checked against</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Shepparton property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Frost protection on exposed pipework and fittings</td><td>Genuine sub-zero nights create freeze risk this region's design has to account for</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Shepparton different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Shepparton is the centre of Australia's largest fruit and vegetable processing district, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does fruit affect water storage requirements for other properties in Shepparton?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around fruit and vegetable processing (SPC, canneries) shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Goulburn Valley be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Shepparton's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Shepparton? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Goulburn Valley's real conditions.</p>
+  <a href="/services/tank-maintenance-upgrades" class="cta-btn">Discuss Industrial Tank Maintenance</a>
+</div>`,
+    coverImageUrl: `${BASE}/sector-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Shepparton | PC Water",
+    seoDescription:
+      "Shepparton (the Goulburn Valley) tank storage: fruit demand and cool-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-13T09:00:00.000Z',
+    createdAt: '2026-10-13T09:00:00.000Z',
+    updatedAt: '2026-10-13T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-shepparton', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-shepparton', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Mildura: Irrigated Viticu'),
+    title: "Water Storage and Tank Services in Mildura: Irrigated Viticulture & Dry-Climate Water Security",
+    slug: 'water-storage-and-tank-services-in-mildura-irrigated-viticulture-and-dry-climate-water-security',
+    excerpt:
+      "Mildura is on the Murray River, in Sunraysia, a Murray River irrigation centre in one of Victoria's driest climate zones. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Mildura sits on the Murray River, in Sunraysia of Victoria. The town's economy is built substantially around irrigated viticulture and citrus, and it is a Murray River irrigation centre in one of Victoria's driest climate zones - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Mildura, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Mildura's water context is distinctive</span></div>
+
+<h3>Variable rainfall and irrigation-dependent agriculture</h3>
+<p>Mildura is on the Murray River, and that geography carries real consequences for water storage: a Murray River irrigation centre in one of Victoria's driest climate zones. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from irrigated viticulture</h3>
+<p>Irrigated Viticulture And Citrus is a defining part of Mildura's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/sector-inspection.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in Sunraysia account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in Sunraysia</span></div>
+
+<p>For a property in or around Mildura, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a Murray River irrigation centre in one of Victoria's driest climate zones. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/fire-tank-inspection.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for Sunraysia is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Mildura's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">12 mths</span>
+  <span class="stat-label">Standard Defects Liability Period reflected in most Australian water infrastructure procurement contracts</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Mildura property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Tank sizing against realistic dry-period duration</td><td>Irrigation-dependent local demand makes storage margin a genuine planning factor</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Mildura different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Mildura is a Murray River irrigation centre in one of Victoria's driest climate zones, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does irrigated viticulture affect water storage requirements for other properties in Mildura?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around irrigated viticulture and citrus shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in Sunraysia be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Mildura's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Mildura? PC Water Infrastructure delivers tank design, installation and maintenance suited to Sunraysia's real conditions.</p>
+  <a href="/services/custom-tank-design" class="cta-btn">Discuss Your Water Storage Requirements</a>
+</div>`,
+    coverImageUrl: `${BASE}/sector-inspection.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Mildura | PC Water",
+    seoDescription:
+      "Mildura (Sunraysia) tank storage: irrigated viticulture demand and dry-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-13T15:00:00.000Z',
+    createdAt: '2026-10-13T15:00:00.000Z',
+    updatedAt: '2026-10-13T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-mildura', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-mildura', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Warrnambool: Dairy Proces'),
+    title: "Water Storage and Tank Services in Warrnambool: Dairy Processing & Coastal Water Security",
+    slug: 'water-storage-and-tank-services-in-warrnambool-dairy-processing-and-coastal-water-security',
+    excerpt:
+      "Warrnambool is on the Hopkins River and the Southern Ocean, in the South West Coast, a major dairy processing city on Victoria's south-west coast. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Warrnambool sits on the Hopkins River and the Southern Ocean, in the South West Coast of Victoria. The town's economy is built substantially around dairy processing (Fonterra) and agriculture, and it is a major dairy processing city on Victoria's south-west coast - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Warrnambool, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Warrnambool's water context is distinctive</span></div>
+
+<h3>Reliable rainfall alongside real seasonal industry demand</h3>
+<p>Warrnambool is on the Hopkins River and the Southern Ocean, and that geography carries real consequences for water storage: a major dairy processing city on Victoria's south-west coast. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from dairy processing</h3>
+<p>Dairy Processing (Fonterra) And Agriculture is a defining part of Warrnambool's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/harsh-env-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the South West Coast account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the South West Coast</span></div>
+
+<p>For a property in or around Warrnambool, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a major dairy processing city on Victoria's south-west coast. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/ticking-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the South West Coast is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Warrnambool's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">20-45°C</span>
+  <span class="stat-label">The water temperature range in which Legionella bacteria multiply most readily in stored water — the reason temperature control matters as much as disinfectant residual</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Warrnambool property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Salt-air corrosion allowance on external steelwork</td><td>Coastal exposure accelerates external corrosion beyond a standard inland specification</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Warrnambool different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Warrnambool is a major dairy processing city on Victoria's south-west coast, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does dairy processing affect water storage requirements for other properties in Warrnambool?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around dairy processing (Fonterra) and agriculture shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the South West Coast be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Warrnambool's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Warrnambool? PC Water Infrastructure delivers tank design, installation and maintenance suited to the South West Coast's real conditions.</p>
+  <a href="/services/tank-maintenance-upgrades" class="cta-btn">Discuss Industrial Tank Maintenance</a>
+</div>`,
+    coverImageUrl: `${BASE}/harsh-env-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Warrnambool | PC Water",
+    seoDescription:
+      "Warrnambool (the South West Coast) tank storage: dairy processing demand and coastal conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-14T09:00:00.000Z',
+    createdAt: '2026-10-14T09:00:00.000Z',
+    updatedAt: '2026-10-14T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-warrnambool', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-warrnambool', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Horsham: Grain Growing & '),
+    title: "Water Storage and Tank Services in Horsham: Grain Growing & Dry-Climate Water Security",
+    slug: 'water-storage-and-tank-services-in-horsham-grain-growing-and-dry-climate-water-security',
+    excerpt:
+      "Horsham is on the Wimmera River, in the Wimmera, the service centre for one of Victoria's most significant grain-growing regions. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Horsham sits on the Wimmera River, in the Wimmera of Victoria. The town's economy is built substantially around grain growing and agribusiness, and it is the service centre for one of Victoria's most significant grain-growing regions - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Horsham, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Horsham's water context is distinctive</span></div>
+
+<h3>A semi-arid agricultural district</h3>
+<p>Horsham is on the Wimmera River, and that geography carries real consequences for water storage: the service centre for one of Victoria's most significant grain-growing regions. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from grain growing</h3>
+<p>Grain Growing And Agribusiness is a defining part of Horsham's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/harsh-env-drone.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Wimmera account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Wimmera</span></div>
+
+<p>For a property in or around Horsham, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given the service centre for one of Victoria's most significant grain-growing regions. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/ticking-inspection.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Wimmera is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Horsham's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">AS4020</span>
+  <span class="stat-label">The Australian Standard certifying that a product or material is safe for use in contact with drinking water</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Horsham property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Tank sizing against realistic dry-period duration</td><td>Irrigation-dependent local demand makes storage margin a genuine planning factor</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Horsham different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Horsham is the service centre for one of Victoria's most significant grain-growing regions, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does grain growing affect water storage requirements for other properties in Horsham?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around grain growing and agribusiness shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Wimmera be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Horsham's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Horsham? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Wimmera's real conditions.</p>
+  <a href="/services/custom-tank-design" class="cta-btn">Discuss Your Water Storage Requirements</a>
+</div>`,
+    coverImageUrl: `${BASE}/harsh-env-drone.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Horsham | PC Water",
+    seoDescription:
+      "Horsham (the Wimmera) tank storage: grain growing demand and dry-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-14T15:00:00.000Z',
+    createdAt: '2026-10-14T15:00:00.000Z',
+    updatedAt: '2026-10-14T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-horsham', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-horsham', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Wodonga: Logistics & Cool'),
+    title: "Water Storage and Tank Services in Wodonga: Logistics & Cool-Climate Water Security",
+    slug: 'water-storage-and-tank-services-in-wodonga-logistics-and-cool-climate-water-security',
+    excerpt:
+      "Wodonga is on the Murray River, in the Murray River border region, Albury's twin city, sharing a river and a freight corridor across the Victoria–NSW border. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Wodonga sits on the Murray River, in the Murray River border region of Victoria. The town's economy is built substantially around logistics, food processing and defence, and it is Albury's twin city, sharing a river and a freight corridor across the Victoria–NSW border - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Wodonga, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Wodonga's water context is distinctive</span></div>
+
+<h3>Genuine winter cold and frost risk</h3>
+<p>Wodonga is on the Murray River, and that geography carries real consequences for water storage: Albury's twin city, sharing a river and a freight corridor across the Victoria–NSW border. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from logistics</h3>
+<p>Logistics, Food Processing And Defence is a defining part of Wodonga's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/corrosion-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Murray River border region account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Murray River border region</span></div>
+
+<p>For a property in or around Wodonga, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given Albury's twin city, sharing a river and a freight corridor across the Victoria–NSW border. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/sediment-tank-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Murray River border region is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Wodonga's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">AS1170</span>
+  <span class="stat-label">The Australian Standard series governing structural design actions, including the wind and seismic loads every water tank has to be engineered against</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Wodonga property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Frost protection on exposed pipework and fittings</td><td>Genuine sub-zero nights create freeze risk this region's design has to account for</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Wodonga different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Wodonga is Albury's twin city, sharing a river and a freight corridor across the Victoria–NSW border, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does logistics affect water storage requirements for other properties in Wodonga?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around logistics, food processing and defence shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Murray River border region be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Wodonga's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Wodonga? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Murray River border region's real conditions.</p>
+  <a href="/services/tank-maintenance-upgrades" class="cta-btn">Discuss Industrial Tank Maintenance</a>
+</div>`,
+    coverImageUrl: `${BASE}/corrosion-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Wodonga | PC Water",
+    seoDescription:
+      "Wodonga (the Murray River border region) tank storage: logistics demand and cool-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-15T09:00:00.000Z',
+    createdAt: '2026-10-15T09:00:00.000Z',
+    updatedAt: '2026-10-15T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-wodonga', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-wodonga', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Traralgon: Energy Generat'),
+    title: "Water Storage and Tank Services in Traralgon: Energy Generation & Cool-Climate Water Security",
+    slug: 'water-storage-and-tank-services-in-traralgon-energy-generation-and-cool-climate-water-security',
+    excerpt:
+      "Traralgon is on the Traralgon Creek catchment, in the Latrobe Valley, a Latrobe Valley energy-sector town undergoing significant industrial transition. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Traralgon sits on the Traralgon Creek catchment, in the Latrobe Valley of Victoria. The town's economy is built substantially around energy generation and manufacturing, and it is a Latrobe Valley energy-sector town undergoing significant industrial transition - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Traralgon, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Traralgon's water context is distinctive</span></div>
+
+<h3>An elevated, frost-prone regional city</h3>
+<p>Traralgon is on the Traralgon Creek catchment, and that geography carries real consequences for water storage: a Latrobe Valley energy-sector town undergoing significant industrial transition. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from energy generation</h3>
+<p>Energy Generation And Manufacturing is a defining part of Traralgon's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/corrosion-rov-inspection.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Latrobe Valley account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Latrobe Valley</span></div>
+
+<p>For a property in or around Traralgon, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a Latrobe Valley energy-sector town undergoing significant industrial transition. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/water-food-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Latrobe Valley is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Traralgon's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">AS2419</span>
+  <span class="stat-label">The Australian Standard governing fire hydrant installations, including the static water supply a fire tank has to reliably deliver</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Traralgon property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Frost protection on exposed pipework and fittings</td><td>Genuine sub-zero nights create freeze risk this region's design has to account for</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Traralgon different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Traralgon is a Latrobe Valley energy-sector town undergoing significant industrial transition, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does energy generation affect water storage requirements for other properties in Traralgon?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around energy generation and manufacturing shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Latrobe Valley be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Traralgon's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Traralgon? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Latrobe Valley's real conditions.</p>
+  <a href="/services/custom-tank-design" class="cta-btn">Discuss Your Water Storage Requirements</a>
+</div>`,
+    coverImageUrl: `${BASE}/corrosion-rov-inspection.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Traralgon | PC Water",
+    seoDescription:
+      "Traralgon (the Latrobe Valley) tank storage: energy generation demand and cool-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-15T15:00:00.000Z',
+    createdAt: '2026-10-15T15:00:00.000Z',
+    updatedAt: '2026-10-15T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-traralgon', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-traralgon', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Sale: Oil & Coastal Water'),
+    title: "Water Storage and Tank Services in Sale: Oil & Coastal Water Security",
+    slug: 'water-storage-and-tank-services-in-sale-oil-and-coastal-water-security',
+    excerpt:
+      "Sale is on the Thomson River, near the Gippsland Lakes, in Gippsland, the onshore service base for Gippsland's offshore oil and gas industry. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Sale sits on the Thomson River, near the Gippsland Lakes, in Gippsland of Victoria. The town's economy is built substantially around oil and gas services, dairy, and it is the onshore service base for Gippsland's offshore oil and gas industry - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Sale, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Sale's water context is distinctive</span></div>
+
+<h3>A cool, wet coastal climate</h3>
+<p>Sale is on the Thomson River, near the Gippsland Lakes, and that geography carries real consequences for water storage: the onshore service base for Gippsland's offshore oil and gas industry. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from oil</h3>
+<p>Oil And Gas Services, Dairy is a defining part of Sale's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/cleaning-inspection-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in Gippsland account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in Gippsland</span></div>
+
+<p>For a property in or around Sale, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given the onshore service base for Gippsland's offshore oil and gas industry. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/water-food-hatch.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for Gippsland is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Sale's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">19.5-23.5%</span>
+  <span class="stat-label">The safe oxygen concentration range for confined space entry into a water tank — outside this band, entry requires additional controls before anyone goes in</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Sale property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Salt-air corrosion allowance on external steelwork</td><td>Coastal exposure accelerates external corrosion beyond a standard inland specification</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Sale different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Sale is the onshore service base for Gippsland's offshore oil and gas industry, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does oil affect water storage requirements for other properties in Sale?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around oil and gas services, dairy shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in Gippsland be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Sale's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Sale? PC Water Infrastructure delivers tank design, installation and maintenance suited to Gippsland's real conditions.</p>
+  <a href="/services/tank-maintenance-upgrades" class="cta-btn">Discuss Industrial Tank Maintenance</a>
+</div>`,
+    coverImageUrl: `${BASE}/cleaning-inspection-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Sale | PC Water",
+    seoDescription:
+      "Sale (Gippsland) tank storage: oil demand and coastal conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-16T09:00:00.000Z',
+    createdAt: '2026-10-16T09:00:00.000Z',
+    updatedAt: '2026-10-16T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-sale', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-sale', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Bairnsdale: Dairy & Coast'),
+    title: "Water Storage and Tank Services in Bairnsdale: Dairy & Coastal Water Security",
+    slug: 'water-storage-and-tank-services-in-bairnsdale-dairy-and-coastal-water-security',
+    excerpt:
+      "Bairnsdale is on the Mitchell River, in East Gippsland, the main service centre for East Gippsland, an area with documented bushfire and flood history. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Bairnsdale sits on the Mitchell River, in East Gippsland of Victoria. The town's economy is built substantially around dairy, timber and tourism, and it is the main service centre for East Gippsland, an area with documented bushfire and flood history - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Bairnsdale, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Bairnsdale's water context is distinctive</span></div>
+
+<h3>A temperate coastal economy</h3>
+<p>Bairnsdale is on the Mitchell River, and that geography carries real consequences for water storage: the main service centre for East Gippsland, an area with documented bushfire and flood history. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from dairy</h3>
+<p>Dairy, Timber And Tourism is a defining part of Bairnsdale's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/fire-tank-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in East Gippsland account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in East Gippsland</span></div>
+
+<p>For a property in or around Bairnsdale, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given the main service centre for East Gippsland, an area with documented bushfire and flood history. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/rpvc-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for East Gippsland is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Bairnsdale's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">150mm+</span>
+  <span class="stat-label">A typical minimum freeboard allowance built into tank design so storm inflow and wave action do not push water over the roofline</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Bairnsdale property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Salt-air corrosion allowance on external steelwork</td><td>Coastal exposure accelerates external corrosion beyond a standard inland specification</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Bairnsdale different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Bairnsdale is the main service centre for East Gippsland, an area with documented bushfire and flood history, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does dairy affect water storage requirements for other properties in Bairnsdale?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around dairy, timber and tourism shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in East Gippsland be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Bairnsdale's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Bairnsdale? PC Water Infrastructure delivers tank design, installation and maintenance suited to East Gippsland's real conditions.</p>
+  <a href="/services/custom-tank-design" class="cta-btn">Discuss Your Water Storage Requirements</a>
+</div>`,
+    coverImageUrl: `${BASE}/fire-tank-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Bairnsdale | PC Water",
+    seoDescription:
+      "Bairnsdale (East Gippsland) tank storage: dairy demand and coastal conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-16T15:00:00.000Z',
+    createdAt: '2026-10-16T15:00:00.000Z',
+    updatedAt: '2026-10-16T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-bairnsdale', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-bairnsdale', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Wangaratta: Agriculture &'),
+    title: "Water Storage and Tank Services in Wangaratta: Agriculture & Cool-Climate Water Security",
+    slug: 'water-storage-and-tank-services-in-wangaratta-agriculture-and-cool-climate-water-security',
+    excerpt:
+      "Wangaratta is at the junction of the Ovens and King Rivers, in North East Victoria, a North East Victorian centre at the confluence of two significant rivers. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Wangaratta sits at the junction of the Ovens and King Rivers, in North East Victoria of Victoria. The town's economy is built substantially around agriculture, wool and food processing, and it is a North East Victorian centre at the confluence of two significant rivers - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Wangaratta, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Wangaratta's water context is distinctive</span></div>
+
+<h3>An elevated, frost-prone regional city</h3>
+<p>Wangaratta is at the junction of the Ovens and King Rivers, and that geography carries real consequences for water storage: a North East Victorian centre at the confluence of two significant rivers. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from agriculture</h3>
+<p>Agriculture, Wool And Food Processing is a defining part of Wangaratta's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/fire-tank-inspection.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in North East Victoria account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in North East Victoria</span></div>
+
+<p>For a property in or around Wangaratta, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a North East Victorian centre at the confluence of two significant rivers. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/rpvc-inline.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for North East Victoria is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Wangaratta's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">9.81 kPa</span>
+  <span class="stat-label">Hydrostatic pressure added at the base of a water tank for every metre of head — the constant every tank foundation and shell design has to be checked against</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Wangaratta property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Frost protection on exposed pipework and fittings</td><td>Genuine sub-zero nights create freeze risk this region's design has to account for</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Wangaratta different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Wangaratta is a North East Victorian centre at the confluence of two significant rivers, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does agriculture affect water storage requirements for other properties in Wangaratta?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around agriculture, wool and food processing shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in North East Victoria be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Wangaratta's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Wangaratta? PC Water Infrastructure delivers tank design, installation and maintenance suited to North East Victoria's real conditions.</p>
+  <a href="/services/tank-maintenance-upgrades" class="cta-btn">Discuss Industrial Tank Maintenance</a>
+</div>`,
+    coverImageUrl: `${BASE}/fire-tank-inspection.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Wangaratta | PC Water",
+    seoDescription:
+      "Wangaratta (North East Victoria) tank storage: agriculture demand and cool-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-17T09:00:00.000Z',
+    createdAt: '2026-10-17T09:00:00.000Z',
+    updatedAt: '2026-10-17T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-wangaratta', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-wangaratta', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Echuca: Tourism & Cool-Cl'),
+    title: "Water Storage and Tank Services in Echuca: Tourism & Cool-Climate Water Security",
+    slug: 'water-storage-and-tank-services-in-echuca-tourism-and-cool-climate-water-security',
+    excerpt:
+      "Echuca is on the Murray River, in the Murray River region, a historic river port town and one of Victoria's best-known Murray River tourism centres. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Echuca sits on the Murray River, in the Murray River region of Victoria. The town's economy is built substantially around tourism and agriculture, and it is a historic river port town and one of Victoria's best-known Murray River tourism centres - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Echuca, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Echuca's water context is distinctive</span></div>
+
+<h3>A cool-climate inland centre</h3>
+<p>Echuca is on the Murray River, and that geography carries real consequences for water storage: a historic river port town and one of Victoria's best-known Murray River tourism centres. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from tourism</h3>
+<p>Tourism And Agriculture is a defining part of Echuca's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/ticking-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Murray River region account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Murray River region</span></div>
+
+<p>For a property in or around Echuca, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a historic river port town and one of Victoria's best-known Murray River tourism centres. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/sector-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Murray River region is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Echuca's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">12 mths</span>
+  <span class="stat-label">Standard Defects Liability Period reflected in most Australian water infrastructure procurement contracts</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Echuca property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Frost protection on exposed pipework and fittings</td><td>Genuine sub-zero nights create freeze risk this region's design has to account for</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Echuca different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Echuca is a historic river port town and one of Victoria's best-known Murray River tourism centres, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does tourism affect water storage requirements for other properties in Echuca?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around tourism and agriculture shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Murray River region be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Echuca's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Echuca? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Murray River region's real conditions.</p>
+  <a href="/services/custom-tank-design" class="cta-btn">Discuss Your Water Storage Requirements</a>
+</div>`,
+    coverImageUrl: `${BASE}/ticking-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Echuca | PC Water",
+    seoDescription:
+      "Echuca (the Murray River region) tank storage: tourism demand and cool-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-17T15:00:00.000Z',
+    createdAt: '2026-10-17T15:00:00.000Z',
+    updatedAt: '2026-10-17T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-echuca', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-echuca', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Colac: Dairy Processing &'),
+    title: "Water Storage and Tank Services in Colac: Dairy Processing & Cool-Climate Water Security",
+    slug: 'water-storage-and-tank-services-in-colac-dairy-processing-and-cool-climate-water-security',
+    excerpt:
+      "Colac is near Lake Colac, in the Western District, a Western District dairy town built around one of Victoria's largest natural lakes. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Colac sits near Lake Colac, in the Western District of Victoria. The town's economy is built substantially around dairy processing, and it is a Western District dairy town built around one of Victoria's largest natural lakes - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Colac, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Colac's water context is distinctive</span></div>
+
+<h3>Genuine winter cold and frost risk</h3>
+<p>Colac is near Lake Colac, and that geography carries real consequences for water storage: a Western District dairy town built around one of Victoria's largest natural lakes. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from dairy processing</h3>
+<p>Dairy Processing is a defining part of Colac's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/ticking-inspection.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Western District account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Western District</span></div>
+
+<p>For a property in or around Colac, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a Western District dairy town built around one of Victoria's largest natural lakes. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/sector-inspection.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Western District is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Colac's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">20-45°C</span>
+  <span class="stat-label">The water temperature range in which Legionella bacteria multiply most readily in stored water — the reason temperature control matters as much as disinfectant residual</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Colac property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Frost protection on exposed pipework and fittings</td><td>Genuine sub-zero nights create freeze risk this region's design has to account for</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Colac different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Colac is a Western District dairy town built around one of Victoria's largest natural lakes, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does dairy processing affect water storage requirements for other properties in Colac?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around dairy processing shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Western District be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Colac's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Colac? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Western District's real conditions.</p>
+  <a href="/services/tank-maintenance-upgrades" class="cta-btn">Discuss Industrial Tank Maintenance</a>
+</div>`,
+    coverImageUrl: `${BASE}/ticking-inspection.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Colac | PC Water",
+    seoDescription:
+      "Colac (the Western District) tank storage: dairy processing demand and cool-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-18T09:00:00.000Z',
+    createdAt: '2026-10-18T09:00:00.000Z',
+    updatedAt: '2026-10-18T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-colac', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-colac', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Portland: Aluminium Smelt'),
+    title: "Water Storage and Tank Services in Portland: Aluminium Smelting & Coastal Water Security",
+    slug: 'water-storage-and-tank-services-in-portland-aluminium-smelting-and-coastal-water-security',
+    excerpt:
+      "Portland is on Portland Bay, in the south-west coast, Victoria's oldest European settlement, now home to a major aluminium smelter and deepwater port. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Portland sits on Portland Bay, in the south-west coast of Victoria. The town's economy is built substantially around aluminium smelting and port operations, and it is Victoria's oldest European settlement, now home to a major aluminium smelter and deepwater port - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Portland, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Portland's water context is distinctive</span></div>
+
+<h3>Reliable rainfall alongside real seasonal industry demand</h3>
+<p>Portland is on Portland Bay, and that geography carries real consequences for water storage: Victoria's oldest European settlement, now home to a major aluminium smelter and deepwater port. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from aluminium smelting</h3>
+<p>Aluminium Smelting And Port Operations is a defining part of Portland's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/sediment-tank-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the south-west coast account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the south-west coast</span></div>
+
+<p>For a property in or around Portland, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given Victoria's oldest European settlement, now home to a major aluminium smelter and deepwater port. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/harsh-env-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the south-west coast is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Portland's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">AS4020</span>
+  <span class="stat-label">The Australian Standard certifying that a product or material is safe for use in contact with drinking water</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Portland property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Salt-air corrosion allowance on external steelwork</td><td>Coastal exposure accelerates external corrosion beyond a standard inland specification</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Portland different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Portland is Victoria's oldest European settlement, now home to a major aluminium smelter and deepwater port, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does aluminium smelting affect water storage requirements for other properties in Portland?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around aluminium smelting and port operations shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the south-west coast be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Portland's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Portland? PC Water Infrastructure delivers tank design, installation and maintenance suited to the south-west coast's real conditions.</p>
+  <a href="/services/tank-maintenance-upgrades" class="cta-btn">Discuss Industrial Tank Maintenance</a>
+</div>`,
+    coverImageUrl: `${BASE}/sediment-tank-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Portland | PC Water",
+    seoDescription:
+      "Portland (the south-west coast) tank storage: aluminium smelting demand and coastal conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-18T15:00:00.000Z',
+    createdAt: '2026-10-18T15:00:00.000Z',
+    updatedAt: '2026-10-18T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-portland', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-portland', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Ararat: Viticulture & Coo'),
+    title: "Water Storage and Tank Services in Ararat: Viticulture & Cool-Climate Water Security",
+    slug: 'water-storage-and-tank-services-in-ararat-viticulture-and-cool-climate-water-security',
+    excerpt:
+      "Ararat is near Lake Bellfield, in the Grampians region, a Grampians-region town with cool-climate viticulture as a growing industry. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Ararat sits near Lake Bellfield, in the Grampians region of Victoria. The town's economy is built substantially around viticulture and agriculture, and it is a Grampians-region town with cool-climate viticulture as a growing industry - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Ararat, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Ararat's water context is distinctive</span></div>
+
+<h3>A cool-climate inland centre</h3>
+<p>Ararat is near Lake Bellfield, and that geography carries real consequences for water storage: a Grampians-region town with cool-climate viticulture as a growing industry. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from viticulture</h3>
+<p>Viticulture And Agriculture is a defining part of Ararat's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/water-food-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Grampians region account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Grampians region</span></div>
+
+<p>For a property in or around Ararat, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a Grampians-region town with cool-climate viticulture as a growing industry. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/harsh-env-drone.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Grampians region is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Ararat's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">AS1170</span>
+  <span class="stat-label">The Australian Standard series governing structural design actions, including the wind and seismic loads every water tank has to be engineered against</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Ararat property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Frost protection on exposed pipework and fittings</td><td>Genuine sub-zero nights create freeze risk this region's design has to account for</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Ararat different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Ararat is a Grampians-region town with cool-climate viticulture as a growing industry, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does viticulture affect water storage requirements for other properties in Ararat?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around viticulture and agriculture shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Grampians region be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Ararat's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Ararat? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Grampians region's real conditions.</p>
+  <a href="/services/custom-tank-design" class="cta-btn">Discuss Your Water Storage Requirements</a>
+</div>`,
+    coverImageUrl: `${BASE}/water-food-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Ararat | PC Water",
+    seoDescription:
+      "Ararat (the Grampians region) tank storage: viticulture demand and cool-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-19T09:00:00.000Z',
+    createdAt: '2026-10-19T09:00:00.000Z',
+    updatedAt: '2026-10-19T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-ararat', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-ararat', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Swan Hill: Irrigated Hort'),
+    title: "Water Storage and Tank Services in Swan Hill: Irrigated Horticulture & Dry-Climate Water Security",
+    slug: 'water-storage-and-tank-services-in-swan-hill-irrigated-horticulture-and-dry-climate-water-security',
+    excerpt:
+      "Swan Hill is on the Murray River, in the Murray River region, a Murray River irrigation centre on the Victoria–NSW border. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Swan Hill sits on the Murray River, in the Murray River region of Victoria. The town's economy is built substantially around irrigated horticulture, and it is a Murray River irrigation centre on the Victoria–NSW border - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Swan Hill, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Swan Hill's water context is distinctive</span></div>
+
+<h3>Variable rainfall and irrigation-dependent agriculture</h3>
+<p>Swan Hill is on the Murray River, and that geography carries real consequences for water storage: a Murray River irrigation centre on the Victoria–NSW border. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from irrigated horticulture</h3>
+<p>Irrigated Horticulture is a defining part of Swan Hill's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/water-food-hatch.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Murray River region account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Murray River region</span></div>
+
+<p>For a property in or around Swan Hill, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a Murray River irrigation centre on the Victoria–NSW border. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/corrosion-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Murray River region is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Swan Hill's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">AS2419</span>
+  <span class="stat-label">The Australian Standard governing fire hydrant installations, including the static water supply a fire tank has to reliably deliver</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Swan Hill property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Tank sizing against realistic dry-period duration</td><td>Irrigation-dependent local demand makes storage margin a genuine planning factor</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Swan Hill different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Swan Hill is a Murray River irrigation centre on the Victoria–NSW border, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does irrigated horticulture affect water storage requirements for other properties in Swan Hill?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around irrigated horticulture shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Murray River region be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Swan Hill's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Swan Hill? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Murray River region's real conditions.</p>
+  <a href="/services/custom-tank-design" class="cta-btn">Discuss Your Water Storage Requirements</a>
+</div>`,
+    coverImageUrl: `${BASE}/water-food-hatch.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Swan Hill | PC Water",
+    seoDescription:
+      "Swan Hill (the Murray River region) tank storage: irrigated horticulture demand and dry-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-19T15:00:00.000Z',
+    createdAt: '2026-10-19T15:00:00.000Z',
+    updatedAt: '2026-10-19T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-swan-hill', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-swan-hill', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Benalla: Agriculture & Co'),
+    title: "Water Storage and Tank Services in Benalla: Agriculture & Cool-Climate Water Security",
+    slug: 'water-storage-and-tank-services-in-benalla-agriculture-and-cool-climate-water-security',
+    excerpt:
+      "Benalla is on the Broken River, in North East Victoria, a North East Victorian service town with a well-known flood history on the Broken River. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Benalla sits on the Broken River, in North East Victoria of Victoria. The town's economy is built substantially around agriculture and light manufacturing, and it is a North East Victorian service town with a well-known flood history on the Broken River - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Benalla, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Benalla's water context is distinctive</span></div>
+
+<h3>An elevated, frost-prone regional city</h3>
+<p>Benalla is on the Broken River, and that geography carries real consequences for water storage: a North East Victorian service town with a well-known flood history on the Broken River. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from agriculture</h3>
+<p>Agriculture And Light Manufacturing is a defining part of Benalla's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/rpvc-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in North East Victoria account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in North East Victoria</span></div>
+
+<p>For a property in or around Benalla, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a North East Victorian service town with a well-known flood history on the Broken River. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/corrosion-rov-inspection.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for North East Victoria is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Benalla's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">19.5-23.5%</span>
+  <span class="stat-label">The safe oxygen concentration range for confined space entry into a water tank — outside this band, entry requires additional controls before anyone goes in</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Benalla property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Frost protection on exposed pipework and fittings</td><td>Genuine sub-zero nights create freeze risk this region's design has to account for</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Benalla different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Benalla is a North East Victorian service town with a well-known flood history on the Broken River, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does agriculture affect water storage requirements for other properties in Benalla?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around agriculture and light manufacturing shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in North East Victoria be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Benalla's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Benalla? PC Water Infrastructure delivers tank design, installation and maintenance suited to North East Victoria's real conditions.</p>
+  <a href="/services/custom-tank-design" class="cta-btn">Discuss Your Water Storage Requirements</a>
+</div>`,
+    coverImageUrl: `${BASE}/rpvc-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Benalla | PC Water",
+    seoDescription:
+      "Benalla (North East Victoria) tank storage: agriculture demand and cool-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-20T09:00:00.000Z',
+    createdAt: '2026-10-20T09:00:00.000Z',
+    updatedAt: '2026-10-20T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-benalla', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-benalla', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Maryborough: Historic Gol'),
+    title: "Water Storage and Tank Services in Maryborough: Historic Goldfields Heritage & Cool-Climate Water Security",
+    slug: 'water-storage-and-tank-services-in-maryborough-historic-goldfields-heritage-and-cool-climate-water-security',
+    excerpt:
+      "Maryborough is near Bristol Hill Reservoir, in Central Victoria, a former goldfields town in Victoria's dry central region, distinct from its Queensland namesake. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Maryborough sits near Bristol Hill Reservoir, in Central Victoria of Victoria. The town's economy is built substantially around historic goldfields heritage and light manufacturing, and it is a former goldfields town in Victoria's dry central region, distinct from its Queensland namesake - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Maryborough, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Maryborough's water context is distinctive</span></div>
+
+<h3>A cool-climate inland centre</h3>
+<p>Maryborough is near Bristol Hill Reservoir, and that geography carries real consequences for water storage: a former goldfields town in Victoria's dry central region, distinct from its Queensland namesake. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from historic goldfields heritage</h3>
+<p>Historic Goldfields Heritage And Light Manufacturing is a defining part of Maryborough's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/rpvc-inline.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in Central Victoria account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in Central Victoria</span></div>
+
+<p>For a property in or around Maryborough, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a former goldfields town in Victoria's dry central region, distinct from its Queensland namesake. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/cleaning-inspection-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for Central Victoria is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Maryborough's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">150mm+</span>
+  <span class="stat-label">A typical minimum freeboard allowance built into tank design so storm inflow and wave action do not push water over the roofline</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Maryborough property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Frost protection on exposed pipework and fittings</td><td>Genuine sub-zero nights create freeze risk this region's design has to account for</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Maryborough different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Maryborough is a former goldfields town in Victoria's dry central region, distinct from its Queensland namesake, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does historic goldfields heritage affect water storage requirements for other properties in Maryborough?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around historic goldfields heritage and light manufacturing shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in Central Victoria be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Maryborough's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Maryborough? PC Water Infrastructure delivers tank design, installation and maintenance suited to Central Victoria's real conditions.</p>
+  <a href="/services/custom-tank-design" class="cta-btn">Discuss Your Water Storage Requirements</a>
+</div>`,
+    coverImageUrl: `${BASE}/rpvc-inline.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Maryborough | PC Water",
+    seoDescription:
+      "Maryborough (Central Victoria) tank storage: historic goldfields heritage demand and cool-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-20T15:00:00.000Z',
+    createdAt: '2026-10-20T15:00:00.000Z',
+    updatedAt: '2026-10-20T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-maryborough', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-maryborough', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Whyalla: Steelmaking & Ou'),
+    title: "Water Storage and Tank Services in Whyalla: Steelmaking & Outback Water Security",
+    slug: 'water-storage-and-tank-services-in-whyalla-steelmaking-and-outback-water-security',
+    excerpt:
+      "Whyalla is on the Spencer Gulf, in the Upper Spencer Gulf, a steel city in one of South Australia's driest and hottest regions, reliant on desalination and pipeline supply. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Whyalla sits on the Spencer Gulf, in the Upper Spencer Gulf of South Australia. The town's economy is built substantially around steelmaking, and it is a steel city in one of South Australia's driest and hottest regions, reliant on desalination and pipeline supply - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Whyalla, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Whyalla's water context is distinctive</span></div>
+
+<h3>One of the driest inhabited parts of the country</h3>
+<p>Whyalla is on the Spencer Gulf, and that geography carries real consequences for water storage: a steel city in one of South Australia's driest and hottest regions, reliant on desalination and pipeline supply. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from steelmaking</h3>
+<p>Steelmaking is a defining part of Whyalla's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/sector-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Upper Spencer Gulf account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Upper Spencer Gulf</span></div>
+
+<p>For a property in or around Whyalla, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a steel city in one of South Australia's driest and hottest regions, reliant on desalination and pipeline supply. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/fire-tank-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Upper Spencer Gulf is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Whyalla's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">9.81 kPa</span>
+  <span class="stat-label">Hydrostatic pressure added at the base of a water tank for every metre of head — the constant every tank foundation and shell design has to be checked against</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Whyalla property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Freight and access planning for remote delivery</td><td>Long distances from a supply base change what "urgent repair" can realistically mean</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Whyalla different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Whyalla is a steel city in one of South Australia's driest and hottest regions, reliant on desalination and pipeline supply, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does steelmaking affect water storage requirements for other properties in Whyalla?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around steelmaking shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Upper Spencer Gulf be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Whyalla's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Whyalla? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Upper Spencer Gulf's real conditions.</p>
+  <a href="/services/remote-area-delivery" class="cta-btn">Discuss Remote Water Storage Delivery</a>
+</div>`,
+    coverImageUrl: `${BASE}/sector-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Whyalla | PC Water",
+    seoDescription:
+      "Whyalla (the Upper Spencer Gulf) tank storage: steelmaking demand and outback conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-21T09:00:00.000Z',
+    createdAt: '2026-10-21T09:00:00.000Z',
+    updatedAt: '2026-10-21T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-whyalla', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-whyalla', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Port Lincoln: Tuna Farmin'),
+    title: "Water Storage and Tank Services in Port Lincoln: Tuna Farming & Dry-Climate Water Security",
+    slug: 'water-storage-and-tank-services-in-port-lincoln-tuna-farming-and-dry-climate-water-security',
+    excerpt:
+      "Port Lincoln is on the Southern Ocean, in the Eyre Peninsula, Australia's seafood capital, with a fishing and aquaculture economy dependent on reliable process water. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Port Lincoln sits on the Southern Ocean, in the Eyre Peninsula of South Australia. The town's economy is built substantially around tuna farming and seafood processing, and it is Australia's seafood capital, with a fishing and aquaculture economy dependent on reliable process water - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Port Lincoln, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Port Lincoln's water context is distinctive</span></div>
+
+<h3>A dry-climate agricultural service centre</h3>
+<p>Port Lincoln is on the Southern Ocean, and that geography carries real consequences for water storage: Australia's seafood capital, with a fishing and aquaculture economy dependent on reliable process water. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from tuna farming</h3>
+<p>Tuna Farming And Seafood Processing is a defining part of Port Lincoln's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/sector-inspection.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Eyre Peninsula account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Eyre Peninsula</span></div>
+
+<p>For a property in or around Port Lincoln, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given Australia's seafood capital, with a fishing and aquaculture economy dependent on reliable process water. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/fire-tank-inspection.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Eyre Peninsula is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Port Lincoln's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">12 mths</span>
+  <span class="stat-label">Standard Defects Liability Period reflected in most Australian water infrastructure procurement contracts</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Port Lincoln property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Tank sizing against realistic dry-period duration</td><td>Irrigation-dependent local demand makes storage margin a genuine planning factor</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Port Lincoln different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Port Lincoln is Australia's seafood capital, with a fishing and aquaculture economy dependent on reliable process water, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does tuna farming affect water storage requirements for other properties in Port Lincoln?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around tuna farming and seafood processing shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Eyre Peninsula be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Port Lincoln's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Port Lincoln? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Eyre Peninsula's real conditions.</p>
+  <a href="/services/tank-maintenance-upgrades" class="cta-btn">Discuss Industrial Tank Maintenance</a>
+</div>`,
+    coverImageUrl: `${BASE}/sector-inspection.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Port Lincoln | PC Water",
+    seoDescription:
+      "Port Lincoln (the Eyre Peninsula) tank storage: tuna farming demand and dry-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-21T15:00:00.000Z',
+    createdAt: '2026-10-21T15:00:00.000Z',
+    updatedAt: '2026-10-21T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-port-lincoln', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-port-lincoln', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Port Augusta: Energy Gene'),
+    title: "Water Storage and Tank Services in Port Augusta: Energy Generation & Outback Water Security",
+    slug: 'water-storage-and-tank-services-in-port-augusta-energy-generation-and-outback-water-security',
+    excerpt:
+      "Port Augusta is on the Spencer Gulf, in the Upper Spencer Gulf, a gateway city to the outback, in one of the hottest and driest parts of South Australia. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Port Augusta sits on the Spencer Gulf, in the Upper Spencer Gulf of South Australia. The town's economy is built substantially around energy generation and logistics, and it is a gateway city to the outback, in one of the hottest and driest parts of South Australia - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Port Augusta, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Port Augusta's water context is distinctive</span></div>
+
+<h3>A genuinely arid, remote setting</h3>
+<p>Port Augusta is on the Spencer Gulf, and that geography carries real consequences for water storage: a gateway city to the outback, in one of the hottest and driest parts of South Australia. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from energy generation</h3>
+<p>Energy Generation And Logistics is a defining part of Port Augusta's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/harsh-env-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Upper Spencer Gulf account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Upper Spencer Gulf</span></div>
+
+<p>For a property in or around Port Augusta, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a gateway city to the outback, in one of the hottest and driest parts of South Australia. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/ticking-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Upper Spencer Gulf is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Port Augusta's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">20-45°C</span>
+  <span class="stat-label">The water temperature range in which Legionella bacteria multiply most readily in stored water — the reason temperature control matters as much as disinfectant residual</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Port Augusta property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Freight and access planning for remote delivery</td><td>Long distances from a supply base change what "urgent repair" can realistically mean</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Port Augusta different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Port Augusta is a gateway city to the outback, in one of the hottest and driest parts of South Australia, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does energy generation affect water storage requirements for other properties in Port Augusta?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around energy generation and logistics shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Upper Spencer Gulf be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Port Augusta's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Port Augusta? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Upper Spencer Gulf's real conditions.</p>
+  <a href="/services/remote-area-delivery" class="cta-btn">Discuss Remote Water Storage Delivery</a>
+</div>`,
+    coverImageUrl: `${BASE}/harsh-env-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Port Augusta | PC Water",
+    seoDescription:
+      "Port Augusta (the Upper Spencer Gulf) tank storage: energy generation demand and outback conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-22T09:00:00.000Z',
+    createdAt: '2026-10-22T09:00:00.000Z',
+    updatedAt: '2026-10-22T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-port-augusta', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-port-augusta', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Mount Gambier: Forestry &'),
+    title: "Water Storage and Tank Services in Mount Gambier: Forestry & Coastal Water Security",
+    slug: 'water-storage-and-tank-services-in-mount-gambier-forestry-and-coastal-water-security',
+    excerpt:
+      "Mount Gambier is near the Blue Lake, in the Limestone Coast, a Limestone Coast city built on a karst landscape, with unusually reliable groundwater. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Mount Gambier sits near the Blue Lake, in the Limestone Coast of South Australia. The town's economy is built substantially around forestry and agriculture, and it is a Limestone Coast city built on a karst landscape, with unusually reliable groundwater - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Mount Gambier, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Mount Gambier's water context is distinctive</span></div>
+
+<h3>A temperate coastal economy</h3>
+<p>Mount Gambier is near the Blue Lake, and that geography carries real consequences for water storage: a Limestone Coast city built on a karst landscape, with unusually reliable groundwater. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from forestry</h3>
+<p>Forestry And Agriculture is a defining part of Mount Gambier's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/harsh-env-drone.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Limestone Coast account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Limestone Coast</span></div>
+
+<p>For a property in or around Mount Gambier, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a Limestone Coast city built on a karst landscape, with unusually reliable groundwater. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/ticking-inspection.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Limestone Coast is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Mount Gambier's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">AS4020</span>
+  <span class="stat-label">The Australian Standard certifying that a product or material is safe for use in contact with drinking water</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Mount Gambier property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Salt-air corrosion allowance on external steelwork</td><td>Coastal exposure accelerates external corrosion beyond a standard inland specification</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Mount Gambier different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Mount Gambier is a Limestone Coast city built on a karst landscape, with unusually reliable groundwater, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does forestry affect water storage requirements for other properties in Mount Gambier?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around forestry and agriculture shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Limestone Coast be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Mount Gambier's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Mount Gambier? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Limestone Coast's real conditions.</p>
+  <a href="/services/custom-tank-design" class="cta-btn">Discuss Your Water Storage Requirements</a>
+</div>`,
+    coverImageUrl: `${BASE}/harsh-env-drone.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Mount Gambier | PC Water",
+    seoDescription:
+      "Mount Gambier (the Limestone Coast) tank storage: forestry demand and coastal conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-22T15:00:00.000Z',
+    createdAt: '2026-10-22T15:00:00.000Z',
+    updatedAt: '2026-10-22T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-mount-gambier', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-mount-gambier', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Murray Bridge: Food Proce'),
+    title: "Water Storage and Tank Services in Murray Bridge: Food Processing & Dry-Climate Water Security",
+    slug: 'water-storage-and-tank-services-in-murray-bridge-food-processing-and-dry-climate-water-security',
+    excerpt:
+      "Murray Bridge is on the Murray River, in the Murray River region, a Murray River town serving as South Australia's primary river crossing point. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Murray Bridge sits on the Murray River, in the Murray River region of South Australia. The town's economy is built substantially around food processing and agriculture, and it is a Murray River town serving as South Australia's primary river crossing point - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Murray Bridge, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Murray Bridge's water context is distinctive</span></div>
+
+<h3>A dry-climate agricultural service centre</h3>
+<p>Murray Bridge is on the Murray River, and that geography carries real consequences for water storage: a Murray River town serving as South Australia's primary river crossing point. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from food processing</h3>
+<p>Food Processing And Agriculture is a defining part of Murray Bridge's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/corrosion-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Murray River region account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Murray River region</span></div>
+
+<p>For a property in or around Murray Bridge, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a Murray River town serving as South Australia's primary river crossing point. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/sediment-tank-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Murray River region is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Murray Bridge's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">AS1170</span>
+  <span class="stat-label">The Australian Standard series governing structural design actions, including the wind and seismic loads every water tank has to be engineered against</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Murray Bridge property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Tank sizing against realistic dry-period duration</td><td>Irrigation-dependent local demand makes storage margin a genuine planning factor</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Murray Bridge different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Murray Bridge is a Murray River town serving as South Australia's primary river crossing point, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does food processing affect water storage requirements for other properties in Murray Bridge?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around food processing and agriculture shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Murray River region be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Murray Bridge's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Murray Bridge? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Murray River region's real conditions.</p>
+  <a href="/services/tank-maintenance-upgrades" class="cta-btn">Discuss Industrial Tank Maintenance</a>
+</div>`,
+    coverImageUrl: `${BASE}/corrosion-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Murray Bridge | PC Water",
+    seoDescription:
+      "Murray Bridge (the Murray River region) tank storage: food processing demand and dry-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-23T09:00:00.000Z',
+    createdAt: '2026-10-23T09:00:00.000Z',
+    updatedAt: '2026-10-23T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-murray-bridge', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-murray-bridge', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Renmark: Irrigated Viticu'),
+    title: "Water Storage and Tank Services in Renmark: Irrigated Viticulture & Dry-Climate Water Security",
+    slug: 'water-storage-and-tank-services-in-renmark-irrigated-viticulture-and-dry-climate-water-security',
+    excerpt:
+      "Renmark is on the Murray River, in the Riverland, the founding town of South Australia's Riverland irrigation district. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Renmark sits on the Murray River, in the Riverland of South Australia. The town's economy is built substantially around irrigated viticulture and citrus, and it is the founding town of South Australia's Riverland irrigation district - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Renmark, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Renmark's water context is distinctive</span></div>
+
+<h3>A semi-arid agricultural district</h3>
+<p>Renmark is on the Murray River, and that geography carries real consequences for water storage: the founding town of South Australia's Riverland irrigation district. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from irrigated viticulture</h3>
+<p>Irrigated Viticulture And Citrus is a defining part of Renmark's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/corrosion-rov-inspection.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Riverland account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Riverland</span></div>
+
+<p>For a property in or around Renmark, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given the founding town of South Australia's Riverland irrigation district. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/water-food-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Riverland is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Renmark's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">AS2419</span>
+  <span class="stat-label">The Australian Standard governing fire hydrant installations, including the static water supply a fire tank has to reliably deliver</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Renmark property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Tank sizing against realistic dry-period duration</td><td>Irrigation-dependent local demand makes storage margin a genuine planning factor</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Renmark different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Renmark is the founding town of South Australia's Riverland irrigation district, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does irrigated viticulture affect water storage requirements for other properties in Renmark?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around irrigated viticulture and citrus shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Riverland be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Renmark's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Renmark? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Riverland's real conditions.</p>
+  <a href="/services/custom-tank-design" class="cta-btn">Discuss Your Water Storage Requirements</a>
+</div>`,
+    coverImageUrl: `${BASE}/corrosion-rov-inspection.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Renmark | PC Water",
+    seoDescription:
+      "Renmark (the Riverland) tank storage: irrigated viticulture demand and dry-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-23T15:00:00.000Z',
+    createdAt: '2026-10-23T15:00:00.000Z',
+    updatedAt: '2026-10-23T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-renmark', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-renmark', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Victor Harbor: Tourism & '),
+    title: "Water Storage and Tank Services in Victor Harbor: Tourism & Coastal Water Security",
+    slug: 'water-storage-and-tank-services-in-victor-harbor-tourism-and-coastal-water-security',
+    excerpt:
+      "Victor Harbor is on Encounter Bay, in the Fleurieu Peninsula, a coastal tourism centre with sharp seasonal demand swings. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Victor Harbor sits on Encounter Bay, in the Fleurieu Peninsula of South Australia. The town's economy is built substantially around tourism, and it is a coastal tourism centre with sharp seasonal demand swings - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Victor Harbor, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Victor Harbor's water context is distinctive</span></div>
+
+<h3>A temperate coastal economy</h3>
+<p>Victor Harbor is on Encounter Bay, and that geography carries real consequences for water storage: a coastal tourism centre with sharp seasonal demand swings. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from tourism</h3>
+<p>Tourism is a defining part of Victor Harbor's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/cleaning-inspection-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Fleurieu Peninsula account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Fleurieu Peninsula</span></div>
+
+<p>For a property in or around Victor Harbor, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a coastal tourism centre with sharp seasonal demand swings. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/water-food-hatch.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Fleurieu Peninsula is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Victor Harbor's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">19.5-23.5%</span>
+  <span class="stat-label">The safe oxygen concentration range for confined space entry into a water tank — outside this band, entry requires additional controls before anyone goes in</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Victor Harbor property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Salt-air corrosion allowance on external steelwork</td><td>Coastal exposure accelerates external corrosion beyond a standard inland specification</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Victor Harbor different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Victor Harbor is a coastal tourism centre with sharp seasonal demand swings, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does tourism affect water storage requirements for other properties in Victor Harbor?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around tourism shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Fleurieu Peninsula be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Victor Harbor's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Victor Harbor? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Fleurieu Peninsula's real conditions.</p>
+  <a href="/services/custom-tank-design" class="cta-btn">Discuss Your Water Storage Requirements</a>
+</div>`,
+    coverImageUrl: `${BASE}/cleaning-inspection-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Victor Harbor | PC Water",
+    seoDescription:
+      "Victor Harbor (the Fleurieu Peninsula) tank storage: tourism demand and coastal conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-24T09:00:00.000Z',
+    createdAt: '2026-10-24T09:00:00.000Z',
+    updatedAt: '2026-10-24T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-victor-harbor', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-victor-harbor', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Berri: Citrus & Dry-Clima'),
+    title: "Water Storage and Tank Services in Berri: Citrus & Dry-Climate Water Security",
+    slug: 'water-storage-and-tank-services-in-berri-citrus-and-dry-climate-water-security',
+    excerpt:
+      "Berri is on the Murray River, in the Riverland, a Riverland processing centre for the surrounding irrigation district. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Berri sits on the Murray River, in the Riverland of South Australia. The town's economy is built substantially around citrus and wine processing, and it is a Riverland processing centre for the surrounding irrigation district - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Berri, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Berri's water context is distinctive</span></div>
+
+<h3>A dry-climate agricultural service centre</h3>
+<p>Berri is on the Murray River, and that geography carries real consequences for water storage: a Riverland processing centre for the surrounding irrigation district. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from citrus</h3>
+<p>Citrus And Wine Processing is a defining part of Berri's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/fire-tank-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Riverland account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Riverland</span></div>
+
+<p>For a property in or around Berri, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a Riverland processing centre for the surrounding irrigation district. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/rpvc-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Riverland is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Berri's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">150mm+</span>
+  <span class="stat-label">A typical minimum freeboard allowance built into tank design so storm inflow and wave action do not push water over the roofline</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Berri property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Tank sizing against realistic dry-period duration</td><td>Irrigation-dependent local demand makes storage margin a genuine planning factor</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Berri different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Berri is a Riverland processing centre for the surrounding irrigation district, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does citrus affect water storage requirements for other properties in Berri?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around citrus and wine processing shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Riverland be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Berri's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Berri? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Riverland's real conditions.</p>
+  <a href="/services/tank-maintenance-upgrades" class="cta-btn">Discuss Industrial Tank Maintenance</a>
+</div>`,
+    coverImageUrl: `${BASE}/fire-tank-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Berri | PC Water",
+    seoDescription:
+      "Berri (the Riverland) tank storage: citrus demand and dry-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-24T15:00:00.000Z',
+    createdAt: '2026-10-24T15:00:00.000Z',
+    updatedAt: '2026-10-24T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-berri', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-berri', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Gawler: Residential Growt'),
+    title: "Water Storage and Tank Services in Gawler: Residential Growth & Mediterranean-Climate Water Security",
+    slug: 'water-storage-and-tank-services-in-gawler-residential-growth-and-mediterranean-climate-water-security',
+    excerpt:
+      "Gawler is on the Gawler River, in the northern Adelaide plains, one of South Australia's oldest country towns, now a fast-growing outer-Adelaide centre. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Gawler sits on the Gawler River, in the northern Adelaide plains of South Australia. The town's economy is built substantially around residential growth and light industry, and it is one of South Australia's oldest country towns, now a fast-growing outer-Adelaide centre - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Gawler, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Gawler's water context is distinctive</span></div>
+
+<h3>A dry-summer Mediterranean climate</h3>
+<p>Gawler is on the Gawler River, and that geography carries real consequences for water storage: one of South Australia's oldest country towns, now a fast-growing outer-Adelaide centre. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from residential growth</h3>
+<p>Residential Growth And Light Industry is a defining part of Gawler's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/fire-tank-inspection.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the northern Adelaide plains account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the northern Adelaide plains</span></div>
+
+<p>For a property in or around Gawler, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given one of South Australia's oldest country towns, now a fast-growing outer-Adelaide centre. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/rpvc-inline.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the northern Adelaide plains is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Gawler's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">9.81 kPa</span>
+  <span class="stat-label">Hydrostatic pressure added at the base of a water tank for every metre of head — the constant every tank foundation and shell design has to be checked against</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Gawler property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Storage margin through the extended dry season</td><td>A long rainless summer period puts real pressure on supplementary storage sizing</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Gawler different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Gawler is one of South Australia's oldest country towns, now a fast-growing outer-Adelaide centre, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does residential growth affect water storage requirements for other properties in Gawler?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around residential growth and light industry shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the northern Adelaide plains be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Gawler's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Gawler? PC Water Infrastructure delivers tank design, installation and maintenance suited to the northern Adelaide plains's real conditions.</p>
+  <a href="/services/custom-tank-design" class="cta-btn">Discuss Your Water Storage Requirements</a>
+</div>`,
+    coverImageUrl: `${BASE}/fire-tank-inspection.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Gawler | PC Water",
+    seoDescription:
+      "Gawler (the northern Adelaide plains) tank storage: residential growth demand and mediterranean-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-25T09:00:00.000Z',
+    createdAt: '2026-10-25T09:00:00.000Z',
+    updatedAt: '2026-10-25T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-gawler', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-gawler', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Ceduna: Grain Growing & O'),
+    title: "Water Storage and Tank Services in Ceduna: Grain Growing & Outback Water Security",
+    slug: 'water-storage-and-tank-services-in-ceduna-grain-growing-and-outback-water-security',
+    excerpt:
+      "Ceduna is on the Great Australian Bight, in the far west coast, a remote west coast town with genuinely limited fresh water sources. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Ceduna sits on the Great Australian Bight, in the far west coast of South Australia. The town's economy is built substantially around grain growing, fishing and oyster farming, and it is a remote west coast town with genuinely limited fresh water sources - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Ceduna, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Ceduna's water context is distinctive</span></div>
+
+<h3>One of the driest inhabited parts of the country</h3>
+<p>Ceduna is on the Great Australian Bight, and that geography carries real consequences for water storage: a remote west coast town with genuinely limited fresh water sources. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from grain growing</h3>
+<p>Grain Growing, Fishing And Oyster Farming is a defining part of Ceduna's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/ticking-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the far west coast account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the far west coast</span></div>
+
+<p>For a property in or around Ceduna, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a remote west coast town with genuinely limited fresh water sources. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/sector-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the far west coast is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Ceduna's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">12 mths</span>
+  <span class="stat-label">Standard Defects Liability Period reflected in most Australian water infrastructure procurement contracts</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Ceduna property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Freight and access planning for remote delivery</td><td>Long distances from a supply base change what "urgent repair" can realistically mean</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Ceduna different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Ceduna is a remote west coast town with genuinely limited fresh water sources, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does grain growing affect water storage requirements for other properties in Ceduna?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around grain growing, fishing and oyster farming shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the far west coast be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Ceduna's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Ceduna? PC Water Infrastructure delivers tank design, installation and maintenance suited to the far west coast's real conditions.</p>
+  <a href="/services/remote-area-delivery" class="cta-btn">Discuss Remote Water Storage Delivery</a>
+</div>`,
+    coverImageUrl: `${BASE}/ticking-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Ceduna | PC Water",
+    seoDescription:
+      "Ceduna (the far west coast) tank storage: grain growing demand and outback conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-25T15:00:00.000Z',
+    createdAt: '2026-10-25T15:00:00.000Z',
+    updatedAt: '2026-10-25T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-ceduna', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-ceduna', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Kadina: Grain Growing & M'),
+    title: "Water Storage and Tank Services in Kadina: Grain Growing & Mediterranean-Climate Water Security",
+    slug: 'water-storage-and-tank-services-in-kadina-grain-growing-and-mediterranean-climate-water-security',
+    excerpt:
+      "Kadina is on the Copper Coast, in the Yorke Peninsula (Copper Coast), the largest town on the Yorke Peninsula's Copper Coast. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Kadina sits on the Copper Coast, in the Yorke Peninsula (Copper Coast) of South Australia. The town's economy is built substantially around grain growing and historic copper mining heritage, and it is the largest town on the Yorke Peninsula's Copper Coast - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Kadina, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Kadina's water context is distinctive</span></div>
+
+<h3>A Mediterranean climate with a clearly defined dry season</h3>
+<p>Kadina is on the Copper Coast, and that geography carries real consequences for water storage: the largest town on the Yorke Peninsula's Copper Coast. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from grain growing</h3>
+<p>Grain Growing And Historic Copper Mining Heritage is a defining part of Kadina's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/ticking-inspection.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Yorke Peninsula (Copper Coast) account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Yorke Peninsula (Copper Coast)</span></div>
+
+<p>For a property in or around Kadina, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given the largest town on the Yorke Peninsula's Copper Coast. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/sector-inspection.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Yorke Peninsula (Copper Coast) is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Kadina's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">20-45°C</span>
+  <span class="stat-label">The water temperature range in which Legionella bacteria multiply most readily in stored water — the reason temperature control matters as much as disinfectant residual</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Kadina property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Storage margin through the extended dry season</td><td>A long rainless summer period puts real pressure on supplementary storage sizing</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Kadina different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Kadina is the largest town on the Yorke Peninsula's Copper Coast, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does grain growing affect water storage requirements for other properties in Kadina?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around grain growing and historic copper mining heritage shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Yorke Peninsula (Copper Coast) be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Kadina's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Kadina? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Yorke Peninsula (Copper Coast)'s real conditions.</p>
+  <a href="/services/tank-maintenance-upgrades" class="cta-btn">Discuss Industrial Tank Maintenance</a>
+</div>`,
+    coverImageUrl: `${BASE}/ticking-inspection.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Kadina | PC Water",
+    seoDescription:
+      "Kadina (the Yorke Peninsula (Copper Coast)) tank storage: grain growing demand and mediterranean-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-26T09:00:00.000Z',
+    createdAt: '2026-10-26T09:00:00.000Z',
+    updatedAt: '2026-10-26T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-kadina', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-kadina', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Geraldton: Fishing & Medi'),
+    title: "Water Storage and Tank Services in Geraldton: Fishing & Mediterranean-Climate Water Security",
+    slug: 'water-storage-and-tank-services-in-geraldton-fishing-and-mediterranean-climate-water-security',
+    excerpt:
+      "Geraldton is on the Indian Ocean, in the Mid West (Batavia Coast), a Mid West coastal city and the main port for the wheatbelt hinterland. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Geraldton sits on the Indian Ocean, in the Mid West (Batavia Coast) of Western Australia. The town's economy is built substantially around fishing, mining services and agriculture, and it is a Mid West coastal city and the main port for the wheatbelt hinterland - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Geraldton, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Geraldton's water context is distinctive</span></div>
+
+<h3>A dry-summer Mediterranean climate</h3>
+<p>Geraldton is on the Indian Ocean, and that geography carries real consequences for water storage: a Mid West coastal city and the main port for the wheatbelt hinterland. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from fishing</h3>
+<p>Fishing, Mining Services And Agriculture is a defining part of Geraldton's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/sediment-tank-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Mid West (Batavia Coast) account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Mid West (Batavia Coast)</span></div>
+
+<p>For a property in or around Geraldton, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a Mid West coastal city and the main port for the wheatbelt hinterland. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/harsh-env-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Mid West (Batavia Coast) is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Geraldton's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">AS4020</span>
+  <span class="stat-label">The Australian Standard certifying that a product or material is safe for use in contact with drinking water</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Geraldton property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Storage margin through the extended dry season</td><td>A long rainless summer period puts real pressure on supplementary storage sizing</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Geraldton different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Geraldton is a Mid West coastal city and the main port for the wheatbelt hinterland, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does fishing affect water storage requirements for other properties in Geraldton?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around fishing, mining services and agriculture shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Mid West (Batavia Coast) be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Geraldton's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Geraldton? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Mid West (Batavia Coast)'s real conditions.</p>
+  <a href="/services/tank-maintenance-upgrades" class="cta-btn">Discuss Industrial Tank Maintenance</a>
+</div>`,
+    coverImageUrl: `${BASE}/sediment-tank-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Geraldton | PC Water",
+    seoDescription:
+      "Geraldton (the Mid West (Batavia Coast)) tank storage: fishing demand and mediterranean-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-26T15:00:00.000Z',
+    createdAt: '2026-10-26T15:00:00.000Z',
+    updatedAt: '2026-10-26T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-geraldton', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-geraldton', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Bunbury: Port Operations '),
+    title: "Water Storage and Tank Services in Bunbury: Port Operations & Mediterranean-Climate Water Security",
+    slug: 'water-storage-and-tank-services-in-bunbury-port-operations-and-mediterranean-climate-water-security',
+    excerpt:
+      "Bunbury is on Koombana Bay, in the South West, Western Australia's second-largest city and a major bulk export port. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Bunbury sits on Koombana Bay, in the South West of Western Australia. The town's economy is built substantially around port operations, mining and agriculture, and it is Western Australia's second-largest city and a major bulk export port - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Bunbury, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Bunbury's water context is distinctive</span></div>
+
+<h3>Hot, dry summers and mild, wetter winters</h3>
+<p>Bunbury is on Koombana Bay, and that geography carries real consequences for water storage: Western Australia's second-largest city and a major bulk export port. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from port operations</h3>
+<p>Port Operations, Mining And Agriculture is a defining part of Bunbury's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/water-food-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the South West account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the South West</span></div>
+
+<p>For a property in or around Bunbury, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given Western Australia's second-largest city and a major bulk export port. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/harsh-env-drone.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the South West is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Bunbury's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">AS1170</span>
+  <span class="stat-label">The Australian Standard series governing structural design actions, including the wind and seismic loads every water tank has to be engineered against</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Bunbury property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Storage margin through the extended dry season</td><td>A long rainless summer period puts real pressure on supplementary storage sizing</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Bunbury different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Bunbury is Western Australia's second-largest city and a major bulk export port, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does port operations affect water storage requirements for other properties in Bunbury?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around port operations, mining and agriculture shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the South West be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Bunbury's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Bunbury? PC Water Infrastructure delivers tank design, installation and maintenance suited to the South West's real conditions.</p>
+  <a href="/services/tank-maintenance-upgrades" class="cta-btn">Discuss Industrial Tank Maintenance</a>
+</div>`,
+    coverImageUrl: `${BASE}/water-food-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Bunbury | PC Water",
+    seoDescription:
+      "Bunbury (the South West) tank storage: port operations demand and mediterranean-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-27T09:00:00.000Z',
+    createdAt: '2026-10-27T09:00:00.000Z',
+    updatedAt: '2026-10-27T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-bunbury', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-bunbury', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Broome: Tourism & Tropica'),
+    title: "Water Storage and Tank Services in Broome: Tourism & Tropical Water Security",
+    slug: 'water-storage-and-tank-services-in-broome-tourism-and-tropical-water-security',
+    excerpt:
+      "Broome is on Roebuck Bay, in the Kimberley, a Kimberley tourism town with an extreme wet-dry tropical climate and cyclone exposure. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Broome sits on Roebuck Bay, in the Kimberley of Western Australia. The town's economy is built substantially around tourism and pearling heritage, and it is a Kimberley tourism town with an extreme wet-dry tropical climate and cyclone exposure - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Broome, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Broome's water context is distinctive</span></div>
+
+<h3>Life either side of the wet season</h3>
+<p>Broome is on Roebuck Bay, and that geography carries real consequences for water storage: a Kimberley tourism town with an extreme wet-dry tropical climate and cyclone exposure. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from tourism</h3>
+<p>Tourism And Pearling Heritage is a defining part of Broome's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/water-food-hatch.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Kimberley account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Kimberley</span></div>
+
+<p>For a property in or around Broome, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a Kimberley tourism town with an extreme wet-dry tropical climate and cyclone exposure. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/corrosion-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Kimberley is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Broome's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">AS2419</span>
+  <span class="stat-label">The Australian Standard governing fire hydrant installations, including the static water supply a fire tank has to reliably deliver</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Broome property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Roof and vent design for monsoon-intensity rainfall</td><td>Wet-season inflow rates are far higher than a temperate-climate design assumption</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Broome different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Broome is a Kimberley tourism town with an extreme wet-dry tropical climate and cyclone exposure, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does tourism affect water storage requirements for other properties in Broome?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around tourism and pearling heritage shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Kimberley be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Broome's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Broome? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Kimberley's real conditions.</p>
+  <a href="/services/foundation-civil-integration" class="cta-btn">Discuss Cyclone-Region Tank Design</a>
+</div>`,
+    coverImageUrl: `${BASE}/water-food-hatch.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Broome | PC Water",
+    seoDescription:
+      "Broome (the Kimberley) tank storage: tourism demand and tropical conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-27T15:00:00.000Z',
+    createdAt: '2026-10-27T15:00:00.000Z',
+    updatedAt: '2026-10-27T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-broome', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-broome', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Karratha: Iron Ore Export'),
+    title: "Water Storage and Tank Services in Karratha: Iron Ore Export & Cyclone-Region Water Security",
+    slug: 'water-storage-and-tank-services-in-karratha-iron-ore-export-and-cyclone-region-water-security',
+    excerpt:
+      "Karratha is on the Indian Ocean, in the Pilbara, one of the Pilbara's major resources hubs, directly exposed to the North West cyclone season. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Karratha sits on the Indian Ocean, in the Pilbara of Western Australia. The town's economy is built substantially around iron ore export and LNG processing, and it is one of the Pilbara's major resources hubs, directly exposed to the North West cyclone season - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Karratha, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Karratha's water context is distinctive</span></div>
+
+<h3>A cyclone-exposed coastal economy</h3>
+<p>Karratha is on the Indian Ocean, and that geography carries real consequences for water storage: one of the Pilbara's major resources hubs, directly exposed to the North West cyclone season. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from iron ore export</h3>
+<p>Iron Ore Export And LNG Processing is a defining part of Karratha's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/rpvc-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Pilbara account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Pilbara</span></div>
+
+<p>For a property in or around Karratha, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given one of the Pilbara's major resources hubs, directly exposed to the North West cyclone season. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/corrosion-rov-inspection.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Pilbara is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Karratha's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">Region C</span>
+  <span class="stat-label">AS/NZS 1170.2 cyclonic wind classification covering Karratha — tank structural design here carries a materially higher wind loading requirement than non-cyclonic regions further south</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Karratha property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Structural wind rating against AS/NZS 1170.2</td><td>Tanks here are designed for a materially higher wind loading category than non-cyclonic regions</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Karratha different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Karratha is one of the Pilbara's major resources hubs, directly exposed to the North West cyclone season, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does iron ore export affect water storage requirements for other properties in Karratha?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around iron ore export and LNG processing shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Pilbara be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Karratha's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Karratha? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Pilbara's real conditions.</p>
+  <a href="/services/foundation-civil-integration" class="cta-btn">Discuss Cyclone-Region Tank Design</a>
+</div>`,
+    coverImageUrl: `${BASE}/rpvc-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Karratha | PC Water",
+    seoDescription:
+      "Karratha (the Pilbara) tank storage: iron ore export demand and cyclone-region conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-28T09:00:00.000Z',
+    createdAt: '2026-10-28T09:00:00.000Z',
+    updatedAt: '2026-10-28T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-karratha', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-karratha', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Port Hedland: Iron Ore Ex'),
+    title: "Water Storage and Tank Services in Port Hedland: Iron Ore Export & Cyclone-Region Water Security",
+    slug: 'water-storage-and-tank-services-in-port-hedland-iron-ore-export-and-cyclone-region-water-security',
+    excerpt:
+      "Port Hedland is on the Indian Ocean, in the Pilbara, the world's largest bulk export port by tonnage, in an officially severe-cyclone wind region. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Port Hedland sits on the Indian Ocean, in the Pilbara of Western Australia. The town's economy is built substantially around iron ore export, and it is the world's largest bulk export port by tonnage, in an officially severe-cyclone wind region - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Port Hedland, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Port Hedland's water context is distinctive</span></div>
+
+<h3>A city built for cyclone-season resilience</h3>
+<p>Port Hedland is on the Indian Ocean, and that geography carries real consequences for water storage: the world's largest bulk export port by tonnage, in an officially severe-cyclone wind region. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from iron ore export</h3>
+<p>Iron Ore Export is a defining part of Port Hedland's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/rpvc-inline.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Pilbara account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Pilbara</span></div>
+
+<p>For a property in or around Port Hedland, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given the world's largest bulk export port by tonnage, in an officially severe-cyclone wind region. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/cleaning-inspection-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Pilbara is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Port Hedland's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">Region D</span>
+  <span class="stat-label">AS/NZS 1170.2 severe cyclonic wind classification covering Port Hedland — the highest wind loading category in the Australian structural design standard</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Port Hedland property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Structural wind rating against AS/NZS 1170.2</td><td>Tanks here are designed for a materially higher wind loading category than non-cyclonic regions</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Port Hedland different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Port Hedland is the world's largest bulk export port by tonnage, in an officially severe-cyclone wind region, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does iron ore export affect water storage requirements for other properties in Port Hedland?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around iron ore export shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Pilbara be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Port Hedland's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Port Hedland? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Pilbara's real conditions.</p>
+  <a href="/services/foundation-civil-integration" class="cta-btn">Discuss Cyclone-Region Tank Design</a>
+</div>`,
+    coverImageUrl: `${BASE}/rpvc-inline.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Port Hedland | PC Water",
+    seoDescription:
+      "Port Hedland (the Pilbara) tank storage: iron ore export demand and cyclone-region conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-28T15:00:00.000Z',
+    createdAt: '2026-10-28T15:00:00.000Z',
+    updatedAt: '2026-10-28T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-port-hedland', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-port-hedland', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Albany: Agriculture & Coa'),
+    title: "Water Storage and Tank Services in Albany: Agriculture & Coastal Water Security",
+    slug: 'water-storage-and-tank-services-in-albany-agriculture-and-coastal-water-security',
+    excerpt:
+      "Albany is on King George Sound, in the Great Southern, Western Australia's oldest colonial settlement, with a genuinely cool, wet southern climate. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Albany sits on King George Sound, in the Great Southern of Western Australia. The town's economy is built substantially around agriculture, fishing and tourism, and it is Western Australia's oldest colonial settlement, with a genuinely cool, wet southern climate - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Albany, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Albany's water context is distinctive</span></div>
+
+<h3>Reliable rainfall alongside real seasonal industry demand</h3>
+<p>Albany is on King George Sound, and that geography carries real consequences for water storage: Western Australia's oldest colonial settlement, with a genuinely cool, wet southern climate. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from agriculture</h3>
+<p>Agriculture, Fishing And Tourism is a defining part of Albany's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/sector-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Great Southern account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Great Southern</span></div>
+
+<p>For a property in or around Albany, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given Western Australia's oldest colonial settlement, with a genuinely cool, wet southern climate. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/fire-tank-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Great Southern is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Albany's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">9.81 kPa</span>
+  <span class="stat-label">Hydrostatic pressure added at the base of a water tank for every metre of head — the constant every tank foundation and shell design has to be checked against</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Albany property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Salt-air corrosion allowance on external steelwork</td><td>Coastal exposure accelerates external corrosion beyond a standard inland specification</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Albany different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Albany is Western Australia's oldest colonial settlement, with a genuinely cool, wet southern climate, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does agriculture affect water storage requirements for other properties in Albany?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around agriculture, fishing and tourism shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Great Southern be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Albany's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Albany? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Great Southern's real conditions.</p>
+  <a href="/services/custom-tank-design" class="cta-btn">Discuss Your Water Storage Requirements</a>
+</div>`,
+    coverImageUrl: `${BASE}/sector-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Albany | PC Water",
+    seoDescription:
+      "Albany (the Great Southern) tank storage: agriculture demand and coastal conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-29T09:00:00.000Z',
+    createdAt: '2026-10-29T09:00:00.000Z',
+    updatedAt: '2026-10-29T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-albany', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-albany', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Esperance: Grain Growing '),
+    title: "Water Storage and Tank Services in Esperance: Grain Growing & Coastal Water Security",
+    slug: 'water-storage-and-tank-services-in-esperance-grain-growing-and-coastal-water-security',
+    excerpt:
+      "Esperance is on the Southern Ocean, in the south coast, a south coast grain port with a historically high-wind exposure. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Esperance sits on the Southern Ocean, in the south coast of Western Australia. The town's economy is built substantially around grain growing and fishing, and it is a south coast grain port with a historically high-wind exposure - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Esperance, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Esperance's water context is distinctive</span></div>
+
+<h3>A cool, wet coastal climate</h3>
+<p>Esperance is on the Southern Ocean, and that geography carries real consequences for water storage: a south coast grain port with a historically high-wind exposure. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from grain growing</h3>
+<p>Grain Growing And Fishing is a defining part of Esperance's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/sector-inspection.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the south coast account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the south coast</span></div>
+
+<p>For a property in or around Esperance, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a south coast grain port with a historically high-wind exposure. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/fire-tank-inspection.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the south coast is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Esperance's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">12 mths</span>
+  <span class="stat-label">Standard Defects Liability Period reflected in most Australian water infrastructure procurement contracts</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Esperance property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Salt-air corrosion allowance on external steelwork</td><td>Coastal exposure accelerates external corrosion beyond a standard inland specification</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Esperance different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Esperance is a south coast grain port with a historically high-wind exposure, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does grain growing affect water storage requirements for other properties in Esperance?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around grain growing and fishing shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the south coast be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Esperance's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Esperance? PC Water Infrastructure delivers tank design, installation and maintenance suited to the south coast's real conditions.</p>
+  <a href="/services/custom-tank-design" class="cta-btn">Discuss Your Water Storage Requirements</a>
+</div>`,
+    coverImageUrl: `${BASE}/sector-inspection.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Esperance | PC Water",
+    seoDescription:
+      "Esperance (the south coast) tank storage: grain growing demand and coastal conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-29T15:00:00.000Z',
+    createdAt: '2026-10-29T15:00:00.000Z',
+    updatedAt: '2026-10-29T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-esperance', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-esperance', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Busselton: Tourism & Medi'),
+    title: "Water Storage and Tank Services in Busselton: Tourism & Mediterranean-Climate Water Security",
+    slug: 'water-storage-and-tank-services-in-busselton-tourism-and-mediterranean-climate-water-security',
+    excerpt:
+      "Busselton is on Geographe Bay, in the South West, a fast-growing South West tourism town with strong seasonal demand peaks. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Busselton sits on Geographe Bay, in the South West of Western Australia. The town's economy is built substantially around tourism and horticulture, and it is a fast-growing South West tourism town with strong seasonal demand peaks - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Busselton, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Busselton's water context is distinctive</span></div>
+
+<h3>Hot, dry summers and mild, wetter winters</h3>
+<p>Busselton is on Geographe Bay, and that geography carries real consequences for water storage: a fast-growing South West tourism town with strong seasonal demand peaks. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from tourism</h3>
+<p>Tourism And Horticulture is a defining part of Busselton's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/harsh-env-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the South West account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the South West</span></div>
+
+<p>For a property in or around Busselton, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a fast-growing South West tourism town with strong seasonal demand peaks. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/ticking-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the South West is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Busselton's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">20-45°C</span>
+  <span class="stat-label">The water temperature range in which Legionella bacteria multiply most readily in stored water — the reason temperature control matters as much as disinfectant residual</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Busselton property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Storage margin through the extended dry season</td><td>A long rainless summer period puts real pressure on supplementary storage sizing</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Busselton different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Busselton is a fast-growing South West tourism town with strong seasonal demand peaks, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does tourism affect water storage requirements for other properties in Busselton?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around tourism and horticulture shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the South West be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Busselton's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Busselton? PC Water Infrastructure delivers tank design, installation and maintenance suited to the South West's real conditions.</p>
+  <a href="/services/custom-tank-design" class="cta-btn">Discuss Your Water Storage Requirements</a>
+</div>`,
+    coverImageUrl: `${BASE}/harsh-env-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Busselton | PC Water",
+    seoDescription:
+      "Busselton (the South West) tank storage: tourism demand and mediterranean-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-30T09:00:00.000Z',
+    createdAt: '2026-10-30T09:00:00.000Z',
+    updatedAt: '2026-10-30T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-busselton', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-busselton', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Kununurra: Irrigated Agri'),
+    title: "Water Storage and Tank Services in Kununurra: Irrigated Agriculture & Tropical Water Security",
+    slug: 'water-storage-and-tank-services-in-kununurra-irrigated-agriculture-and-tropical-water-security',
+    excerpt:
+      "Kununurra is on Lake Argyle and the Ord River, in the East Kimberley, built around one of Australia's largest man-made reservoirs and its irrigation scheme. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Kununurra sits on Lake Argyle and the Ord River, in the East Kimberley of Western Australia. The town's economy is built substantially around irrigated agriculture (Ord River Irrigation Scheme), and it is built around one of Australia's largest man-made reservoirs and its irrigation scheme - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Kununurra, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Kununurra's water context is distinctive</span></div>
+
+<h3>Life either side of the wet season</h3>
+<p>Kununurra is on Lake Argyle and the Ord River, and that geography carries real consequences for water storage: built around one of Australia's largest man-made reservoirs and its irrigation scheme. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from irrigated agriculture</h3>
+<p>Irrigated Agriculture (Ord River Irrigation Scheme) is a defining part of Kununurra's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/harsh-env-drone.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the East Kimberley account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the East Kimberley</span></div>
+
+<p>For a property in or around Kununurra, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given built around one of Australia's largest man-made reservoirs and its irrigation scheme. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/ticking-inspection.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the East Kimberley is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Kununurra's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">AS4020</span>
+  <span class="stat-label">The Australian Standard certifying that a product or material is safe for use in contact with drinking water</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Kununurra property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Roof and vent design for monsoon-intensity rainfall</td><td>Wet-season inflow rates are far higher than a temperate-climate design assumption</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Kununurra different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Kununurra is built around one of Australia's largest man-made reservoirs and its irrigation scheme, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does irrigated agriculture affect water storage requirements for other properties in Kununurra?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around irrigated agriculture (Ord River Irrigation Scheme) shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the East Kimberley be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Kununurra's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Kununurra? PC Water Infrastructure delivers tank design, installation and maintenance suited to the East Kimberley's real conditions.</p>
+  <a href="/services/foundation-civil-integration" class="cta-btn">Discuss Cyclone-Region Tank Design</a>
+</div>`,
+    coverImageUrl: `${BASE}/harsh-env-drone.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Kununurra | PC Water",
+    seoDescription:
+      "Kununurra (the East Kimberley) tank storage: irrigated agriculture demand and tropical conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-30T15:00:00.000Z',
+    createdAt: '2026-10-30T15:00:00.000Z',
+    updatedAt: '2026-10-30T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-kununurra', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-kununurra', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Carnarvon: Horticulture &'),
+    title: "Water Storage and Tank Services in Carnarvon: Horticulture & Outback Water Security",
+    slug: 'water-storage-and-tank-services-in-carnarvon-horticulture-and-outback-water-security',
+    excerpt:
+      "Carnarvon is on the Gascoyne River, in the Gascoyne, a horticultural district reliant on an underground river system beneath a usually dry riverbed. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Carnarvon sits on the Gascoyne River, in the Gascoyne of Western Australia. The town's economy is built substantially around horticulture (bananas, mangoes), and it is a horticultural district reliant on an underground river system beneath a usually dry riverbed - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Carnarvon, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Carnarvon's water context is distinctive</span></div>
+
+<h3>A genuinely arid, remote setting</h3>
+<p>Carnarvon is on the Gascoyne River, and that geography carries real consequences for water storage: a horticultural district reliant on an underground river system beneath a usually dry riverbed. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from horticulture</h3>
+<p>Horticulture (Bananas, Mangoes) is a defining part of Carnarvon's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/corrosion-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Gascoyne account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Gascoyne</span></div>
+
+<p>For a property in or around Carnarvon, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a horticultural district reliant on an underground river system beneath a usually dry riverbed. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/sediment-tank-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Gascoyne is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Carnarvon's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">AS1170</span>
+  <span class="stat-label">The Australian Standard series governing structural design actions, including the wind and seismic loads every water tank has to be engineered against</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Carnarvon property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Freight and access planning for remote delivery</td><td>Long distances from a supply base change what "urgent repair" can realistically mean</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Carnarvon different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Carnarvon is a horticultural district reliant on an underground river system beneath a usually dry riverbed, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does horticulture affect water storage requirements for other properties in Carnarvon?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around horticulture (bananas, mangoes) shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Gascoyne be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Carnarvon's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Carnarvon? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Gascoyne's real conditions.</p>
+  <a href="/services/remote-area-delivery" class="cta-btn">Discuss Remote Water Storage Delivery</a>
+</div>`,
+    coverImageUrl: `${BASE}/corrosion-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Carnarvon | PC Water",
+    seoDescription:
+      "Carnarvon (the Gascoyne) tank storage: horticulture demand and outback conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-31T09:00:00.000Z',
+    createdAt: '2026-10-31T09:00:00.000Z',
+    updatedAt: '2026-10-31T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-carnarvon', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-carnarvon', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Northam: Grain Growing & '),
+    title: "Water Storage and Tank Services in Northam: Grain Growing & Mediterranean-Climate Water Security",
+    slug: 'water-storage-and-tank-services-in-northam-grain-growing-and-mediterranean-climate-water-security',
+    excerpt:
+      "Northam is on the Avon River, in the Avon Valley (Wheatbelt), the largest town in the Western Australian Wheatbelt. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Northam sits on the Avon River, in the Avon Valley (Wheatbelt) of Western Australia. The town's economy is built substantially around grain growing and agribusiness, and it is the largest town in the Western Australian Wheatbelt - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Northam, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Northam's water context is distinctive</span></div>
+
+<h3>Hot, dry summers and mild, wetter winters</h3>
+<p>Northam is on the Avon River, and that geography carries real consequences for water storage: the largest town in the Western Australian Wheatbelt. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from grain growing</h3>
+<p>Grain Growing And Agribusiness is a defining part of Northam's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/corrosion-rov-inspection.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Avon Valley (Wheatbelt) account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Avon Valley (Wheatbelt)</span></div>
+
+<p>For a property in or around Northam, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given the largest town in the Western Australian Wheatbelt. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/water-food-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Avon Valley (Wheatbelt) is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Northam's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">AS2419</span>
+  <span class="stat-label">The Australian Standard governing fire hydrant installations, including the static water supply a fire tank has to reliably deliver</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Northam property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Storage margin through the extended dry season</td><td>A long rainless summer period puts real pressure on supplementary storage sizing</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Northam different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Northam is the largest town in the Western Australian Wheatbelt, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does grain growing affect water storage requirements for other properties in Northam?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around grain growing and agribusiness shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Avon Valley (Wheatbelt) be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Northam's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Northam? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Avon Valley (Wheatbelt)'s real conditions.</p>
+  <a href="/services/custom-tank-design" class="cta-btn">Discuss Your Water Storage Requirements</a>
+</div>`,
+    coverImageUrl: `${BASE}/corrosion-rov-inspection.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Northam | PC Water",
+    seoDescription:
+      "Northam (the Avon Valley (Wheatbelt)) tank storage: grain growing demand and mediterranean-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-10-31T15:00:00.000Z',
+    createdAt: '2026-10-31T15:00:00.000Z',
+    updatedAt: '2026-10-31T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-northam', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-northam', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Collie: Coal Mining & Med'),
+    title: "Water Storage and Tank Services in Collie: Coal Mining & Mediterranean-Climate Water Security",
+    slug: 'water-storage-and-tank-services-in-collie-coal-mining-and-mediterranean-climate-water-security',
+    excerpt:
+      "Collie is on the Collie River, in the South West, Western Australia's primary coal-mining town, undergoing significant industry transition. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Collie sits on the Collie River, in the South West of Western Australia. The town's economy is built substantially around coal mining and power generation, and it is Western Australia's primary coal-mining town, undergoing significant industry transition - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Collie, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Collie's water context is distinctive</span></div>
+
+<h3>A Mediterranean climate with a clearly defined dry season</h3>
+<p>Collie is on the Collie River, and that geography carries real consequences for water storage: Western Australia's primary coal-mining town, undergoing significant industry transition. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from coal mining</h3>
+<p>Coal Mining And Power Generation is a defining part of Collie's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/cleaning-inspection-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the South West account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the South West</span></div>
+
+<p>For a property in or around Collie, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given Western Australia's primary coal-mining town, undergoing significant industry transition. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/water-food-hatch.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the South West is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Collie's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">19.5-23.5%</span>
+  <span class="stat-label">The safe oxygen concentration range for confined space entry into a water tank — outside this band, entry requires additional controls before anyone goes in</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Collie property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Storage margin through the extended dry season</td><td>A long rainless summer period puts real pressure on supplementary storage sizing</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Collie different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Collie is Western Australia's primary coal-mining town, undergoing significant industry transition, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does coal mining affect water storage requirements for other properties in Collie?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around coal mining and power generation shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the South West be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Collie's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Collie? PC Water Infrastructure delivers tank design, installation and maintenance suited to the South West's real conditions.</p>
+  <a href="/services/tank-maintenance-upgrades" class="cta-btn">Discuss Industrial Tank Maintenance</a>
+</div>`,
+    coverImageUrl: `${BASE}/cleaning-inspection-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Collie | PC Water",
+    seoDescription:
+      "Collie (the South West) tank storage: coal mining demand and mediterranean-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-11-01T09:00:00.000Z',
+    createdAt: '2026-11-01T09:00:00.000Z',
+    updatedAt: '2026-11-01T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-collie', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-collie', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Manjimup: Timber & Coasta'),
+    title: "Water Storage and Tank Services in Manjimup: Timber & Coastal Water Security",
+    slug: 'water-storage-and-tank-services-in-manjimup-timber-and-coastal-water-security',
+    excerpt:
+      "Manjimup is on the Donnelly River catchment, in the South West, a timber and orchard district in one of the wettest parts of Western Australia. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Manjimup sits on the Donnelly River catchment, in the South West of Western Australia. The town's economy is built substantially around timber and horticulture, and it is a timber and orchard district in one of the wettest parts of Western Australia - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Manjimup, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Manjimup's water context is distinctive</span></div>
+
+<h3>A cool, wet coastal climate</h3>
+<p>Manjimup is on the Donnelly River catchment, and that geography carries real consequences for water storage: a timber and orchard district in one of the wettest parts of Western Australia. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from timber</h3>
+<p>Timber And Horticulture is a defining part of Manjimup's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/fire-tank-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the South West account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the South West</span></div>
+
+<p>For a property in or around Manjimup, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a timber and orchard district in one of the wettest parts of Western Australia. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/rpvc-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the South West is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Manjimup's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">150mm+</span>
+  <span class="stat-label">A typical minimum freeboard allowance built into tank design so storm inflow and wave action do not push water over the roofline</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Manjimup property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Salt-air corrosion allowance on external steelwork</td><td>Coastal exposure accelerates external corrosion beyond a standard inland specification</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Manjimup different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Manjimup is a timber and orchard district in one of the wettest parts of Western Australia, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does timber affect water storage requirements for other properties in Manjimup?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around timber and horticulture shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the South West be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Manjimup's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Manjimup? PC Water Infrastructure delivers tank design, installation and maintenance suited to the South West's real conditions.</p>
+  <a href="/services/custom-tank-design" class="cta-btn">Discuss Your Water Storage Requirements</a>
+</div>`,
+    coverImageUrl: `${BASE}/fire-tank-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Manjimup | PC Water",
+    seoDescription:
+      "Manjimup (the South West) tank storage: timber demand and coastal conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-11-01T15:00:00.000Z',
+    createdAt: '2026-11-01T15:00:00.000Z',
+    updatedAt: '2026-11-01T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-manjimup', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-manjimup', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Merredin: Grain Growing &'),
+    title: "Water Storage and Tank Services in Merredin: Grain Growing & Dry-Climate Water Security",
+    slug: 'water-storage-and-tank-services-in-merredin-grain-growing-and-dry-climate-water-security',
+    excerpt:
+      "Merredin is inland, reliant on the Goldfields Water Supply Scheme, in the Central Wheatbelt, a Wheatbelt centre historically supplied via the Goldfields pipeline built for Kalgoorlie. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Merredin sits inland, reliant on the Goldfields Water Supply Scheme, in the Central Wheatbelt of Western Australia. The town's economy is built substantially around grain growing, and it is a Wheatbelt centre historically supplied via the Goldfields pipeline built for Kalgoorlie - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Merredin, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Merredin's water context is distinctive</span></div>
+
+<h3>Variable rainfall and irrigation-dependent agriculture</h3>
+<p>Merredin is inland, reliant on the Goldfields Water Supply Scheme, and that geography carries real consequences for water storage: a Wheatbelt centre historically supplied via the Goldfields pipeline built for Kalgoorlie. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from grain growing</h3>
+<p>Grain Growing is a defining part of Merredin's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/fire-tank-inspection.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Central Wheatbelt account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Central Wheatbelt</span></div>
+
+<p>For a property in or around Merredin, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a Wheatbelt centre historically supplied via the Goldfields pipeline built for Kalgoorlie. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/rpvc-inline.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Central Wheatbelt is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Merredin's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">9.81 kPa</span>
+  <span class="stat-label">Hydrostatic pressure added at the base of a water tank for every metre of head — the constant every tank foundation and shell design has to be checked against</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Merredin property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Tank sizing against realistic dry-period duration</td><td>Irrigation-dependent local demand makes storage margin a genuine planning factor</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Merredin different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Merredin is a Wheatbelt centre historically supplied via the Goldfields pipeline built for Kalgoorlie, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does grain growing affect water storage requirements for other properties in Merredin?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around grain growing shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Central Wheatbelt be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Merredin's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Merredin? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Central Wheatbelt's real conditions.</p>
+  <a href="/services/custom-tank-design" class="cta-btn">Discuss Your Water Storage Requirements</a>
+</div>`,
+    coverImageUrl: `${BASE}/fire-tank-inspection.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Merredin | PC Water",
+    seoDescription:
+      "Merredin (the Central Wheatbelt) tank storage: grain growing demand and dry-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-11-02T09:00:00.000Z',
+    createdAt: '2026-11-02T09:00:00.000Z',
+    updatedAt: '2026-11-02T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-merredin', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-merredin', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Kalbarri: Tourism & Outba'),
+    title: "Water Storage and Tank Services in Kalbarri: Tourism & Outback Water Security",
+    slug: 'water-storage-and-tank-services-in-kalbarri-tourism-and-outback-water-security',
+    excerpt:
+      "Kalbarri is at the mouth of the Murchison River, in the Mid West coast, a small coastal tourism town at the edge of the arid Mid West. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Kalbarri sits at the mouth of the Murchison River, in the Mid West coast of Western Australia. The town's economy is built substantially around tourism and fishing, and it is a small coastal tourism town at the edge of the arid Mid West - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Kalbarri, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Kalbarri's water context is distinctive</span></div>
+
+<h3>Low, unreliable rainfall and long freight distances</h3>
+<p>Kalbarri is at the mouth of the Murchison River, and that geography carries real consequences for water storage: a small coastal tourism town at the edge of the arid Mid West. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from tourism</h3>
+<p>Tourism And Fishing is a defining part of Kalbarri's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/ticking-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Mid West coast account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Mid West coast</span></div>
+
+<p>For a property in or around Kalbarri, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a small coastal tourism town at the edge of the arid Mid West. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/sector-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Mid West coast is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Kalbarri's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">12 mths</span>
+  <span class="stat-label">Standard Defects Liability Period reflected in most Australian water infrastructure procurement contracts</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Kalbarri property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Freight and access planning for remote delivery</td><td>Long distances from a supply base change what "urgent repair" can realistically mean</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Kalbarri different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Kalbarri is a small coastal tourism town at the edge of the arid Mid West, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does tourism affect water storage requirements for other properties in Kalbarri?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around tourism and fishing shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Mid West coast be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Kalbarri's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Kalbarri? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Mid West coast's real conditions.</p>
+  <a href="/services/remote-area-delivery" class="cta-btn">Discuss Remote Water Storage Delivery</a>
+</div>`,
+    coverImageUrl: `${BASE}/ticking-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Kalbarri | PC Water",
+    seoDescription:
+      "Kalbarri (the Mid West coast) tank storage: tourism demand and outback conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-11-02T15:00:00.000Z',
+    createdAt: '2026-11-02T15:00:00.000Z',
+    updatedAt: '2026-11-02T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-kalbarri', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-kalbarri', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in York: Agriculture & Medit'),
+    title: "Water Storage and Tank Services in York: Agriculture & Mediterranean-Climate Water Security",
+    slug: 'water-storage-and-tank-services-in-york-agriculture-and-mediterranean-climate-water-security',
+    excerpt:
+      "York is on the Avon River, in the Avon Valley (Wheatbelt), Western Australia's oldest inland town, in the historic Avon Valley. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  York sits on the Avon River, in the Avon Valley (Wheatbelt) of Western Australia. The town's economy is built substantially around agriculture and heritage tourism, and it is Western Australia's oldest inland town, in the historic Avon Valley - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For York, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why York's water context is distinctive</span></div>
+
+<h3>A dry-summer Mediterranean climate</h3>
+<p>York is on the Avon River, and that geography carries real consequences for water storage: Western Australia's oldest inland town, in the historic Avon Valley. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from agriculture</h3>
+<p>Agriculture And Heritage Tourism is a defining part of York's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/ticking-inspection.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Avon Valley (Wheatbelt) account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Avon Valley (Wheatbelt)</span></div>
+
+<p>For a property in or around York, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given Western Australia's oldest inland town, in the historic Avon Valley. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/sector-inspection.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Avon Valley (Wheatbelt) is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>York's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">20-45°C</span>
+  <span class="stat-label">The water temperature range in which Legionella bacteria multiply most readily in stored water — the reason temperature control matters as much as disinfectant residual</span>
+</div>
+
+<div class="article-divider"><span>What to check on a York property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Storage margin through the extended dry season</td><td>A long rainless summer period puts real pressure on supplementary storage sizing</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in York different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - York is Western Australia's oldest inland town, in the historic Avon Valley, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does agriculture affect water storage requirements for other properties in York?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around agriculture and heritage tourism shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Avon Valley (Wheatbelt) be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through York's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around York? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Avon Valley (Wheatbelt)'s real conditions.</p>
+  <a href="/services/custom-tank-design" class="cta-btn">Discuss Your Water Storage Requirements</a>
+</div>`,
+    coverImageUrl: `${BASE}/ticking-inspection.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in York | PC Water",
+    seoDescription:
+      "York (the Avon Valley (Wheatbelt)) tank storage: agriculture demand and mediterranean-climate conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-11-03T09:00:00.000Z',
+    createdAt: '2026-11-03T09:00:00.000Z',
+    updatedAt: '2026-11-03T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-york', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-york', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Katherine: Defence & Trop'),
+    title: "Water Storage and Tank Services in Katherine: Defence & Tropical Water Security",
+    slug: 'water-storage-and-tank-services-in-katherine-defence-and-tropical-water-security',
+    excerpt:
+      "Katherine is on the Katherine River, in the Top End, a Top End town with an extreme wet-dry monsoon climate and a major defence base. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Katherine sits on the Katherine River, in the Top End of the Northern Territory. The town's economy is built substantially around defence (RAAF Base Tindal), agriculture and tourism, and it is a Top End town with an extreme wet-dry monsoon climate and a major defence base - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Katherine, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Katherine's water context is distinctive</span></div>
+
+<h3>A monsoon-driven seasonal water cycle</h3>
+<p>Katherine is on the Katherine River, and that geography carries real consequences for water storage: a Top End town with an extreme wet-dry monsoon climate and a major defence base. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from defence</h3>
+<p>Defence (RAAF Base Tindal), Agriculture And Tourism is a defining part of Katherine's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/sediment-tank-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Top End account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Top End</span></div>
+
+<p>For a property in or around Katherine, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a Top End town with an extreme wet-dry monsoon climate and a major defence base. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/harsh-env-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Top End is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Katherine's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">AS4020</span>
+  <span class="stat-label">The Australian Standard certifying that a product or material is safe for use in contact with drinking water</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Katherine property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Roof and vent design for monsoon-intensity rainfall</td><td>Wet-season inflow rates are far higher than a temperate-climate design assumption</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Katherine different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Katherine is a Top End town with an extreme wet-dry monsoon climate and a major defence base, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does defence affect water storage requirements for other properties in Katherine?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around defence (RAAF Base Tindal), agriculture and tourism shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Top End be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Katherine's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Katherine? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Top End's real conditions.</p>
+  <a href="/services/foundation-civil-integration" class="cta-btn">Discuss Cyclone-Region Tank Design</a>
+</div>`,
+    coverImageUrl: `${BASE}/sediment-tank-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Katherine | PC Water",
+    seoDescription:
+      "Katherine (the Top End) tank storage: defence demand and tropical conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-11-03T15:00:00.000Z',
+    createdAt: '2026-11-03T15:00:00.000Z',
+    updatedAt: '2026-11-03T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-katherine', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-katherine', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Tennant Creek: Gold Minin'),
+    title: "Water Storage and Tank Services in Tennant Creek: Gold Mining & Outback Water Security",
+    slug: 'water-storage-and-tank-services-in-tennant-creek-gold-mining-and-outback-water-security',
+    excerpt:
+      "Tennant Creek is on the Barkly Tableland, in the Barkly region, a remote Barkly region mining town, genuinely dependent on bore and tank storage. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Tennant Creek sits on the Barkly Tableland, in the Barkly region of the Northern Territory. The town's economy is built substantially around gold mining and pastoral grazing, and it is a remote Barkly region mining town, genuinely dependent on bore and tank storage - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Tennant Creek, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Tennant Creek's water context is distinctive</span></div>
+
+<h3>Low, unreliable rainfall and long freight distances</h3>
+<p>Tennant Creek is on the Barkly Tableland, and that geography carries real consequences for water storage: a remote Barkly region mining town, genuinely dependent on bore and tank storage. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from gold mining</h3>
+<p>Gold Mining And Pastoral Grazing is a defining part of Tennant Creek's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/water-food-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Barkly region account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Barkly region</span></div>
+
+<p>For a property in or around Tennant Creek, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a remote Barkly region mining town, genuinely dependent on bore and tank storage. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/harsh-env-drone.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Barkly region is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Tennant Creek's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">AS1170</span>
+  <span class="stat-label">The Australian Standard series governing structural design actions, including the wind and seismic loads every water tank has to be engineered against</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Tennant Creek property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Freight and access planning for remote delivery</td><td>Long distances from a supply base change what "urgent repair" can realistically mean</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Tennant Creek different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Tennant Creek is a remote Barkly region mining town, genuinely dependent on bore and tank storage, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does gold mining affect water storage requirements for other properties in Tennant Creek?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around gold mining and pastoral grazing shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Barkly region be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Tennant Creek's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Tennant Creek? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Barkly region's real conditions.</p>
+  <a href="/services/remote-area-delivery" class="cta-btn">Discuss Remote Water Storage Delivery</a>
+</div>`,
+    coverImageUrl: `${BASE}/water-food-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Tennant Creek | PC Water",
+    seoDescription:
+      "Tennant Creek (the Barkly region) tank storage: gold mining demand and outback conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-11-04T09:00:00.000Z',
+    createdAt: '2026-11-04T09:00:00.000Z',
+    updatedAt: '2026-11-04T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-tennant-creek', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-tennant-creek', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Nhulunbuy: Bauxite Mining'),
+    title: "Water Storage and Tank Services in Nhulunbuy: Bauxite Mining & Tropical Water Security",
+    slug: 'water-storage-and-tank-services-in-nhulunbuy-bauxite-mining-and-tropical-water-security',
+    excerpt:
+      "Nhulunbuy is on the Gove Peninsula, in East Arnhem Land, a remote East Arnhem mining town with extreme freight distance from any major supply chain. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Nhulunbuy sits on the Gove Peninsula, in East Arnhem Land of the Northern Territory. The town's economy is built substantially around bauxite mining, and it is a remote East Arnhem mining town with extreme freight distance from any major supply chain - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Nhulunbuy, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Nhulunbuy's water context is distinctive</span></div>
+
+<h3>An extreme wet-dry tropical climate</h3>
+<p>Nhulunbuy is on the Gove Peninsula, and that geography carries real consequences for water storage: a remote East Arnhem mining town with extreme freight distance from any major supply chain. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from bauxite mining</h3>
+<p>Bauxite Mining is a defining part of Nhulunbuy's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/water-food-hatch.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in East Arnhem Land account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in East Arnhem Land</span></div>
+
+<p>For a property in or around Nhulunbuy, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a remote East Arnhem mining town with extreme freight distance from any major supply chain. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/corrosion-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for East Arnhem Land is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Nhulunbuy's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">AS2419</span>
+  <span class="stat-label">The Australian Standard governing fire hydrant installations, including the static water supply a fire tank has to reliably deliver</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Nhulunbuy property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Roof and vent design for monsoon-intensity rainfall</td><td>Wet-season inflow rates are far higher than a temperate-climate design assumption</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Nhulunbuy different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Nhulunbuy is a remote East Arnhem mining town with extreme freight distance from any major supply chain, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does bauxite mining affect water storage requirements for other properties in Nhulunbuy?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around bauxite mining shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in East Arnhem Land be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Nhulunbuy's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Nhulunbuy? PC Water Infrastructure delivers tank design, installation and maintenance suited to East Arnhem Land's real conditions.</p>
+  <a href="/services/foundation-civil-integration" class="cta-btn">Discuss Cyclone-Region Tank Design</a>
+</div>`,
+    coverImageUrl: `${BASE}/water-food-hatch.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Nhulunbuy | PC Water",
+    seoDescription:
+      "Nhulunbuy (East Arnhem Land) tank storage: bauxite mining demand and tropical conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-11-04T15:00:00.000Z',
+    createdAt: '2026-11-04T15:00:00.000Z',
+    updatedAt: '2026-11-04T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-nhulunbuy', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-nhulunbuy', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Palmerston: Residential G'),
+    title: "Water Storage and Tank Services in Palmerston: Residential Growth & Tropical Water Security",
+    slug: 'water-storage-and-tank-services-in-palmerston-residential-growth-and-tropical-water-security',
+    excerpt:
+      "Palmerston is near the Elizabeth River, in greater Darwin, the Northern Territory's second-largest city, a fast-growing satellite of Darwin. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Palmerston sits near the Elizabeth River, in greater Darwin of the Northern Territory. The town's economy is built substantially around residential growth and logistics, and it is the Northern Territory's second-largest city, a fast-growing satellite of Darwin - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Palmerston, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Palmerston's water context is distinctive</span></div>
+
+<h3>A monsoon-driven seasonal water cycle</h3>
+<p>Palmerston is near the Elizabeth River, and that geography carries real consequences for water storage: the Northern Territory's second-largest city, a fast-growing satellite of Darwin. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from residential growth</h3>
+<p>Residential Growth And Logistics is a defining part of Palmerston's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/rpvc-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in greater Darwin account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in greater Darwin</span></div>
+
+<p>For a property in or around Palmerston, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given the Northern Territory's second-largest city, a fast-growing satellite of Darwin. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/corrosion-rov-inspection.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for greater Darwin is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Palmerston's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">19.5-23.5%</span>
+  <span class="stat-label">The safe oxygen concentration range for confined space entry into a water tank — outside this band, entry requires additional controls before anyone goes in</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Palmerston property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Roof and vent design for monsoon-intensity rainfall</td><td>Wet-season inflow rates are far higher than a temperate-climate design assumption</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Palmerston different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Palmerston is the Northern Territory's second-largest city, a fast-growing satellite of Darwin, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does residential growth affect water storage requirements for other properties in Palmerston?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around residential growth and logistics shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in greater Darwin be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Palmerston's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Palmerston? PC Water Infrastructure delivers tank design, installation and maintenance suited to greater Darwin's real conditions.</p>
+  <a href="/services/foundation-civil-integration" class="cta-btn">Discuss Cyclone-Region Tank Design</a>
+</div>`,
+    coverImageUrl: `${BASE}/rpvc-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Palmerston | PC Water",
+    seoDescription:
+      "Palmerston (greater Darwin) tank storage: residential growth demand and tropical conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-11-05T09:00:00.000Z',
+    createdAt: '2026-11-05T09:00:00.000Z',
+    updatedAt: '2026-11-05T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-palmerston', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-palmerston', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Devonport: Port Operation'),
+    title: "Water Storage and Tank Services in Devonport: Port Operations & Coastal Water Security",
+    slug: 'water-storage-and-tank-services-in-devonport-port-operations-and-coastal-water-security',
+    excerpt:
+      "Devonport is on the Mersey River, in the North West Coast, Tasmania's main Bass Strait ferry port and a significant agricultural service centre. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Devonport sits on the Mersey River, in the North West Coast of Tasmania. The town's economy is built substantially around port operations (Spirit of Tasmania) and agriculture, and it is Tasmania's main Bass Strait ferry port and a significant agricultural service centre - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Devonport, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Devonport's water context is distinctive</span></div>
+
+<h3>Reliable rainfall alongside real seasonal industry demand</h3>
+<p>Devonport is on the Mersey River, and that geography carries real consequences for water storage: Tasmania's main Bass Strait ferry port and a significant agricultural service centre. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from port operations</h3>
+<p>Port Operations (Spirit Of Tasmania) And Agriculture is a defining part of Devonport's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/rpvc-inline.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the North West Coast account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the North West Coast</span></div>
+
+<p>For a property in or around Devonport, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given Tasmania's main Bass Strait ferry port and a significant agricultural service centre. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/cleaning-inspection-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the North West Coast is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Devonport's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">150mm+</span>
+  <span class="stat-label">A typical minimum freeboard allowance built into tank design so storm inflow and wave action do not push water over the roofline</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Devonport property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Salt-air corrosion allowance on external steelwork</td><td>Coastal exposure accelerates external corrosion beyond a standard inland specification</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Devonport different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Devonport is Tasmania's main Bass Strait ferry port and a significant agricultural service centre, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does port operations affect water storage requirements for other properties in Devonport?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around port operations (Spirit of Tasmania) and agriculture shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the North West Coast be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Devonport's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Devonport? PC Water Infrastructure delivers tank design, installation and maintenance suited to the North West Coast's real conditions.</p>
+  <a href="/services/custom-tank-design" class="cta-btn">Discuss Your Water Storage Requirements</a>
+</div>`,
+    coverImageUrl: `${BASE}/rpvc-inline.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Devonport | PC Water",
+    seoDescription:
+      "Devonport (the North West Coast) tank storage: port operations demand and coastal conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-11-05T15:00:00.000Z',
+    createdAt: '2026-11-05T15:00:00.000Z',
+    updatedAt: '2026-11-05T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-devonport', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-devonport', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Burnie: Port Operations &'),
+    title: "Water Storage and Tank Services in Burnie: Port Operations & Coastal Water Security",
+    slug: 'water-storage-and-tank-services-in-burnie-port-operations-and-coastal-water-security',
+    excerpt:
+      "Burnie is on Emu Bay, in the North West Coast, a North West Coast industrial port city with a long paper and manufacturing history. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Burnie sits on Emu Bay, in the North West Coast of Tasmania. The town's economy is built substantially around port operations and manufacturing, and it is a North West Coast industrial port city with a long paper and manufacturing history - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Burnie, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Burnie's water context is distinctive</span></div>
+
+<h3>A cool, wet coastal climate</h3>
+<p>Burnie is on Emu Bay, and that geography carries real consequences for water storage: a North West Coast industrial port city with a long paper and manufacturing history. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from port operations</h3>
+<p>Port Operations And Manufacturing is a defining part of Burnie's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/sector-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the North West Coast account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the North West Coast</span></div>
+
+<p>For a property in or around Burnie, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a North West Coast industrial port city with a long paper and manufacturing history. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/fire-tank-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the North West Coast is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Burnie's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">9.81 kPa</span>
+  <span class="stat-label">Hydrostatic pressure added at the base of a water tank for every metre of head — the constant every tank foundation and shell design has to be checked against</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Burnie property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Salt-air corrosion allowance on external steelwork</td><td>Coastal exposure accelerates external corrosion beyond a standard inland specification</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Burnie different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Burnie is a North West Coast industrial port city with a long paper and manufacturing history, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does port operations affect water storage requirements for other properties in Burnie?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around port operations and manufacturing shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the North West Coast be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Burnie's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Burnie? PC Water Infrastructure delivers tank design, installation and maintenance suited to the North West Coast's real conditions.</p>
+  <a href="/services/custom-tank-design" class="cta-btn">Discuss Your Water Storage Requirements</a>
+</div>`,
+    coverImageUrl: `${BASE}/sector-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Burnie | PC Water",
+    seoDescription:
+      "Burnie (the North West Coast) tank storage: port operations demand and coastal conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-11-06T09:00:00.000Z',
+    createdAt: '2026-11-06T09:00:00.000Z',
+    updatedAt: '2026-11-06T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-burnie', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-burnie', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Ulverstone: Vegetable Pro'),
+    title: "Water Storage and Tank Services in Ulverstone: Vegetable Processing & Coastal Water Security",
+    slug: 'water-storage-and-tank-services-in-ulverstone-vegetable-processing-and-coastal-water-security',
+    excerpt:
+      "Ulverstone is on the Leven River, in the North West Coast, a North West Coast vegetable-growing and processing town. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Ulverstone sits on the Leven River, in the North West Coast of Tasmania. The town's economy is built substantially around vegetable processing and agriculture, and it is a North West Coast vegetable-growing and processing town - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Ulverstone, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Ulverstone's water context is distinctive</span></div>
+
+<h3>A temperate coastal economy</h3>
+<p>Ulverstone is on the Leven River, and that geography carries real consequences for water storage: a North West Coast vegetable-growing and processing town. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from vegetable processing</h3>
+<p>Vegetable Processing And Agriculture is a defining part of Ulverstone's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/sector-inspection.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the North West Coast account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the North West Coast</span></div>
+
+<p>For a property in or around Ulverstone, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given a North West Coast vegetable-growing and processing town. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/fire-tank-inspection.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the North West Coast is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Ulverstone's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">12 mths</span>
+  <span class="stat-label">Standard Defects Liability Period reflected in most Australian water infrastructure procurement contracts</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Ulverstone property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Salt-air corrosion allowance on external steelwork</td><td>Coastal exposure accelerates external corrosion beyond a standard inland specification</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Ulverstone different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Ulverstone is a North West Coast vegetable-growing and processing town, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does vegetable processing affect water storage requirements for other properties in Ulverstone?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around vegetable processing and agriculture shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the North West Coast be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Ulverstone's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Ulverstone? PC Water Infrastructure delivers tank design, installation and maintenance suited to the North West Coast's real conditions.</p>
+  <a href="/services/tank-maintenance-upgrades" class="cta-btn">Discuss Industrial Tank Maintenance</a>
+</div>`,
+    coverImageUrl: `${BASE}/sector-inspection.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Ulverstone | PC Water",
+    seoDescription:
+      "Ulverstone (the North West Coast) tank storage: vegetable processing demand and coastal conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-11-06T15:00:00.000Z',
+    createdAt: '2026-11-06T15:00:00.000Z',
+    updatedAt: '2026-11-06T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-ulverstone', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-ulverstone', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Queenstown: Historic Copp'),
+    title: "Water Storage and Tank Services in Queenstown: Historic Copper Mining Heritage & Coastal Water Security",
+    slug: 'water-storage-and-tank-services-in-queenstown-historic-copper-mining-heritage-and-coastal-water-security',
+    excerpt:
+      "Queenstown is on the King River, in the West Coast, one of the wettest towns in Tasmania, in a region with an extreme historic mining-driven landscape. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Queenstown sits on the King River, in the West Coast of Tasmania. The town's economy is built substantially around historic copper mining heritage, and it is one of the wettest towns in Tasmania, in a region with an extreme historic mining-driven landscape - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Queenstown, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Queenstown's water context is distinctive</span></div>
+
+<h3>Reliable rainfall alongside real seasonal industry demand</h3>
+<p>Queenstown is on the King River, and that geography carries real consequences for water storage: one of the wettest towns in Tasmania, in a region with an extreme historic mining-driven landscape. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from historic copper mining heritage</h3>
+<p>Historic Copper Mining Heritage is a defining part of Queenstown's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/harsh-env-hero.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the West Coast account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the West Coast</span></div>
+
+<p>For a property in or around Queenstown, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given one of the wettest towns in Tasmania, in a region with an extreme historic mining-driven landscape. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/ticking-hero.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the West Coast is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Queenstown's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">20-45°C</span>
+  <span class="stat-label">The water temperature range in which Legionella bacteria multiply most readily in stored water — the reason temperature control matters as much as disinfectant residual</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Queenstown property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Salt-air corrosion allowance on external steelwork</td><td>Coastal exposure accelerates external corrosion beyond a standard inland specification</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Queenstown different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Queenstown is one of the wettest towns in Tasmania, in a region with an extreme historic mining-driven landscape, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does historic copper mining heritage affect water storage requirements for other properties in Queenstown?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around historic copper mining heritage shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the West Coast be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Queenstown's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Queenstown? PC Water Infrastructure delivers tank design, installation and maintenance suited to the West Coast's real conditions.</p>
+  <a href="/services/tank-maintenance-upgrades" class="cta-btn">Discuss Industrial Tank Maintenance</a>
+</div>`,
+    coverImageUrl: `${BASE}/harsh-env-hero.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Queenstown | PC Water",
+    seoDescription:
+      "Queenstown (the West Coast) tank storage: historic copper mining heritage demand and coastal conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-11-07T09:00:00.000Z',
+    createdAt: '2026-11-07T09:00:00.000Z',
+    updatedAt: '2026-11-07T09:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-queenstown', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-queenstown', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
+  {
+    id: staticId('post', 'Water Storage and Tank Services in Huonville: Apple Growing '),
+    title: "Water Storage and Tank Services in Huonville: Apple Growing & Coastal Water Security",
+    slug: 'water-storage-and-tank-services-in-huonville-apple-growing-and-coastal-water-security',
+    excerpt:
+      "Huonville is on the Huon River, in the Huon Valley, the centre of Tasmania's historic apple-growing region, now diversifying into aquaculture. Here is what that means for water storage tank sizing, compliance and maintenance in the region.",
+    content: `<p class="article-lead">
+  Huonville sits on the Huon River, in the Huon Valley of Tasmania. The town's economy is built substantially around apple growing and aquaculture, and it is the centre of Tasmania's historic apple-growing region, now diversifying into aquaculture - both facts that shape what "adequate" water storage actually looks like for a property or business here, rather than a generic national default.
+</p>
+
+<p>Water storage decisions made without accounting for local climate and demand context tend to under-perform exactly when they are needed most. For Huonville, that means sizing, siting and maintaining tank infrastructure against the conditions the region actually produces, not the conditions a standard specification assumes.</p>
+
+<div class="article-divider"><span>Why Huonville's water context is distinctive</span></div>
+
+<h3>A cool, wet coastal climate</h3>
+<p>Huonville is on the Huon River, and that geography carries real consequences for water storage: the centre of Tasmania's historic apple-growing region, now diversifying into aquaculture. Any tank specification for the area needs to start from these conditions, not from a metro assumption carried across without adjustment.</p>
+
+<h3>Demand from apple growing</h3>
+<p>Apple Growing And Aquaculture is a defining part of Huonville's economy, and it places its own demands on local water infrastructure alongside ordinary potable and fire storage needs. A tank owner or facility manager here is rarely dealing with a single, simple demand profile - process, fire and potable requirements typically sit on the same site and can compete for the same storage margin if it isn't planned for properly.</p>
+
+<figure>
+  <img src="${BASE}/harsh-env-drone.jpg" alt="Water storage tank installation serving a regional Australian property"/>
+  <figcaption><strong>Specified for the conditions on site, not a generic default.</strong> Tank sizing and structural design in the Huon Valley account for the region's real climate and demand profile.</figcaption>
+</figure>
+
+<div class="article-divider"><span>What this means for tank owners in the Huon Valley</span></div>
+
+<p>For a property in or around Huonville, the practical takeaway is that water storage deserves the same rigour a metro site would apply to networked backup infrastructure - arguably more, given the centre of Tasmania's historic apple-growing region, now diversifying into aquaculture. That means sizing storage against realistic local demand and dry-period duration, keeping a maintained inspection schedule so the tank delivers its full rated capacity when drawn down hard, and treating fire compliance storage as a protected reserve rather than a shared pool with everyday use.</p>
+
+<figure>
+  <img src="${BASE}/ticking-inspection.jpg" alt="Water storage and tank inspection work at a regional Australian site"/>
+  <figcaption><strong>Local conditions, checked against the actual design.</strong> A tank built for the Huon Valley is only as reliable as the maintenance and inspection regime behind it.</figcaption>
+</figure>
+
+<blockquote class="article-quotable">
+  <p>Huonville's water infrastructure has to work with a specific set of local conditions, not around them. Storage that is sized and maintained for those conditions is what actually performs when it is tested.</p>
+</blockquote>
+
+<div class="article-pull-stat">
+  <span class="stat-num">AS4020</span>
+  <span class="stat-label">The Australian Standard certifying that a product or material is safe for use in contact with drinking water</span>
+</div>
+
+<div class="article-divider"><span>What to check on a Huonville property</span></div>
+
+<table class="checklist-table">
+  <thead>
+    <tr><th>Check</th><th>Why it matters locally</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspection schedule matched to actual duty cycle</td><td>A tank drawn down hard needs a tighter inspection interval than a lightly used backup</td></tr>
+    <tr><td>Fire compliance volume isolated from general draw</td><td>Fire water reserve has to be protected from being quietly consumed by everyday demand</td></tr>
+    <tr><td>Salt-air corrosion allowance on external steelwork</td><td>Coastal exposure accelerates external corrosion beyond a standard inland specification</td></tr>
+  </tbody>
+</table>
+
+<div class="article-faq-item">
+  <p class="faq-q">What makes water storage in Huonville different from a metro specification?</p>
+  <p class="faq-a">Mainly the local climate and demand profile - Huonville is the centre of Tasmania's historic apple-growing region, now diversifying into aquaculture, which changes sizing, structural design and maintenance priorities compared with a standard city default.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">Does apple growing affect water storage requirements for other properties in Huonville?</p>
+  <p class="faq-a">Indirectly, yes. A local economy built around apple growing and aquaculture shapes regional water infrastructure priorities and available contractor expertise, even for a property with a straightforward potable or fire storage need.</p>
+</div>
+
+<div class="article-faq-item">
+  <p class="faq-q">How often should a tank in the Huon Valley be inspected?</p>
+  <p class="faq-a">It depends on duty cycle and local conditions rather than a fixed national interval - a tank drawn down hard through Huonville's climate pattern generally needs a tighter inspection schedule than a lightly used backup elsewhere.</p>
+</div>
+
+<div class="article-cta">
+  <p>Own or manage water storage infrastructure in or around Huonville? PC Water Infrastructure delivers tank design, installation and maintenance suited to the Huon Valley's real conditions.</p>
+  <a href="/services/custom-tank-design" class="cta-btn">Discuss Your Water Storage Requirements</a>
+</div>`,
+    coverImageUrl: `${BASE}/harsh-env-drone.jpg`,
+    readTime: '5 min read',
+    status: 'published',
+    seoTitle: "Water Tank Services in Huonville | PC Water",
+    seoDescription:
+      "Huonville (the Huon Valley) tank storage: apple growing demand and coastal conditions shape sizing, compliance and maintenance. A practical regional guide.",
+    publishedAt: '2026-11-07T15:00:00.000Z',
+    createdAt: '2026-11-07T15:00:00.000Z',
+    updatedAt: '2026-11-07T15:00:00.000Z',
+    tags: [
+      { id: 'tag-regional-huonville', name: 'Regional', slug: 'regional' },
+      { id: 'tag-remote-community-huonville', name: 'Remote Community', slug: 'remote-community' },
+    ],
+  },
 ]
 
 export const fallbackProjects: CmsProject[] = [
