@@ -153,7 +153,6 @@ export default async function ManagedProjectPage({
     { label: 'Scope', value: project.scope },
     { label: 'Client', value: project.clientOrganisation },
     { label: 'Status', value: project.projectStatus || 'Completed' },
-    { label: 'Contract value', value: project.contractValue },
   ].filter((f): f is { label: string; value: string } => Boolean(f.value?.trim()))
 
   const stats = [

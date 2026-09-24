@@ -842,6 +842,156 @@ export const ARTICLE_CLASSIFICATION: Record<string, Classification> = {
   'water-storage-and-tank-services-in-huonville-apple-growing-and-coastal-water-security': {
     category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'tas',
   },
+  'water-storage-and-tank-services-in-ipswich-residential-growth-and-subtropical-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'qld',
+  },
+  'water-storage-and-tank-services-in-beaudesert-dairy-and-subtropical-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'qld',
+  },
+  'water-storage-and-tank-services-in-sarina-sugar-cane-growing-and-cyclone-region-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'qld',
+  },
+  'water-storage-and-tank-services-in-proserpine-sugar-cane-growing-and-cyclone-region-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'qld',
+  },
+  'water-storage-and-tank-services-in-cooktown-tourism-and-tropical-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'qld',
+  },
+  'water-storage-and-tank-services-in-winton-grazing-and-outback-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'qld',
+  },
+  'water-storage-and-tank-services-in-blackall-wool-and-outback-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'qld',
+  },
+  'water-storage-and-tank-services-in-st-george-cotton-growing-and-dry-climate-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'qld',
+  },
+  'water-storage-and-tank-services-in-goondiwindi-cotton-and-dry-climate-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'qld',
+  },
+  'water-storage-and-tank-services-in-cloncurry-copper-mining-and-outback-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'qld',
+  },
+  'water-storage-and-tank-services-in-deniliquin-irrigated-agriculture-and-dry-climate-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'nsw',
+  },
+  'water-storage-and-tank-services-in-leeton-rice-growing-and-dry-climate-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'nsw',
+  },
+  'water-storage-and-tank-services-in-hay-grazing-and-dry-climate-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'nsw',
+  },
+  'water-storage-and-tank-services-in-cobar-copper-and-outback-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'nsw',
+  },
+  'water-storage-and-tank-services-in-bourke-irrigated-agriculture-and-outback-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'nsw',
+  },
+  'water-storage-and-tank-services-in-glen-innes-grazing-and-cool-climate-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'nsw',
+  },
+  'water-storage-and-tank-services-in-inverell-agriculture-and-cool-climate-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'nsw',
+  },
+  'water-storage-and-tank-services-in-casino-beef-processing-and-subtropical-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'nsw',
+  },
+  'water-storage-and-tank-services-in-muswellbrook-coal-mining-and-cool-climate-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'nsw',
+  },
+  'water-storage-and-tank-services-in-batemans-bay-tourism-and-coastal-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'nsw',
+  },
+  'water-storage-and-tank-services-in-cowra-agriculture-and-cool-climate-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'nsw',
+  },
+  'water-storage-and-tank-services-in-yass-grazing-and-cool-climate-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'nsw',
+  },
+  'water-storage-and-tank-services-in-kyneton-agriculture-and-cool-climate-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'vic',
+  },
+  'water-storage-and-tank-services-in-castlemaine-historic-goldfields-heritage-and-cool-climate-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'vic',
+  },
+  'water-storage-and-tank-services-in-hamilton-wool-and-cool-climate-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'vic',
+  },
+  'water-storage-and-tank-services-in-leongatha-dairy-processing-and-coastal-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'vic',
+  },
+  'water-storage-and-tank-services-in-warragul-dairy-and-coastal-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'vic',
+  },
+  'water-storage-and-tank-services-in-morwell-energy-generation-and-cool-climate-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'vic',
+  },
+  'water-storage-and-tank-services-in-seymour-defence-and-cool-climate-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'vic',
+  },
+  'water-storage-and-tank-services-in-bacchus-marsh-horticulture-and-cool-climate-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'vic',
+  },
+  'water-storage-and-tank-services-in-naracoorte-grazing-and-coastal-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'sa',
+  },
+  'water-storage-and-tank-services-in-clare-viticulture-and-mediterranean-climate-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'sa',
+  },
+  'water-storage-and-tank-services-in-tanunda-viticulture-and-mediterranean-climate-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'sa',
+  },
+  'water-storage-and-tank-services-in-strathalbyn-agriculture-and-mediterranean-climate-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'sa',
+  },
+  'water-storage-and-tank-services-in-loxton-irrigated-citrus-and-dry-climate-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'sa',
+  },
+  'water-storage-and-tank-services-in-coober-pedy-opal-mining-and-outback-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'sa',
+  },
+  'water-storage-and-tank-services-in-margaret-river-viticulture-and-mediterranean-climate-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'wa',
+  },
+  'water-storage-and-tank-services-in-denmark-agriculture-and-coastal-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'wa',
+  },
+  'water-storage-and-tank-services-in-narrogin-grain-growing-and-mediterranean-climate-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'wa',
+  },
+  'water-storage-and-tank-services-in-newman-iron-ore-mining-and-outback-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'wa',
+  },
+  'water-storage-and-tank-services-in-tom-price-iron-ore-mining-and-outback-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'wa',
+  },
+  'water-storage-and-tank-services-in-exmouth-tourism-and-cyclone-region-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'wa',
+  },
+  'water-storage-and-tank-services-in-derby-agriculture-and-tropical-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'wa',
+  },
+  'water-storage-and-tank-services-in-halls-creek-pastoral-grazing-and-tropical-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'wa',
+  },
+  'water-storage-and-tank-services-in-jabiru-tourism-and-tropical-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'nt',
+  },
+  'water-storage-and-tank-services-in-yulara-tourism-and-outback-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'nt',
+  },
+  'water-storage-and-tank-services-in-adelaide-river-agriculture-and-tropical-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'nt',
+  },
+  'water-storage-and-tank-services-in-new-norfolk-agriculture-and-coastal-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'tas',
+  },
+  'water-storage-and-tank-services-in-george-town-industrial-port-operations-and-coastal-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'tas',
+  },
+  'water-storage-and-tank-services-in-st-helens-fishing-and-coastal-water-security': {
+    category: 'regional', format: 'regional', topics: ['remote-regional'], region: 'tas',
+  },
 }
 
 // ─────────────────────────────────────────────────────────────────────────

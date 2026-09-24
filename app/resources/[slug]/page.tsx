@@ -1972,6 +1972,356 @@ const resourceLinkMap: Record<
     relatedResources: ['water-storage-and-tank-services-in-queenstown-historic-copper-mining-heritage-and-coastal-water-security', 'water-storage-and-tank-services-in-devonport-port-operations-and-coastal-water-security', 'water-storage-and-tank-services-in-burnie-port-operations-and-coastal-water-security'],
     keywords: ["water storage Huonville", "TAS water tank services", "apple growing water infrastructure Huonville"],
   },
+  'water-storage-and-tank-services-in-ipswich-residential-growth-and-subtropical-water-security': {
+    relatedServices: [
+      { href: '/services/custom-tank-design', label: 'Custom Tank Design' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-beaudesert-dairy-and-subtropical-water-security', 'water-storage-and-tank-services-in-sarina-sugar-cane-growing-and-cyclone-region-water-security', 'water-storage-and-tank-services-in-proserpine-sugar-cane-growing-and-cyclone-region-water-security'],
+    keywords: ["water storage Ipswich", "QLD water tank services", "residential growth water infrastructure Ipswich"],
+  },
+  'water-storage-and-tank-services-in-beaudesert-dairy-and-subtropical-water-security': {
+    relatedServices: [
+      { href: '/services/custom-tank-design', label: 'Custom Tank Design' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-sarina-sugar-cane-growing-and-cyclone-region-water-security', 'water-storage-and-tank-services-in-proserpine-sugar-cane-growing-and-cyclone-region-water-security', 'water-storage-and-tank-services-in-cooktown-tourism-and-tropical-water-security'],
+    keywords: ["water storage Beaudesert", "QLD water tank services", "dairy water infrastructure Beaudesert"],
+  },
+  'water-storage-and-tank-services-in-sarina-sugar-cane-growing-and-cyclone-region-water-security': {
+    relatedServices: [
+      { href: '/services/foundation-civil-integration', label: 'Foundation & Civil Integration' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-proserpine-sugar-cane-growing-and-cyclone-region-water-security', 'water-storage-and-tank-services-in-cooktown-tourism-and-tropical-water-security', 'water-storage-and-tank-services-in-winton-grazing-and-outback-water-security'],
+    keywords: ["water storage Sarina", "QLD water tank services", "sugar cane growing water infrastructure Sarina"],
+  },
+  'water-storage-and-tank-services-in-proserpine-sugar-cane-growing-and-cyclone-region-water-security': {
+    relatedServices: [
+      { href: '/services/foundation-civil-integration', label: 'Foundation & Civil Integration' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-cooktown-tourism-and-tropical-water-security', 'water-storage-and-tank-services-in-winton-grazing-and-outback-water-security', 'water-storage-and-tank-services-in-blackall-wool-and-outback-water-security'],
+    keywords: ["water storage Proserpine", "QLD water tank services", "sugar cane growing water infrastructure Proserpine"],
+  },
+  'water-storage-and-tank-services-in-cooktown-tourism-and-tropical-water-security': {
+    relatedServices: [
+      { href: '/services/foundation-civil-integration', label: 'Foundation & Civil Integration' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-winton-grazing-and-outback-water-security', 'water-storage-and-tank-services-in-blackall-wool-and-outback-water-security', 'water-storage-and-tank-services-in-st-george-cotton-growing-and-dry-climate-water-security'],
+    keywords: ["water storage Cooktown", "QLD water tank services", "tourism water infrastructure Cooktown"],
+  },
+  'water-storage-and-tank-services-in-winton-grazing-and-outback-water-security': {
+    relatedServices: [
+      { href: '/services/remote-area-delivery', label: 'Remote Area Delivery' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-blackall-wool-and-outback-water-security', 'water-storage-and-tank-services-in-st-george-cotton-growing-and-dry-climate-water-security', 'water-storage-and-tank-services-in-goondiwindi-cotton-and-dry-climate-water-security'],
+    keywords: ["water storage Winton", "QLD water tank services", "grazing water infrastructure Winton"],
+  },
+  'water-storage-and-tank-services-in-blackall-wool-and-outback-water-security': {
+    relatedServices: [
+      { href: '/services/remote-area-delivery', label: 'Remote Area Delivery' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-st-george-cotton-growing-and-dry-climate-water-security', 'water-storage-and-tank-services-in-goondiwindi-cotton-and-dry-climate-water-security', 'water-storage-and-tank-services-in-cloncurry-copper-mining-and-outback-water-security'],
+    keywords: ["water storage Blackall", "QLD water tank services", "wool water infrastructure Blackall"],
+  },
+  'water-storage-and-tank-services-in-st-george-cotton-growing-and-dry-climate-water-security': {
+    relatedServices: [
+      { href: '/services/custom-tank-design', label: 'Custom Tank Design' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-goondiwindi-cotton-and-dry-climate-water-security', 'water-storage-and-tank-services-in-cloncurry-copper-mining-and-outback-water-security', 'water-storage-and-tank-services-in-ipswich-residential-growth-and-subtropical-water-security'],
+    keywords: ["water storage St George", "QLD water tank services", "cotton growing water infrastructure St George"],
+  },
+  'water-storage-and-tank-services-in-goondiwindi-cotton-and-dry-climate-water-security': {
+    relatedServices: [
+      { href: '/services/custom-tank-design', label: 'Custom Tank Design' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-cloncurry-copper-mining-and-outback-water-security', 'water-storage-and-tank-services-in-ipswich-residential-growth-and-subtropical-water-security', 'water-storage-and-tank-services-in-beaudesert-dairy-and-subtropical-water-security'],
+    keywords: ["water storage Goondiwindi", "QLD water tank services", "cotton water infrastructure Goondiwindi"],
+  },
+  'water-storage-and-tank-services-in-cloncurry-copper-mining-and-outback-water-security': {
+    relatedServices: [
+      { href: '/services/remote-area-delivery', label: 'Remote Area Delivery' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-ipswich-residential-growth-and-subtropical-water-security', 'water-storage-and-tank-services-in-beaudesert-dairy-and-subtropical-water-security', 'water-storage-and-tank-services-in-sarina-sugar-cane-growing-and-cyclone-region-water-security'],
+    keywords: ["water storage Cloncurry", "QLD water tank services", "copper mining water infrastructure Cloncurry"],
+  },
+  'water-storage-and-tank-services-in-deniliquin-irrigated-agriculture-and-dry-climate-water-security': {
+    relatedServices: [
+      { href: '/services/custom-tank-design', label: 'Custom Tank Design' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-yass-grazing-and-cool-climate-water-security', 'water-storage-and-tank-services-in-leeton-rice-growing-and-dry-climate-water-security', 'water-storage-and-tank-services-in-hay-grazing-and-dry-climate-water-security'],
+    keywords: ["water storage Deniliquin", "NSW water tank services", "irrigated agriculture water infrastructure Deniliquin"],
+  },
+  'water-storage-and-tank-services-in-leeton-rice-growing-and-dry-climate-water-security': {
+    relatedServices: [
+      { href: '/services/tank-maintenance-upgrades', label: 'Tank Maintenance & Upgrades' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-deniliquin-irrigated-agriculture-and-dry-climate-water-security', 'water-storage-and-tank-services-in-hay-grazing-and-dry-climate-water-security', 'water-storage-and-tank-services-in-cobar-copper-and-outback-water-security'],
+    keywords: ["water storage Leeton", "NSW water tank services", "rice growing water infrastructure Leeton"],
+  },
+  'water-storage-and-tank-services-in-hay-grazing-and-dry-climate-water-security': {
+    relatedServices: [
+      { href: '/services/custom-tank-design', label: 'Custom Tank Design' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-leeton-rice-growing-and-dry-climate-water-security', 'water-storage-and-tank-services-in-cobar-copper-and-outback-water-security', 'water-storage-and-tank-services-in-bourke-irrigated-agriculture-and-outback-water-security'],
+    keywords: ["water storage Hay", "NSW water tank services", "grazing water infrastructure Hay"],
+  },
+  'water-storage-and-tank-services-in-cobar-copper-and-outback-water-security': {
+    relatedServices: [
+      { href: '/services/remote-area-delivery', label: 'Remote Area Delivery' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-hay-grazing-and-dry-climate-water-security', 'water-storage-and-tank-services-in-bourke-irrigated-agriculture-and-outback-water-security', 'water-storage-and-tank-services-in-glen-innes-grazing-and-cool-climate-water-security'],
+    keywords: ["water storage Cobar", "NSW water tank services", "copper water infrastructure Cobar"],
+  },
+  'water-storage-and-tank-services-in-bourke-irrigated-agriculture-and-outback-water-security': {
+    relatedServices: [
+      { href: '/services/remote-area-delivery', label: 'Remote Area Delivery' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-cobar-copper-and-outback-water-security', 'water-storage-and-tank-services-in-glen-innes-grazing-and-cool-climate-water-security', 'water-storage-and-tank-services-in-inverell-agriculture-and-cool-climate-water-security'],
+    keywords: ["water storage Bourke", "NSW water tank services", "irrigated agriculture water infrastructure Bourke"],
+  },
+  'water-storage-and-tank-services-in-glen-innes-grazing-and-cool-climate-water-security': {
+    relatedServices: [
+      { href: '/services/custom-tank-design', label: 'Custom Tank Design' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-bourke-irrigated-agriculture-and-outback-water-security', 'water-storage-and-tank-services-in-inverell-agriculture-and-cool-climate-water-security', 'water-storage-and-tank-services-in-casino-beef-processing-and-subtropical-water-security'],
+    keywords: ["water storage Glen Innes", "NSW water tank services", "grazing water infrastructure Glen Innes"],
+  },
+  'water-storage-and-tank-services-in-inverell-agriculture-and-cool-climate-water-security': {
+    relatedServices: [
+      { href: '/services/tank-maintenance-upgrades', label: 'Tank Maintenance & Upgrades' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-glen-innes-grazing-and-cool-climate-water-security', 'water-storage-and-tank-services-in-casino-beef-processing-and-subtropical-water-security', 'water-storage-and-tank-services-in-muswellbrook-coal-mining-and-cool-climate-water-security'],
+    keywords: ["water storage Inverell", "NSW water tank services", "agriculture water infrastructure Inverell"],
+  },
+  'water-storage-and-tank-services-in-casino-beef-processing-and-subtropical-water-security': {
+    relatedServices: [
+      { href: '/services/tank-maintenance-upgrades', label: 'Tank Maintenance & Upgrades' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-inverell-agriculture-and-cool-climate-water-security', 'water-storage-and-tank-services-in-muswellbrook-coal-mining-and-cool-climate-water-security', 'water-storage-and-tank-services-in-batemans-bay-tourism-and-coastal-water-security'],
+    keywords: ["water storage Casino", "NSW water tank services", "beef processing water infrastructure Casino"],
+  },
+  'water-storage-and-tank-services-in-muswellbrook-coal-mining-and-cool-climate-water-security': {
+    relatedServices: [
+      { href: '/services/tank-maintenance-upgrades', label: 'Tank Maintenance & Upgrades' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-casino-beef-processing-and-subtropical-water-security', 'water-storage-and-tank-services-in-batemans-bay-tourism-and-coastal-water-security', 'water-storage-and-tank-services-in-cowra-agriculture-and-cool-climate-water-security'],
+    keywords: ["water storage Muswellbrook", "NSW water tank services", "coal mining water infrastructure Muswellbrook"],
+  },
+  'water-storage-and-tank-services-in-batemans-bay-tourism-and-coastal-water-security': {
+    relatedServices: [
+      { href: '/services/custom-tank-design', label: 'Custom Tank Design' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-muswellbrook-coal-mining-and-cool-climate-water-security', 'water-storage-and-tank-services-in-cowra-agriculture-and-cool-climate-water-security', 'water-storage-and-tank-services-in-yass-grazing-and-cool-climate-water-security'],
+    keywords: ["water storage Batemans Bay", "NSW water tank services", "tourism water infrastructure Batemans Bay"],
+  },
+  'water-storage-and-tank-services-in-cowra-agriculture-and-cool-climate-water-security': {
+    relatedServices: [
+      { href: '/services/custom-tank-design', label: 'Custom Tank Design' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-batemans-bay-tourism-and-coastal-water-security', 'water-storage-and-tank-services-in-yass-grazing-and-cool-climate-water-security', 'water-storage-and-tank-services-in-deniliquin-irrigated-agriculture-and-dry-climate-water-security'],
+    keywords: ["water storage Cowra", "NSW water tank services", "agriculture water infrastructure Cowra"],
+  },
+  'water-storage-and-tank-services-in-yass-grazing-and-cool-climate-water-security': {
+    relatedServices: [
+      { href: '/services/custom-tank-design', label: 'Custom Tank Design' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-cowra-agriculture-and-cool-climate-water-security', 'water-storage-and-tank-services-in-deniliquin-irrigated-agriculture-and-dry-climate-water-security', 'water-storage-and-tank-services-in-leeton-rice-growing-and-dry-climate-water-security'],
+    keywords: ["water storage Yass", "NSW water tank services", "grazing water infrastructure Yass"],
+  },
+  'water-storage-and-tank-services-in-kyneton-agriculture-and-cool-climate-water-security': {
+    relatedServices: [
+      { href: '/services/custom-tank-design', label: 'Custom Tank Design' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-hamilton-wool-and-cool-climate-water-security', 'water-storage-and-tank-services-in-leongatha-dairy-processing-and-coastal-water-security', 'water-storage-and-tank-services-in-warragul-dairy-and-coastal-water-security'],
+    keywords: ["water storage Kyneton", "VIC water tank services", "agriculture water infrastructure Kyneton"],
+  },
+  'water-storage-and-tank-services-in-castlemaine-historic-goldfields-heritage-and-cool-climate-water-security': {
+    relatedServices: [
+      { href: '/services/custom-tank-design', label: 'Custom Tank Design' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-leongatha-dairy-processing-and-coastal-water-security', 'water-storage-and-tank-services-in-warragul-dairy-and-coastal-water-security', 'water-storage-and-tank-services-in-morwell-energy-generation-and-cool-climate-water-security'],
+    keywords: ["water storage Castlemaine", "VIC water tank services", "historic goldfields heritage water infrastructure Castlemaine"],
+  },
+  'water-storage-and-tank-services-in-hamilton-wool-and-cool-climate-water-security': {
+    relatedServices: [
+      { href: '/services/custom-tank-design', label: 'Custom Tank Design' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-warragul-dairy-and-coastal-water-security', 'water-storage-and-tank-services-in-morwell-energy-generation-and-cool-climate-water-security', 'water-storage-and-tank-services-in-seymour-defence-and-cool-climate-water-security'],
+    keywords: ["water storage Hamilton", "VIC water tank services", "wool water infrastructure Hamilton"],
+  },
+  'water-storage-and-tank-services-in-leongatha-dairy-processing-and-coastal-water-security': {
+    relatedServices: [
+      { href: '/services/tank-maintenance-upgrades', label: 'Tank Maintenance & Upgrades' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-morwell-energy-generation-and-cool-climate-water-security', 'water-storage-and-tank-services-in-seymour-defence-and-cool-climate-water-security', 'water-storage-and-tank-services-in-bacchus-marsh-horticulture-and-cool-climate-water-security'],
+    keywords: ["water storage Leongatha", "VIC water tank services", "dairy processing water infrastructure Leongatha"],
+  },
+  'water-storage-and-tank-services-in-warragul-dairy-and-coastal-water-security': {
+    relatedServices: [
+      { href: '/services/custom-tank-design', label: 'Custom Tank Design' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-seymour-defence-and-cool-climate-water-security', 'water-storage-and-tank-services-in-bacchus-marsh-horticulture-and-cool-climate-water-security', 'water-storage-and-tank-services-in-kyneton-agriculture-and-cool-climate-water-security'],
+    keywords: ["water storage Warragul", "VIC water tank services", "dairy water infrastructure Warragul"],
+  },
+  'water-storage-and-tank-services-in-morwell-energy-generation-and-cool-climate-water-security': {
+    relatedServices: [
+      { href: '/services/custom-tank-design', label: 'Custom Tank Design' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-bacchus-marsh-horticulture-and-cool-climate-water-security', 'water-storage-and-tank-services-in-kyneton-agriculture-and-cool-climate-water-security', 'water-storage-and-tank-services-in-castlemaine-historic-goldfields-heritage-and-cool-climate-water-security'],
+    keywords: ["water storage Morwell", "VIC water tank services", "energy generation water infrastructure Morwell"],
+  },
+  'water-storage-and-tank-services-in-seymour-defence-and-cool-climate-water-security': {
+    relatedServices: [
+      { href: '/services/custom-tank-design', label: 'Custom Tank Design' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-kyneton-agriculture-and-cool-climate-water-security', 'water-storage-and-tank-services-in-castlemaine-historic-goldfields-heritage-and-cool-climate-water-security', 'water-storage-and-tank-services-in-hamilton-wool-and-cool-climate-water-security'],
+    keywords: ["water storage Seymour", "VIC water tank services", "defence water infrastructure Seymour"],
+  },
+  'water-storage-and-tank-services-in-bacchus-marsh-horticulture-and-cool-climate-water-security': {
+    relatedServices: [
+      { href: '/services/custom-tank-design', label: 'Custom Tank Design' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-castlemaine-historic-goldfields-heritage-and-cool-climate-water-security', 'water-storage-and-tank-services-in-hamilton-wool-and-cool-climate-water-security', 'water-storage-and-tank-services-in-leongatha-dairy-processing-and-coastal-water-security'],
+    keywords: ["water storage Bacchus Marsh", "VIC water tank services", "horticulture water infrastructure Bacchus Marsh"],
+  },
+  'water-storage-and-tank-services-in-naracoorte-grazing-and-coastal-water-security': {
+    relatedServices: [
+      { href: '/services/custom-tank-design', label: 'Custom Tank Design' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-clare-viticulture-and-mediterranean-climate-water-security', 'water-storage-and-tank-services-in-tanunda-viticulture-and-mediterranean-climate-water-security', 'water-storage-and-tank-services-in-strathalbyn-agriculture-and-mediterranean-climate-water-security'],
+    keywords: ["water storage Naracoorte", "SA water tank services", "grazing water infrastructure Naracoorte"],
+  },
+  'water-storage-and-tank-services-in-clare-viticulture-and-mediterranean-climate-water-security': {
+    relatedServices: [
+      { href: '/services/custom-tank-design', label: 'Custom Tank Design' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-tanunda-viticulture-and-mediterranean-climate-water-security', 'water-storage-and-tank-services-in-strathalbyn-agriculture-and-mediterranean-climate-water-security', 'water-storage-and-tank-services-in-loxton-irrigated-citrus-and-dry-climate-water-security'],
+    keywords: ["water storage Clare", "SA water tank services", "viticulture water infrastructure Clare"],
+  },
+  'water-storage-and-tank-services-in-tanunda-viticulture-and-mediterranean-climate-water-security': {
+    relatedServices: [
+      { href: '/services/custom-tank-design', label: 'Custom Tank Design' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-strathalbyn-agriculture-and-mediterranean-climate-water-security', 'water-storage-and-tank-services-in-loxton-irrigated-citrus-and-dry-climate-water-security', 'water-storage-and-tank-services-in-coober-pedy-opal-mining-and-outback-water-security'],
+    keywords: ["water storage Tanunda", "SA water tank services", "viticulture water infrastructure Tanunda"],
+  },
+  'water-storage-and-tank-services-in-strathalbyn-agriculture-and-mediterranean-climate-water-security': {
+    relatedServices: [
+      { href: '/services/custom-tank-design', label: 'Custom Tank Design' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-loxton-irrigated-citrus-and-dry-climate-water-security', 'water-storage-and-tank-services-in-coober-pedy-opal-mining-and-outback-water-security', 'water-storage-and-tank-services-in-naracoorte-grazing-and-coastal-water-security'],
+    keywords: ["water storage Strathalbyn", "SA water tank services", "agriculture water infrastructure Strathalbyn"],
+  },
+  'water-storage-and-tank-services-in-loxton-irrigated-citrus-and-dry-climate-water-security': {
+    relatedServices: [
+      { href: '/services/custom-tank-design', label: 'Custom Tank Design' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-coober-pedy-opal-mining-and-outback-water-security', 'water-storage-and-tank-services-in-naracoorte-grazing-and-coastal-water-security', 'water-storage-and-tank-services-in-clare-viticulture-and-mediterranean-climate-water-security'],
+    keywords: ["water storage Loxton", "SA water tank services", "irrigated citrus water infrastructure Loxton"],
+  },
+  'water-storage-and-tank-services-in-coober-pedy-opal-mining-and-outback-water-security': {
+    relatedServices: [
+      { href: '/services/remote-area-delivery', label: 'Remote Area Delivery' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-naracoorte-grazing-and-coastal-water-security', 'water-storage-and-tank-services-in-clare-viticulture-and-mediterranean-climate-water-security', 'water-storage-and-tank-services-in-tanunda-viticulture-and-mediterranean-climate-water-security'],
+    keywords: ["water storage Coober Pedy", "SA water tank services", "opal mining water infrastructure Coober Pedy"],
+  },
+  'water-storage-and-tank-services-in-margaret-river-viticulture-and-mediterranean-climate-water-security': {
+    relatedServices: [
+      { href: '/services/custom-tank-design', label: 'Custom Tank Design' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-narrogin-grain-growing-and-mediterranean-climate-water-security', 'water-storage-and-tank-services-in-newman-iron-ore-mining-and-outback-water-security', 'water-storage-and-tank-services-in-tom-price-iron-ore-mining-and-outback-water-security'],
+    keywords: ["water storage Margaret River", "WA water tank services", "viticulture water infrastructure Margaret River"],
+  },
+  'water-storage-and-tank-services-in-denmark-agriculture-and-coastal-water-security': {
+    relatedServices: [
+      { href: '/services/custom-tank-design', label: 'Custom Tank Design' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-newman-iron-ore-mining-and-outback-water-security', 'water-storage-and-tank-services-in-tom-price-iron-ore-mining-and-outback-water-security', 'water-storage-and-tank-services-in-exmouth-tourism-and-cyclone-region-water-security'],
+    keywords: ["water storage Denmark", "WA water tank services", "agriculture water infrastructure Denmark"],
+  },
+  'water-storage-and-tank-services-in-narrogin-grain-growing-and-mediterranean-climate-water-security': {
+    relatedServices: [
+      { href: '/services/custom-tank-design', label: 'Custom Tank Design' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-tom-price-iron-ore-mining-and-outback-water-security', 'water-storage-and-tank-services-in-exmouth-tourism-and-cyclone-region-water-security', 'water-storage-and-tank-services-in-derby-agriculture-and-tropical-water-security'],
+    keywords: ["water storage Narrogin", "WA water tank services", "grain growing water infrastructure Narrogin"],
+  },
+  'water-storage-and-tank-services-in-newman-iron-ore-mining-and-outback-water-security': {
+    relatedServices: [
+      { href: '/services/remote-area-delivery', label: 'Remote Area Delivery' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-exmouth-tourism-and-cyclone-region-water-security', 'water-storage-and-tank-services-in-derby-agriculture-and-tropical-water-security', 'water-storage-and-tank-services-in-halls-creek-pastoral-grazing-and-tropical-water-security'],
+    keywords: ["water storage Newman", "WA water tank services", "iron ore mining water infrastructure Newman"],
+  },
+  'water-storage-and-tank-services-in-tom-price-iron-ore-mining-and-outback-water-security': {
+    relatedServices: [
+      { href: '/services/remote-area-delivery', label: 'Remote Area Delivery' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-derby-agriculture-and-tropical-water-security', 'water-storage-and-tank-services-in-halls-creek-pastoral-grazing-and-tropical-water-security', 'water-storage-and-tank-services-in-margaret-river-viticulture-and-mediterranean-climate-water-security'],
+    keywords: ["water storage Tom Price", "WA water tank services", "iron ore mining water infrastructure Tom Price"],
+  },
+  'water-storage-and-tank-services-in-exmouth-tourism-and-cyclone-region-water-security': {
+    relatedServices: [
+      { href: '/services/foundation-civil-integration', label: 'Foundation & Civil Integration' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-halls-creek-pastoral-grazing-and-tropical-water-security', 'water-storage-and-tank-services-in-margaret-river-viticulture-and-mediterranean-climate-water-security', 'water-storage-and-tank-services-in-denmark-agriculture-and-coastal-water-security'],
+    keywords: ["water storage Exmouth", "WA water tank services", "tourism water infrastructure Exmouth"],
+  },
+  'water-storage-and-tank-services-in-derby-agriculture-and-tropical-water-security': {
+    relatedServices: [
+      { href: '/services/foundation-civil-integration', label: 'Foundation & Civil Integration' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-margaret-river-viticulture-and-mediterranean-climate-water-security', 'water-storage-and-tank-services-in-denmark-agriculture-and-coastal-water-security', 'water-storage-and-tank-services-in-narrogin-grain-growing-and-mediterranean-climate-water-security'],
+    keywords: ["water storage Derby", "WA water tank services", "agriculture water infrastructure Derby"],
+  },
+  'water-storage-and-tank-services-in-halls-creek-pastoral-grazing-and-tropical-water-security': {
+    relatedServices: [
+      { href: '/services/foundation-civil-integration', label: 'Foundation & Civil Integration' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-denmark-agriculture-and-coastal-water-security', 'water-storage-and-tank-services-in-narrogin-grain-growing-and-mediterranean-climate-water-security', 'water-storage-and-tank-services-in-newman-iron-ore-mining-and-outback-water-security'],
+    keywords: ["water storage Halls Creek", "WA water tank services", "pastoral grazing water infrastructure Halls Creek"],
+  },
+  'water-storage-and-tank-services-in-jabiru-tourism-and-tropical-water-security': {
+    relatedServices: [
+      { href: '/services/foundation-civil-integration', label: 'Foundation & Civil Integration' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-yulara-tourism-and-outback-water-security', 'water-storage-and-tank-services-in-adelaide-river-agriculture-and-tropical-water-security'],
+    keywords: ["water storage Jabiru", "NT water tank services", "tourism water infrastructure Jabiru"],
+  },
+  'water-storage-and-tank-services-in-yulara-tourism-and-outback-water-security': {
+    relatedServices: [
+      { href: '/services/remote-area-delivery', label: 'Remote Area Delivery' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-adelaide-river-agriculture-and-tropical-water-security', 'water-storage-and-tank-services-in-jabiru-tourism-and-tropical-water-security'],
+    keywords: ["water storage Yulara", "NT water tank services", "tourism water infrastructure Yulara"],
+  },
+  'water-storage-and-tank-services-in-adelaide-river-agriculture-and-tropical-water-security': {
+    relatedServices: [
+      { href: '/services/foundation-civil-integration', label: 'Foundation & Civil Integration' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-jabiru-tourism-and-tropical-water-security', 'water-storage-and-tank-services-in-yulara-tourism-and-outback-water-security'],
+    keywords: ["water storage Adelaide River", "NT water tank services", "agriculture water infrastructure Adelaide River"],
+  },
+  'water-storage-and-tank-services-in-new-norfolk-agriculture-and-coastal-water-security': {
+    relatedServices: [
+      { href: '/services/custom-tank-design', label: 'Custom Tank Design' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-st-helens-fishing-and-coastal-water-security', 'water-storage-and-tank-services-in-george-town-industrial-port-operations-and-coastal-water-security'],
+    keywords: ["water storage New Norfolk", "TAS water tank services", "agriculture water infrastructure New Norfolk"],
+  },
+  'water-storage-and-tank-services-in-george-town-industrial-port-operations-and-coastal-water-security': {
+    relatedServices: [
+      { href: '/services/custom-tank-design', label: 'Custom Tank Design' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-new-norfolk-agriculture-and-coastal-water-security', 'water-storage-and-tank-services-in-st-helens-fishing-and-coastal-water-security'],
+    keywords: ["water storage George Town", "TAS water tank services", "industrial port operations water infrastructure George Town"],
+  },
+  'water-storage-and-tank-services-in-st-helens-fishing-and-coastal-water-security': {
+    relatedServices: [
+      { href: '/services/custom-tank-design', label: 'Custom Tank Design' },
+    ],
+    relatedResources: ['water-storage-and-tank-services-in-george-town-industrial-port-operations-and-coastal-water-security', 'water-storage-and-tank-services-in-new-norfolk-agriculture-and-coastal-water-security'],
+    keywords: ["water storage St Helens", "TAS water tank services", "fishing water infrastructure St Helens"],
+  },
 }
 
 export async function generateStaticParams() {
