@@ -70,6 +70,10 @@ export const metadata: Metadata = {
     creator: '@pcwaterinfra',
     images: ['/hero.png'],
   },
+  // Google Search Console ownership check - must stay in place after verification
+  verification: {
+    google: 'yOXrK67lKKT8xW94zWReA8ukXpnU0pHpFaFOBEBTCSc',
+  },
 }
 
 const organizationSchema = {
